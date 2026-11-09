@@ -1,0 +1,2608 @@
+{
+ "fps": 30,
+ "durationInFrames": 17904,
+ "episode": "subway",
+ "print": "001",
+ "vo": [
+  {
+   "src": "subway/vo/s001.mp3",
+   "from": 0,
+   "trim": 0,
+   "len": 34
+  },
+  {
+   "src": "subway/vo/s002.mp3",
+   "from": 44,
+   "trim": 0,
+   "len": 240
+  },
+  {
+   "src": "subway/vo/s003.mp3",
+   "from": 289,
+   "trim": 1,
+   "len": 141
+  },
+  {
+   "src": "subway/vo/s004.mp3",
+   "from": 435,
+   "trim": 1,
+   "len": 159
+  },
+  {
+   "src": "subway/vo/s005.mp3",
+   "from": 603,
+   "trim": 2,
+   "len": 89
+  },
+  {
+   "src": "subway/vo/s006.mp3",
+   "from": 698,
+   "trim": 0,
+   "len": 200
+  },
+  {
+   "src": "subway/vo/s007.mp3",
+   "from": 903,
+   "trim": 1,
+   "len": 364
+  },
+  {
+   "src": "subway/vo/s008.mp3",
+   "from": 1272,
+   "trim": 1,
+   "len": 230
+  },
+  {
+   "src": "subway/vo/s009.mp3",
+   "from": 1522,
+   "trim": 1,
+   "len": 327
+  },
+  {
+   "src": "subway/vo/s010.mp3",
+   "from": 1855,
+   "trim": 0,
+   "len": 142
+  },
+  {
+   "src": "subway/vo/s011.mp3",
+   "from": 2002,
+   "trim": 0,
+   "len": 157
+  },
+  {
+   "src": "subway/vo/s012.mp3",
+   "from": 2164,
+   "trim": 0,
+   "len": 129
+  },
+  {
+   "src": "subway/vo/s013.mp3",
+   "from": 2302,
+   "trim": 1,
+   "len": 84
+  },
+  {
+   "src": "subway/vo/s014.mp3",
+   "from": 2391,
+   "trim": 1,
+   "len": 64
+  },
+  {
+   "src": "subway/vo/s015.mp3",
+   "from": 2461,
+   "trim": 0,
+   "len": 338
+  },
+  {
+   "src": "subway/vo/s016.mp3",
+   "from": 2804,
+   "trim": 1,
+   "len": 187
+  },
+  {
+   "src": "subway/vo/s017.mp3",
+   "from": 2997,
+   "trim": 2,
+   "len": 489
+  },
+  {
+   "src": "subway/vo/s018.mp3",
+   "from": 3491,
+   "trim": 0,
+   "len": 184
+  },
+  {
+   "src": "subway/vo/s019.mp3",
+   "from": 3683,
+   "trim": 1,
+   "len": 33
+  },
+  {
+   "src": "subway/vo/s020.mp3",
+   "from": 3726,
+   "trim": 0,
+   "len": 252
+  },
+  {
+   "src": "subway/vo/s021.mp3",
+   "from": 3998,
+   "trim": 2,
+   "len": 259
+  },
+  {
+   "src": "subway/vo/s022.mp3",
+   "from": 4266,
+   "trim": 2,
+   "len": 47
+  },
+  {
+   "src": "subway/vo/s023.mp3",
+   "from": 4323,
+   "trim": 2,
+   "len": 222
+  },
+  {
+   "src": "subway/vo/s024.mp3",
+   "from": 4551,
+   "trim": 0,
+   "len": 439
+  },
+  {
+   "src": "subway/vo/s025.mp3",
+   "from": 4996,
+   "trim": 2,
+   "len": 213
+  },
+  {
+   "src": "subway/vo/s026.mp3",
+   "from": 5214,
+   "trim": 1,
+   "len": 129
+  },
+  {
+   "src": "subway/vo/s027.mp3",
+   "from": 5349,
+   "trim": 0,
+   "len": 390
+  },
+  {
+   "src": "subway/vo/s028.mp3",
+   "from": 5744,
+   "trim": 1,
+   "len": 220
+  },
+  {
+   "src": "subway/vo/s029.mp3",
+   "from": 5970,
+   "trim": 2,
+   "len": 217
+  },
+  {
+   "src": "subway/vo/s030.mp3",
+   "from": 6192,
+   "trim": 0,
+   "len": 154
+  },
+  {
+   "src": "subway/vo/s031.mp3",
+   "from": 6351,
+   "trim": 2,
+   "len": 151
+  },
+  {
+   "src": "subway/vo/s032.mp3",
+   "from": 6508,
+   "trim": 2,
+   "len": 153
+  },
+  {
+   "src": "subway/vo/s033.mp3",
+   "from": 6681,
+   "trim": 0,
+   "len": 312
+  },
+  {
+   "src": "subway/vo/s034.mp3",
+   "from": 6999,
+   "trim": 0,
+   "len": 174
+  },
+  {
+   "src": "subway/vo/s035.mp3",
+   "from": 7181,
+   "trim": 0,
+   "len": 66
+  },
+  {
+   "src": "subway/vo/s036.mp3",
+   "from": 7253,
+   "trim": 1,
+   "len": 321
+  },
+  {
+   "src": "subway/vo/s037.mp3",
+   "from": 7579,
+   "trim": 2,
+   "len": 168
+  },
+  {
+   "src": "subway/vo/s038.mp3",
+   "from": 7753,
+   "trim": 0,
+   "len": 185
+  },
+  {
+   "src": "subway/vo/s039.mp3",
+   "from": 7943,
+   "trim": 0,
+   "len": 172
+  },
+  {
+   "src": "subway/vo/s040.mp3",
+   "from": 8121,
+   "trim": 0,
+   "len": 256
+  },
+  {
+   "src": "subway/vo/s041.mp3",
+   "from": 8383,
+   "trim": 2,
+   "len": 393
+  },
+  {
+   "src": "subway/vo/s042.mp3",
+   "from": 8781,
+   "trim": 1,
+   "len": 146
+  },
+  {
+   "src": "subway/vo/s043.mp3",
+   "from": 8935,
+   "trim": 0,
+   "len": 51
+  },
+  {
+   "src": "subway/vo/s044.mp3",
+   "from": 9006,
+   "trim": 0,
+   "len": 297
+  },
+  {
+   "src": "subway/vo/s045.mp3",
+   "from": 9308,
+   "trim": 0,
+   "len": 302
+  },
+  {
+   "src": "subway/vo/s046.mp3",
+   "from": 9619,
+   "trim": 1,
+   "len": 92
+  },
+  {
+   "src": "subway/vo/s047.mp3",
+   "from": 9716,
+   "trim": 2,
+   "len": 339
+  },
+  {
+   "src": "subway/vo/s048.mp3",
+   "from": 10060,
+   "trim": 0,
+   "len": 191
+  },
+  {
+   "src": "subway/vo/s049.mp3",
+   "from": 10257,
+   "trim": 1,
+   "len": 241
+  },
+  {
+   "src": "subway/vo/s050.mp3",
+   "from": 10504,
+   "trim": 0,
+   "len": 176
+  },
+  {
+   "src": "subway/vo/s051.mp3",
+   "from": 10685,
+   "trim": 0,
+   "len": 347
+  },
+  {
+   "src": "subway/vo/s052.mp3",
+   "from": 11037,
+   "trim": 2,
+   "len": 309
+  },
+  {
+   "src": "subway/vo/s053.mp3",
+   "from": 11351,
+   "trim": 1,
+   "len": 213
+  },
+  {
+   "src": "subway/vo/s054.mp3",
+   "from": 11572,
+   "trim": 2,
+   "len": 48
+  },
+  {
+   "src": "subway/vo/s055.mp3",
+   "from": 11641,
+   "trim": 0,
+   "len": 281
+  },
+  {
+   "src": "subway/vo/s056.mp3",
+   "from": 11927,
+   "trim": 0,
+   "len": 384
+  },
+  {
+   "src": "subway/vo/s057.mp3",
+   "from": 12316,
+   "trim": 0,
+   "len": 110
+  },
+  {
+   "src": "subway/vo/s058.mp3",
+   "from": 12431,
+   "trim": 1,
+   "len": 191
+  },
+  {
+   "src": "subway/vo/s059.mp3",
+   "from": 12628,
+   "trim": 1,
+   "len": 192
+  },
+  {
+   "src": "subway/vo/s060.mp3",
+   "from": 12825,
+   "trim": 0,
+   "len": 214
+  },
+  {
+   "src": "subway/vo/s061.mp3",
+   "from": 13044,
+   "trim": 1,
+   "len": 234
+  },
+  {
+   "src": "subway/vo/s062.mp3",
+   "from": 13283,
+   "trim": 2,
+   "len": 450
+  },
+  {
+   "src": "subway/vo/s063.mp3",
+   "from": 13738,
+   "trim": 2,
+   "len": 301
+  },
+  {
+   "src": "subway/vo/s064.mp3",
+   "from": 14048,
+   "trim": 0,
+   "len": 98
+  },
+  {
+   "src": "subway/vo/s065.mp3",
+   "from": 14166,
+   "trim": 1,
+   "len": 83
+  },
+  {
+   "src": "subway/vo/s066.mp3",
+   "from": 14255,
+   "trim": 0,
+   "len": 467
+  },
+  {
+   "src": "subway/vo/s067.mp3",
+   "from": 14727,
+   "trim": 1,
+   "len": 324
+  },
+  {
+   "src": "subway/vo/s068.mp3",
+   "from": 15057,
+   "trim": 2,
+   "len": 128
+  },
+  {
+   "src": "subway/vo/s069.mp3",
+   "from": 15190,
+   "trim": 1,
+   "len": 186
+  },
+  {
+   "src": "subway/vo/s070.mp3",
+   "from": 15382,
+   "trim": 0,
+   "len": 350
+  },
+  {
+   "src": "subway/vo/s071.mp3",
+   "from": 15740,
+   "trim": 0,
+   "len": 63
+  },
+  {
+   "src": "subway/vo/s072.mp3",
+   "from": 15823,
+   "trim": 1,
+   "len": 222
+  },
+  {
+   "src": "subway/vo/s073.mp3",
+   "from": 16057,
+   "trim": 2,
+   "len": 284
+  },
+  {
+   "src": "subway/vo/s074.mp3",
+   "from": 16346,
+   "trim": 1,
+   "len": 463
+  },
+  {
+   "src": "subway/vo/s075.mp3",
+   "from": 16814,
+   "trim": 2,
+   "len": 296
+  },
+  {
+   "src": "subway/vo/s076.mp3",
+   "from": 17115,
+   "trim": 1,
+   "len": 430
+  },
+  {
+   "src": "subway/vo/s077.mp3",
+   "from": 17557,
+   "trim": 0,
+   "len": 321
+  }
+ ],
+ "shots": [
+  {
+   "kind": "photo",
+   "start": 0,
+   "dur": 168,
+   "seg": "s002",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "closed_miami23",
+     "src": "subway/assets/closed_miami23.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in",
+    "label": "Closed Subway · Miami, 2023"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 168,
+   "dur": 64,
+   "seg": "s002",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "closed_miami22",
+     "src": "subway/assets/closed_miami22.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "left",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 232,
+   "dur": 57,
+   "seg": "s002",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_freehome",
+     "src": "subway/assets/store_freehome.jpg",
+     "credit": "John Phelan · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "map",
+   "start": 289,
+   "dur": 146,
+   "seg": "s003",
+   "cat": "charts",
+   "p": {
+    "mode": "blink",
+    "count": 18773,
+    "lost": 729,
+    "label": "18,773 US stores · −729 in 2025",
+    "src": "Subway / industry estimates"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 435,
+   "dur": 263,
+   "seg": "s004",
+   "cat": "charts",
+   "p": {
+    "title": "Subway net income",
+    "rows": [
+     {
+      "n": "2023",
+      "v": 15,
+      "label": "$15M"
+     },
+     {
+      "n": "2025",
+      "v": 688,
+      "label": "$688M",
+      "hero": true
+     }
+    ],
+    "src": "Subway franchise disclosure document, 2026"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 698,
+   "dur": 112,
+   "seg": "s006",
+   "cat": "text",
+   "p": {
+    "text": "SHRINKING.",
+    "sub": "…and getting richer?"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 810,
+   "dur": 93,
+   "seg": "s006",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "counter_brickell",
+     "src": "subway/assets/counter_brickell.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 903,
+   "dur": 119,
+   "seg": "s007",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "ad_1985",
+     "src": "subway/assets/ad_1985.mp4",
+     "credit": "Subway Commercial 1985-1999-2006 · via Internet Archive",
+     "kind": "video",
+     "w": 854,
+     "h": 480
+    },
+    "from": 9.5,
+    "label": "Subway TV ad, 1985"
+   }
+  },
+  {
+   "kind": "teens",
+   "start": 1022,
+   "dur": 250,
+   "seg": "s007",
+   "cat": "text",
+   "p": {}
+  },
+  {
+   "kind": "photo",
+   "start": 1272,
+   "dur": 127,
+   "seg": "s008",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_chatt",
+     "src": "subway/assets/store_chatt.jpg",
+     "credit": "Michael Rivera · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2560
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1399,
+   "dur": 123,
+   "seg": "s008",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "jm_valdosta",
+     "src": "subway/assets/jm_valdosta.jpg",
+     "credit": "Michael Rivera · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "right",
+    "label": "Jersey Mike's"
+   }
+  },
+  {
+   "kind": "place",
+   "start": 1522,
+   "dur": 56,
+   "seg": "s009",
+   "cat": "text",
+   "p": {
+    "place": "Bridgeport, Connecticut",
+    "year": "1965"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1578,
+   "dur": 117,
+   "seg": "s009",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "fred_deluca",
+     "src": "subway/assets/fred_deluca.jpg",
+     "credit": "Subway · Wikimedia Commons · CC BY 3.0",
+     "kind": "image",
+     "w": 2478,
+     "h": 2580
+    },
+    "kb": "in",
+    "treat": "ink",
+    "label": "Fred DeLuca"
+   }
+  },
+  {
+   "kind": "person",
+   "start": 1695,
+   "dur": 160,
+   "seg": "s009",
+   "cat": "text",
+   "p": {
+    "name": "Peter Buck",
+    "role": "Nuclear physicist · family friend"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 1855,
+   "dur": 147,
+   "seg": "s010",
+   "cat": "charts",
+   "p": {
+    "kicker": "Buck's advice",
+    "value": "$1,000",
+    "sub": "and a sandwich shop"
+   }
+  },
+  {
+   "kind": "sign",
+   "start": 2002,
+   "dur": 105,
+   "seg": "s011",
+   "cat": "text",
+   "p": {
+    "text": "PETE'S SUPER SUBMARINES",
+    "year": "1965"
+   }
+  },
+  {
+   "kind": "logo",
+   "start": 2107,
+   "dur": 57,
+   "seg": "s011",
+   "cat": "docs",
+   "p": {
+    "a": {
+     "id": "logo_subway_2002",
+     "src": "subway/assets/logo_subway_2002.png",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 551
+    }
+   }
+  },
+  {
+   "kind": "counter",
+   "start": 2164,
+   "dur": 138,
+   "seg": "s012",
+   "cat": "charts",
+   "p": {
+    "from": 0,
+    "to": 32,
+    "label": "The goal: stores in 10 years",
+    "sub": "Fred DeLuca's target, 1965"
+   }
+  },
+  {
+   "kind": "counter",
+   "start": 2302,
+   "dur": 89,
+   "seg": "s013",
+   "cat": "charts",
+   "p": {
+    "from": 4,
+    "to": 16,
+    "label": "Stores by 1973",
+    "sub": "eight years in"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 2391,
+   "dur": 70,
+   "seg": "s014",
+   "cat": "text",
+   "p": {
+    "text": "16 / 32",
+    "sub": "missing it by half"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 2461,
+   "dur": 117,
+   "seg": "s015",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "sanders_cafe",
+     "src": "subway/assets/sanders_cafe.jpg",
+     "credit": "Flickr User Brent and MariLynn · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 1024,
+     "h": 768
+    },
+    "kb": "in",
+    "label": "Sanders Café, Corbin, Kentucky"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 2578,
+   "dur": 93,
+   "seg": "s015",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "kfc_sign",
+     "src": "subway/assets/kfc_sign.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 2750
+    },
+    "kb": "out",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 2671,
+   "dur": 133,
+   "seg": "s015",
+   "cat": "text",
+   "p": {
+    "text": "THEIR MONEY.",
+    "sub": "your name."
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 2804,
+   "dur": 73,
+   "seg": "s016",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_lincoln",
+     "src": "subway/assets/store_lincoln.jpg",
+     "credit": "Rick Obst · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2161
+    },
+    "kb": "left"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 2877,
+   "dur": 120,
+   "seg": "s016",
+   "cat": "text",
+   "p": {
+    "text": "THE DEAL",
+    "sub": "the most important thing in this video"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 2997,
+   "dur": 182,
+   "seg": "s017",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_remodel",
+     "src": "subway/assets/store_remodel.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in",
+    "label": "Building the store"
+   }
+  },
+  {
+   "kind": "flow",
+   "start": 3179,
+   "dur": 312,
+   "seg": "s017",
+   "cat": "charts",
+   "p": {}
+  },
+  {
+   "kind": "text",
+   "start": 3491,
+   "dur": 235,
+   "seg": "s018",
+   "cat": "text",
+   "p": {
+    "text": "A CUT OF SALES.",
+    "sub": "Not profit."
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3726,
+   "dur": 88,
+   "seg": "s020",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "ad_1988",
+     "src": "subway/assets/ad_1988.mp4",
+     "credit": "Subway Commercial 1985-1999-2006 · via Internet Archive",
+     "kind": "video",
+     "w": 854,
+     "h": 480
+    },
+    "from": 3.0,
+    "label": "Subway TV ad, 1988"
+   }
+  },
+  {
+   "kind": "line",
+   "start": 3814,
+   "dur": 87,
+   "seg": "s020",
+   "cat": "charts",
+   "p": {
+    "title": "Subway US restaurants",
+    "pts": [
+     [
+      1965,
+      1
+     ],
+     [
+      1973,
+      16
+     ],
+     [
+      2002,
+      13247
+     ]
+    ],
+    "labels": [
+     "1",
+     "16",
+     "13,247"
+    ],
+    "src": "Reported store counts"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 3901,
+   "dur": 97,
+   "seg": "s020",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "closed_miami22",
+     "src": "subway/assets/closed_miami22.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3998,
+   "dur": 91,
+   "seg": "s021",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "ad_1997",
+     "src": "subway/assets/ad_1997.mp4",
+     "credit": "Subway Commercial 1997 · via Internet Archive",
+     "kind": "video",
+     "w": 1920,
+     "h": 1080
+    },
+    "from": 8.5,
+    "label": "Subway TV ad, 1997"
+   }
+  },
+  {
+   "kind": "bars",
+   "start": 4089,
+   "dur": 177,
+   "seg": "s021",
+   "cat": "charts",
+   "p": {
+    "title": "US restaurants, 2002",
+    "rows": [
+     {
+      "n": "Subway",
+      "v": 13247,
+      "label": "13,247",
+      "hero": true
+     },
+     {
+      "n": "McDonald's",
+      "v": 13099,
+      "label": "13,099"
+     }
+    ],
+    "src": "Company counts reported in 2002"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4266,
+   "dur": 57,
+   "seg": "s022",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "ad_mid90s",
+     "src": "subway/assets/ad_mid90s.mp4",
+     "credit": "Mid-1990s commercial for Subway · via Internet Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 2.0,
+    "label": "Subway TV ad, mid-1990s"
+   }
+  },
+  {
+   "kind": "map",
+   "start": 4323,
+   "dur": 228,
+   "seg": "s023",
+   "cat": "charts",
+   "p": {
+    "mode": "fill",
+    "count": 27000,
+    "label": "27,000+ US Subways · 2015",
+    "src": "Subway"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 4551,
+   "dur": 130,
+   "seg": "s024",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_franklin",
+     "src": "subway/assets/store_franklin.jpg",
+     "credit": "Harrison Keely · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "map",
+   "start": 4681,
+   "dur": 315,
+   "seg": "s024",
+   "cat": "charts",
+   "p": {
+    "mode": "agents",
+    "count": 9000,
+    "label": "Development agents · territories"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 4996,
+   "dur": 53,
+   "seg": "s025",
+   "cat": "text",
+   "p": {
+    "text": "SIMPLIFIED EXAMPLE",
+    "sub": "illustrative numbers"
+   }
+  },
+  {
+   "kind": "example",
+   "start": 5049,
+   "dur": 165,
+   "seg": "s025",
+   "cat": "charts",
+   "p": {
+    "stage": 0
+   }
+  },
+  {
+   "kind": "example",
+   "start": 5214,
+   "dur": 135,
+   "seg": "s026",
+   "cat": "charts",
+   "p": {
+    "stage": 1
+   }
+  },
+  {
+   "kind": "example",
+   "start": 5349,
+   "dur": 395,
+   "seg": "s027",
+   "cat": "charts",
+   "p": {
+    "stage": 2
+   }
+  },
+  {
+   "kind": "example",
+   "start": 5744,
+   "dur": 226,
+   "seg": "s028",
+   "cat": "charts",
+   "p": {
+    "stage": 3
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 5970,
+   "dur": 130,
+   "seg": "s029",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "interior_miami",
+     "src": "subway/assets/interior_miami.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3678,
+     "h": 2758
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 6100,
+   "dur": 92,
+   "seg": "s029",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "closed_miami23",
+     "src": "subway/assets/closed_miami23.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "right",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "quote",
+   "start": 6192,
+   "dur": 159,
+   "seg": "s030",
+   "cat": "docs",
+   "p": {
+    "text": "You just end up cannibalizing existing stores.",
+    "by": "A Subway franchise owner",
+    "src": "Local newspaper interview",
+    "style": "clip"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 6351,
+   "dur": 157,
+   "seg": "s031",
+   "cat": "docs",
+   "p": {
+    "title": "Subway franchise agreement",
+    "sub": "paraphrased",
+    "lines": [
+     "The franchisee is granted a licence to operate",
+     "one restaurant at the approved location.",
+     "Subway reserves the right to open, or license others",
+     "to open, restaurants at any other location —",
+     "including next door."
+    ],
+    "hi": 2
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 6508,
+   "dur": 77,
+   "seg": "s032",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "counter_brickell",
+     "src": "subway/assets/counter_brickell.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "left",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6585,
+   "dur": 96,
+   "seg": "s032",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "ad_1988",
+     "src": "subway/assets/ad_1988.mp4",
+     "credit": "Subway Commercial 1985-1999-2006 · via Internet Archive",
+     "kind": "video",
+     "w": 854,
+     "h": 480
+    },
+    "from": 29.5,
+    "label": "Subway TV ad, 1988"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 6681,
+   "dur": 176,
+   "seg": "s033",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "jackson_aerial",
+     "src": "subway/assets/jackson_aerial.jpg",
+     "credit": "Jayzze · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2485
+    },
+    "kb": "in",
+    "label": "Jackson Memorial Hospital, Miami"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 6857,
+   "dur": 142,
+   "seg": "s033",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "jackson_wing",
+     "src": "subway/assets/jackson_wing.jpg",
+     "credit": "Chemical Engineer · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 2448,
+     "h": 3264
+    },
+    "kb": "out",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "handsign",
+   "start": 6999,
+   "dur": 182,
+   "seg": "s034",
+   "cat": "text",
+   "p": {
+    "text": "$5 FOOTLONG",
+    "sub": "SAT & SUN"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7181,
+   "dur": 72,
+   "seg": "s035",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "ad_scrabble",
+     "src": "subway/assets/ad_scrabble.mp4",
+     "credit": "PLAY Subway Scrabble commercial · via Internet Archive",
+     "kind": "video",
+     "w": 480,
+     "h": 360
+    },
+    "from": 9.0,
+    "label": "Subway TV ad, 2007"
+   }
+  },
+  {
+   "kind": "timeline",
+   "start": 7253,
+   "dur": 227,
+   "seg": "s036",
+   "cat": "docs",
+   "p": {
+    "items": [
+     {
+      "date": "2004",
+      "text": "Frankel's weekend deal"
+     },
+     {
+      "date": "Sept 2007",
+      "text": "A development agent hears about it"
+     },
+     {
+      "date": "March 2008",
+      "text": "The $5 footlong goes national"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7480,
+   "dur": 99,
+   "seg": "s036",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "ad_2007",
+     "src": "subway/assets/ad_2007.mp4",
+     "credit": "Subway ( 2007) Television Commercial · via Internet Archive",
+     "kind": "video",
+     "w": 642,
+     "h": 480
+    },
+    "from": 17.0,
+    "label": "Subway TV ad, 2007"
+   }
+  },
+  {
+   "kind": "counter",
+   "start": 7579,
+   "dur": 174,
+   "seg": "s037",
+   "cat": "charts",
+   "p": {
+    "from": 0,
+    "to": 3.8,
+    "decimals": 1,
+    "prefix": "$",
+    "suffix": "B",
+    "label": "$5 footlong sales, first full year",
+    "sub": "year to Aug 2009 · NPD via NBC News"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 7753,
+   "dur": 133,
+   "seg": "s038",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "footlong_italian",
+     "src": "subway/assets/footlong_italian.jpg",
+     "credit": "Daniel from Glasgow, United Kingdom · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 7886,
+   "dur": 57,
+   "seg": "s038",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "jackson_aerial",
+     "src": "subway/assets/jackson_aerial.jpg",
+     "credit": "Jayzze · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2485
+    },
+    "kb": "out",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7943,
+   "dur": 98,
+   "seg": "s039",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "ad_2007",
+     "src": "subway/assets/ad_2007.mp4",
+     "credit": "Subway ( 2007) Television Commercial · via Internet Archive",
+     "kind": "video",
+     "w": 642,
+     "h": 480
+    },
+    "from": 24.0
+   }
+  },
+  {
+   "kind": "text",
+   "start": 8041,
+   "dur": 80,
+   "seg": "s039",
+   "cat": "text",
+   "p": {
+    "text": "$5",
+    "sub": "…forever?"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8121,
+   "dur": 100,
+   "seg": "s040",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "ad_1996_tuna",
+     "src": "subway/assets/ad_1996_tuna.mp4",
+     "credit": "Subway Tuna Promotion Ad CBS/WOIO 19 1996-02-11 · via Internet Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 0.5,
+    "label": "Subway TV ad, 1996"
+   }
+  },
+  {
+   "kind": "price",
+   "start": 8221,
+   "dur": 162,
+   "seg": "s040",
+   "cat": "charts",
+   "p": {}
+  },
+  {
+   "kind": "clips",
+   "start": 8383,
+   "dur": 188,
+   "seg": "s041",
+   "cat": "docs",
+   "p": {
+    "items": [
+     {
+      "date": "2015",
+      "text": "Subway's sales are falling"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 8571,
+   "dur": 63,
+   "seg": "s041",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "fred_deluca",
+     "src": "subway/assets/fred_deluca.jpg",
+     "credit": "Subway · Wikimedia Commons · CC BY 3.0",
+     "kind": "image",
+     "w": 2478,
+     "h": 2580
+    },
+    "kb": "out",
+    "treat": "ink",
+    "label": "Fred DeLuca, 1947–2015"
+   }
+  },
+  {
+   "kind": "clips",
+   "start": 8634,
+   "dur": 147,
+   "seg": "s041",
+   "cat": "docs",
+   "p": {
+    "items": [
+     {
+      "date": "2015",
+      "text": "Subway's sales are falling"
+     },
+     {
+      "date": "2015",
+      "text": "Co-founder Fred DeLuca dies"
+     },
+     {
+      "date": "2015",
+      "text": "Longtime spokesman pleads guilty to child sex-abuse charges"
+     }
+    ],
+    "instant": 2
+   }
+  },
+  {
+   "kind": "line",
+   "start": 8781,
+   "dur": 225,
+   "seg": "s042",
+   "cat": "charts",
+   "p": {
+    "title": "Subway US restaurants",
+    "pts": [
+     [
+      2002,
+      13247
+     ],
+     [
+      2015,
+      27000
+     ],
+     [
+      2016,
+      26700
+     ]
+    ],
+    "labels": [
+     "13,247",
+     "27,000+",
+     "first ever decline"
+    ],
+    "src": "Reported store counts",
+    "turn": 1
+   }
+  },
+  {
+   "kind": "line",
+   "start": 9006,
+   "dur": 200,
+   "seg": "s044",
+   "cat": "charts",
+   "p": {
+    "title": "Subway US restaurants",
+    "pts": [
+     [
+      2015,
+      27000
+     ],
+     [
+      2025,
+      18773
+     ]
+    ],
+    "labels": [
+     "27,000+",
+     "18,773"
+    ],
+    "src": "Reported store counts",
+    "turn": 0,
+    "note": "≈ 8,300 fewer"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 9206,
+   "dur": 102,
+   "seg": "s044",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_chatt",
+     "src": "subway/assets/store_chatt.jpg",
+     "credit": "Michael Rivera · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2560
+    },
+    "kb": "out",
+    "treat": "ink",
+    "label": "−729 in 2025"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 9308,
+   "dur": 70,
+   "seg": "s045",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_brownsville",
+     "src": "subway/assets/store_brownsville.jpg",
+     "credit": "John Phelan · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "bars",
+   "start": 9378,
+   "dur": 338,
+   "seg": "s045",
+   "cat": "charts",
+   "p": {
+    "title": "Average sales per US restaurant",
+    "unit": "M",
+    "rows": [
+     {
+      "n": "McDonald's",
+      "v": 4.09,
+      "label": "$4.09M"
+     },
+     {
+      "n": "Jersey Mike's",
+      "v": 1.37,
+      "label": "$1.37M"
+     },
+     {
+      "n": "Subway",
+      "v": 0.5,
+      "label": "~$500K",
+      "hero": true
+     }
+    ],
+    "src": "Company filings · Subway: Circana estimate (not disclosed)"
+   }
+  },
+  {
+   "kind": "slice",
+   "start": 9716,
+   "dur": 210,
+   "seg": "s047",
+   "cat": "charts",
+   "p": {}
+  },
+  {
+   "kind": "photo",
+   "start": 9926,
+   "dur": 50,
+   "seg": "s047",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "footlong_italian",
+     "src": "subway/assets/footlong_italian.jpg",
+     "credit": "Daniel from Glasgow, United Kingdom · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 9976,
+   "dur": 84,
+   "seg": "s047",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "counter_brickell",
+     "src": "subway/assets/counter_brickell.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "right"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 10060,
+   "dur": 142,
+   "seg": "s048",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "ad_2007",
+     "src": "subway/assets/ad_2007.mp4",
+     "credit": "Subway ( 2007) Television Commercial · via Internet Archive",
+     "kind": "video",
+     "w": 642,
+     "h": 480
+    },
+    "from": 25.29
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 10202,
+   "dur": 55,
+   "seg": "s048",
+   "cat": "charts",
+   "p": {
+    "kicker": "August 2024",
+    "value": "$6.99",
+    "sub": "footlong deal"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 10257,
+   "dur": 120,
+   "seg": "s049",
+   "cat": "text",
+   "p": {
+    "text": "OPT OUT.",
+    "sub": "the franchisee association's advice"
+   }
+  },
+  {
+   "kind": "list",
+   "start": 10377,
+   "dur": 127,
+   "seg": "s049",
+   "cat": "text",
+   "p": {
+    "items": [
+     "Older contracts: could opt out",
+     "Newer contracts: couldn't"
+    ]
+   }
+  },
+  {
+   "kind": "quote",
+   "start": 10504,
+   "dur": 181,
+   "seg": "s050",
+   "cat": "docs",
+   "p": {
+    "text": "About a fifth of my sales — and no extra customers to show for it.",
+    "by": "A Subway franchise owner (paraphrased)",
+    "src": "2024 press interview",
+    "style": "card"
+   }
+  },
+  {
+   "kind": "quote",
+   "start": 10685,
+   "dur": 144,
+   "seg": "s051",
+   "cat": "docs",
+   "p": {
+    "text": "…decisions that provide the greatest benefit to the entire Subway system.",
+    "by": "Subway, 2024",
+    "src": "Franchise Times, Aug 2024",
+    "style": "clip"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 10829,
+   "dur": 79,
+   "seg": "s051",
+   "cat": "text",
+   "p": {
+    "text": "“RIGHTSIZING”",
+    "sub": "Subway's word for the closures"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 10908,
+   "dur": 129,
+   "seg": "s051",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_remodel",
+     "src": "subway/assets/store_remodel.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "right",
+    "label": "Remodelled store · Miami, 2025"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 11037,
+   "dur": 89,
+   "seg": "s052",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "closed_miami22",
+     "src": "subway/assets/closed_miami22.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "stamps",
+   "start": 11126,
+   "dur": 225,
+   "seg": "s052",
+   "cat": "docs",
+   "p": {
+    "items": [
+     {
+      "name": "River Sub",
+      "stores": 48,
+      "year": "2024"
+     },
+     {
+      "name": "MTF Enterprises",
+      "stores": 43,
+      "year": "2026"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 11351,
+   "dur": 88,
+   "seg": "s053",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "closed_miami23",
+     "src": "subway/assets/closed_miami23.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "list",
+   "start": 11439,
+   "dur": 133,
+   "seg": "s053",
+   "cat": "text",
+   "p": {
+    "items": [
+     "Fewer stores.",
+     "Falling royalties.",
+     "Franchisees going under."
+    ]
+   }
+  },
+  {
+   "kind": "text",
+   "start": 11572,
+   "dur": 69,
+   "seg": "s054",
+   "cat": "text",
+   "p": {
+    "text": "EXCEPT IT ISN'T.",
+    "big": true
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 11641,
+   "dur": 218,
+   "seg": "s055",
+   "cat": "docs",
+   "p": {
+    "title": "Franchise Disclosure Document",
+    "sub": "Subway · April 2026",
+    "lines": [],
+    "cover": true
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 11859,
+   "dur": 68,
+   "seg": "s055",
+   "cat": "docs",
+   "p": {
+    "title": "Item 21 · Financial statements",
+    "sub": "Subway franchise disclosure document, 2026",
+    "lines": [
+     "Consolidated statements of income",
+     "Franchise revenue",
+     "Operating expenses",
+     "Net income"
+    ],
+    "hi": 3
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 11927,
+   "dur": 389,
+   "seg": "s056",
+   "cat": "charts",
+   "p": {
+    "title": "Subway net income",
+    "rows": [
+     {
+      "n": "2023",
+      "v": 15,
+      "label": "$15M"
+     },
+     {
+      "n": "2024",
+      "v": 397,
+      "label": "$397M"
+     },
+     {
+      "n": "2025",
+      "v": 688,
+      "label": "$688M",
+      "hero": true
+     }
+    ],
+    "src": "Subway franchise disclosure document, 2026"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 12316,
+   "dur": 115,
+   "seg": "s057",
+   "cat": "charts",
+   "p": {
+    "kicker": "Net income, 2023 → 2025",
+    "value": "46×",
+    "sub": "more profit in two years"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 12431,
+   "dur": 197,
+   "seg": "s058",
+   "cat": "charts",
+   "p": {
+    "kicker": "Franchise revenue",
+    "value": "−6%",
+    "sub": "$818M → $767M",
+    "tone": "blue"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 12628,
+   "dur": 115,
+   "seg": "s059",
+   "cat": "text",
+   "p": {
+    "text": "LOWER OPERATING EXPENSES",
+    "sub": "the filing's explanation"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 12743,
+   "dur": 82,
+   "seg": "s059",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_brickell",
+     "src": "subway/assets/store_brickell.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "right",
+    "label": "Corporate got cheaper to run"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 12825,
+   "dur": 85,
+   "seg": "s060",
+   "cat": "text",
+   "p": {
+    "text": "A CUT OF SALES.",
+    "sub": "Not profit."
+   }
+  },
+  {
+   "kind": "map",
+   "start": 12910,
+   "dur": 134,
+   "seg": "s060",
+   "cat": "charts",
+   "p": {
+    "mode": "fill",
+    "count": 18773,
+    "label": "Every store pays 12.5% of sales"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 13044,
+   "dur": 136,
+   "seg": "s061",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "closed_miami23",
+     "src": "subway/assets/closed_miami23.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "left",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 13180,
+   "dur": 103,
+   "seg": "s061",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "closed_miami22",
+     "src": "subway/assets/closed_miami22.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 13283,
+   "dur": 102,
+   "seg": "s062",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_brickell",
+     "src": "subway/assets/store_brickell.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in",
+    "label": "Miami, 2026"
+   }
+  },
+  {
+   "kind": "deal",
+   "start": 13385,
+   "dur": 353,
+   "seg": "s062",
+   "cat": "docs",
+   "p": {
+    "a": {
+     "id": "logo_roark",
+     "src": "subway/assets/logo_roark.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 486,
+     "h": 128
+    },
+    "date": "Aug 2023",
+    "text": "Roark Capital agrees to buy Subway",
+    "value": "up to $9.55B",
+    "stamp": "COMPLETED 2024"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 13738,
+   "dur": 71,
+   "seg": "s063",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "fred_deluca",
+     "src": "subway/assets/fred_deluca.jpg",
+     "credit": "Subway · Wikimedia Commons · CC BY 3.0",
+     "kind": "image",
+     "w": 2478,
+     "h": 2580
+    },
+    "kb": "in",
+    "label": "The founding families got paid"
+   }
+  },
+  {
+   "kind": "map",
+   "start": 13809,
+   "dur": 142,
+   "seg": "s063",
+   "cat": "charts",
+   "p": {
+    "mode": "fill",
+    "count": 18773,
+    "label": "A slice of every store's sales"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 13951,
+   "dur": 97,
+   "seg": "s063",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "closed_miami22",
+     "src": "subway/assets/closed_miami22.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "out",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 14048,
+   "dur": 118,
+   "seg": "s064",
+   "cat": "text",
+   "p": {
+    "text": "SUBWAY ISN'T DYING.",
+    "sub": "Its restaurants are.",
+    "big": true
+   }
+  },
+  {
+   "kind": "place",
+   "start": 14166,
+   "dur": 89,
+   "seg": "s065",
+   "cat": "text",
+   "p": {
+    "place": "Point Pleasant, New Jersey",
+    "year": "1975"
+   }
+  },
+  {
+   "kind": "person",
+   "start": 14255,
+   "dur": 195,
+   "seg": "s066",
+   "cat": "text",
+   "p": {
+    "name": "Peter Cancro",
+    "role": "High-school senior · age 17"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 14450,
+   "dur": 88,
+   "seg": "s066",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "slicer",
+     "src": "subway/assets/slicer.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2560
+    },
+    "kb": "in",
+    "label": "Too young to use the slicer"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 14538,
+   "dur": 189,
+   "seg": "s066",
+   "cat": "charts",
+   "p": {
+    "kicker": "The loan",
+    "value": "$125,000",
+    "sub": "backed by his old football coach — a banker"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 14727,
+   "dur": 73,
+   "seg": "s067",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "jm_warren",
+     "src": "subway/assets/jm_warren.jpg",
+     "credit": "Curlyrnd · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1311,
+     "h": 985
+    },
+    "kb": "in",
+    "label": "Jersey Mike's · New Jersey"
+   }
+  },
+  {
+   "kind": "line",
+   "start": 14800,
+   "dur": 170,
+   "seg": "s067",
+   "cat": "charts",
+   "p": {
+    "title": "Jersey Mike's restaurants",
+    "pts": [
+     [
+      1975,
+      1
+     ],
+     [
+      2026,
+      3400
+     ]
+    ],
+    "labels": [
+     "1",
+     "≈3,400"
+    ],
+    "src": "Jersey Mike's"
+   }
+  },
+  {
+   "kind": "bars",
+   "start": 14970,
+   "dur": 87,
+   "seg": "s067",
+   "cat": "charts",
+   "p": {
+    "title": "US restaurants, 2026",
+    "rows": [
+     {
+      "n": "Subway",
+      "v": 18773,
+      "label": "18,773"
+     },
+     {
+      "n": "Jersey Mike's",
+      "v": 3400,
+      "label": "≈3,400",
+      "hero": true
+     }
+    ],
+    "src": "Company figures"
+   }
+  },
+  {
+   "kind": "bars",
+   "start": 15057,
+   "dur": 133,
+   "seg": "s068",
+   "cat": "charts",
+   "p": {
+    "title": "Average sales per US restaurant",
+    "unit": "M",
+    "rows": [
+     {
+      "n": "Jersey Mike's",
+      "v": 1.37,
+      "label": "$1.37M",
+      "hero": true
+     },
+     {
+      "n": "Subway",
+      "v": 0.5,
+      "label": "~$500K"
+     }
+    ],
+    "src": "Company filings · Subway: Circana estimate"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 15190,
+   "dur": 68,
+   "seg": "s069",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "nyse_floor",
+     "src": "subway/assets/nyse_floor.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1632,
+     "h": 2048
+    },
+    "kb": "in",
+    "treat": "ink",
+    "label": "New York Stock Exchange"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 15258,
+   "dur": 124,
+   "seg": "s069",
+   "cat": "charts",
+   "p": {
+    "kicker": "July 2026 · NYSE: JMKE",
+    "value": "≈ $7.3B",
+    "sub": "IPO at $23 a share"
+   }
+  },
+  {
+   "kind": "pps",
+   "start": 15382,
+   "dur": 358,
+   "seg": "s070",
+   "cat": "charts",
+   "p": {}
+  },
+  {
+   "kind": "stat",
+   "start": 15740,
+   "dur": 83,
+   "seg": "s071",
+   "cat": "charts",
+   "p": {
+    "kicker": "Value per restaurant",
+    "value": "≈ 8×",
+    "sub": "Jersey Mike's vs Subway"
+   }
+  },
+  {
+   "kind": "counter",
+   "start": 15823,
+   "dur": 234,
+   "seg": "s072",
+   "cat": "charts",
+   "p": {
+    "from": 0,
+    "to": 2,
+    "label": "Subway restaurants closed per day",
+    "sub": "…and record profits"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 16057,
+   "dur": 116,
+   "seg": "s073",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "ad_1985",
+     "src": "subway/assets/ad_1985.mp4",
+     "credit": "Subway Commercial 1985-1999-2006 · via Internet Archive",
+     "kind": "video",
+     "w": 854,
+     "h": 480
+    },
+    "from": 14.0,
+    "label": "Subway TV ad, 1985"
+   }
+  },
+  {
+   "kind": "logo",
+   "start": 16173,
+   "dur": 96,
+   "seg": "s073",
+   "cat": "docs",
+   "p": {
+    "a": {
+     "id": "logo_subway",
+     "src": "subway/assets/logo_subway.png",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 384
+    },
+    "sub": "sells the right to sell its sandwiches"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 16269,
+   "dur": 77,
+   "seg": "s073",
+   "cat": "charts",
+   "p": {
+    "kicker": "of every sale",
+    "value": "12.5%",
+    "sub": "8% royalty + 4.5% advertising"
+   }
+  },
+  {
+   "kind": "map",
+   "start": 16346,
+   "dur": 152,
+   "seg": "s074",
+   "cat": "charts",
+   "p": {
+    "mode": "fill",
+    "count": 27000,
+    "label": "The biggest restaurant chain in America"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 16498,
+   "dur": 98,
+   "seg": "s074",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_sandhill",
+     "src": "subway/assets/store_sandhill.jpg",
+     "credit": "John Phelan · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "diverge",
+   "start": 16596,
+   "dur": 218,
+   "seg": "s074",
+   "cat": "charts",
+   "p": {}
+  },
+  {
+   "kind": "vs",
+   "start": 16814,
+   "dur": 179,
+   "seg": "s075",
+   "cat": "real",
+   "p": {
+    "left_a": {
+     "id": "store_chatt",
+     "src": "subway/assets/store_chatt.jpg",
+     "credit": "Michael Rivera · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2560
+    },
+    "right_a": {
+     "id": "jm_valdosta",
+     "src": "subway/assets/jm_valdosta.jpg",
+     "credit": "Michael Rivera · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "left": "MORE STORES",
+    "right": "BETTER STORES"
+   }
+  },
+  {
+   "kind": "vs",
+   "start": 16993,
+   "dur": 122,
+   "seg": "s075",
+   "cat": "real",
+   "p": {
+    "left_a": {
+     "id": "logo_subway",
+     "src": "subway/assets/logo_subway.png",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 384
+    },
+    "right_a": {
+     "id": "logo_jm",
+     "src": "subway/assets/logo_jm.png",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 1396
+    },
+    "left": "≈ $260K per store",
+    "right": "≈ $2.2M per store",
+    "logos": true
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 17115,
+   "dur": 189,
+   "seg": "s076",
+   "cat": "charts",
+   "p": {
+    "kicker": "2026 plan",
+    "value": "~100",
+    "sub": "new US Subways"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 17304,
+   "dur": 52,
+   "seg": "s076",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_shenzhen",
+     "src": "subway/assets/store_shenzhen.jpg",
+     "credit": "Dinkun Chen · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2299
+    },
+    "kb": "in",
+    "label": "Subway · Shenzhen, China"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 17356,
+   "dur": 126,
+   "seg": "s076",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "store_freehome",
+     "src": "subway/assets/store_freehome.jpg",
+     "credit": "John Phelan · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "out",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 17482,
+   "dur": 75,
+   "seg": "s076",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "closed_miami23",
+     "src": "subway/assets/closed_miami23.jpg",
+     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2880
+    },
+    "kb": "in",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "end",
+   "start": 17557,
+   "dur": 317,
+   "seg": "s077",
+   "cat": "text",
+   "p": {}
+  }
+ ],
+ "chapters": [
+  {
+   "name": "COLD OPEN",
+   "from": 0
+  },
+  {
+   "name": "1. THIRTY-TWO STORES",
+   "from": 1522
+  },
+  {
+   "name": "2. A SUBWAY ON EVERY CORNER",
+   "from": 3998
+  },
+  {
+   "name": "3. FIVE DOLLARS",
+   "from": 6681
+  },
+  {
+   "name": "4. TWO A DAY",
+   "from": 9006
+  },
+  {
+   "name": "5. HERE'S THE REAL ISSUE",
+   "from": 11641
+  },
+  {
+   "name": "6. THE OTHER SEVENTEEN-YEAR-OLD",
+   "from": 14166
+  },
+  {
+   "name": "VERDICT",
+   "from": 15823
+  }
+ ]
+}

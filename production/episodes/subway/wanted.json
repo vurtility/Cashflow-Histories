@@ -1,0 +1,287 @@
+[
+ {
+  "id": "store_foggy",
+  "from": "commons",
+  "ref": "File:Entrance to a Subway restaurant in Foggy Bottom.jpg",
+  "use": "storefront"
+ },
+ {
+  "id": "store_franklin",
+  "from": "commons",
+  "ref": "File:A Subway restaurant in a strip mall in Franklin, North Carolina, United States.jpg",
+  "use": "storefront"
+ },
+ {
+  "id": "store_chatt",
+  "from": "commons",
+  "ref": "File:Subway restaurant, Chattahoochee.jpg",
+  "use": "storefront"
+ },
+ {
+  "id": "store_brownsville",
+  "from": "commons",
+  "ref": "File:Subway, Brownsville GA.jpg",
+  "use": "storefront"
+ },
+ {
+  "id": "store_freehome",
+  "from": "commons",
+  "ref": "File:Subway, Free Home GA.jpg",
+  "use": "storefront"
+ },
+ {
+  "id": "store_sandhill",
+  "from": "commons",
+  "ref": "File:Dollar General and Subway, Sand Hill GA.jpg",
+  "use": "storefront next to another shop"
+ },
+ {
+  "id": "store_brickell",
+  "from": "commons",
+  "ref": "File:Subway Brickell, Miami FL Feb 2026.jpg",
+  "use": "storefront 2026"
+ },
+ {
+  "id": "store_remodel",
+  "from": "commons",
+  "ref": "File:Subway Remodel Downtown Miami Oct 2025.jpg",
+  "use": "remodelled store 2025"
+ },
+ {
+  "id": "store_lincoln",
+  "from": "commons",
+  "ref": "File:Subway restaurant on Highway 101 in Lincoln City, Oregon.jpg",
+  "use": "roadside store"
+ },
+ {
+  "id": "interior_miami",
+  "from": "commons",
+  "ref": "File:Subway restaurant interior, Miami FL Sept 2022.jpg",
+  "use": "interior"
+ },
+ {
+  "id": "counter_brickell",
+  "from": "commons",
+  "ref": "File:Freshly Slicing Subway Brickell Miami FL Counter.jpg",
+  "use": "counter"
+ },
+ {
+  "id": "slicer",
+  "from": "commons",
+  "ref": "File:Freshly Slicing Subway Brickell Miami - slicer.jpg",
+  "use": "meat slicer"
+ },
+ {
+  "id": "closed_miami23",
+  "from": "commons",
+  "ref": "File:Closed Subway Downtown Miami FL July 2023.jpg",
+  "use": "closed store"
+ },
+ {
+  "id": "closed_miami22",
+  "from": "commons",
+  "ref": "File:Closed Subway Downtown Miami FL Sept 2022.jpg",
+  "use": "closed store"
+ },
+ {
+  "id": "closed_redi",
+  "from": "commons",
+  "ref": "File:Subway sandwich closed at Subway Redi on an evening in December 2025.jpg",
+  "use": "closed store 2025"
+ },
+ {
+  "id": "footlong",
+  "from": "commons",
+  "ref": "File:Subway Footlong Signature Sandwiches.jpg",
+  "use": "product"
+ },
+ {
+  "id": "footlong_italian",
+  "from": "commons",
+  "ref": "File:Footlong Spicy Italian from Subway (51960675099).jpg",
+  "use": "product"
+ },
+ {
+  "id": "fred_deluca",
+  "from": "commons",
+  "ref": "File:Fred De Luca 2011-03-09 001.jpg",
+  "use": "founder"
+ },
+ {
+  "id": "jackson_aerial",
+  "from": "commons",
+  "ref": "File:Aerial-Picture-of-Jackson-e1445995779731.jpg",
+  "use": "Jackson Memorial Hospital"
+ },
+ {
+  "id": "jackson_wing",
+  "from": "commons",
+  "ref": "File:Edward Jackson Memorial Wing 19 September 2017 2.jpg",
+  "use": "Jackson Memorial Hospital"
+ },
+ {
+  "id": "jm_union",
+  "from": "commons",
+  "ref": "File:A Jersey Mike's Subs chain location at Union Station in Washington, D.C.jpg",
+  "use": "Jersey Mike's store"
+ },
+ {
+  "id": "jm_valdosta",
+  "from": "commons",
+  "ref": "File:Jersey Mike's Subs, Valdosta.JPG",
+  "use": "Jersey Mike's store"
+ },
+ {
+  "id": "jm_springfield",
+  "from": "commons",
+  "ref": "File:Springfield, VA Jersey Mike's storefront.jpg",
+  "use": "Jersey Mike's store"
+ },
+ {
+  "id": "jm_warren",
+  "from": "commons",
+  "ref": "File:Jersey Mike's Warren NJ.png",
+  "use": "Jersey Mike's store, NJ"
+ },
+ {
+  "id": "jm_sub",
+  "from": "commons",
+  "ref": "File:Jersey Mike's Number 26 Chicken Bacon Ranch.jpg",
+  "use": "Jersey Mike's product"
+ },
+ {
+  "id": "nyse_floor",
+  "from": "commons",
+  "ref": "File:No Known Restrictions Trading Floor, New York Stock Exchange (Highsmith LOC) (6718386525).jpg",
+  "use": "NYSE"
+ },
+ {
+  "id": "logo_subway",
+  "from": "commons",
+  "ref": "File:Subway 2016 logo.svg",
+  "width": 1600,
+  "use": "logo",
+  "basis": "public-domain logo (simple text); used to identify the company"
+ },
+ {
+  "id": "logo_subway_2002",
+  "from": "commons",
+  "ref": "File:Subway bi (2002).svg",
+  "width": 1600,
+  "use": "older logo",
+  "basis": "public-domain logo; used to identify the company"
+ },
+ {
+  "id": "logo_jm",
+  "from": "commons",
+  "ref": "File:Jersey Mike's logo.svg",
+  "width": 1400,
+  "use": "logo",
+  "basis": "public-domain logo; used to identify the company"
+ },
+ {
+  "id": "logo_roark",
+  "from": "commons",
+  "ref": "File:Roark Capital logo.png",
+  "use": "logo",
+  "basis": "public-domain logo; used to identify the company"
+ },
+ {
+  "id": "us_map",
+  "from": "commons",
+  "ref": "File:Blank US Map (states only).svg",
+  "width": 1920,
+  "use": "base for store-dot maps"
+ },
+ {
+  "id": "world_subway",
+  "from": "commons",
+  "ref": "File:Countries with Subway 2021.svg",
+  "width": 1920,
+  "use": "global footprint"
+ },
+ {
+  "id": "ad_1985",
+  "from": "archive",
+  "ref": "subway-commercial-2006-1985",
+  "file": "Subway Commercial 1985.ia.mp4",
+  "archival": true,
+  "use": "Subway TV ad 1985",
+  "basis": "fair use: brief excerpt of Subway's own TV ad, used in commentary on Subway's business and transformed"
+ },
+ {
+  "id": "ad_1988",
+  "from": "archive",
+  "ref": "subway-commercial-2006-1985",
+  "file": "Subway Commercial 1988 (Remix).mp4",
+  "archival": true,
+  "use": "Subway TV ad 1988",
+  "basis": "fair use: brief excerpt of Subway's own TV ad, used in commentary on Subway's business and transformed"
+ },
+ {
+  "id": "ad_mid90s",
+  "from": "archive",
+  "ref": "mid-1990s-commercial-for-subway",
+  "archival": true,
+  "use": "Subway TV ad c.1996",
+  "basis": "fair use: brief excerpt of Subway's own TV ad, used in commentary on Subway's business and transformed"
+ },
+ {
+  "id": "ad_1996_tuna",
+  "from": "archive",
+  "ref": "CLE-B02_314946-315245",
+  "archival": true,
+  "use": "Subway price-promotion ad 1996",
+  "basis": "fair use: brief excerpt of Subway's own TV ad, used in commentary on Subway's business and transformed"
+ },
+ {
+  "id": "ad_1997",
+  "from": "archive",
+  "ref": "youtube-DuoIXCuqubY",
+  "file": "DuoIXCuqubY.mp4",
+  "archival": true,
+  "use": "Subway TV ad 1997",
+  "basis": "fair use: brief excerpt of Subway's own TV ad, used in commentary on Subway's business and transformed"
+ },
+ {
+  "id": "ad_2007_feast",
+  "from": "archive",
+  "ref": "the-subway-feast-2007-original-airing",
+  "use": "Subway TV ad 2007",
+  "basis": "fair use: brief excerpt of Subway's own TV ad, used in commentary on Subway's business and transformed"
+ },
+ {
+  "id": "ad_2007",
+  "from": "archive",
+  "ref": "subway-2007-television-commercial",
+  "use": "Subway TV ad 2007",
+  "basis": "fair use: brief excerpt of Subway's own TV ad, used in commentary on Subway's business and transformed"
+ },
+ {
+  "id": "ad_scrabble",
+  "from": "archive",
+  "ref": "youtube-video_20240728_2000",
+  "file": "playsubwayscrabbleus30.mp4",
+  "use": "Subway TV ad c.2007",
+  "basis": "fair use: brief excerpt of Subway's own TV ad, used in commentary on Subway's business and transformed"
+ },
+ {
+  "id": "kfc_sign",
+  "from": "commons",
+  "ref": "File:Kentucky Fried Chicken sign, Marietta, Georgia LCCN2017709686.tif",
+  "archival": true,
+  "use": "KFC, the franchising model"
+ },
+ {
+  "id": "sanders_cafe",
+  "from": "commons",
+  "ref": "File:SandersCafeKFC.jpg",
+  "use": "KFC origin"
+ },
+ {
+  "id": "store_shenzhen",
+  "from": "commons",
+  "ref": "File:A SUBWAY RESTAURANT AT BINHE BOULEVARD, SHENZHEN.jpg",
+  "use": "Subway in China"
+ }
+]

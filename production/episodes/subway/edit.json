@@ -1,0 +1,1183 @@
+{
+ "s001": [
+  {
+   "k": "counter",
+   "from": 0,
+   "to": 2,
+   "label": "Subway restaurants closed per day",
+   "sub": "United States · 2025"
+  }
+ ],
+ "s002": [
+  {
+   "k": "photo",
+   "a": "closed_miami23",
+   "kb": "in",
+   "label": "Closed Subway · Miami, 2023"
+  },
+  {
+   "at": "every day",
+   "k": "photo",
+   "a": "closed_miami22",
+   "kb": "left",
+   "treat": "ink"
+  },
+  {
+   "at": "for the tenth",
+   "k": "photo",
+   "a": "store_freehome",
+   "kb": "out"
+  }
+ ],
+ "s003": [
+  {
+   "k": "map",
+   "mode": "blink",
+   "count": 18773,
+   "lost": 729,
+   "label": "18,773 US stores · −729 in 2025",
+   "src": "Subway / industry estimates"
+  }
+ ],
+ "s004": [
+  {
+   "k": "cols",
+   "title": "Subway net income",
+   "rows": [
+    {
+     "n": "2023",
+     "v": 15,
+     "label": "$15M"
+    },
+    {
+     "n": "2025",
+     "v": 688,
+     "label": "$688M",
+     "hero": true
+    }
+   ],
+   "src": "Subway franchise disclosure document, 2026"
+  }
+ ],
+ "s005": [
+  {
+   "hold": true
+  }
+ ],
+ "s006": [
+  {
+   "k": "text",
+   "text": "SHRINKING.",
+   "sub": "…and getting richer?"
+  },
+  {
+   "at": "unless",
+   "k": "photo",
+   "a": "counter_brickell",
+   "kb": "in"
+  }
+ ],
+ "s007": [
+  {
+   "k": "video",
+   "a": "ad_1985",
+   "from": 9.5,
+   "label": "Subway TV ad, 1985"
+  },
+  {
+   "at": "both opened",
+   "k": "teens"
+  }
+ ],
+ "s008": [
+  {
+   "k": "photo",
+   "a": "store_chatt",
+   "kb": "in"
+  },
+  {
+   "at": "the other",
+   "k": "photo",
+   "a": "jm_valdosta",
+   "kb": "right",
+   "label": "Jersey Mike's"
+  }
+ ],
+ "s009": [
+  {
+   "k": "place",
+   "place": "Bridgeport, Connecticut",
+   "year": "1965"
+  },
+  {
+   "at": "fred deluca",
+   "k": "photo",
+   "a": "fred_deluca",
+   "kb": "in",
+   "treat": "ink",
+   "label": "Fred DeLuca"
+  },
+  {
+   "at": "so he asked",
+   "k": "person",
+   "name": "Peter Buck",
+   "role": "Nuclear physicist · family friend"
+  }
+ ],
+ "s010": [
+  {
+   "k": "stat",
+   "kicker": "Buck's advice",
+   "value": "$1,000",
+   "sub": "and a sandwich shop"
+  }
+ ],
+ "s011": [
+  {
+   "k": "sign",
+   "text": "PETE'S SUPER SUBMARINES",
+   "year": "1965"
+  },
+  {
+   "at": "it later became",
+   "k": "logo",
+   "a": "logo_subway_2002"
+  }
+ ],
+ "s012": [
+  {
+   "k": "counter",
+   "from": 0,
+   "to": 32,
+   "label": "The goal: stores in 10 years",
+   "sub": "Fred DeLuca's target, 1965"
+  }
+ ],
+ "s013": [
+  {
+   "k": "counter",
+   "from": 4,
+   "to": 16,
+   "label": "Stores by 1973",
+   "sub": "eight years in"
+  }
+ ],
+ "s014": [
+  {
+   "k": "text",
+   "text": "16 / 32",
+   "sub": "missing it by half"
+  }
+ ],
+ "s015": [
+  {
+   "k": "photo",
+   "a": "sanders_cafe",
+   "kb": "in",
+   "label": "Sanders Café, Corbin, Kentucky"
+  },
+  {
+   "at": "kfc didn't",
+   "k": "photo",
+   "a": "kfc_sign",
+   "kb": "out",
+   "treat": "ink"
+  },
+  {
+   "at": "other people did",
+   "k": "text",
+   "text": "THEIR MONEY.",
+   "sub": "your name."
+  }
+ ],
+ "s016": [
+  {
+   "k": "photo",
+   "a": "store_lincoln",
+   "kb": "left"
+  },
+  {
+   "at": "and the deal",
+   "k": "text",
+   "text": "THE DEAL",
+   "sub": "the most important thing in this video"
+  }
+ ],
+ "s017": [
+  {
+   "k": "photo",
+   "a": "store_remodel",
+   "kb": "in",
+   "label": "Building the store"
+  },
+  {
+   "at": "pays the rent",
+   "k": "photo",
+   "a": "store_sandhill",
+   "kb": "right"
+  },
+  {
+   "at": "hires the staff",
+   "k": "photo",
+   "a": "counter_brickell",
+   "kb": "out"
+  },
+  {
+   "at": "buys the food",
+   "k": "photo",
+   "a": "footlong",
+   "kb": "in"
+  },
+  {
+   "at": "subway takes",
+   "k": "flow"
+  }
+ ],
+ "s018": [
+  {
+   "k": "text",
+   "text": "A CUT OF SALES.",
+   "sub": "Not profit."
+  }
+ ],
+ "s019": [
+  {
+   "hold": true
+  }
+ ],
+ "s020": [
+  {
+   "k": "video",
+   "a": "ad_1988",
+   "from": 3.0,
+   "label": "Subway TV ad, 1988"
+  },
+  {
+   "at": "the biggest",
+   "k": "line",
+   "title": "Subway US restaurants",
+   "pts": [
+    [
+     1965,
+     1
+    ],
+    [
+     1973,
+     16
+    ],
+    [
+     2002,
+     13247
+    ]
+   ],
+   "labels": [
+    "1",
+    "16",
+    "13,247"
+   ],
+   "src": "Reported store counts"
+  },
+  {
+   "at": "and then start",
+   "k": "photo",
+   "a": "closed_miami22",
+   "kb": "in",
+   "treat": "ink"
+  }
+ ],
+ "s021": [
+  {
+   "k": "video",
+   "a": "ad_1997",
+   "from": 8.5,
+   "label": "Subway TV ad, 1997"
+  },
+  {
+   "at": "to become",
+   "k": "bars",
+   "title": "US restaurants, 2002",
+   "rows": [
+    {
+     "n": "Subway",
+     "v": 13247,
+     "label": "13,247",
+     "hero": true
+    },
+    {
+     "n": "McDonald's",
+     "v": 13099,
+     "label": "13,099"
+    }
+   ],
+   "src": "Company counts reported in 2002"
+  }
+ ],
+ "s022": [
+  {
+   "k": "video",
+   "a": "ad_mid90s",
+   "from": 2.0,
+   "label": "Subway TV ad, mid-1990s"
+  }
+ ],
+ "s023": [
+  {
+   "k": "map",
+   "mode": "fill",
+   "count": 27000,
+   "label": "27,000+ US Subways · 2015",
+   "src": "Subway"
+  }
+ ],
+ "s024": [
+  {
+   "k": "photo",
+   "a": "store_franklin",
+   "kb": "in"
+  },
+  {
+   "at": "these are local",
+   "k": "map",
+   "mode": "agents",
+   "count": 9000,
+   "label": "Development agents · territories"
+  }
+ ],
+ "s025": [
+  {
+   "k": "text",
+   "text": "SIMPLIFIED EXAMPLE",
+   "sub": "illustrative numbers"
+  },
+  {
+   "at": "say a town",
+   "k": "example",
+   "stage": 0
+  }
+ ],
+ "s026": [
+  {
+   "k": "example",
+   "stage": 1
+  }
+ ],
+ "s027": [
+  {
+   "k": "example",
+   "stage": 2
+  }
+ ],
+ "s028": [
+  {
+   "k": "example",
+   "stage": 3
+  }
+ ],
+ "s029": [
+  {
+   "k": "photo",
+   "a": "interior_miami",
+   "kb": "in"
+  },
+  {
+   "at": "for the people",
+   "k": "photo",
+   "a": "closed_miami23",
+   "kb": "right",
+   "treat": "ink"
+  }
+ ],
+ "s030": [
+  {
+   "k": "quote",
+   "text": "You just end up cannibalizing existing stores.",
+   "by": "A Subway franchise owner",
+   "src": "Local newspaper interview",
+   "style": "clip"
+  }
+ ],
+ "s031": [
+  {
+   "k": "doc",
+   "title": "Subway franchise agreement",
+   "sub": "paraphrased",
+   "lines": [
+    "The franchisee is granted a licence to operate",
+    "one restaurant at the approved location.",
+    "Subway reserves the right to open, or license others",
+    "to open, restaurants at any other location —",
+    "including next door."
+   ],
+   "hi": 2
+  }
+ ],
+ "s032": [
+  {
+   "k": "photo",
+   "a": "counter_brickell",
+   "kb": "left",
+   "treat": "ink"
+  },
+  {
+   "at": "sometimes",
+   "k": "video",
+   "a": "ad_1988",
+   "from": 29.5,
+   "label": "Subway TV ad, 1988"
+  }
+ ],
+ "s033": [
+  {
+   "k": "photo",
+   "a": "jackson_aerial",
+   "kb": "in",
+   "label": "Jackson Memorial Hospital, Miami"
+  },
+  {
+   "at": "his two shops",
+   "k": "photo",
+   "a": "jackson_wing",
+   "kb": "out",
+   "treat": "ink"
+  }
+ ],
+ "s034": [
+  {
+   "k": "handsign",
+   "text": "$5 FOOTLONG",
+   "sub": "SAT & SUN"
+  }
+ ],
+ "s035": [
+  {
+   "k": "video",
+   "a": "ad_scrabble",
+   "from": 9.0,
+   "label": "Subway TV ad, 2007"
+  }
+ ],
+ "s036": [
+  {
+   "k": "timeline",
+   "items": [
+    {
+     "date": "2004",
+     "text": "Frankel's weekend deal"
+    },
+    {
+     "date": "Sept 2007",
+     "text": "A development agent hears about it"
+    },
+    {
+     "date": "March 2008",
+     "text": "The $5 footlong goes national"
+    }
+   ]
+  },
+  {
+   "at": "with a jingle",
+   "k": "video",
+   "a": "ad_2007",
+   "from": 17.0,
+   "label": "Subway TV ad, 2007"
+  }
+ ],
+ "s037": [
+  {
+   "k": "counter",
+   "from": 0,
+   "to": 3.8,
+   "decimals": 1,
+   "prefix": "$",
+   "suffix": "B",
+   "label": "$5 footlong sales, first full year",
+   "sub": "year to Aug 2009 · NPD via NBC News"
+  }
+ ],
+ "s038": [
+  {
+   "k": "photo",
+   "a": "footlong_italian",
+   "kb": "in"
+  },
+  {
+   "at": "trying to fix",
+   "k": "photo",
+   "a": "jackson_aerial",
+   "kb": "out",
+   "treat": "ink"
+  }
+ ],
+ "s039": [
+  {
+   "k": "video",
+   "a": "ad_2007",
+   "from": 24.0
+  },
+  {
+   "at": "customers expect",
+   "k": "text",
+   "text": "$5",
+   "sub": "…forever?"
+  }
+ ],
+ "s040": [
+  {
+   "k": "video",
+   "a": "ad_1996_tuna",
+   "from": 0.5,
+   "label": "Subway TV ad, 1996"
+  },
+  {
+   "at": "wages went up",
+   "k": "price"
+  }
+ ],
+ "s041": [
+  {
+   "k": "clips",
+   "items": [
+    {
+     "date": "2015",
+     "text": "Subway's sales are falling"
+    }
+   ]
+  },
+  {
+   "at": "co-founder",
+   "k": "photo",
+   "a": "fred_deluca",
+   "kb": "out",
+   "treat": "ink",
+   "label": "Fred DeLuca, 1947–2015"
+  },
+  {
+   "at": "and subway's longtime",
+   "k": "clips",
+   "items": [
+    {
+     "date": "2015",
+     "text": "Subway's sales are falling"
+    },
+    {
+     "date": "2015",
+     "text": "Co-founder Fred DeLuca dies"
+    },
+    {
+     "date": "2015",
+     "text": "Longtime spokesman pleads guilty to child sex-abuse charges"
+    }
+   ],
+   "instant": 2
+  }
+ ],
+ "s042": [
+  {
+   "k": "line",
+   "title": "Subway US restaurants",
+   "pts": [
+    [
+     2002,
+     13247
+    ],
+    [
+     2015,
+     27000
+    ],
+    [
+     2016,
+     26700
+    ]
+   ],
+   "labels": [
+    "13,247",
+    "27,000+",
+    "first ever decline"
+   ],
+   "src": "Reported store counts",
+   "turn": 1
+  }
+ ],
+ "s043": [
+  {
+   "hold": true
+  }
+ ],
+ "s044": [
+  {
+   "k": "line",
+   "title": "Subway US restaurants",
+   "pts": [
+    [
+     2015,
+     27000
+    ],
+    [
+     2025,
+     18773
+    ]
+   ],
+   "labels": [
+    "27,000+",
+    "18,773"
+   ],
+   "src": "Reported store counts",
+   "turn": 0,
+   "note": "≈ 8,300 fewer"
+  },
+  {
+   "at": "seven hundred",
+   "k": "photo",
+   "a": "store_chatt",
+   "kb": "out",
+   "treat": "ink",
+   "label": "−729 in 2025"
+  }
+ ],
+ "s045": [
+  {
+   "k": "photo",
+   "a": "store_brownsville",
+   "kb": "in"
+  },
+  {
+   "at": "the average mcdonald's",
+   "k": "bars",
+   "title": "Average sales per US restaurant",
+   "unit": "M",
+   "rows": [
+    {
+     "n": "McDonald's",
+     "v": 4.09,
+     "label": "$4.09M"
+    },
+    {
+     "n": "Jersey Mike's",
+     "v": 1.37,
+     "label": "$1.37M"
+    },
+    {
+     "n": "Subway",
+     "v": 0.5,
+     "label": "~$500K",
+     "hero": true
+    }
+   ],
+   "src": "Company filings · Subway: Circana estimate (not disclosed)"
+  }
+ ],
+ "s046": [
+  {
+   "hold": true
+  }
+ ],
+ "s047": [
+  {
+   "k": "slice"
+  },
+  {
+   "at": "a single slice",
+   "k": "photo",
+   "a": "footlong_italian",
+   "kb": "in"
+  },
+  {
+   "at": "a single wage",
+   "k": "photo",
+   "a": "counter_brickell",
+   "kb": "right"
+  },
+  {
+   "at": "month's rent",
+   "k": "photo",
+   "a": "store_franklin",
+   "kb": "out"
+  }
+ ],
+ "s048": [
+  {
+   "k": "video",
+   "a": "ad_2007",
+   "from": 26.0
+  },
+  {
+   "at": "six",
+   "k": "stat",
+   "kicker": "August 2024",
+   "value": "$6.99",
+   "sub": "footlong deal"
+  }
+ ],
+ "s049": [
+  {
+   "k": "text",
+   "text": "OPT OUT.",
+   "sub": "the franchisee association's advice"
+  },
+  {
+   "at": "most older",
+   "k": "list",
+   "items": [
+    "Older contracts: could opt out",
+    "Newer contracts: couldn't"
+   ]
+  }
+ ],
+ "s050": [
+  {
+   "k": "quote",
+   "text": "About a fifth of my sales — and no extra customers to show for it.",
+   "by": "A Subway franchise owner (paraphrased)",
+   "src": "2024 press interview",
+   "style": "card"
+  }
+ ],
+ "s051": [
+  {
+   "k": "quote",
+   "text": "…decisions that provide the greatest benefit to the entire Subway system.",
+   "by": "Subway, 2024",
+   "src": "Franchise Times, Aug 2024",
+   "style": "clip"
+  },
+  {
+   "at": "it calls the closures",
+   "k": "text",
+   "text": "“RIGHTSIZING”",
+   "sub": "Subway's word for the closures"
+  },
+  {
+   "at": "moving stores",
+   "k": "photo",
+   "a": "store_remodel",
+   "kb": "right",
+   "label": "Remodelled store · Miami, 2025"
+  }
+ ],
+ "s052": [
+  {
+   "k": "photo",
+   "a": "closed_miami22",
+   "kb": "out"
+  },
+  {
+   "at": "one franchisee",
+   "k": "stamps",
+   "items": [
+    {
+     "name": "River Sub",
+     "stores": 48,
+     "year": "2024"
+    },
+    {
+     "name": "MTF Enterprises",
+     "stores": 43,
+     "year": "2026"
+    }
+   ]
+  }
+ ],
+ "s053": [
+  {
+   "k": "photo",
+   "a": "closed_miami23",
+   "kb": "in",
+   "treat": "ink"
+  },
+  {
+   "at": "fewer stores",
+   "k": "list",
+   "items": [
+    "Fewer stores.",
+    "Falling royalties.",
+    "Franchisees going under."
+   ]
+  }
+ ],
+ "s054": [
+  {
+   "k": "text",
+   "text": "EXCEPT IT ISN'T.",
+   "big": true
+  }
+ ],
+ "s055": [
+  {
+   "k": "doc",
+   "title": "Franchise Disclosure Document",
+   "sub": "Subway · April 2026",
+   "lines": [],
+   "cover": true
+  },
+  {
+   "at": "inside are",
+   "k": "doc",
+   "title": "Item 21 · Financial statements",
+   "sub": "Subway franchise disclosure document, 2026",
+   "lines": [
+    "Consolidated statements of income",
+    "Franchise revenue",
+    "Operating expenses",
+    "Net income"
+   ],
+   "hi": 3
+  }
+ ],
+ "s056": [
+  {
+   "k": "cols",
+   "title": "Subway net income",
+   "rows": [
+    {
+     "n": "2023",
+     "v": 15,
+     "label": "$15M"
+    },
+    {
+     "n": "2024",
+     "v": 397,
+     "label": "$397M"
+    },
+    {
+     "n": "2025",
+     "v": 688,
+     "label": "$688M",
+     "hero": true
+    }
+   ],
+   "src": "Subway franchise disclosure document, 2026"
+  }
+ ],
+ "s057": [
+  {
+   "k": "stat",
+   "kicker": "Net income, 2023 → 2025",
+   "value": "46×",
+   "sub": "more profit in two years"
+  }
+ ],
+ "s058": [
+  {
+   "k": "stat",
+   "kicker": "Franchise revenue",
+   "value": "−6%",
+   "sub": "$818M → $767M",
+   "tone": "blue"
+  }
+ ],
+ "s059": [
+  {
+   "k": "text",
+   "text": "LOWER OPERATING EXPENSES",
+   "sub": "the filing's explanation"
+  },
+  {
+   "at": "subway corporate",
+   "k": "photo",
+   "a": "store_brickell",
+   "kb": "right",
+   "label": "Corporate got cheaper to run"
+  }
+ ],
+ "s060": [
+  {
+   "k": "text",
+   "text": "A CUT OF SALES.",
+   "sub": "Not profit."
+  },
+  {
+   "at": "subway takes",
+   "k": "map",
+   "mode": "fill",
+   "count": 18773,
+   "label": "Every store pays 12.5% of sales"
+  }
+ ],
+ "s061": [
+  {
+   "k": "photo",
+   "a": "closed_miami23",
+   "kb": "left",
+   "treat": "ink"
+  },
+  {
+   "at": "the franchisee loses",
+   "k": "photo",
+   "a": "closed_miami22",
+   "kb": "in",
+   "treat": "ink"
+  }
+ ],
+ "s062": [
+  {
+   "k": "photo",
+   "a": "store_brickell",
+   "kb": "in",
+   "label": "Miami, 2026"
+  },
+  {
+   "at": "in 2023",
+   "k": "deal",
+   "a": "logo_roark",
+   "date": "Aug 2023",
+   "text": "Roark Capital agrees to buy Subway",
+   "value": "up to $9.55B",
+   "stamp": "COMPLETED 2024"
+  }
+ ],
+ "s063": [
+  {
+   "k": "photo",
+   "a": "fred_deluca",
+   "kb": "in",
+   "label": "The founding families got paid"
+  },
+  {
+   "at": "roark got",
+   "k": "map",
+   "mode": "fill",
+   "count": 18773,
+   "label": "A slice of every store's sales"
+  },
+  {
+   "at": "the people paying",
+   "k": "photo",
+   "a": "closed_miami22",
+   "kb": "out",
+   "treat": "ink"
+  }
+ ],
+ "s064": [
+  {
+   "k": "text",
+   "text": "SUBWAY ISN'T DYING.",
+   "sub": "Its restaurants are.",
+   "big": true
+  }
+ ],
+ "s065": [
+  {
+   "k": "place",
+   "place": "Point Pleasant, New Jersey",
+   "year": "1975"
+  }
+ ],
+ "s066": [
+  {
+   "k": "person",
+   "name": "Peter Cancro",
+   "role": "High-school senior · age 17"
+  },
+  {
+   "at": "he was too young",
+   "k": "photo",
+   "a": "slicer",
+   "kb": "in",
+   "label": "Too young to use the slicer"
+  },
+  {
+   "at": "his old football",
+   "k": "stat",
+   "kicker": "The loan",
+   "value": "$125,000",
+   "sub": "backed by his old football coach — a banker"
+  }
+ ],
+ "s067": [
+  {
+   "k": "photo",
+   "a": "jm_warren",
+   "kb": "in",
+   "label": "Jersey Mike's · New Jersey"
+  },
+  {
+   "at": "and it grew",
+   "k": "line",
+   "title": "Jersey Mike's restaurants",
+   "pts": [
+    [
+     1975,
+     1
+    ],
+    [
+     2026,
+     3400
+    ]
+   ],
+   "labels": [
+    "1",
+    "≈3,400"
+   ],
+   "src": "Jersey Mike's"
+  },
+  {
+   "at": "roughly a sixth",
+   "k": "bars",
+   "title": "US restaurants, 2026",
+   "rows": [
+    {
+     "n": "Subway",
+     "v": 18773,
+     "label": "18,773"
+    },
+    {
+     "n": "Jersey Mike's",
+     "v": 3400,
+     "label": "≈3,400",
+     "hero": true
+    }
+   ],
+   "src": "Company figures"
+  }
+ ],
+ "s068": [
+  {
+   "k": "bars",
+   "title": "Average sales per US restaurant",
+   "unit": "M",
+   "rows": [
+    {
+     "n": "Jersey Mike's",
+     "v": 1.37,
+     "label": "$1.37M",
+     "hero": true
+    },
+    {
+     "n": "Subway",
+     "v": 0.5,
+     "label": "~$500K"
+    }
+   ],
+   "src": "Company filings · Subway: Circana estimate"
+  }
+ ],
+ "s069": [
+  {
+   "k": "photo",
+   "a": "nyse_floor",
+   "kb": "in",
+   "treat": "ink",
+   "label": "New York Stock Exchange"
+  },
+  {
+   "at": "went public",
+   "k": "stat",
+   "kicker": "July 2026 · NYSE: JMKE",
+   "value": "≈ $7.3B",
+   "sub": "IPO at $23 a share"
+  }
+ ],
+ "s070": [
+  {
+   "k": "pps"
+  }
+ ],
+ "s071": [
+  {
+   "k": "stat",
+   "kicker": "Value per restaurant",
+   "value": "≈ 8×",
+   "sub": "Jersey Mike's vs Subway"
+  }
+ ],
+ "s072": [
+  {
+   "k": "counter",
+   "from": 0,
+   "to": 2,
+   "label": "Subway restaurants closed per day",
+   "sub": "…and record profits"
+  }
+ ],
+ "s073": [
+  {
+   "k": "video",
+   "a": "ad_1985",
+   "from": 14.0,
+   "label": "Subway TV ad, 1985"
+  },
+  {
+   "at": "it sells the right",
+   "k": "logo",
+   "a": "logo_subway",
+   "sub": "sells the right to sell its sandwiches"
+  },
+  {
+   "at": "twelve and a half",
+   "k": "stat",
+   "kicker": "of every sale",
+   "value": "12.5%",
+   "sub": "8% royalty + 4.5% advertising"
+  }
+ ],
+ "s074": [
+  {
+   "k": "map",
+   "mode": "fill",
+   "count": 27000,
+   "label": "The biggest restaurant chain in America"
+  },
+  {
+   "at": "and often",
+   "k": "photo",
+   "a": "store_sandhill",
+   "kb": "in"
+  },
+  {
+   "at": "and it means",
+   "k": "diverge"
+  }
+ ],
+ "s075": [
+  {
+   "k": "vs",
+   "left_a": "store_chatt",
+   "right_a": "jm_valdosta",
+   "left": "MORE STORES",
+   "right": "BETTER STORES"
+  },
+  {
+   "at": "fifty years later",
+   "k": "vs",
+   "left_a": "logo_subway",
+   "right_a": "logo_jm",
+   "left": "≈ $260K per store",
+   "right": "≈ $2.2M per store",
+   "logos": true
+  }
+ ],
+ "s076": [
+  {
+   "k": "stat",
+   "kicker": "2026 plan",
+   "value": "~100",
+   "sub": "new US Subways"
+  },
+  {
+   "at": "four thousand",
+   "k": "photo",
+   "a": "store_shenzhen",
+   "kb": "in",
+   "label": "Subway · Shenzhen, China"
+  },
+  {
+   "at": "which leaves",
+   "k": "photo",
+   "a": "store_freehome",
+   "kb": "out",
+   "treat": "ink"
+  },
+  {
+   "at": "and if it can",
+   "k": "photo",
+   "a": "closed_miami23",
+   "kb": "in",
+   "treat": "ink"
+  }
+ ],
+ "s077": [
+  {
+   "k": "end"
+  }
+ ]
+}

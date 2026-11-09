@@ -1,0 +1,26 @@
+# secrets
+.env
+**/.env
+
+# rebuilt by setup.sh
+node_modules/
+.venv/
+__pycache__/
+studio/build/
+studio/public/*/
+
+# renders and scratch output (regenerate any time)
+*.mp4
+!production/episodes/*/assets/*.mp4
+production/episodes/*/preview/
+production/episodes/*/auditions/
+production/episodes/*/vo-*-backup/
+production/episodes/*/*-voiceover-preview.mp3
+studio/out/
+studio/out2/
+
+# old drafts not used by the channel
+pilot/
+ryanair-script*.md
+business-doc-script.skill
+.DS_Store

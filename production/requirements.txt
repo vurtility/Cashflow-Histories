@@ -1,0 +1,4 @@
+faster-whisper==1.2.1
+num2words==0.5.14
+numpy
+opencv-python-headless

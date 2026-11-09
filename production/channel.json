@@ -1,0 +1,36 @@
+{
+  "voice": {
+    "provider": "elevenlabs",
+    "name": "David - Audiobook & Documentary",
+    "voice_id": "cCYjmrGZaI86GUJ7F2Nn",
+    "model": "eleven_v4",
+    "chosen": "2026-11-09",
+    "model_chosen": "2026-11-09 (v4: tighter pacing than multilingual_v2 in A/B)"
+  },
+  "name": "Cashflow Histories",
+  "brand": {
+    "direction": "ink-misprint",
+    "chosen": "2026-11-09",
+    "concept": "History, reprinted: two fluorescent inks overprinted slightly off-register, halftone dots on every image and bar, registration marks, a print number per episode.",
+    "inks": {
+      "paper": "#FFFFFF",
+      "pink": "#FF3DA8",
+      "blue": "#1D5FD6",
+      "yellow": "#FFE21A",
+      "ink": "#16213E"
+    },
+    "fonts": {
+      "headline": "Ultra (wood-type slab)",
+      "captions": "Courier Prime (typewriter)"
+    },
+    "devices": [
+      "two-ink overprint on headlines and key numbers",
+      "halftone fills for bars and images",
+      "registration marks in corners",
+      "PRINT No. NNN episode number",
+      "[source: …] typewriter captions"
+    ],
+    "code": "studio/src/concepts/Misprint.tsx",
+    "fallback": "If it doesn't perform after the first videos, revert to the simpler earlier design (round-1 directions in studio/src/brands.ts, sheets in studio/out/)."
+  }
+}

@@ -1,0 +1,1845 @@
+{
+  "median_db": -14.8,
+  "spent_chars": 101,
+  "results": {
+    "s001": {
+      "heard": "To a day.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 3,
+        "rate": 3.26,
+        "wpm": 195.7,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.886
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s002": {
+      "heard": "That's how fast Subway closed restaurants in America last year, every day, all year, for the 10th year in a row.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 3.85,
+        "wpm": 161.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.42,
+          0.3,
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.934
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "America",
+        "Subway",
+        "row"
+      ],
+      "attempts": []
+    },
+    "s003": {
+      "heard": "729 fewer subways by the end of 2025.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 16,
+        "rate": 3.56,
+        "wpm": 146.7,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.891
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Subways"
+      ],
+      "attempts": []
+    },
+    "s004": {
+      "heard": "And in that same year, Subway's profit was $688 million.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 20,
+        "rate": 3.92,
+        "wpm": 164.7,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.889
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway's"
+      ],
+      "attempts": []
+    },
+    "s005": {
+      "heard": "Two years earlier, it was 15 million.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 10,
+        "rate": 3.62,
+        "wpm": 152.2,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.897
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s006": {
+      "heard": "A chain that's shrinking this fast shouldn't be getting richer, unless you're wrong about what Subway actually sells.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 4.02,
+        "wpm": 167.2,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.894
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s007": {
+      "heard": "To find out, we need to go back to two 17-year-olds. Both open sub-shops. One borrowed $1,000. The other borrowed $125,000 from his football coach.",
+      "accuracy": 0.97,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "opened",
+          "heard": "open"
+        }
+      ],
+      "pace": {
+        "syllables": 50,
+        "rate": 4.19,
+        "wpm": 161.1,
+        "lead_silence": 0.06,
+        "silences": [
+          0.36,
+          0.4,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.909
+      },
+      "problems": [],
+      "score": 0.97,
+      "risky": [],
+      "attempts": []
+    },
+    "s008": {
+      "heard": "50 years later, one of them is closing two stores a day. The other just went public for $7 billion.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 4.03,
+        "wpm": 169.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.3,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.911
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s009": {
+      "heard": "In 1965, Fred DeLuca was 17 and needed money for college, so he asked a family friend, a nuclear physicist named Peter Buck for advice.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 40,
+        "rate": 3.73,
+        "wpm": 139.9,
+        "lead_silence": 0.04,
+        "silences": [
+          0.46,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Fred DeLuca",
+        "Peter Buck"
+      ],
+      "attempts": []
+    },
+    "s010": {
+      "heard": "Buck's Advice was a sandwich shop and a thousand dollars to start it.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 17,
+        "rate": 3.74,
+        "wpm": 171.8,
+        "lead_silence": 0.0,
+        "silences": [
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.914
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s011": {
+      "heard": "The first shop was called Pete's Super Submarines. It later became Subway.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 21,
+        "rate": 4.18,
+        "wpm": 143.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.888
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Pete's Super Submarines",
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s012": {
+      "heard": "DeLuca set a goal, 32 stores in 10 years.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 14,
+        "rate": 3.41,
+        "wpm": 131.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.878
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s013": {
+      "heard": "Eight years in, they had 16.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 7,
+        "rate": 2.73,
+        "wpm": 140.6,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -16.4,
+        "peak": 0.84
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s014": {
+      "heard": "He was going to miss it by half.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 8,
+        "rate": 4.08,
+        "wpm": 244.9,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.893
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s015": {
+      "heard": "But DeLuca had noticed something about the KFC nearby. KFC didn't open its own restaurants. Other people did, with their own money, and paid KFC for the name.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 42,
+        "rate": 3.8,
+        "wpm": 151.9,
+        "lead_silence": 0.04,
+        "silences": [
+          0.42,
+          0.38,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "KFC"
+      ],
+      "attempts": []
+    },
+    "s016": {
+      "heard": "So Subway started franchising, and the deal it settled on is the most important thing in this video.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 4.32,
+        "wpm": 179.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.883
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s017": {
+      "heard": "A franchisee pays to build the store, pays the rent, hires the staff, and buys the food. Subway takes a slice of every sale. Today, that's 8% in royalties and 4.5% for advertising. 12.5% off the top.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 62,
+        "rate": 3.86,
+        "wpm": 171.6,
+        "lead_silence": 0.08,
+        "silences": [
+          0.38,
+          0.34,
+          0.4,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.908
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s018": {
+      "heard": "Off the top of sales, not profit, Subway gets paid whether the store makes money or not.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 3.89,
+        "wpm": 172.3,
+        "lead_silence": 0.02,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.911
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s019": {
+      "heard": "Remember that.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 4,
+        "rate": 4.44,
+        "wpm": 133.3,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.861
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s020": {
+      "heard": "Because that one detail would turn Subway into the biggest restaurant chain in America. And then start eating it alive.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 3.9,
+        "wpm": 146.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.52
+        ]
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.956
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "America",
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s021": {
+      "heard": "In 2002, Subway passed McDonald's to become the chain with the most restaurants in America by 148 stores.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 3.79,
+        "wpm": 149.3,
+        "lead_silence": 0.08,
+        "silences": [
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.929
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "America",
+        "McDonald's",
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s022": {
+      "heard": "And it didn't stop.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 4,
+        "rate": 2.9,
+        "wpm": 173.9,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -16.0,
+        "peak": 0.929
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s023": {
+      "heard": "By 2015, there were more than 27,000 subways in the United States, twice as many as McDonald's.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 3.75,
+        "wpm": 150.0,
+        "lead_silence": 0.1,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.896
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "McDonald's",
+        "Subways",
+        "United States"
+      ],
+      "attempts": []
+    },
+    "s024": {
+      "heard": "Part of how it grew so fast was a sales force of development agents. These are local franchise brokers who sign up new owners in their territory, find sites, and train them. Historically, they earned a share of the fees and the royalties from their area.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 66,
+        "rate": 4.58,
+        "wpm": 191.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.34,
+          0.26,
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.932
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s025": {
+      "heard": "Here's a simple example. Say a town has one subway and it sells $600,000 of sandwiches a year.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 31,
+        "rate": 4.48,
+        "wpm": 182.1,
+        "lead_silence": 0.08,
+        "silences": [
+          0.44
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.911
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s026": {
+      "heard": "Subway's 12.5% is $75,000.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 17,
+        "rate": 4.13,
+        "wpm": 145.6,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.888
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s027": {
+      "heard": "Now, a second subway opens two blocks away. Some customers are new, but a lot just switch stores. Together, they sell $900,000, but each one only sells $450.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 49,
+        "rate": 3.83,
+        "wpm": 159.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.36,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.911
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s028": {
+      "heard": "Subway's cut goes up by half to $112,000. Both owners are worse off than the first one used to be.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 29,
+        "rate": 4.06,
+        "wpm": 201.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.909
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s029": {
+      "heard": "For the company, more stores almost always means more money. For the people running them, it can mean the opposite.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 4.29,
+        "wpm": 171.4,
+        "lead_silence": 0.08,
+        "silences": [
+          0.3,
+          0.54,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s030": {
+      "heard": "One owner told a local paper, you just end up cannibalizing existing stores.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 4.67,
+        "wpm": 158.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.926
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "You"
+      ],
+      "attempts": []
+    },
+    "s031": {
+      "heard": "And the franchise contract reserved Subway's right to put another store right next door.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 21,
+        "rate": 4.36,
+        "wpm": 174.3,
+        "lead_silence": 0.1,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.928
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway's",
+        "contract"
+      ],
+      "attempts": []
+    },
+    "s032": {
+      "heard": "But here's the thing about franchisees, sometimes they're the ones who save you.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 21,
+        "rate": 4.27,
+        "wpm": 158.5,
+        "lead_silence": 0.08,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.926
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s033": {
+      "heard": "In 2004, a Subway franchisee in Miami named Stuart Frankel had a problem. His two shops were inside a hospital, and at weekends, business died.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 3.62,
+        "wpm": 146.8,
+        "lead_silence": 0.02,
+        "silences": [
+          0.4,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.923
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Miami",
+        "Stuart Frankel",
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s034": {
+      "heard": "So he tried something. On Saturdays and Sundays, every foot long cost $5.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 3.93,
+        "wpm": 139.3,
+        "lead_silence": 0.02,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.947
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Saturdays",
+        "Sundays"
+      ],
+      "attempts": []
+    },
+    "s035": {
+      "heard": "The lines went out the door.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 7,
+        "rate": 3.5,
+        "wpm": 180.0,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.883
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s036": {
+      "heard": "Three years later, a development agent heard about it. In March 2008, the $5 foot long went national. With a jingle, you probably still can't get out of your head.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 43,
+        "rate": 4.1,
+        "wpm": 166.0,
+        "lead_silence": 0.06,
+        "silences": [
+          0.42,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.898
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "March"
+      ],
+      "attempts": []
+    },
+    "s037": {
+      "heard": "In its first full year, it was credited with around $3.8 billion of sales.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 4.23,
+        "wpm": 187.5,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.889
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s038": {
+      "heard": "The most famous deal in fast food was invented by a franchisee trying to fix a slow weekend.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 4.03,
+        "wpm": 181.2,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.881
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s039": {
+      "heard": "But a $5 foot long has one problem, customers expect it to stay $5.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 4.15,
+        "wpm": 151.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.44
+        ]
+      },
+      "audio": {
+        "rms_db": -15.7,
+        "peak": 0.89
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s040": {
+      "heard": "Year after year, food got more expensive. Wages went up. Rent went up. The price people expected from Subway didn't.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 28,
+        "rate": 3.36,
+        "wpm": 143.9,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.5,
+        "peak": 0.886
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s041": {
+      "heard": "And then, in 2015, everything went wrong at once. Sales were falling. Co-founder Fred DeLuca died, and Subway's longtime spokesman pleaded guilty to child sex abuse charges.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 43,
+        "rate": 3.34,
+        "wpm": 121.1,
+        "lead_silence": 0.08,
+        "silences": [
+          0.26,
+          0.34,
+          0.34,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.891
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Fred DeLuca",
+        "Subway's"
+      ],
+      "attempts": []
+    },
+    "s042": {
+      "heard": "The next year, Subway's store count went down for the first time in its history.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 18,
+        "rate": 3.88,
+        "wpm": 194.0,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.909
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway's"
+      ],
+      "attempts": []
+    },
+    "s043": {
+      "heard": "It hasn't gone up since.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 5,
+        "rate": 2.91,
+        "wpm": 174.4,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.893
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s044": {
+      "heard": "10 straight years of shrinking. About 8,300 fewer subways than at the peak. 729 in 2025 alone.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 33,
+        "rate": 3.41,
+        "wpm": 142.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.42,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.886
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Subways"
+      ],
+      "attempts": []
+    },
+    "s045": {
+      "heard": "Here's why so many close. The average McDonald's in America sells about $4 million a year. The average Jersey Mike's? About $1.4 million.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 43,
+        "rate": 4.34,
+        "wpm": 157.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.44,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.914
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "America",
+        "Jersey Mike's",
+        "McDonald's",
+        "close"
+      ],
+      "attempts": []
+    },
+    "s046": {
+      "heard": "The average subway? Around 500,000.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 13,
+        "rate": 4.55,
+        "wpm": 146.9,
+        "lead_silence": 0.04,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.913
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s047": {
+      "heard": "Take 12.5% off the top, and that's $62,500 a year before the owner has paid for a single slice of bread, a single wage, or a single month's rent.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 48,
+        "rate": 4.32,
+        "wpm": 200.0,
+        "lead_silence": 0.06,
+        "silences": [
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.92
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s048": {
+      "heard": "Then, in 2024, corporate tried to win customers back with a $6.99 foot long.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 21,
+        "rate": 3.41,
+        "wpm": 126.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.944
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s049": {
+      "heard": "The Franchisees Association told its members to opt out. Most older contracts allowed that. Newer franchisees couldn't.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 3.83,
+        "wpm": 130.1,
+        "lead_silence": 0.06,
+        "silences": [
+          0.32,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s050": {
+      "heard": "One owner said the deal made up about a fifth of his sales, with no extra customers to show for it.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 4.79,
+        "wpm": 223.4,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.904
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s051": {
+      "heard": "Subway's position was that it has to make decisions for the good of the whole system. It calls the closures, right-sizing, moving stores to locations where franchisees can succeed long term.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 49,
+        "rate": 4.31,
+        "wpm": 158.2,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.904
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s052": {
+      "heard": "But some of the biggest operators haven't made it. One franchisee with 48 stores went bankrupt in 2024. Another with 43 filed this year.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 38,
+        "rate": 3.78,
+        "wpm": 143.1,
+        "lead_silence": 0.1,
+        "silences": [
+          0.3,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.893
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s053": {
+      "heard": "so Subway must be in serious trouble. Fewer stores, falling royalties, franchisees going under.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 3.49,
+        "wpm": 122.1,
+        "lead_silence": 0.06,
+        "silences": [
+          0.36,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.913
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s054": {
+      "heard": "Except it isn't.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 4,
+        "rate": 2.94,
+        "wpm": 132.4,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.8,
+        "peak": 0.902
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s055": {
+      "heard": "Every year, Subway has to publish a franchise disclosure document for anyone thinking of buying a franchise. Inside are the company's own accounts.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 4.26,
+        "wpm": 150.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s056": {
+      "heard": "In 2023, Subway's net income was $15 million, in 2024, $397 million, in 2025, $688 million.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 34,
+        "rate": 2.7,
+        "wpm": 109.5,
+        "lead_silence": 0.02,
+        "silences": [
+          0.42,
+          0.32,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.952
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Subway's"
+      ],
+      "attempts": []
+    },
+    "s057": {
+      "heard": "about 46 times more profit in two years.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 13,
+        "rate": 3.8,
+        "wpm": 140.4,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.896
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s058": {
+      "heard": "Over the same period, Subway's franchise revenue went down, fewer stores paying royalties.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 21,
+        "rate": 3.41,
+        "wpm": 126.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.913
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway's"
+      ],
+      "attempts": []
+    },
+    "s059": {
+      "heard": "The filing puts the jump down to lower operating expenses. Subway corporate got a lot cheaper to run.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 29,
+        "rate": 4.69,
+        "wpm": 174.8,
+        "lead_silence": 0.06,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.895
+      },
+      "problems": [],
+      "score": 1.0,
+      "attempts": [
+        {
+          "plan": "new take",
+          "accuracy": 1.0,
+          "problems": []
+        }
+      ],
+      "risky": [],
+      "fixed_by": "new take"
+    },
+    "s060": {
+      "heard": "Remember the deal from 1974? Subway takes its slice off the top of every sale, from every store.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 3.76,
+        "wpm": 156.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.913
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s061": {
+      "heard": "So, when a weak store closes, Subway loses a small royalty. The franchisee loses everything they put in.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 28,
+        "rate": 3.69,
+        "wpm": 142.5,
+        "lead_silence": 0.06,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.904
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s062": {
+      "heard": "And there's a reason the company got leaner when it did. In 2023, the DeLuca family and Peter Bucks Foundation agreed to sell Subway to the private equity firm Rork Capital for up to $9.55 billion.",
+      "accuracy": 0.949,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "point five",
+          "heard": "fifty"
+        }
+      ],
+      "pace": {
+        "syllables": 60,
+        "rate": 4.07,
+        "wpm": 162.6,
+        "lead_silence": 0.08,
+        "silences": [
+          0.46,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.907
+      },
+      "problems": [],
+      "score": 0.949,
+      "risky": [
+        "(digits in text)",
+        "Peter Buck's",
+        "Roark Capital",
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s063": {
+      "heard": "The founding families got paid. Roark got a machine that takes a slice of tens of thousands of stores' sales. The people paying for the closures are the franchisees.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 42,
+        "rate": 4.26,
+        "wpm": 176.5,
+        "lead_silence": 0.06,
+        "silences": [
+          0.36,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.914
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s064": {
+      "heard": "Subway isn't dying, its restaurants are.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 9,
+        "rate": 2.96,
+        "wpm": 118.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.7,
+        "peak": 0.881
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s065": {
+      "heard": "which brings us back to the other 17-year-old.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 13,
+        "rate": 5.0,
+        "wpm": 184.6,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s066": {
+      "heard": "In 1975, a high school senior named Peter Kancrow wanted to buy the sub-shop where he worked. He was too young to legally use the meat slicer. His old football coach, who happened to be a banker, backed a loan for $125,000.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 66,
+        "rate": 4.3,
+        "wpm": 183.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.937
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Peter Cancro",
+        "use"
+      ],
+      "attempts": []
+    },
+    "s067": {
+      "heard": "That shop became Jersey Mike's, and it grew slowly. Fifty years later, it has about 3,400 stores, roughly a sixth of Subway's American footprint.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 43,
+        "rate": 4.06,
+        "wpm": 152.8,
+        "lead_silence": 0.06,
+        "silences": [
+          0.38,
+          0.38,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Jersey Mike's",
+        "Subway's American"
+      ],
+      "attempts": []
+    },
+    "s068": {
+      "heard": "but each one sells nearly three times as much as the average subway.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 18,
+        "rate": 4.46,
+        "wpm": 193.1,
+        "lead_silence": 0.1,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.891
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s069": {
+      "heard": "In July this year, Jersey Mikes went public at a value of about $7.3 billion.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 4.33,
+        "wpm": 180.0,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.898
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Jersey Mike's",
+        "July"
+      ],
+      "attempts": []
+    },
+    "s070": {
+      "heard": "Divide what each company was valued at by its number of stores. Each Subway restaurant was valued at around $260,000. Each Jersey Mike's at over $2 million.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 51,
+        "rate": 4.44,
+        "wpm": 167.2,
+        "lead_silence": 0.04,
+        "silences": [
+          0.44,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.914
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Jersey Mike's",
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s071": {
+      "heard": "roughly 8 times as much.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 7,
+        "rate": 3.72,
+        "wpm": 159.6,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.5,
+        "peak": 0.872
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s072": {
+      "heard": "So, let's go back to the question. How does Subway close two restaurants a day and make more money than it has in years?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 29,
+        "rate": 4.04,
+        "wpm": 200.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.94
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway",
+        "close"
+      ],
+      "attempts": []
+    },
+    "s073": {
+      "heard": "Because the thing Subway sells was never really sandwiches, it sells the right to sell its sandwiches, and it takes 12.5% of everyone.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 40,
+        "rate": 4.33,
+        "wpm": 181.8,
+        "lead_silence": 0.08,
+        "silences": [
+          0.34,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Subway"
+      ],
+      "attempts": []
+    },
+    "s074": {
+      "heard": "That model built the biggest restaurant chain in America, one store at a time, and often one store too close to the last. And it means Subway's corporate profits and its franchisees' livelihoods can move in completely opposite directions.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 63,
+        "rate": 4.14,
+        "wpm": 153.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.3,
+          0.32,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.916
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "America",
+        "Subway's",
+        "close"
+      ],
+      "attempts": []
+    },
+    "s075": {
+      "heard": "Two 17-year-olds. One built the most stores. The other built better ones. 50 years later, the market has decided which was worth more.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 36,
+        "rate": 3.73,
+        "wpm": 143.2,
+        "lead_silence": 0.08,
+        "silences": [
+          0.36,
+          0.34,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.965
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s076": {
+      "heard": "Subway's new owners plan to open only about 100 new American stores this year while signing a deal for 4,000 in China. Which leaves one question, can a chain shrink its way back to health? And if it can, who pays for it?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 61,
+        "rate": 4.31,
+        "wpm": 190.9,
+        "lead_silence": 0.06,
+        "silences": [
+          0.28,
+          0.4,
+          0.3,
+          0.32,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.885
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "American",
+        "China"
+      ],
+      "attempts": []
+    },
+    "s077": {
+      "heard": "If you'll never look at a foot long the same way again, that's what this channel does. The economics nobody explains, one company at a time. Subscribe and you'll get the next one.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 45,
+        "rate": 4.28,
+        "wpm": 182.5,
+        "lead_silence": 0.02,
+        "silences": [
+          0.28,
+          0.3,
+          0.26,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.928
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    }
+  }
+}
