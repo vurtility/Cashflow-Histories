@@ -190,7 +190,8 @@ def fetch_tvnews(w, dest_dir):
             raw = Path(td) / "raw.mp4"
             download(f"https://archive.org/download/{w['ref']}/{w['ref']}.mp4?t={a}/{b}", raw)
             subprocess.run([shutil.which("ffmpeg") or "ffmpeg", "-v", "error", "-y", "-ss", f"{s - a:.2f}",
-                            "-i", str(raw), "-t", f"{e - s:.2f}", *(["-vf", w["vf"]] if w.get("vf") else []), "-c:v", "libx264", "-crf", "18",
+                            "-i", str(raw), "-t", f"{e - s:.2f}", *(["-vf", w["vf"]] if w.get("vf") else []),
+                            *(["-af", w["af"]] if w.get("af") else []), "-c:v", "libx264", "-crf", "18",
                             "-preset", "medium", "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart",
                             str(local)], check=True)
     m = re.match(r"([A-Z0-9]+?)W?_(\d{4})(\d{2})(\d{2})_\d+_(.+)", w["ref"])

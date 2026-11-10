@@ -33,4 +33,5 @@ If this is a fresh checkout, run `./setup.sh` first.
   - Voiceover: `production/episodes/subway/` (10.7 min, 77/77 QA pass).
   - Edit: rough cut v3. Real voices 7% (DeLuca CNBC 2013, Chidsey Fox Business 2020, CBS Roark 2023, Cancro Bloomberg 2014 and Fox Business 2021, the 2011 jingle), all from the TV News Archive.
   - Footage: news b-roll (CBS 2012 store footage, ABC 2018 closures, ABC 2023 slicers, Jersey Mike's 2024 ad with Cancro) added only where it matches the words. Real footage is 25%. The owner decided not to force the 40–50% target: the remaining chart time is explanation footage can't do. The TV News Archive index has nothing yet after 2024 (no Jersey Mike's IPO coverage).
+  - Review copy v3 sent (540p; real-voice clips loudness-normalised at fetch via "af"). Render the 1080p master at publish.
   - Next: owner review of rough cut v3; resolve ⚠️ fact-check items; thumbnail.
