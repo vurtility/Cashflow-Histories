@@ -34,25 +34,25 @@ UA = {"User-Agent": "CashflowHistories-assets/0.1 (documentary research; low vol
 OPEN_LICENCES = ("cc0", "public domain", "cc by", "pdm", "no restrictions")
 
 
-def _open(url, timeout):
+def _open(url, timeout, retries=6):
     """urlopen with polite retries: Wikimedia answers 429 when requests come too fast."""
     import time
     import urllib.error
-    for attempt in range(6):
+    for attempt in range(retries):
         try:
             return urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=timeout)
         except urllib.error.HTTPError as e:
-            if e.code not in (429, 500, 502, 503) or attempt == 5:
+            if e.code not in (429, 500, 502, 503) or attempt == retries - 1:
                 raise
             time.sleep(int(e.headers.get("Retry-After") or 0) or 5 * 2 ** attempt)
         except (urllib.error.URLError, ConnectionError, TimeoutError):  # GDELT drops connections at times
-            if attempt == 5:
+            if attempt == retries - 1:
                 raise
             time.sleep(3 * 2 ** attempt)
 
 
-def get_json(url):
-    with _open(url, 60) as r:
+def get_json(url, retries=6):
+    with _open(url, 60, retries) as r:
         return json.loads(r.read())
 
 
@@ -127,11 +127,61 @@ def cmd_search(terms):
 
 
 # ---------- fetch ----------
+def _licence_from_wikitext(text):
+    """Licence name from a Commons file page's licence templates, e.g. {{cc-by-sa-2.0}} → CC BY-SA 2.0."""
+    t = text.lower()
+    m = re.search(r"\{\{(?:self\|)?(cc-(?:by(?:-sa)?|zero)(?:-[\d.]+)?)", t)
+    if m:
+        code = m.group(1)
+        if code == "cc-zero":
+            return "CC0"
+        parts = code.split("-")[1:]  # ["by", "sa", "2.0"]
+        ver = parts[-1] if re.match(r"[\d.]+$", parts[-1]) else ""
+        kind = "-".join(p.upper() for p in parts if not re.match(r"[\d.]+$", p))
+        return f"CC {kind} {ver}".strip()
+    if re.search(r"\{\{(pd-|public domain|pd\b)", t):
+        return "Public domain"
+    return "unknown"
+
+
+def fetch_commons_noapi(w, dest_dir):
+    """Fallback when Wikimedia rate-limits the API: the file's raw wikitext for author and licence, and
+    Special:FilePath for the image (a PNG render for SVGs). Neither goes through api.php."""
+    name = w["ref"].split(":", 1)[1].replace(" ", "_")
+    page_url = "https://commons.wikimedia.org/wiki/File:" + urllib.parse.quote(name)
+    with _open("https://commons.wikimedia.org/w/index.php?" + urllib.parse.urlencode(
+            {"title": "File:" + name, "action": "raw"}), 60) as r:
+        text = r.read().decode("utf-8", "replace")
+    m = re.search(r"\|\s*author\s*=\s*(.+)", text, re.I)
+    author = "unknown"
+    if m:
+        author = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]*)\]\]", r"\1", m.group(1))       # [[link|name]] → name
+        author = re.sub(r"\[\S+\s+([^\]]*)\]", r"\1", author)                     # [url name] → name
+        author = re.sub(r"\{\{[^}]*\}\}", "", author).strip(" '|") or "unknown"
+    lic = _licence_from_wikitext(text)
+    src = "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(name) + f"?width={w.get('width', 1920)}"
+    is_svg = name.lower().endswith(".svg")
+    ext = ".png" if is_svg or name.lower().endswith(".png") else ".jpg"
+    local = dest_dir / f"{w['id']}{ext}"
+    if not local.exists():
+        download(src, local)
+    basis = w.get("basis") or (f"licence: {lic}" if any(k in lic.lower() for k in OPEN_LICENCES)
+                               else f"CHECK: licence '{lic}'")
+    credit = w.get("credit") or (f"Wikimedia Commons · {lic}" if lic.lower() in ("public domain", "cc0")
+                                 else f"{author[:60]} · Wikimedia Commons · {lic}")
+    return local, {"title": w["ref"], "page": page_url, "file_url": src, "licence": lic, "licence_url": "",
+                   "author": author, "basis": basis, "credit": credit, "kind": "image"}
+
+
 def fetch_commons(w, dest_dir):
     url = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode({
         "action": "query", "titles": w["ref"], "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime",
-        "iiurlwidth": w.get("width", 2400), "format": "json"})
-    page = next(iter(get_json(url)["query"]["pages"].values()))
+        "iiurlwidth": w.get("width", 1920), "format": "json"})
+    try:
+        data = get_json(url, retries=1)
+    except (urllib.error.HTTPError, json.JSONDecodeError):  # 429 / "too many requests" page
+        return fetch_commons_noapi(w, dest_dir)
+    page = next(iter(data["query"]["pages"].values()))
     if "imageinfo" not in page:
         raise RuntimeError(f"not found on Commons: {w['ref']}")
     ii = page["imageinfo"][0]
