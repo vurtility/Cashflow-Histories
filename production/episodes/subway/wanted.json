@@ -283,5 +283,104 @@
   "from": "commons",
   "ref": "File:A SUBWAY RESTAURANT AT BINHE BOULEVARD, SHENZHEN.jpg",
   "use": "Subway in China"
+ },
+ {
+  "id": "sot_jingle_2011",
+  "from": "tvnews",
+  "ref": "WJLA_20111019_040000_Jimmy_Kimmel_Live",
+  "t": [
+   2953.0,
+   2959.8
+  ],
+  "archival": true,
+  "use": "sot: $5 footlong jingle (as aired, Oct 2011)",
+  "credit": "Subway TV ad, as aired Oct 2011 · TV News Archive",
+  "basis": "fair use: 7s excerpt of the brand's own ad, as aired, used to identify the campaign under discussion; commentary, transformed"
+ },
+ {
+  "id": "sot_deluca_2013",
+  "from": "tvnews",
+  "ref": "CNBC_20130227_140000_Squawk_on_the_Street",
+  "t": [
+   4698.3,
+   4707.8
+  ],
+  "use": "sot: Fred DeLuca on value",
+  "credit": "CNBC, Squawk on the Street, 27 Feb 2013 · TV News Archive",
+  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "news_deluca_death_2015",
+  "from": "tvnews",
+  "ref": "KPIX_20150916_110000_CBS_Morning_News",
+  "t": [
+   1003.4,
+   1011.0
+  ],
+  "archival": true,
+  "use": "b-roll: DeLuca death report",
+  "credit": "CBS Morning News, 16 Sep 2015 · TV News Archive",
+  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "sot_chidsey_2020",
+  "from": "tvnews",
+  "ref": "FBC_20200429_100000_Mornings_With_Maria_Bartiromo",
+  "t": [
+   6396.9,
+   6403.5
+  ],
+  "use": "sot: Subway CEO on franchisees",
+  "credit": "Fox Business, Mornings with Maria, 29 Apr 2020 · TV News Archive",
+  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "sot_cbs_roark_2023",
+  "from": "tvnews",
+  "ref": "KPIX_20230824_223000_CBS_Evening_News_With_Norah_ODonnell",
+  "t": [
+   1482.5,
+   1488.8
+  ],
+  "use": "sot: Roark sale news",
+  "credit": "CBS Evening News, 24 Aug 2023 · TV News Archive",
+  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "vf": "crop=528:356:0:60,scale=640:356,setsar=1"
+ },
+ {
+  "id": "sot_cancro_2014",
+  "from": "tvnews",
+  "ref": "BLOOMBERG_20140613_010000_Taking_Stock_With_Pimm_Fox",
+  "t": [
+   3212.7,
+   3220.3
+  ],
+  "use": "sot: Cancro on his coach-banker",
+  "credit": "Bloomberg TV, Taking Stock, 12 Jun 2014 · TV News Archive",
+  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "sot_cancro_2021",
+  "from": "tvnews",
+  "ref": "FBC_20211014_190000_The_Claman_Countdown",
+  "t": [
+   2331.1,
+   2337.6
+  ],
+  "use": "sot: Cancro on per-store sales",
+  "credit": "Fox Business, The Claman Countdown, 14 Oct 2021 · TV News Archive",
+  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "deluca_2013_cam",
+  "from": "tvnews",
+  "ref": "CNBC_20130227_140000_Squawk_on_the_Street",
+  "t": [
+   4663.0,
+   4670.0
+  ],
+  "use": "held frame of DeLuca on camera, under his own 2013 answer (CNBC cut to charts during it)",
+  "credit": "CNBC, Squawk on the Street, 27 Feb 2013 · TV News Archive",
+  "basis": "fair use: a single held frame from the same interview, identifying the speaker; commentary"
  }
 ]

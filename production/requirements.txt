@@ -1,4 +1,5 @@
 faster-whisper==1.2.1
+av>=14,<17  # faster-whisper 1.2.1 passes metadata_errors, which PyAV 17+ removed
 num2words==0.5.14
 numpy
 opencv-python-headless

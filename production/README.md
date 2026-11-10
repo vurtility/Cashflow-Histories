@@ -30,6 +30,8 @@ After a short punch line: 0.6s · before a short reveal line: 0.55s · after a q
 Write a real person's clip on its own line in the script:
 `[SOT 8s: Fred DeLuca, founder — "exact words" | CNBC, 2010]`
 It isn't voiced by ElevenLabs. The timeline reserves its 8 seconds (with short beats either side), the QA skips it, and the preview has silence there until the clip is cut in. Takes are matched by their text, so adding or moving clips never re-records existing narration.
+In `edit.json`, give the clip line `{"k": "sot", "a": "<clip asset>", "name": "…", "role": "…"}`. It plays at full volume with a name super. Add `"pic": "<asset>", "picAt": <seconds>` to hold a frame of the speaker instead, for when the broadcast cut to graphics mid-answer.
+**Segment IDs are positional:** adding a clip renumbers every later line, so remap `edit.json` keys by line text afterwards.
 
 # Production: footage and edit
 
@@ -38,7 +40,7 @@ It isn't voiced by ElevenLabs. The timeline reserves its 8 seconds (with short b
 .venv/bin/python fetch_assets.py search "c:Subway restaurant" "i:subway commercial mediatype:movies"
 .venv/bin/python fetch_assets.py fetch episodes/<episode>
 ```
-`c:` searches Wikimedia Commons (free-licensed photos, logos, maps) and `i:` searches Internet Archive (vintage TV ads, news). List what you want in `episodes/<episode>/wanted.json`. `fetch` downloads it and copies it into the Remotion project. It also writes **`assets.json`**, the asset log: source page, author, licence, the basis for using it (licence or fair-use reason), size and length. Flags: `"stock": true` counts toward the 10% cap, and `"archival": true` counts as archival. `credits.txt` is the attribution block for the video description, which CC BY and BY-SA licences require.
+`c:` searches Wikimedia Commons (free-licensed photos, logos, maps) `i:` searches Internet Archive (vintage TV ads, news), and `tv:` searches TV News Archive captions (CNBC, Fox Business, Bloomberg, CNN, network and local news, July 2009 on), giving the item and the second the words were said. A `"from": "tvnews"` entry with `"t": [start, end]` fetches that excerpt and cuts it exactly; the archive refuses excerpts under 10s, so the tool pads and trims. `"vf"` passes an ffmpeg filter (e.g. a crop for letterboxed broadcasts). List what you want in `episodes/<episode>/wanted.json`. `fetch` downloads it and copies it into the Remotion project. It also writes **`assets.json`**, the asset log: source page, author, licence, the basis for using it (licence or fair-use reason), size and length. Flags: `"stock": true` counts toward the 10% cap, and `"archival": true` counts as archival. `credits.txt` is the attribution block for the video description, which CC BY and BY-SA licences require.
 
 ## 2. Plan the edit (`episodes/<episode>/edit.json`)
 For each narration line, list the shots under it:
@@ -65,6 +67,9 @@ This writes the frame-exact shot list for Remotion and **`edit-report.md`**:
 ```
 cd ../studio && npx remotion bundle src/index.ts --out-dir build
 npx remotion render build Episode-<episode> ../production/episodes/<episode>/<episode>-roughcut.mp4
+# Cloud sessions: Remotion can't download its own browser there, and headless-shell rejects the proxy's
+# certificate (brand fonts then fail to load). Add:
+#   --browser-executable=/opt/pw-browsers/chromium-1243/chrome-linux64/chrome --chrome-mode=chrome-for-testing
 ```
 Preview and scrub with `npx remotion studio`. A 10-minute episode renders at 1080p in a few minutes.
 

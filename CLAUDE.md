@@ -9,7 +9,7 @@ If this is a fresh checkout, run `./setup.sh` first.
 2. **Voiceover**: `cd production && .venv/bin/python produce_voiceover.py ../<episode>-script.md <episode>`. This runs ElevenLabs takes, automatic pronunciation and pacing QA with retakes, speech trimming, the timeline and a preview MP3. Only changed lines are re-recorded.
 3. **Footage**: `fetch_assets.py search …`, list items in `episodes/<episode>/wanted.json`, then `fetch_assets.py fetch episodes/<episode>`. Every asset is logged in `assets.json` with its licence or fair-use basis.
 4. **Edit**: write `episodes/<episode>/edit.json` (the shots under each narration line, cutting on spoken phrases), then `build_shots.py episodes/<episode>`. Read `edit-report.md` to check the mix against the targets.
-5. **Render**: `cd studio && npx remotion bundle src/index.ts --out-dir build && npx remotion render build Episode-<episode> ../production/episodes/<episode>/<episode>-roughcut.mp4`. For a phone-friendly review copy, transcode to 720p with `npx remotion ffmpeg` (keep it under 30 MB for phone delivery, e.g. 540p at CRF 32).
+5. **Render**: `cd studio && npx remotion bundle src/index.ts --out-dir build && npx remotion render build Episode-<episode> ../production/episodes/<episode>/<episode>-roughcut.mp4`. For a phone-friendly review copy, transcode to 720p with `npx remotion ffmpeg` (keep it under 30 MB for phone delivery, e.g. 540p at CRF 32). In cloud sessions add the Chromium flags in `production/README.md`.
 
 `production/README.md` has the details of each tool.
 
@@ -29,7 +29,7 @@ If this is a fresh checkout, run `./setup.sh` first.
 
 ## Status
 - Episode 1, **Subway**:
-  - Script: `subway-script.md`.
-  - Voiceover: `production/episodes/subway/`.
-  - Edit: rough cut v1 rendered from `edit.json`.
-  - Next: news and interview footage plus real-voice clips. These are mostly on YouTube; downloading needs yt-dlp, which was blocked in the original Mac sandbox.
+  - Script: `subway-script.md` (now with 6 real-voice clips).
+  - Voiceover: `production/episodes/subway/` (10.7 min, 77/77 QA pass).
+  - Edit: rough cut v3. Real voices 7% (DeLuca CNBC 2013, Chidsey Fox Business 2020, CBS Roark 2023, Cancro Bloomberg 2014 and Fox Business 2021, the 2011 jingle), all from the TV News Archive.
+  - Next: real footage is 24% against 40–50%. Pull news b-roll (store exteriors, kitchens, Jersey Mike's IPO) from the TV News Archive (`fetch_assets.py search "tv:…"`). YouTube blocks downloads from cloud IPs ("confirm you're not a bot"); it would need the owner's cookies.

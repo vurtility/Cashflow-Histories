@@ -1,6 +1,6 @@
 {
   "median_db": -14.8,
-  "spent_chars": 101,
+  "spent_chars": 0,
   "results": {
     "s001": {
       "heard": "To a day.",
@@ -267,7 +267,7 @@
       "attempts": []
     },
     "s012": {
-      "heard": "DeLuca set a goal, 32 stores in 10 years.",
+      "heard": "DeLuca set a goal. 32 stores in 10 years.",
       "accuracy": 1.0,
       "issues": [],
       "pace": {
@@ -852,7 +852,7 @@
       ],
       "attempts": []
     },
-    "s037": {
+    "s038": {
       "heard": "In its first full year, it was credited with around $3.8 billion of sales.",
       "accuracy": 1.0,
       "issues": [],
@@ -872,7 +872,7 @@
       "risky": [],
       "attempts": []
     },
-    "s038": {
+    "s039": {
       "heard": "The most famous deal in fast food was invented by a franchisee trying to fix a slow weekend.",
       "accuracy": 1.0,
       "issues": [],
@@ -892,7 +892,7 @@
       "risky": [],
       "attempts": []
     },
-    "s039": {
+    "s040": {
       "heard": "But a $5 foot long has one problem, customers expect it to stay $5.",
       "accuracy": 1.0,
       "issues": [],
@@ -914,7 +914,7 @@
       "risky": [],
       "attempts": []
     },
-    "s040": {
+    "s042": {
       "heard": "Year after year, food got more expensive. Wages went up. Rent went up. The price people expected from Subway didn't.",
       "accuracy": 1.0,
       "issues": [],
@@ -938,7 +938,7 @@
       ],
       "attempts": []
     },
-    "s041": {
+    "s043": {
       "heard": "And then, in 2015, everything went wrong at once. Sales were falling. Co-founder Fred DeLuca died, and Subway's longtime spokesman pleaded guilty to child sex abuse charges.",
       "accuracy": 1.0,
       "issues": [],
@@ -967,7 +967,7 @@
       ],
       "attempts": []
     },
-    "s042": {
+    "s044": {
       "heard": "The next year, Subway's store count went down for the first time in its history.",
       "accuracy": 1.0,
       "issues": [],
@@ -989,7 +989,7 @@
       ],
       "attempts": []
     },
-    "s043": {
+    "s045": {
       "heard": "It hasn't gone up since.",
       "accuracy": 1.0,
       "issues": [],
@@ -1009,7 +1009,7 @@
       "risky": [],
       "attempts": []
     },
-    "s044": {
+    "s046": {
       "heard": "10 straight years of shrinking. About 8,300 fewer subways than at the peak. 729 in 2025 alone.",
       "accuracy": 1.0,
       "issues": [],
@@ -1035,7 +1035,7 @@
       ],
       "attempts": []
     },
-    "s045": {
+    "s047": {
       "heard": "Here's why so many close. The average McDonald's in America sells about $4 million a year. The average Jersey Mike's? About $1.4 million.",
       "accuracy": 1.0,
       "issues": [],
@@ -1063,7 +1063,7 @@
       ],
       "attempts": []
     },
-    "s046": {
+    "s048": {
       "heard": "The average subway? Around 500,000.",
       "accuracy": 1.0,
       "issues": [],
@@ -1087,7 +1087,7 @@
       ],
       "attempts": []
     },
-    "s047": {
+    "s049": {
       "heard": "Take 12.5% off the top, and that's $62,500 a year before the owner has paid for a single slice of bread, a single wage, or a single month's rent.",
       "accuracy": 1.0,
       "issues": [],
@@ -1109,10 +1109,16 @@
       "risky": [],
       "attempts": []
     },
-    "s048": {
-      "heard": "Then, in 2024, corporate tried to win customers back with a $6.99 foot long.",
+    "s050": {
+      "heard": "Then, in 2024, corporate tried to win customers back with a 699-foot long.",
       "accuracy": 1.0,
-      "issues": [],
+      "issues": [
+        {
+          "type": "insert",
+          "expected": "",
+          "heard": "hundred"
+        }
+      ],
       "pace": {
         "syllables": 21,
         "rate": 3.41,
@@ -1133,7 +1139,7 @@
       ],
       "attempts": []
     },
-    "s049": {
+    "s051": {
       "heard": "The Franchisees Association told its members to opt out. Most older contracts allowed that. Newer franchisees couldn't.",
       "accuracy": 1.0,
       "issues": [],
@@ -1156,7 +1162,7 @@
       "risky": [],
       "attempts": []
     },
-    "s050": {
+    "s052": {
       "heard": "One owner said the deal made up about a fifth of his sales, with no extra customers to show for it.",
       "accuracy": 1.0,
       "issues": [],
@@ -1176,8 +1182,8 @@
       "risky": [],
       "attempts": []
     },
-    "s051": {
-      "heard": "Subway's position was that it has to make decisions for the good of the whole system. It calls the closures, right-sizing, moving stores to locations where franchisees can succeed long term.",
+    "s053": {
+      "heard": "Subway's position was that it has to make decisions for the good of the whole system. It calls the closures right-sizing, moving stores to locations where franchisees can succeed long term.",
       "accuracy": 1.0,
       "issues": [],
       "pace": {
@@ -1199,7 +1205,7 @@
       "risky": [],
       "attempts": []
     },
-    "s052": {
+    "s055": {
       "heard": "But some of the biggest operators haven't made it. One franchisee with 48 stores went bankrupt in 2024. Another with 43 filed this year.",
       "accuracy": 1.0,
       "issues": [],
@@ -1224,7 +1230,7 @@
       ],
       "attempts": []
     },
-    "s053": {
+    "s056": {
       "heard": "so Subway must be in serious trouble. Fewer stores, falling royalties, franchisees going under.",
       "accuracy": 1.0,
       "issues": [],
@@ -1249,8 +1255,8 @@
       ],
       "attempts": []
     },
-    "s054": {
-      "heard": "Except it isn't.",
+    "s057": {
+      "heard": "Except, it isn't.",
       "accuracy": 1.0,
       "issues": [],
       "pace": {
@@ -1269,7 +1275,7 @@
       "risky": [],
       "attempts": []
     },
-    "s055": {
+    "s058": {
       "heard": "Every year, Subway has to publish a franchise disclosure document for anyone thinking of buying a franchise. Inside are the company's own accounts.",
       "accuracy": 1.0,
       "issues": [],
@@ -1293,8 +1299,8 @@
       ],
       "attempts": []
     },
-    "s056": {
-      "heard": "In 2023, Subway's net income was $15 million, in 2024, $397 million, in 2025, $688 million.",
+    "s059": {
+      "heard": "In 2023, Subway's net income was $15 million. In 2024, $397 million. In 2025, $688 million.",
       "accuracy": 1.0,
       "issues": [],
       "pace": {
@@ -1320,7 +1326,7 @@
       ],
       "attempts": []
     },
-    "s057": {
+    "s060": {
       "heard": "about 46 times more profit in two years.",
       "accuracy": 1.0,
       "issues": [],
@@ -1340,7 +1346,7 @@
       "risky": [],
       "attempts": []
     },
-    "s058": {
+    "s061": {
       "heard": "Over the same period, Subway's franchise revenue went down, fewer stores paying royalties.",
       "accuracy": 1.0,
       "issues": [],
@@ -1364,7 +1370,7 @@
       ],
       "attempts": []
     },
-    "s059": {
+    "s062": {
       "heard": "The filing puts the jump down to lower operating expenses. Subway corporate got a lot cheaper to run.",
       "accuracy": 1.0,
       "issues": [],
@@ -1383,17 +1389,10 @@
       },
       "problems": [],
       "score": 1.0,
-      "attempts": [
-        {
-          "plan": "new take",
-          "accuracy": 1.0,
-          "problems": []
-        }
-      ],
       "risky": [],
-      "fixed_by": "new take"
+      "attempts": []
     },
-    "s060": {
+    "s063": {
       "heard": "Remember the deal from 1974? Subway takes its slice off the top of every sale, from every store.",
       "accuracy": 1.0,
       "issues": [],
@@ -1417,7 +1416,7 @@
       ],
       "attempts": []
     },
-    "s061": {
+    "s064": {
       "heard": "So, when a weak store closes, Subway loses a small royalty. The franchisee loses everything they put in.",
       "accuracy": 1.0,
       "issues": [],
@@ -1441,7 +1440,7 @@
       ],
       "attempts": []
     },
-    "s062": {
+    "s065": {
       "heard": "And there's a reason the company got leaner when it did. In 2023, the DeLuca family and Peter Bucks Foundation agreed to sell Subway to the private equity firm Rork Capital for up to $9.55 billion.",
       "accuracy": 0.949,
       "issues": [
@@ -1475,7 +1474,7 @@
       ],
       "attempts": []
     },
-    "s063": {
+    "s067": {
       "heard": "The founding families got paid. Roark got a machine that takes a slice of tens of thousands of stores' sales. The people paying for the closures are the franchisees.",
       "accuracy": 1.0,
       "issues": [],
@@ -1498,7 +1497,7 @@
       "risky": [],
       "attempts": []
     },
-    "s064": {
+    "s068": {
       "heard": "Subway isn't dying, its restaurants are.",
       "accuracy": 1.0,
       "issues": [],
@@ -1520,7 +1519,7 @@
       "risky": [],
       "attempts": []
     },
-    "s065": {
+    "s069": {
       "heard": "which brings us back to the other 17-year-old.",
       "accuracy": 1.0,
       "issues": [],
@@ -1540,7 +1539,7 @@
       "risky": [],
       "attempts": []
     },
-    "s066": {
+    "s070": {
       "heard": "In 1975, a high school senior named Peter Kancrow wanted to buy the sub-shop where he worked. He was too young to legally use the meat slicer. His old football coach, who happened to be a banker, backed a loan for $125,000.",
       "accuracy": 1.0,
       "issues": [],
@@ -1567,7 +1566,7 @@
       ],
       "attempts": []
     },
-    "s067": {
+    "s072": {
       "heard": "That shop became Jersey Mike's, and it grew slowly. Fifty years later, it has about 3,400 stores, roughly a sixth of Subway's American footprint.",
       "accuracy": 1.0,
       "issues": [],
@@ -1594,7 +1593,7 @@
       ],
       "attempts": []
     },
-    "s068": {
+    "s073": {
       "heard": "but each one sells nearly three times as much as the average subway.",
       "accuracy": 1.0,
       "issues": [],
@@ -1616,7 +1615,7 @@
       ],
       "attempts": []
     },
-    "s069": {
+    "s075": {
       "heard": "In July this year, Jersey Mikes went public at a value of about $7.3 billion.",
       "accuracy": 1.0,
       "issues": [],
@@ -1639,7 +1638,7 @@
       ],
       "attempts": []
     },
-    "s070": {
+    "s076": {
       "heard": "Divide what each company was valued at by its number of stores. Each Subway restaurant was valued at around $260,000. Each Jersey Mike's at over $2 million.",
       "accuracy": 1.0,
       "issues": [],
@@ -1665,7 +1664,7 @@
       ],
       "attempts": []
     },
-    "s071": {
+    "s077": {
       "heard": "roughly 8 times as much.",
       "accuracy": 1.0,
       "issues": [],
@@ -1685,7 +1684,7 @@
       "risky": [],
       "attempts": []
     },
-    "s072": {
+    "s078": {
       "heard": "So, let's go back to the question. How does Subway close two restaurants a day and make more money than it has in years?",
       "accuracy": 1.0,
       "issues": [],
@@ -1710,7 +1709,7 @@
       ],
       "attempts": []
     },
-    "s073": {
+    "s079": {
       "heard": "Because the thing Subway sells was never really sandwiches, it sells the right to sell its sandwiches, and it takes 12.5% of everyone.",
       "accuracy": 1.0,
       "issues": [],
@@ -1735,7 +1734,7 @@
       ],
       "attempts": []
     },
-    "s074": {
+    "s080": {
       "heard": "That model built the biggest restaurant chain in America, one store at a time, and often one store too close to the last. And it means Subway's corporate profits and its franchisees' livelihoods can move in completely opposite directions.",
       "accuracy": 1.0,
       "issues": [],
@@ -1763,7 +1762,7 @@
       ],
       "attempts": []
     },
-    "s075": {
+    "s081": {
       "heard": "Two 17-year-olds. One built the most stores. The other built better ones. 50 years later, the market has decided which was worth more.",
       "accuracy": 1.0,
       "issues": [],
@@ -1787,7 +1786,7 @@
       "risky": [],
       "attempts": []
     },
-    "s076": {
+    "s082": {
       "heard": "Subway's new owners plan to open only about 100 new American stores this year while signing a deal for 4,000 in China. Which leaves one question, can a chain shrink its way back to health? And if it can, who pays for it?",
       "accuracy": 1.0,
       "issues": [],
@@ -1816,8 +1815,8 @@
       ],
       "attempts": []
     },
-    "s077": {
-      "heard": "If you'll never look at a foot long the same way again, that's what this channel does. The economics nobody explains, one company at a time. Subscribe and you'll get the next one.",
+    "s083": {
+      "heard": "If you'll never look at a footlong the same way again, that's what this channel does. The economics nobody explains, one company at a time. Subscribe and you'll get the next one.",
       "accuracy": 1.0,
       "issues": [],
       "pace": {

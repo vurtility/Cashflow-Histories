@@ -246,6 +246,7 @@ The lines went out the door.
 
 `[GFX: timeline: 2004 → "Sept 2007: a development agent hears about it" → "March 2008: national"]`
 Three years later, a development agent heard about it. In March 2008, the five-dollar footlong went national, with a jingle you probably still can't get out of your head.
+`[SOT 6.8s: Subway TV ad — "Five, five dollar, five dollar footlong" (sung) | Subway ad as aired, Oct 2011]`
 
 `[GFX: "$3.8 billion" counter. Label: "Sales, year to Aug 2009 (NPD via NBC News)"]`
 In its first full year, it was credited with around three point eight billion dollars of sales.
@@ -253,6 +254,7 @@ The most famous deal in fast food was invented by a franchisee, trying to fix a 
 
 `[VISUAL: beat]`
 But a five-dollar footlong has one problem. Customers expect it to stay five dollars.
+`[SOT 9.5s: Fred DeLuca, Subway co-founder — "I think for consumers it's really all about value nowadays. People have limited amount of money to spend. They have to get good value wherever they spend their money." | CNBC, Feb 2013]`
 
 `[GFX: price card $5 frozen while "food cost", "wages", "rent" bars rise behind it]`
 Year after year, food got more expensive. Wages went up. Rent went up. The price people expected from Subway didn't.
@@ -287,6 +289,7 @@ One owner said the deal made up about a fifth of his sales, with no extra custom
 
 `[QUOTE: Subway: "…the greatest benefit to the entire Subway system"]`
 Subway's position was that it has to make decisions for the good of the whole system. It calls the closures "rightsizing": moving stores to locations where franchisees can succeed long-term.
+`[SOT 6.6s: John Chidsey, Subway CEO — "We're literally made up of franchisees that have two to three restaurants. So we are the ultimate small business owner, 100% franchised." | Fox Business, Apr 2020]`
 
 `[GFX: bankruptcy stamps: "River Sub · 48 stores · 2024" · "MTF Enterprises · 43 stores · 2026"]`
 But some of the biggest operators haven't made it. One franchisee with forty-eight stores went bankrupt in 2024. Another with forty-three filed this year.
@@ -322,6 +325,7 @@ So when a weak store closes, Subway loses a small royalty. The franchisee loses 
 
 `[GFX: "Aug 2023: Roark Capital agrees to buy Subway · up to $9.55B" → stamp "Completed 2024"]`
 And there's a reason the company got leaner when it did. In 2023, the DeLuca family and Peter Buck's foundation agreed to sell Subway to the private equity firm Roark Capital for up to nine point five five billion dollars.
+`[SOT 6.3s: Norah O'Donnell, CBS News — "Subway, the giant sandwich chain, is about to be sold. The price tag, nearly $10 billion." | CBS Evening News, Aug 2023]`
 The founding families got paid. Roark got a machine that takes a slice of tens of thousands of stores' sales. The people paying for the closures are the franchisees.
 
 `[VISUAL: line card: "Subway isn't dying. Its restaurants are."]`
@@ -336,6 +340,7 @@ Which brings us back to the other seventeen-year-old.
 
 `[GFX: a football and a loan document. "$125,000 · from his old football coach (a banker)"]`
 In 1975, a high-school senior named Peter Cancro wanted to buy the sub shop where he worked. He was too young to legally use the meat slicer. His old football coach, who happened to be a banker, backed a loan for a hundred and twenty-five thousand dollars.
+`[SOT 7.6s: Peter Cancro, Jersey Mike's founder — "So, ironically, a football coach of mine, a youth football coach, was a banker, and, you know, he said 'I think I could do something,' and he did." | Bloomberg TV, Jun 2014]`
 ◆ **L2 CLOSED**
 
 `[GFX: slow store-count line: 1975 → ~3,400 (2026)]`
@@ -343,6 +348,7 @@ That shop became Jersey Mike's. And it grew slowly. Fifty years later, it has ab
 
 `[GFX: the per-store bars again: Jersey Mike's ~$1.37M vs Subway ~$500K]`
 But each one sells nearly three times as much as the average Subway.
+`[SOT 6.5s: Peter Cancro, Jersey Mike's CEO — "We're up over 40% in sales for individual owners, which is just incredible." | Fox Business, Oct 2021]`
 
 `[GFX: July 2026: "NYSE: JMKE · IPO at $23 · ≈ $7.3B"]`
 In July this year, Jersey Mike's went public at a value of about seven point three billion dollars.
@@ -459,6 +465,10 @@ If you'll never look at a footlong the same way again, that's what this channel 
 | ~37,000 Subway stores worldwide | ⚠️ | Third-party estimates (36–37K) | Value per store labelled approximate |
 | ~100 US openings planned for 2026; 4,000-store China deal | ✅ | Restaurant Dive; Fox Business | — |
 | Tuna and footlong-length lawsuits | — | Not used in the narration (texture only, if needed) | Statuses not verified, so not stated |
+| Real-voice clips: wording of all six quotes | ✅ | Transcribed from the broadcast excerpts themselves (TV News Archive: CNBC 27 Feb 2013; Fox Business 29 Apr 2020 and 14 Oct 2021; CBS Evening News 24 Aug 2023; Bloomberg 12 Jun 2014; Subway ad as aired Oct 2011) | Quotes are verbatim; each is labelled with speaker, outlet and year on screen |
+| CBS 2023: "nearly $10 billion" | ✅ | CBS Evening News, 24 Aug 2023, citing WSJ | Narration keeps the precise "up to $9.55B"; the clip is the contemporary headline |
+| Cancro 2021: sales "up over 40% for individual owners" since Jan 2020 | ⚠️ | Cancro's own claim on Fox Business, 14 Oct 2021 | Presented as his claim, with outlet and year |
+| Chidsey 2020: franchisees typically own two to three restaurants | ⚠️ | Subway CEO on Fox Business, 29 Apr 2020 | Presented as Subway's own description |
 
 ### Sources
 - Restaurant Dive, Subway closures and FDD financials: https://www.restaurantdive.com/news/subway-closes-3k-units-since-2021/819216/

@@ -115,7 +115,7 @@ def main(ep: Path):
         dur = s["end"] - s["start"]
         p = dict(s["props"])
         cat = CATEGORY.get(s["kind"], "text")
-        for key in ("a", "left_a", "right_a"):
+        for key in ("a", "left_a", "right_a", "pic"):
             if key in p:
                 aid = p[key]
                 if aid not in assets:
@@ -124,7 +124,8 @@ def main(ep: Path):
                 rec = assets[aid]
                 p[key] = {"id": aid, "src": f"{ep.name}/assets/{Path(rec['local']).name}", "credit": rec["credit"],
                           "kind": rec["kind"], "w": rec.get("w"), "h": rec.get("h")}
-                per_asset[aid] += dur
+                if key != "pic":
+                    per_asset[aid] += dur
                 if key == "a" and rec.get("stock"):
                     cat = "stock"
                 elif key == "a" and rec.get("archival") and cat == "real":

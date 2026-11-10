@@ -1,6 +1,6 @@
 // Every scene type an edit plan can call (the "k" in edit.json). Each gets its props plus `dur` (frames).
 import React from 'react';
-import {AbsoluteFill, Img, OffthreadVideo, interpolate, staticFile, useCurrentFrame} from 'remotion';
+import {AbsoluteFill, Audio, Freeze, Img, OffthreadVideo, interpolate, staticFile, useCurrentFrame} from 'remotion';
 import {Asset, AssetImg, Bug, Caption, FootageFrame, INK, InkBar, Over, Plate, Sheet, Wordmark, dots, fmt, marker, slab, type, usePop, useT} from './kit';
 import usdots from './data/usdots.json';
 
@@ -676,14 +676,40 @@ const End: React.FC<P> = ({print}) => {
   );
 };
 
-const Sot: React.FC<P> = ({text, print}) => (
-  <Sheet print={print} bg={INK.ink}>
-    <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center', padding: 200}}>
-      <T size={40} bold color={INK.yellow}>REAL-VOICE CLIP GOES HERE</T>
-      <T size={34} color={INK.paper} style={{marginTop: 30, textAlign: 'center'}}>{text}</T>
-    </AbsoluteFill>
-  </Sheet>
-);
+// A real person's voice at full volume. `a` is the clip (sound and picture); `pic` + `picAt` optionally hold a
+// frame of the speaker instead, for when the broadcast cut away to graphics during the answer.
+const Sot: React.FC<P> = ({a, pic, picAt = 1, from = 0, name, role, text, print, dur}) => {
+  const lt = useT(6, 18);
+  if (!a) {
+    return (
+      <Sheet print={print} bg={INK.ink}>
+        <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center', padding: 200}}>
+          <T size={40} bold color={INK.yellow}>REAL-VOICE CLIP GOES HERE</T>
+          <T size={34} color={INK.paper} style={{marginTop: 30, textAlign: 'center'}}>{text}</T>
+        </AbsoluteFill>
+      </Sheet>
+    );
+  }
+  const start = Math.round(from * 30);
+  return (
+    <FootageFrame credit={a.credit} print={print}>
+      <Plate kb={pic ? 'in' : 'none'} dur={dur}>
+        {(st) => pic
+          ? <Freeze frame={Math.round(picAt * 30)}><OffthreadVideo src={staticFile(pic.src)} muted style={st} /></Freeze>
+          : <OffthreadVideo src={staticFile(a.src)} startFrom={start} volume={1} style={{...st, transform: 'scale(1.02)'}} />}
+      </Plate>
+      {pic && <Audio src={staticFile(a.src)} startFrom={start} />}
+      {name && (
+        <div style={{position: 'absolute', left: 130, bottom: 150, opacity: lt, transform: `translateX(${(1 - lt) * -50}px)`}}>
+          <div style={{background: INK.yellow, padding: '10px 26px 6px', boxShadow: `9px 7px 0 ${INK.pink}`}}>
+            <div style={{fontFamily: slab, fontSize: 54, color: INK.ink, lineHeight: 1.05}}>{name.toUpperCase()}</div>
+          </div>
+          {role && <T size={30} bold color={INK.paper} style={{background: INK.ink, padding: '6px 18px', display: 'inline-block', marginTop: 10}}>{role}</T>}
+        </div>
+      )}
+    </FootageFrame>
+  );
+};
 
 export const SCENES: Record<string, React.FC<P>> = {
   photo: Photo, video: Video, logo: Logo, text: Text, place: Place, person: Person, sign: Sign, handsign: HandSign,

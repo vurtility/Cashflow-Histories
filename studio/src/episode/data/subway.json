@@ -1,6 +1,6 @@
 {
  "fps": 30,
- "durationInFrames": 17904,
+ "durationInFrames": 19239,
  "episode": "subway",
  "print": "001",
  "vo": [
@@ -221,248 +221,248 @@
    "len": 321
   },
   {
-   "src": "subway/vo/s037.mp3",
-   "from": 7579,
+   "src": "subway/vo/s038.mp3",
+   "from": 7789,
    "trim": 2,
    "len": 168
   },
   {
-   "src": "subway/vo/s038.mp3",
-   "from": 7753,
+   "src": "subway/vo/s039.mp3",
+   "from": 7963,
    "trim": 0,
    "len": 185
   },
   {
-   "src": "subway/vo/s039.mp3",
-   "from": 7943,
+   "src": "subway/vo/s040.mp3",
+   "from": 8153,
    "trim": 0,
    "len": 172
   },
   {
-   "src": "subway/vo/s040.mp3",
-   "from": 8121,
+   "src": "subway/vo/s042.mp3",
+   "from": 8622,
    "trim": 0,
    "len": 256
   },
   {
-   "src": "subway/vo/s041.mp3",
-   "from": 8383,
+   "src": "subway/vo/s043.mp3",
+   "from": 8884,
    "trim": 2,
    "len": 393
   },
   {
-   "src": "subway/vo/s042.mp3",
-   "from": 8781,
+   "src": "subway/vo/s044.mp3",
+   "from": 9282,
    "trim": 1,
    "len": 146
   },
   {
-   "src": "subway/vo/s043.mp3",
-   "from": 8935,
+   "src": "subway/vo/s045.mp3",
+   "from": 9436,
    "trim": 0,
    "len": 51
   },
   {
-   "src": "subway/vo/s044.mp3",
-   "from": 9006,
+   "src": "subway/vo/s046.mp3",
+   "from": 9507,
    "trim": 0,
    "len": 297
   },
   {
-   "src": "subway/vo/s045.mp3",
-   "from": 9308,
+   "src": "subway/vo/s047.mp3",
+   "from": 9809,
    "trim": 0,
    "len": 302
   },
   {
-   "src": "subway/vo/s046.mp3",
-   "from": 9619,
+   "src": "subway/vo/s048.mp3",
+   "from": 10120,
    "trim": 1,
    "len": 92
   },
   {
-   "src": "subway/vo/s047.mp3",
-   "from": 9716,
+   "src": "subway/vo/s049.mp3",
+   "from": 10217,
    "trim": 2,
    "len": 339
   },
   {
-   "src": "subway/vo/s048.mp3",
-   "from": 10060,
+   "src": "subway/vo/s050.mp3",
+   "from": 10562,
    "trim": 0,
    "len": 191
   },
   {
-   "src": "subway/vo/s049.mp3",
-   "from": 10257,
+   "src": "subway/vo/s051.mp3",
+   "from": 10758,
    "trim": 1,
    "len": 241
   },
   {
-   "src": "subway/vo/s050.mp3",
-   "from": 10504,
+   "src": "subway/vo/s052.mp3",
+   "from": 11005,
    "trim": 0,
    "len": 176
   },
   {
-   "src": "subway/vo/s051.mp3",
-   "from": 10685,
+   "src": "subway/vo/s053.mp3",
+   "from": 11186,
    "trim": 0,
    "len": 347
   },
   {
-   "src": "subway/vo/s052.mp3",
-   "from": 11037,
+   "src": "subway/vo/s055.mp3",
+   "from": 11742,
    "trim": 2,
    "len": 309
   },
   {
-   "src": "subway/vo/s053.mp3",
-   "from": 11351,
+   "src": "subway/vo/s056.mp3",
+   "from": 12056,
    "trim": 1,
    "len": 213
   },
   {
-   "src": "subway/vo/s054.mp3",
-   "from": 11572,
+   "src": "subway/vo/s057.mp3",
+   "from": 12278,
    "trim": 2,
    "len": 48
   },
   {
-   "src": "subway/vo/s055.mp3",
-   "from": 11641,
+   "src": "subway/vo/s058.mp3",
+   "from": 12346,
    "trim": 0,
    "len": 281
   },
   {
-   "src": "subway/vo/s056.mp3",
-   "from": 11927,
+   "src": "subway/vo/s059.mp3",
+   "from": 12632,
    "trim": 0,
    "len": 384
   },
   {
-   "src": "subway/vo/s057.mp3",
-   "from": 12316,
+   "src": "subway/vo/s060.mp3",
+   "from": 13022,
    "trim": 0,
    "len": 110
   },
   {
-   "src": "subway/vo/s058.mp3",
-   "from": 12431,
+   "src": "subway/vo/s061.mp3",
+   "from": 13136,
    "trim": 1,
    "len": 191
   },
   {
-   "src": "subway/vo/s059.mp3",
-   "from": 12628,
+   "src": "subway/vo/s062.mp3",
+   "from": 13333,
    "trim": 1,
    "len": 192
   },
   {
-   "src": "subway/vo/s060.mp3",
-   "from": 12825,
+   "src": "subway/vo/s063.mp3",
+   "from": 13530,
    "trim": 0,
    "len": 214
   },
   {
-   "src": "subway/vo/s061.mp3",
-   "from": 13044,
+   "src": "subway/vo/s064.mp3",
+   "from": 13749,
    "trim": 1,
    "len": 234
   },
   {
-   "src": "subway/vo/s062.mp3",
-   "from": 13283,
+   "src": "subway/vo/s065.mp3",
+   "from": 13988,
    "trim": 2,
    "len": 450
   },
   {
-   "src": "subway/vo/s063.mp3",
-   "from": 13738,
+   "src": "subway/vo/s067.mp3",
+   "from": 14638,
    "trim": 2,
    "len": 301
   },
   {
-   "src": "subway/vo/s064.mp3",
-   "from": 14048,
+   "src": "subway/vo/s068.mp3",
+   "from": 14948,
    "trim": 0,
    "len": 98
   },
   {
-   "src": "subway/vo/s065.mp3",
-   "from": 14166,
+   "src": "subway/vo/s069.mp3",
+   "from": 15066,
    "trim": 1,
    "len": 83
   },
   {
-   "src": "subway/vo/s066.mp3",
-   "from": 14255,
+   "src": "subway/vo/s070.mp3",
+   "from": 15155,
    "trim": 0,
    "len": 467
   },
   {
-   "src": "subway/vo/s067.mp3",
-   "from": 14727,
+   "src": "subway/vo/s072.mp3",
+   "from": 15861,
    "trim": 1,
    "len": 324
   },
   {
-   "src": "subway/vo/s068.mp3",
-   "from": 15057,
+   "src": "subway/vo/s073.mp3",
+   "from": 16191,
    "trim": 2,
    "len": 128
   },
   {
-   "src": "subway/vo/s069.mp3",
-   "from": 15190,
+   "src": "subway/vo/s075.mp3",
+   "from": 16526,
    "trim": 1,
    "len": 186
   },
   {
-   "src": "subway/vo/s070.mp3",
-   "from": 15382,
+   "src": "subway/vo/s076.mp3",
+   "from": 16717,
    "trim": 0,
    "len": 350
   },
   {
-   "src": "subway/vo/s071.mp3",
-   "from": 15740,
+   "src": "subway/vo/s077.mp3",
+   "from": 17075,
    "trim": 0,
    "len": 63
   },
   {
-   "src": "subway/vo/s072.mp3",
-   "from": 15823,
+   "src": "subway/vo/s078.mp3",
+   "from": 17158,
    "trim": 1,
    "len": 222
   },
   {
-   "src": "subway/vo/s073.mp3",
-   "from": 16057,
+   "src": "subway/vo/s079.mp3",
+   "from": 17392,
    "trim": 2,
    "len": 284
   },
   {
-   "src": "subway/vo/s074.mp3",
-   "from": 16346,
+   "src": "subway/vo/s080.mp3",
+   "from": 17681,
    "trim": 1,
    "len": 463
   },
   {
-   "src": "subway/vo/s075.mp3",
-   "from": 16814,
+   "src": "subway/vo/s081.mp3",
+   "from": 18149,
    "trim": 2,
    "len": 296
   },
   {
-   "src": "subway/vo/s076.mp3",
-   "from": 17115,
+   "src": "subway/vo/s082.mp3",
+   "from": 18450,
    "trim": 1,
    "len": 430
   },
   {
-   "src": "subway/vo/s077.mp3",
-   "from": 17557,
+   "src": "subway/vo/s083.mp3",
+   "from": 18892,
    "trim": 0,
    "len": 321
   }
@@ -1315,7 +1315,7 @@
   {
    "kind": "video",
    "start": 7480,
-   "dur": 99,
+   "dur": 98,
    "seg": "s036",
    "cat": "real",
    "p": {
@@ -1332,10 +1332,30 @@
    }
   },
   {
-   "kind": "counter",
-   "start": 7579,
-   "dur": 174,
+   "kind": "sot",
+   "start": 7578,
+   "dur": 211,
    "seg": "s037",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_jingle_2011",
+     "src": "subway/assets/sot_jingle_2011.mp4",
+     "credit": "Subway TV ad, as aired Oct 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "name": "Subway TV ad",
+    "role": "“Any-tober”, as aired Oct 2011",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "counter",
+   "start": 7789,
+   "dur": 174,
+   "seg": "s038",
    "cat": "charts",
    "p": {
     "from": 0,
@@ -1349,9 +1369,9 @@
   },
   {
    "kind": "photo",
-   "start": 7753,
+   "start": 7963,
    "dur": 133,
-   "seg": "s038",
+   "seg": "s039",
    "cat": "real",
    "p": {
     "a": {
@@ -1367,9 +1387,9 @@
   },
   {
    "kind": "photo",
-   "start": 7886,
+   "start": 8096,
    "dur": 57,
-   "seg": "s038",
+   "seg": "s039",
    "cat": "real",
    "p": {
     "a": {
@@ -1386,9 +1406,9 @@
   },
   {
    "kind": "video",
-   "start": 7943,
+   "start": 8153,
    "dur": 98,
-   "seg": "s039",
+   "seg": "s040",
    "cat": "real",
    "p": {
     "a": {
@@ -1404,9 +1424,9 @@
   },
   {
    "kind": "text",
-   "start": 8041,
-   "dur": 80,
-   "seg": "s039",
+   "start": 8251,
+   "dur": 79,
+   "seg": "s040",
    "cat": "text",
    "p": {
     "text": "$5",
@@ -1414,10 +1434,39 @@
    }
   },
   {
+   "kind": "sot",
+   "start": 8330,
+   "dur": 292,
+   "seg": "s041",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_deluca_2013",
+     "src": "subway/assets/sot_deluca_2013.mp4",
+     "credit": "CNBC, Squawk on the Street, 27 Feb 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "name": "Fred DeLuca",
+    "role": "Subway co-founder · CNBC, 2013",
+    "pic": {
+     "id": "deluca_2013_cam",
+     "src": "subway/assets/deluca_2013_cam.mp4",
+     "credit": "CNBC, Squawk on the Street, 27 Feb 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "picAt": 3.5,
+    "from": 0.0
+   }
+  },
+  {
    "kind": "video",
-   "start": 8121,
+   "start": 8622,
    "dur": 100,
-   "seg": "s040",
+   "seg": "s042",
    "cat": "archival",
    "p": {
     "a": {
@@ -1434,17 +1483,17 @@
   },
   {
    "kind": "price",
-   "start": 8221,
+   "start": 8722,
    "dur": 162,
-   "seg": "s040",
+   "seg": "s042",
    "cat": "charts",
    "p": {}
   },
   {
    "kind": "clips",
-   "start": 8383,
+   "start": 8884,
    "dur": 188,
-   "seg": "s041",
+   "seg": "s043",
    "cat": "docs",
    "p": {
     "items": [
@@ -1456,30 +1505,29 @@
    }
   },
   {
-   "kind": "photo",
-   "start": 8571,
+   "kind": "video",
+   "start": 9072,
    "dur": 63,
-   "seg": "s041",
-   "cat": "real",
+   "seg": "s043",
+   "cat": "archival",
    "p": {
     "a": {
-     "id": "fred_deluca",
-     "src": "subway/assets/fred_deluca.jpg",
-     "credit": "Subway · Wikimedia Commons · CC BY 3.0",
-     "kind": "image",
-     "w": 2478,
-     "h": 2580
+     "id": "news_deluca_death_2015",
+     "src": "subway/assets/news_deluca_death_2015.mp4",
+     "credit": "CBS Morning News, 16 Sep 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
     },
-    "kb": "out",
-    "treat": "ink",
-    "label": "Fred DeLuca, 1947–2015"
+    "from": 3.0,
+    "label": "CBS News, 16 Sep 2015"
    }
   },
   {
    "kind": "clips",
-   "start": 8634,
+   "start": 9135,
    "dur": 147,
-   "seg": "s041",
+   "seg": "s043",
    "cat": "docs",
    "p": {
     "items": [
@@ -1501,9 +1549,9 @@
   },
   {
    "kind": "line",
-   "start": 8781,
+   "start": 9282,
    "dur": 225,
-   "seg": "s042",
+   "seg": "s044",
    "cat": "charts",
    "p": {
     "title": "Subway US restaurants",
@@ -1532,9 +1580,9 @@
   },
   {
    "kind": "line",
-   "start": 9006,
+   "start": 9507,
    "dur": 200,
-   "seg": "s044",
+   "seg": "s046",
    "cat": "charts",
    "p": {
     "title": "Subway US restaurants",
@@ -1559,9 +1607,9 @@
   },
   {
    "kind": "photo",
-   "start": 9206,
+   "start": 9707,
    "dur": 102,
-   "seg": "s044",
+   "seg": "s046",
    "cat": "real",
    "p": {
     "a": {
@@ -1579,9 +1627,9 @@
   },
   {
    "kind": "photo",
-   "start": 9308,
+   "start": 9809,
    "dur": 70,
-   "seg": "s045",
+   "seg": "s047",
    "cat": "real",
    "p": {
     "a": {
@@ -1597,9 +1645,9 @@
   },
   {
    "kind": "bars",
-   "start": 9378,
+   "start": 9879,
    "dur": 338,
-   "seg": "s045",
+   "seg": "s047",
    "cat": "charts",
    "p": {
     "title": "Average sales per US restaurant",
@@ -1627,17 +1675,17 @@
   },
   {
    "kind": "slice",
-   "start": 9716,
+   "start": 10217,
    "dur": 210,
-   "seg": "s047",
+   "seg": "s049",
    "cat": "charts",
    "p": {}
   },
   {
    "kind": "photo",
-   "start": 9926,
-   "dur": 50,
-   "seg": "s047",
+   "start": 10427,
+   "dur": 51,
+   "seg": "s049",
    "cat": "real",
    "p": {
     "a": {
@@ -1653,9 +1701,9 @@
   },
   {
    "kind": "photo",
-   "start": 9976,
+   "start": 10478,
    "dur": 84,
-   "seg": "s047",
+   "seg": "s049",
    "cat": "real",
    "p": {
     "a": {
@@ -1671,9 +1719,9 @@
   },
   {
    "kind": "video",
-   "start": 10060,
-   "dur": 142,
-   "seg": "s048",
+   "start": 10562,
+   "dur": 141,
+   "seg": "s050",
    "cat": "real",
    "p": {
     "a": {
@@ -1689,9 +1737,9 @@
   },
   {
    "kind": "stat",
-   "start": 10202,
+   "start": 10703,
    "dur": 55,
-   "seg": "s048",
+   "seg": "s050",
    "cat": "charts",
    "p": {
     "kicker": "August 2024",
@@ -1701,9 +1749,9 @@
   },
   {
    "kind": "text",
-   "start": 10257,
+   "start": 10758,
    "dur": 120,
-   "seg": "s049",
+   "seg": "s051",
    "cat": "text",
    "p": {
     "text": "OPT OUT.",
@@ -1712,9 +1760,9 @@
   },
   {
    "kind": "list",
-   "start": 10377,
+   "start": 10878,
    "dur": 127,
-   "seg": "s049",
+   "seg": "s051",
    "cat": "text",
    "p": {
     "items": [
@@ -1725,9 +1773,9 @@
   },
   {
    "kind": "quote",
-   "start": 10504,
+   "start": 11005,
    "dur": 181,
-   "seg": "s050",
+   "seg": "s052",
    "cat": "docs",
    "p": {
     "text": "About a fifth of my sales — and no extra customers to show for it.",
@@ -1738,9 +1786,9 @@
   },
   {
    "kind": "quote",
-   "start": 10685,
+   "start": 11186,
    "dur": 144,
-   "seg": "s051",
+   "seg": "s053",
    "cat": "docs",
    "p": {
     "text": "…decisions that provide the greatest benefit to the entire Subway system.",
@@ -1751,9 +1799,9 @@
   },
   {
    "kind": "text",
-   "start": 10829,
+   "start": 11330,
    "dur": 79,
-   "seg": "s051",
+   "seg": "s053",
    "cat": "text",
    "p": {
     "text": "“RIGHTSIZING”",
@@ -1762,9 +1810,9 @@
   },
   {
    "kind": "photo",
-   "start": 10908,
-   "dur": 129,
-   "seg": "s051",
+   "start": 11409,
+   "dur": 128,
+   "seg": "s053",
    "cat": "real",
    "p": {
     "a": {
@@ -1780,10 +1828,30 @@
    }
   },
   {
+   "kind": "sot",
+   "start": 11537,
+   "dur": 205,
+   "seg": "s054",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_chidsey_2020",
+     "src": "subway/assets/sot_chidsey_2020.mp4",
+     "credit": "Fox Business, Mornings with Maria, 29 Apr 2020 · TV News Archive",
+     "kind": "video",
+     "w": 858,
+     "h": 480
+    },
+    "name": "John Chidsey",
+    "role": "Subway CEO · Fox Business, 2020",
+    "from": 0.0
+   }
+  },
+  {
    "kind": "photo",
-   "start": 11037,
+   "start": 11742,
    "dur": 89,
-   "seg": "s052",
+   "seg": "s055",
    "cat": "real",
    "p": {
     "a": {
@@ -1799,9 +1867,9 @@
   },
   {
    "kind": "stamps",
-   "start": 11126,
+   "start": 11831,
    "dur": 225,
-   "seg": "s052",
+   "seg": "s055",
    "cat": "docs",
    "p": {
     "items": [
@@ -1820,9 +1888,9 @@
   },
   {
    "kind": "photo",
-   "start": 11351,
+   "start": 12056,
    "dur": 88,
-   "seg": "s053",
+   "seg": "s056",
    "cat": "real",
    "p": {
     "a": {
@@ -1839,9 +1907,9 @@
   },
   {
    "kind": "list",
-   "start": 11439,
-   "dur": 133,
-   "seg": "s053",
+   "start": 12144,
+   "dur": 134,
+   "seg": "s056",
    "cat": "text",
    "p": {
     "items": [
@@ -1853,9 +1921,9 @@
   },
   {
    "kind": "text",
-   "start": 11572,
-   "dur": 69,
-   "seg": "s054",
+   "start": 12278,
+   "dur": 68,
+   "seg": "s057",
    "cat": "text",
    "p": {
     "text": "EXCEPT IT ISN'T.",
@@ -1864,9 +1932,9 @@
   },
   {
    "kind": "doc",
-   "start": 11641,
+   "start": 12346,
    "dur": 218,
-   "seg": "s055",
+   "seg": "s058",
    "cat": "docs",
    "p": {
     "title": "Franchise Disclosure Document",
@@ -1877,9 +1945,9 @@
   },
   {
    "kind": "doc",
-   "start": 11859,
+   "start": 12564,
    "dur": 68,
-   "seg": "s055",
+   "seg": "s058",
    "cat": "docs",
    "p": {
     "title": "Item 21 · Financial statements",
@@ -1895,9 +1963,9 @@
   },
   {
    "kind": "cols",
-   "start": 11927,
-   "dur": 389,
-   "seg": "s056",
+   "start": 12632,
+   "dur": 390,
+   "seg": "s059",
    "cat": "charts",
    "p": {
     "title": "Subway net income",
@@ -1924,9 +1992,9 @@
   },
   {
    "kind": "stat",
-   "start": 12316,
-   "dur": 115,
-   "seg": "s057",
+   "start": 13022,
+   "dur": 114,
+   "seg": "s060",
    "cat": "charts",
    "p": {
     "kicker": "Net income, 2023 → 2025",
@@ -1936,9 +2004,9 @@
   },
   {
    "kind": "stat",
-   "start": 12431,
+   "start": 13136,
    "dur": 197,
-   "seg": "s058",
+   "seg": "s061",
    "cat": "charts",
    "p": {
     "kicker": "Franchise revenue",
@@ -1949,9 +2017,9 @@
   },
   {
    "kind": "text",
-   "start": 12628,
+   "start": 13333,
    "dur": 115,
-   "seg": "s059",
+   "seg": "s062",
    "cat": "text",
    "p": {
     "text": "LOWER OPERATING EXPENSES",
@@ -1960,9 +2028,9 @@
   },
   {
    "kind": "photo",
-   "start": 12743,
+   "start": 13448,
    "dur": 82,
-   "seg": "s059",
+   "seg": "s062",
    "cat": "real",
    "p": {
     "a": {
@@ -1979,9 +2047,9 @@
   },
   {
    "kind": "text",
-   "start": 12825,
+   "start": 13530,
    "dur": 85,
-   "seg": "s060",
+   "seg": "s063",
    "cat": "text",
    "p": {
     "text": "A CUT OF SALES.",
@@ -1990,9 +2058,9 @@
   },
   {
    "kind": "map",
-   "start": 12910,
+   "start": 13615,
    "dur": 134,
-   "seg": "s060",
+   "seg": "s063",
    "cat": "charts",
    "p": {
     "mode": "fill",
@@ -2002,9 +2070,9 @@
   },
   {
    "kind": "photo",
-   "start": 13044,
+   "start": 13749,
    "dur": 136,
-   "seg": "s061",
+   "seg": "s064",
    "cat": "real",
    "p": {
     "a": {
@@ -2021,9 +2089,9 @@
   },
   {
    "kind": "photo",
-   "start": 13180,
+   "start": 13885,
    "dur": 103,
-   "seg": "s061",
+   "seg": "s064",
    "cat": "real",
    "p": {
     "a": {
@@ -2040,9 +2108,9 @@
   },
   {
    "kind": "photo",
-   "start": 13283,
+   "start": 13988,
    "dur": 102,
-   "seg": "s062",
+   "seg": "s065",
    "cat": "real",
    "p": {
     "a": {
@@ -2059,9 +2127,9 @@
   },
   {
    "kind": "deal",
-   "start": 13385,
-   "dur": 353,
-   "seg": "s062",
+   "start": 14090,
+   "dur": 352,
+   "seg": "s065",
    "cat": "docs",
    "p": {
     "a": {
@@ -2079,10 +2147,30 @@
    }
   },
   {
+   "kind": "sot",
+   "start": 14442,
+   "dur": 196,
+   "seg": "s066",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_cbs_roark_2023",
+     "src": "subway/assets/sot_cbs_roark_2023.mp4",
+     "credit": "CBS Evening News, 24 Aug 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 356
+    },
+    "name": "CBS Evening News",
+    "role": "24 August 2023",
+    "from": 0.0
+   }
+  },
+  {
    "kind": "photo",
-   "start": 13738,
+   "start": 14638,
    "dur": 71,
-   "seg": "s063",
+   "seg": "s067",
    "cat": "real",
    "p": {
     "a": {
@@ -2099,9 +2187,9 @@
   },
   {
    "kind": "map",
-   "start": 13809,
+   "start": 14709,
    "dur": 142,
-   "seg": "s063",
+   "seg": "s067",
    "cat": "charts",
    "p": {
     "mode": "fill",
@@ -2111,9 +2199,9 @@
   },
   {
    "kind": "photo",
-   "start": 13951,
+   "start": 14851,
    "dur": 97,
-   "seg": "s063",
+   "seg": "s067",
    "cat": "real",
    "p": {
     "a": {
@@ -2130,9 +2218,9 @@
   },
   {
    "kind": "text",
-   "start": 14048,
+   "start": 14948,
    "dur": 118,
-   "seg": "s064",
+   "seg": "s068",
    "cat": "text",
    "p": {
     "text": "SUBWAY ISN'T DYING.",
@@ -2142,9 +2230,9 @@
   },
   {
    "kind": "place",
-   "start": 14166,
+   "start": 15066,
    "dur": 89,
-   "seg": "s065",
+   "seg": "s069",
    "cat": "text",
    "p": {
     "place": "Point Pleasant, New Jersey",
@@ -2153,9 +2241,9 @@
   },
   {
    "kind": "person",
-   "start": 14255,
+   "start": 15155,
    "dur": 195,
-   "seg": "s066",
+   "seg": "s070",
    "cat": "text",
    "p": {
     "name": "Peter Cancro",
@@ -2164,9 +2252,9 @@
   },
   {
    "kind": "photo",
-   "start": 14450,
+   "start": 15350,
    "dur": 88,
-   "seg": "s066",
+   "seg": "s070",
    "cat": "real",
    "p": {
     "a": {
@@ -2183,9 +2271,9 @@
   },
   {
    "kind": "stat",
-   "start": 14538,
-   "dur": 189,
-   "seg": "s066",
+   "start": 15438,
+   "dur": 188,
+   "seg": "s070",
    "cat": "charts",
    "p": {
     "kicker": "The loan",
@@ -2194,10 +2282,30 @@
    }
   },
   {
+   "kind": "sot",
+   "start": 15626,
+   "dur": 235,
+   "seg": "s071",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_cancro_2014",
+     "src": "subway/assets/sot_cancro_2014.mp4",
+     "credit": "Bloomberg TV, Taking Stock, 12 Jun 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "Peter Cancro",
+    "role": "Jersey Mike's founder · Bloomberg, 2014",
+    "from": 0.0
+   }
+  },
+  {
    "kind": "photo",
-   "start": 14727,
+   "start": 15861,
    "dur": 73,
-   "seg": "s067",
+   "seg": "s072",
    "cat": "real",
    "p": {
     "a": {
@@ -2214,9 +2322,9 @@
   },
   {
    "kind": "line",
-   "start": 14800,
+   "start": 15934,
    "dur": 170,
-   "seg": "s067",
+   "seg": "s072",
    "cat": "charts",
    "p": {
     "title": "Jersey Mike's restaurants",
@@ -2239,9 +2347,9 @@
   },
   {
    "kind": "bars",
-   "start": 14970,
+   "start": 16104,
    "dur": 87,
-   "seg": "s067",
+   "seg": "s072",
    "cat": "charts",
    "p": {
     "title": "US restaurants, 2026",
@@ -2263,9 +2371,9 @@
   },
   {
    "kind": "bars",
-   "start": 15057,
-   "dur": 133,
-   "seg": "s068",
+   "start": 16191,
+   "dur": 132,
+   "seg": "s073",
    "cat": "charts",
    "p": {
     "title": "Average sales per US restaurant",
@@ -2287,10 +2395,30 @@
    }
   },
   {
+   "kind": "sot",
+   "start": 16323,
+   "dur": 203,
+   "seg": "s074",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_cancro_2021",
+     "src": "subway/assets/sot_cancro_2021.mp4",
+     "credit": "Fox Business, The Claman Countdown, 14 Oct 2021 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "Peter Cancro",
+    "role": "Jersey Mike's CEO · Fox Business, 2021",
+    "from": 0.0
+   }
+  },
+  {
    "kind": "photo",
-   "start": 15190,
-   "dur": 68,
-   "seg": "s069",
+   "start": 16526,
+   "dur": 67,
+   "seg": "s075",
    "cat": "real",
    "p": {
     "a": {
@@ -2308,9 +2436,9 @@
   },
   {
    "kind": "stat",
-   "start": 15258,
+   "start": 16593,
    "dur": 124,
-   "seg": "s069",
+   "seg": "s075",
    "cat": "charts",
    "p": {
     "kicker": "July 2026 · NYSE: JMKE",
@@ -2320,17 +2448,17 @@
   },
   {
    "kind": "pps",
-   "start": 15382,
+   "start": 16717,
    "dur": 358,
-   "seg": "s070",
+   "seg": "s076",
    "cat": "charts",
    "p": {}
   },
   {
    "kind": "stat",
-   "start": 15740,
+   "start": 17075,
    "dur": 83,
-   "seg": "s071",
+   "seg": "s077",
    "cat": "charts",
    "p": {
     "kicker": "Value per restaurant",
@@ -2340,9 +2468,9 @@
   },
   {
    "kind": "counter",
-   "start": 15823,
+   "start": 17158,
    "dur": 234,
-   "seg": "s072",
+   "seg": "s078",
    "cat": "charts",
    "p": {
     "from": 0,
@@ -2353,9 +2481,9 @@
   },
   {
    "kind": "video",
-   "start": 16057,
+   "start": 17392,
    "dur": 116,
-   "seg": "s073",
+   "seg": "s079",
    "cat": "archival",
    "p": {
     "a": {
@@ -2372,9 +2500,9 @@
   },
   {
    "kind": "logo",
-   "start": 16173,
+   "start": 17508,
    "dur": 96,
-   "seg": "s073",
+   "seg": "s079",
    "cat": "docs",
    "p": {
     "a": {
@@ -2390,9 +2518,9 @@
   },
   {
    "kind": "stat",
-   "start": 16269,
+   "start": 17604,
    "dur": 77,
-   "seg": "s073",
+   "seg": "s079",
    "cat": "charts",
    "p": {
     "kicker": "of every sale",
@@ -2402,9 +2530,9 @@
   },
   {
    "kind": "map",
-   "start": 16346,
-   "dur": 152,
-   "seg": "s074",
+   "start": 17681,
+   "dur": 153,
+   "seg": "s080",
    "cat": "charts",
    "p": {
     "mode": "fill",
@@ -2414,9 +2542,9 @@
   },
   {
    "kind": "photo",
-   "start": 16498,
-   "dur": 98,
-   "seg": "s074",
+   "start": 17834,
+   "dur": 97,
+   "seg": "s080",
    "cat": "real",
    "p": {
     "a": {
@@ -2432,17 +2560,17 @@
   },
   {
    "kind": "diverge",
-   "start": 16596,
+   "start": 17931,
    "dur": 218,
-   "seg": "s074",
+   "seg": "s080",
    "cat": "charts",
    "p": {}
   },
   {
    "kind": "vs",
-   "start": 16814,
+   "start": 18149,
    "dur": 179,
-   "seg": "s075",
+   "seg": "s081",
    "cat": "real",
    "p": {
     "left_a": {
@@ -2467,9 +2595,9 @@
   },
   {
    "kind": "vs",
-   "start": 16993,
+   "start": 18328,
    "dur": 122,
-   "seg": "s075",
+   "seg": "s081",
    "cat": "real",
    "p": {
     "left_a": {
@@ -2495,9 +2623,9 @@
   },
   {
    "kind": "stat",
-   "start": 17115,
+   "start": 18450,
    "dur": 189,
-   "seg": "s076",
+   "seg": "s082",
    "cat": "charts",
    "p": {
     "kicker": "2026 plan",
@@ -2507,9 +2635,9 @@
   },
   {
    "kind": "photo",
-   "start": 17304,
-   "dur": 52,
-   "seg": "s076",
+   "start": 18639,
+   "dur": 53,
+   "seg": "s082",
    "cat": "real",
    "p": {
     "a": {
@@ -2526,9 +2654,9 @@
   },
   {
    "kind": "photo",
-   "start": 17356,
+   "start": 18692,
    "dur": 126,
-   "seg": "s076",
+   "seg": "s082",
    "cat": "real",
    "p": {
     "a": {
@@ -2545,9 +2673,9 @@
   },
   {
    "kind": "photo",
-   "start": 17482,
-   "dur": 75,
-   "seg": "s076",
+   "start": 18818,
+   "dur": 74,
+   "seg": "s082",
    "cat": "real",
    "p": {
     "a": {
@@ -2564,9 +2692,9 @@
   },
   {
    "kind": "end",
-   "start": 17557,
+   "start": 18892,
    "dur": 317,
-   "seg": "s077",
+   "seg": "s083",
    "cat": "text",
    "p": {}
   }
@@ -2590,19 +2718,19 @@
   },
   {
    "name": "4. TWO A DAY",
-   "from": 9006
+   "from": 9507
   },
   {
    "name": "5. HERE'S THE REAL ISSUE",
-   "from": 11641
+   "from": 12346
   },
   {
    "name": "6. THE OTHER SEVENTEEN-YEAR-OLD",
-   "from": 14166
+   "from": 15066
   },
   {
    "name": "VERDICT",
-   "from": 15823
+   "from": 17158
   }
  ]
 }

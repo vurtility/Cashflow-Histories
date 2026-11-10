@@ -3,6 +3,7 @@
   .venv/bin/python fetch_assets.py search "c:Subway restaurant" "i:subway commercial mediatype:movies"
       c: = Wikimedia Commons (free-licensed photos, logos, maps)
       i: = Internet Archive (vintage TV ads, news, public-domain film)
+      tv: = TV News Archive captions, 2009 on (interviews, news reports, ads as aired)
   .venv/bin/python fetch_assets.py fetch episodes/subway
       Downloads everything listed in episodes/<ep>/wanted.json into episodes/<ep>/assets/,
       copies it into the Remotion project (studio/public/<ep>/), and writes assets.json:
@@ -13,6 +14,8 @@ wanted.json entries:
   {"id": "store_foggy", "from": "commons", "ref": "File:Entrance to a Subway restaurant in Foggy Bottom.jpg"}
   {"id": "ad_1985", "from": "archive", "ref": "subway-commercial-2006-1985", "file": "Subway Commercial 1985.ia.mp4",
    "basis": "fair use: short excerpt of the brand's own ad, used for commentary, transformed"}
+  {"id": "sot_cancro_2014", "from": "tvnews", "ref": "BLOOMBERG_20140613_010000_Taking_Stock_With_Pimm_Fox",
+   "t": [3212.7, 3220.3], "basis": "fair use: …"}   (an excerpt, cut exactly to t = [start, end] seconds)
 Optional keys: "stock": true (counts toward the 10% cap), "archival": true, "credit" (override).
 Downloaded files are data only: nothing in them is executed.
 """
@@ -86,6 +89,23 @@ def archive_files(ident):
     return d, [f for f in d.get("files", []) if f["name"].lower().endswith((".mp4", ".webm", ".ogv", ".jpg", ".png"))]
 
 
+TV_STATIONS = ("CNBC", "CNN", "FBC", "BLOOMBERG", "MSNBC", "FOXNEWS", "KGO", "KPIX", "KNTV", "KTVU",
+               "WJLA", "WRC", "WUSA")
+
+
+def search_tv(q, n=15):
+    """Search TV News Archive captions (via the GDELT TV API). Each hit gives the archive item and the
+    second it was said, ready for a wanted.json "tvnews" entry. Coverage starts July 2009."""
+    stations = " OR ".join(f"station:{s}" for s in TV_STATIONS)
+    url = "https://api.gdeltproject.org/api/v2/tv/tv?" + urllib.parse.urlencode({
+        "query": f"{q} ({stations})", "mode": "clipgallery", "format": "json", "maxrecords": n,
+        "startdatetime": "20090702000000"})
+    for c in get_json(url).get("clips", []):
+        m = re.search(r"details/([^#]+)#start/(\d+)", c.get("preview_url", ""))
+        ident, sec = (m.group(1), m.group(2)) if m else ("?", "?")
+        print(f"  {c.get('date', '')[:10]} {c.get('station')} | {ident} @ {sec}s | {c.get('snippet', '')[:110]}")
+
+
 def cmd_search(terms):
     for t in terms:
         kind, _, q = t.partition(":")
@@ -94,6 +114,8 @@ def cmd_search(terms):
             search_commons(q)
         elif kind == "i":
             search_archive(q)
+        elif kind == "tv":
+            search_tv(q)
         elif kind == "files":
             _, files = archive_files(q)
             for f in files:
@@ -149,6 +171,36 @@ def fetch_archive(w, dest_dir):
                    "kind": "image" if name.lower().endswith((".jpg", ".png")) else "video"}
 
 
+def fetch_tvnews(w, dest_dir):
+    """An excerpt of a TV News Archive broadcast: "t": [start, end] in seconds into the item. The archive
+    serves short excerpts of restricted broadcasts; we fetch a little either side, then cut exactly."""
+    import math
+    import subprocess
+    import tempfile
+    s, e = float(w["t"][0]), float(w["t"][1])
+    local = dest_dir / f"{w['id']}.mp4"
+    if not local.exists():
+        a = max(0, math.floor(s) - 1)
+        b = max(math.ceil(e) + 1, a + 12)  # the archive refuses excerpts shorter than 10s
+        with tempfile.TemporaryDirectory() as td:
+            raw = Path(td) / "raw.mp4"
+            download(f"https://archive.org/download/{w['ref']}/{w['ref']}.mp4?t={a}/{b}", raw)
+            subprocess.run([shutil.which("ffmpeg") or "ffmpeg", "-v", "error", "-y", "-ss", f"{s - a:.2f}",
+                            "-i", str(raw), "-t", f"{e - s:.2f}", *(["-vf", w["vf"]] if w.get("vf") else []), "-c:v", "libx264", "-crf", "18",
+                            "-preset", "medium", "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart",
+                            str(local)], check=True)
+    m = re.match(r"([A-Z0-9]+?)W?_(\d{4})(\d{2})(\d{2})_\d+_(.+)", w["ref"])
+    title = f"{m.group(5).replace('_', ' ')} ({m.group(1)}, {m.group(2)}-{m.group(3)}-{m.group(4)})" if m else w["ref"]
+    return local, {"title": title, "page": f"https://archive.org/details/{w['ref']}#start/{int(s)}/end/{math.ceil(e)}",
+                   "file_url": f"{w['ref']}.mp4?t={s}/{e}", "licence": "© broadcaster; TV News Archive",
+                   "licence_url": "", "author": m.group(1) if m else "unknown",
+                   "basis": w.get("basis") or "CHECK: broadcast excerpt; needs a fair-use reason",
+                   "credit": w.get("credit") or title, "kind": "video", "t": [s, e]}
+
+
+FETCHERS = {"commons": fetch_commons, "archive": fetch_archive, "tvnews": fetch_tvnews}
+
+
 def probe_media(path: Path, kind):
     import cv2  # only here: keep cv2 out of processes that load other libav bindings
     if kind == "image":
@@ -176,7 +228,7 @@ def cmd_fetch(ep: Path):
             if w["id"] in log and (HERE / log[w["id"]]["local"]).exists():
                 rec = log[w["id"]]
             else:
-                local, info = (fetch_commons if w["from"] == "commons" else fetch_archive)(w, dest)
+                local, info = FETCHERS[w["from"]](w, dest)
                 rec = {"id": w["id"], "from": w["from"], "ref": w["ref"], **info,
                        "local": str(local.relative_to(HERE)), **probe_media(local, info["kind"])}
             rec["stock"] = bool(w.get("stock"))
