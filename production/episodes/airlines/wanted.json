@@ -10,7 +10,8 @@
   "use": "Delta SkyMiles Amex card ad, as aired 2009",
   "credit": "Delta SkyMiles card ad (American Express), as aired Oct 2009 · TV News Archive",
   "basis": "fair use: brief excerpts of the company's own TV ad, as aired, to show the product under discussion; commentary, transformed",
-  "archival": true
+  "archival": true,
+  "vf": "crop=640:414:0:30,setsar=1"
  },
  {
   "id": "tv_baldanza13",
@@ -58,7 +59,8 @@
   ],
   "use": "JetBlue-Spirit merger blocked report",
   "credit": "CBS News Bay Area, 17 Jan 2024 · TV News Archive",
-  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen"
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen",
+  "vf": "crop=528:356:0:62,scale=640:356,setsar=1"
  },
  {
   "id": "tv_pandemic20",
@@ -70,7 +72,8 @@
   ],
   "use": "empty airport terminals, 2020",
   "credit": "ABC7 News, 4 May 2020 · TV News Archive",
-  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen"
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen",
+  "vf": "crop=640:356:0:58,setsar=1"
  },
  {
   "id": "tv_bagfees14",

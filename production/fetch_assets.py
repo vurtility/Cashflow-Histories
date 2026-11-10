@@ -44,7 +44,7 @@ def _open(url, timeout, retries=6):
         except urllib.error.HTTPError as e:
             if e.code not in (429, 500, 502, 503) or attempt == retries - 1:
                 raise
-            time.sleep(int(e.headers.get("Retry-After") or 0) or 5 * 2 ** attempt)
+            time.sleep(min(30, int(e.headers.get("Retry-After") or 0) or 5 * 2 ** attempt))  # some answers ask for very long waits
         except (urllib.error.URLError, ConnectionError, TimeoutError):  # GDELT drops connections at times
             if attempt == retries - 1:
                 raise
@@ -56,11 +56,11 @@ def get_json(url, retries=6):
         return json.loads(r.read())
 
 
-def download(url, dest: Path):
+def download(url, dest: Path, retries=6):
     import time
     dest.parent.mkdir(parents=True, exist_ok=True)
     tmp = dest.with_suffix(dest.suffix + ".part")
-    with _open(url, 300) as r, open(tmp, "wb") as f:
+    with _open(url, 300, retries) as r, open(tmp, "wb") as f:
         shutil.copyfileobj(r, f)
     tmp.rename(dest)
     time.sleep(1.0)  # stay well under rate limits
@@ -206,7 +206,10 @@ def fetch_commons(w, dest_dir):
         src, ext = ii["url"], Path(ii["url"]).suffix
     local = dest_dir / f"{w['id']}{ext}"
     if not local.exists():
-        download(src, local)
+        try:
+            download(src, local, retries=2)
+        except urllib.error.HTTPError:  # originals (and odd sizes) are refused when rate-limited
+            return fetch_commons_noapi(w, dest_dir)
     lic = val("LicenseShortName") or "unknown"
     author = val("Artist") or "unknown"
     basis = w.get("basis") or (f"licence: {lic}" if any(k in lic.lower() for k in OPEN_LICENCES)

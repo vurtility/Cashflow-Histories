@@ -1,0 +1,2451 @@
+{
+ "fps": 30,
+ "durationInFrames": 18450,
+ "episode": "airlines",
+ "print": "002",
+ "vo": [
+  {
+   "src": "airlines/vo/s001.mp3",
+   "from": 0,
+   "trim": 1,
+   "len": 166
+  },
+  {
+   "src": "airlines/vo/s002.mp3",
+   "from": 172,
+   "trim": 0,
+   "len": 170
+  },
+  {
+   "src": "airlines/vo/s003.mp3",
+   "from": 348,
+   "trim": 0,
+   "len": 208
+  },
+  {
+   "src": "airlines/vo/s004.mp3",
+   "from": 577,
+   "trim": 0,
+   "len": 248
+  },
+  {
+   "src": "airlines/vo/s005.mp3",
+   "from": 830,
+   "trim": 1,
+   "len": 210
+  },
+  {
+   "src": "airlines/vo/s006.mp3",
+   "from": 1045,
+   "trim": 0,
+   "len": 168
+  },
+  {
+   "src": "airlines/vo/s007.mp3",
+   "from": 1224,
+   "trim": 0,
+   "len": 154
+  },
+  {
+   "src": "airlines/vo/s008.mp3",
+   "from": 1398,
+   "trim": 0,
+   "len": 289
+  },
+  {
+   "src": "airlines/vo/s009.mp3",
+   "from": 1693,
+   "trim": 0,
+   "len": 243
+  },
+  {
+   "src": "airlines/vo/s010.mp3",
+   "from": 1941,
+   "trim": 0,
+   "len": 298
+  },
+  {
+   "src": "airlines/vo/s011.mp3",
+   "from": 2245,
+   "trim": 1,
+   "len": 272
+  },
+  {
+   "src": "airlines/vo/s012.mp3",
+   "from": 2522,
+   "trim": 0,
+   "len": 164
+  },
+  {
+   "src": "airlines/vo/s013.mp3",
+   "from": 2694,
+   "trim": 2,
+   "len": 93
+  },
+  {
+   "src": "airlines/vo/s014.mp3",
+   "from": 2793,
+   "trim": 2,
+   "len": 344
+  },
+  {
+   "src": "airlines/vo/s015.mp3",
+   "from": 3142,
+   "trim": 0,
+   "len": 297
+  },
+  {
+   "src": "airlines/vo/s016.mp3",
+   "from": 3444,
+   "trim": 1,
+   "len": 70
+  },
+  {
+   "src": "airlines/vo/s017.mp3",
+   "from": 3520,
+   "trim": 0,
+   "len": 226
+  },
+  {
+   "src": "airlines/vo/s019.mp3",
+   "from": 4063,
+   "trim": 2,
+   "len": 172
+  },
+  {
+   "src": "airlines/vo/s020.mp3",
+   "from": 4241,
+   "trim": 1,
+   "len": 171
+  },
+  {
+   "src": "airlines/vo/s021.mp3",
+   "from": 4432,
+   "trim": 0,
+   "len": 199
+  },
+  {
+   "src": "airlines/vo/s022.mp3",
+   "from": 4637,
+   "trim": 1,
+   "len": 162
+  },
+  {
+   "src": "airlines/vo/s023.mp3",
+   "from": 4804,
+   "trim": 0,
+   "len": 196
+  },
+  {
+   "src": "airlines/vo/s024.mp3",
+   "from": 5006,
+   "trim": 0,
+   "len": 200
+  },
+  {
+   "src": "airlines/vo/s025.mp3",
+   "from": 5211,
+   "trim": 1,
+   "len": 114
+  },
+  {
+   "src": "airlines/vo/s026.mp3",
+   "from": 5331,
+   "trim": 1,
+   "len": 301
+  },
+  {
+   "src": "airlines/vo/s027.mp3",
+   "from": 5638,
+   "trim": 0,
+   "len": 237
+  },
+  {
+   "src": "airlines/vo/s029.mp3",
+   "from": 6069,
+   "trim": 1,
+   "len": 137
+  },
+  {
+   "src": "airlines/vo/s030.mp3",
+   "from": 6212,
+   "trim": 1,
+   "len": 152
+  },
+  {
+   "src": "airlines/vo/s031.mp3",
+   "from": 6369,
+   "trim": 0,
+   "len": 172
+  },
+  {
+   "src": "airlines/vo/s032.mp3",
+   "from": 6547,
+   "trim": 0,
+   "len": 167
+  },
+  {
+   "src": "airlines/vo/s033.mp3",
+   "from": 6734,
+   "trim": 2,
+   "len": 71
+  },
+  {
+   "src": "airlines/vo/s034.mp3",
+   "from": 6811,
+   "trim": 0,
+   "len": 235
+  },
+  {
+   "src": "airlines/vo/s035.mp3",
+   "from": 7052,
+   "trim": 0,
+   "len": 158
+  },
+  {
+   "src": "airlines/vo/s036.mp3",
+   "from": 7214,
+   "trim": 1,
+   "len": 241
+  },
+  {
+   "src": "airlines/vo/s037.mp3",
+   "from": 7461,
+   "trim": 2,
+   "len": 128
+  },
+  {
+   "src": "airlines/vo/s039.mp3",
+   "from": 7690,
+   "trim": 0,
+   "len": 191
+  },
+  {
+   "src": "airlines/vo/s040.mp3",
+   "from": 7886,
+   "trim": 2,
+   "len": 267
+  },
+  {
+   "src": "airlines/vo/s041.mp3",
+   "from": 8158,
+   "trim": 1,
+   "len": 301
+  },
+  {
+   "src": "airlines/vo/s042.mp3",
+   "from": 8464,
+   "trim": 1,
+   "len": 267
+  },
+  {
+   "src": "airlines/vo/s043.mp3",
+   "from": 8737,
+   "trim": 1,
+   "len": 126
+  },
+  {
+   "src": "airlines/vo/s044.mp3",
+   "from": 8868,
+   "trim": 1,
+   "len": 287
+  },
+  {
+   "src": "airlines/vo/s045.mp3",
+   "from": 9176,
+   "trim": 1,
+   "len": 241
+  },
+  {
+   "src": "airlines/vo/s046.mp3",
+   "from": 9422,
+   "trim": 0,
+   "len": 192
+  },
+  {
+   "src": "airlines/vo/s047.mp3",
+   "from": 9622,
+   "trim": 0,
+   "len": 36
+  },
+  {
+   "src": "airlines/vo/s048.mp3",
+   "from": 9668,
+   "trim": 1,
+   "len": 286
+  },
+  {
+   "src": "airlines/vo/s049.mp3",
+   "from": 9960,
+   "trim": 0,
+   "len": 234
+  },
+  {
+   "src": "airlines/vo/s050.mp3",
+   "from": 10203,
+   "trim": 0,
+   "len": 109
+  },
+  {
+   "src": "airlines/vo/s051.mp3",
+   "from": 10317,
+   "trim": 0,
+   "len": 324
+  },
+  {
+   "src": "airlines/vo/s052.mp3",
+   "from": 10647,
+   "trim": 2,
+   "len": 259
+  },
+  {
+   "src": "airlines/vo/s053.mp3",
+   "from": 10911,
+   "trim": 0,
+   "len": 246
+  },
+  {
+   "src": "airlines/vo/s054.mp3",
+   "from": 11163,
+   "trim": 1,
+   "len": 182
+  },
+  {
+   "src": "airlines/vo/s055.mp3",
+   "from": 11350,
+   "trim": 2,
+   "len": 183
+  },
+  {
+   "src": "airlines/vo/s056.mp3",
+   "from": 11553,
+   "trim": 1,
+   "len": 222
+  },
+  {
+   "src": "airlines/vo/s057.mp3",
+   "from": 11783,
+   "trim": 0,
+   "len": 93
+  },
+  {
+   "src": "airlines/vo/s058.mp3",
+   "from": 11882,
+   "trim": 2,
+   "len": 251
+  },
+  {
+   "src": "airlines/vo/s059.mp3",
+   "from": 12138,
+   "trim": 0,
+   "len": 171
+  },
+  {
+   "src": "airlines/vo/s060.mp3",
+   "from": 12314,
+   "trim": 0,
+   "len": 243
+  },
+  {
+   "src": "airlines/vo/s061.mp3",
+   "from": 12563,
+   "trim": 2,
+   "len": 279
+  },
+  {
+   "src": "airlines/vo/s062.mp3",
+   "from": 12848,
+   "trim": 0,
+   "len": 339
+  },
+  {
+   "src": "airlines/vo/s064.mp3",
+   "from": 13480,
+   "trim": 2,
+   "len": 160
+  },
+  {
+   "src": "airlines/vo/s065.mp3",
+   "from": 13645,
+   "trim": 0,
+   "len": 238
+  },
+  {
+   "src": "airlines/vo/s066.mp3",
+   "from": 13888,
+   "trim": 1,
+   "len": 361
+  },
+  {
+   "src": "airlines/vo/s067.mp3",
+   "from": 14255,
+   "trim": 0,
+   "len": 257
+  },
+  {
+   "src": "airlines/vo/s068.mp3",
+   "from": 14521,
+   "trim": 2,
+   "len": 104
+  },
+  {
+   "src": "airlines/vo/s069.mp3",
+   "from": 14630,
+   "trim": 1,
+   "len": 267
+  },
+  {
+   "src": "airlines/vo/s070.mp3",
+   "from": 14902,
+   "trim": 1,
+   "len": 273
+  },
+  {
+   "src": "airlines/vo/s071.mp3",
+   "from": 15181,
+   "trim": 2,
+   "len": 223
+  },
+  {
+   "src": "airlines/vo/s072.mp3",
+   "from": 15416,
+   "trim": 0,
+   "len": 198
+  },
+  {
+   "src": "airlines/vo/s073.mp3",
+   "from": 15634,
+   "trim": 1,
+   "len": 261
+  },
+  {
+   "src": "airlines/vo/s074.mp3",
+   "from": 15900,
+   "trim": 0,
+   "len": 236
+  },
+  {
+   "src": "airlines/vo/s075.mp3",
+   "from": 16141,
+   "trim": 1,
+   "len": 191
+  },
+  {
+   "src": "airlines/vo/s076.mp3",
+   "from": 16338,
+   "trim": 1,
+   "len": 201
+  },
+  {
+   "src": "airlines/vo/s077.mp3",
+   "from": 16545,
+   "trim": 1,
+   "len": 265
+  },
+  {
+   "src": "airlines/vo/s078.mp3",
+   "from": 16830,
+   "trim": 2,
+   "len": 97
+  },
+  {
+   "src": "airlines/vo/s079.mp3",
+   "from": 16938,
+   "trim": 0,
+   "len": 232
+  },
+  {
+   "src": "airlines/vo/s080.mp3",
+   "from": 17176,
+   "trim": 0,
+   "len": 143
+  },
+  {
+   "src": "airlines/vo/s081.mp3",
+   "from": 17324,
+   "trim": 0,
+   "len": 203
+  },
+  {
+   "src": "airlines/vo/s082.mp3",
+   "from": 17533,
+   "trim": 0,
+   "len": 294
+  },
+  {
+   "src": "airlines/vo/s083.mp3",
+   "from": 17833,
+   "trim": 1,
+   "len": 250
+  },
+  {
+   "src": "airlines/vo/s084.mp3",
+   "from": 18088,
+   "trim": 0,
+   "len": 335
+  }
+ ],
+ "shots": [
+  {
+   "kind": "video",
+   "start": 0,
+   "dur": 172,
+   "seg": "s001",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit14",
+     "src": "airlines/assets/tv_spirit14.mp4",
+     "credit": "CBS News Sunday Morning, 23 Mar 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 56.0,
+    "label": "Spirit Airlines"
+   }
+  },
+  {
+   "kind": "bars",
+   "start": 172,
+   "dur": 176,
+   "seg": "s002",
+   "cat": "charts",
+   "p": {
+    "title": "Operating margin, 2015",
+    "rows": [
+     {
+      "n": "Spirit",
+      "v": 23.8,
+      "label": "23.8%",
+      "hero": true
+     },
+     {
+      "n": "Delta",
+      "v": 19.2,
+      "label": "19.2%"
+     }
+    ],
+    "src": "Spirit and Delta 10-K filings, 2015"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 348,
+   "dur": 160,
+   "seg": "s003",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "spirit_atl",
+     "src": "airlines/assets/spirit_atl.jpg",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1080
+    },
+    "kb": "in",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 508,
+   "dur": 69,
+   "seg": "s003",
+   "cat": "text",
+   "p": {
+    "text": "ALL FLIGHTS CANCELLED",
+    "sub": "2 May 2026"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 577,
+   "dur": 112,
+   "seg": "s004",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "delta_atl",
+     "src": "airlines/assets/delta_atl.jpg",
+     "credit": "Matthew Groh · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in",
+    "label": "Delta Air Lines"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 689,
+   "dur": 141,
+   "seg": "s004",
+   "cat": "charts",
+   "p": {
+    "kicker": "Delta, 2025",
+    "value": "$5.8B",
+    "sub": "operating profit (adjusted)"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 830,
+   "dur": 157,
+   "seg": "s005",
+   "cat": "text",
+   "p": {
+    "text": "ONE PAYMENT",
+    "sub": "bigger than all of that profit"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 987,
+   "dur": 58,
+   "seg": "s005",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "pay_terminal",
+     "src": "airlines/assets/pay_terminal.jpg",
+     "credit": "RuinDig/Yuki Uchida · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "vs",
+   "start": 1045,
+   "dur": 179,
+   "seg": "s006",
+   "cat": "real",
+   "p": {
+    "left_a": {
+     "id": "spirit_lv",
+     "src": "airlines/assets/spirit_lv.jpg",
+     "credit": "Noah Wulf · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2560
+    },
+    "right_a": {
+     "id": "delta_a350",
+     "src": "airlines/assets/delta_a350.jpg",
+     "credit": "4300streetcar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "left": "SPIRIT",
+    "right": "DELTA"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1224,
+   "dur": 93,
+   "seg": "s007",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit14",
+     "src": "airlines/assets/tv_spirit14.mp4",
+     "credit": "CBS News Sunday Morning, 23 Mar 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 1.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1317,
+   "dur": 81,
+   "seg": "s007",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_swipe12",
+     "src": "airlines/assets/tv_swipe12.mp4",
+     "credit": "NBC4 Washington, 14 Jul 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "place",
+   "start": 1398,
+   "dur": 187,
+   "seg": "s008",
+   "cat": "text",
+   "p": {
+    "place": "MICHIGAN",
+    "year": "1964"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1585,
+   "dur": 108,
+   "seg": "s008",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "spirit_a320neo",
+     "src": "airlines/assets/spirit_a320neo.jpg",
+     "credit": "Tomás Del Coro · Wikimedia Commons · CC BY-SA 2.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 919
+    },
+    "kb": "left",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1693,
+   "dur": 248,
+   "seg": "s009",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_baldanza13",
+     "src": "airlines/assets/tv_baldanza13.mp4",
+     "credit": "CNBC, Mad Money, 13 Mar 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 0.0,
+    "label": "Ben Baldanza, Spirit CEO 2005–2016"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1941,
+   "dur": 196,
+   "seg": "s010",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit13",
+     "src": "airlines/assets/tv_spirit13.mp4",
+     "credit": "CBS This Morning, 22 May 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 22.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2137,
+   "dur": 108,
+   "seg": "s010",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit14",
+     "src": "airlines/assets/tv_spirit14.mp4",
+     "credit": "CBS News Sunday Morning, 23 Mar 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 18.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2245,
+   "dur": 181,
+   "seg": "s011",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_bagfees14",
+     "src": "airlines/assets/tv_bagfees14.mp4",
+     "credit": "ABC World News Now, 27 Nov 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 8.0
+   }
+  },
+  {
+   "kind": "text",
+   "start": 2426,
+   "dur": 96,
+   "seg": "s011",
+   "cat": "text",
+   "p": {
+    "text": "HOME OF THE BARE FARE",
+    "sub": "Spirit's own slogan"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2522,
+   "dur": 172,
+   "seg": "s012",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit13",
+     "src": "airlines/assets/tv_spirit13.mp4",
+     "credit": "CBS This Morning, 22 May 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 1.0,
+    "label": "Consumer Reports airline ratings"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2694,
+   "dur": 99,
+   "seg": "s013",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit13",
+     "src": "airlines/assets/tv_spirit13.mp4",
+     "credit": "CBS This Morning, 22 May 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 28.0
+   }
+  },
+  {
+   "kind": "counter",
+   "start": 2793,
+   "dur": 200,
+   "seg": "s014",
+   "cat": "charts",
+   "p": {
+    "from": 0,
+    "to": 23.8,
+    "suffix": "%",
+    "decimals": 1,
+    "label": "Spirit operating margin, 2015",
+    "sub": "a record"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2993,
+   "dur": 149,
+   "seg": "s014",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit14",
+     "src": "airlines/assets/tv_spirit14.mp4",
+     "credit": "CBS News Sunday Morning, 23 Mar 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 60.0
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 3142,
+   "dur": 378,
+   "seg": "s015",
+   "cat": "charts",
+   "p": {
+    "title": "Average Spirit passenger, 2023",
+    "rows": [
+     {
+      "n": "The seat",
+      "v": 53.01,
+      "label": "$53"
+     },
+     {
+      "n": "Everything else",
+      "v": 68.57,
+      "label": "$69",
+      "hero": true
+     }
+    ],
+    "src": "Spirit FY2023 annual report, per passenger flight"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 3520,
+   "dur": 124,
+   "seg": "s017",
+   "cat": "docs",
+   "p": {
+    "title": "Spirit Airlines CEO Ben Baldanza replaced",
+    "sub": "January 2016",
+    "lines": [
+     "Former AirTran CEO Robert Fornaro takes over"
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3644,
+   "dur": 105,
+   "seg": "s017",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit14",
+     "src": "airlines/assets/tv_spirit14.mp4",
+     "credit": "CBS News Sunday Morning, 23 Mar 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 32.0,
+    "label": "Ben Baldanza"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 3749,
+   "dur": 314,
+   "seg": "s018",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_cnbc_baldanza_2016",
+     "src": "airlines/assets/sot_cnbc_baldanza_2016.mp4",
+     "credit": "CNBC Squawk Alley, 5 Jan 2016 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "CNBC",
+    "role": "News update · 5 Jan 2016",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4063,
+   "dur": 178,
+   "seg": "s019",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit14",
+     "src": "airlines/assets/tv_spirit14.mp4",
+     "credit": "CBS News Sunday Morning, 23 Mar 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 44.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 4241,
+   "dur": 192,
+   "seg": "s020",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "spirit_a321",
+     "src": "airlines/assets/spirit_a321.jpg",
+     "credit": "Acroterion · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1000
+    },
+    "kb": "in",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 4432,
+   "dur": 205,
+   "seg": "s021",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "huff_daland",
+     "src": "airlines/assets/huff_daland.jpg",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1275
+    },
+    "kb": "in",
+    "label": "Huff Daland Dusters, 1924"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 4637,
+   "dur": 167,
+   "seg": "s022",
+   "cat": "docs",
+   "p": {
+    "title": "Delta and Northwest file for bankruptcy",
+    "sub": "14 September 2005",
+    "lines": [
+     "Both airlines, on the same day"
+    ]
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 4804,
+   "dur": 108,
+   "seg": "s023",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "dlnw_tails",
+     "src": "airlines/assets/dlnw_tails.png",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 960,
+     "h": 477
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 4912,
+   "dur": 94,
+   "seg": "s023",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "delta_a350",
+     "src": "airlines/assets/delta_a350.jpg",
+     "credit": "4300streetcar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "right"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 5006,
+   "dur": 205,
+   "seg": "s024",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "delta_cabin",
+     "src": "airlines/assets/delta_cabin.jpg",
+     "credit": "4300streetcar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 5211,
+   "dur": 120,
+   "seg": "s025",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "delta_a350",
+     "src": "airlines/assets/delta_a350.jpg",
+     "credit": "4300streetcar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5331,
+   "dur": 217,
+   "seg": "s026",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "tv_amexad09",
+     "src": "airlines/assets/tv_amexad09.mp4",
+     "credit": "Delta SkyMiles card ad (American Express), as aired Oct 2009 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 414
+    },
+    "from": 2.0,
+    "label": "Delta SkyMiles card ad, 2009"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5548,
+   "dur": 90,
+   "seg": "s026",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "tv_amexad09",
+     "src": "airlines/assets/tv_amexad09.mp4",
+     "credit": "Delta SkyMiles card ad (American Express), as aired Oct 2009 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 414
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 5638,
+   "dur": 241,
+   "seg": "s027",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "bastian_photo",
+     "src": "airlines/assets/bastian_photo.jpg",
+     "credit": "Deltanet Photos · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2482
+    },
+    "kb": "in",
+    "label": "Ed Bastian, Delta CEO"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 5879,
+   "dur": 190,
+   "seg": "s028",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_bastian_2024",
+     "src": "airlines/assets/sot_bastian_2024.mp4",
+     "credit": "CNBC Squawk Box, 19 Jan 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "Ed Bastian",
+    "role": "Delta CEO · CNBC, Jan 2024",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 6069,
+   "dur": 143,
+   "seg": "s029",
+   "cat": "charts",
+   "p": {
+    "title": "American Express payments to Delta",
+    "rows": [
+     {
+      "n": "2023",
+      "v": 6.8,
+      "label": "$6.8B"
+     },
+     {
+      "n": "2024",
+      "v": 7.4,
+      "label": "$7.4B"
+     },
+     {
+      "n": "2025",
+      "v": 8.2,
+      "label": "$8.2B",
+      "hero": true
+     }
+    ],
+    "src": "Delta annual results"
+   }
+  },
+  {
+   "kind": "bars",
+   "start": 6212,
+   "dur": 157,
+   "seg": "s030",
+   "cat": "charts",
+   "p": {
+    "title": "Delta, 2025",
+    "rows": [
+     {
+      "n": "From Amex",
+      "v": 8.2,
+      "label": "$8.2B",
+      "hero": true
+     },
+     {
+      "n": "Operating profit",
+      "v": 5.8,
+      "label": "$5.8B"
+     }
+    ],
+    "src": "Delta 10-K, FY2025 results · Amex payments are revenue: Delta must honour the miles"
+   }
+  },
+  {
+   "kind": "counter",
+   "start": 6369,
+   "dur": 178,
+   "seg": "s031",
+   "cat": "charts",
+   "p": {
+    "from": 0,
+    "to": 22.5,
+    "prefix": "$",
+    "suffix": "M",
+    "decimals": 1,
+    "label": "From American Express",
+    "sub": "every day, 2025"
+   }
+  },
+  {
+   "kind": "logo",
+   "start": 6547,
+   "dur": 187,
+   "seg": "s032",
+   "cat": "docs",
+   "p": {
+    "a": {
+     "id": "logo_amex",
+     "src": "airlines/assets/logo_amex.png",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 932,
+     "h": 329
+    },
+    "sub": "Why pay billions for airline miles?"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 6734,
+   "dur": 77,
+   "seg": "s033",
+   "cat": "text",
+   "p": {
+    "text": "SIMPLIFIED EXAMPLE",
+    "sub": "round numbers, not Delta's actual rates"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 6811,
+   "dur": 104,
+   "seg": "s034",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "checkout",
+     "src": "airlines/assets/checkout.jpg",
+     "credit": "Sonny doe · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2560
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6915,
+   "dur": 85,
+   "seg": "s034",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_swipe12",
+     "src": "airlines/assets/tv_swipe12.mp4",
+     "credit": "NBC4 Washington, 14 Jul 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 7000,
+   "dur": 52,
+   "seg": "s034",
+   "cat": "charts",
+   "p": {
+    "kicker": "Card fee on $100 of groceries",
+    "value": "~$2–3",
+    "sub": "paid by the shop (example)"
+   }
+  },
+  {
+   "kind": "timeline",
+   "start": 7052,
+   "dur": 162,
+   "seg": "s035",
+   "cat": "docs",
+   "p": {
+    "items": [
+     {
+      "date": "$100",
+      "text": "you shop"
+     },
+     {
+      "date": "~$2–3",
+      "text": "shop's card fee"
+     },
+     {
+      "date": "Miles",
+      "text": "bought from Delta"
+     },
+     {
+      "date": "You",
+      "text": "get the miles"
+     }
+    ],
+    "src": "Simplified example"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 7214,
+   "dur": 146,
+   "seg": "s036",
+   "cat": "text",
+   "p": {
+    "text": "PAID FOR A FLIGHT",
+    "sub": "you haven't taken"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 7360,
+   "dur": 101,
+   "seg": "s036",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "delta_a350",
+     "src": "airlines/assets/delta_a350.jpg",
+     "credit": "4300streetcar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 7461,
+   "dur": 131,
+   "seg": "s037",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "delta_cabin",
+     "src": "airlines/assets/delta_cabin.jpg",
+     "credit": "4300streetcar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "right",
+    "focus": [
+     0.5,
+     0.6
+    ]
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 7592,
+   "dur": 98,
+   "seg": "s038",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_bastian_magic_2024",
+     "src": "airlines/assets/sot_bastian_magic_2024.mp4",
+     "credit": "CNBC Squawk Box, 19 Jan 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "Ed Bastian",
+    "role": "Delta CEO · CNBC, Jan 2024",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 7690,
+   "dur": 196,
+   "seg": "s039",
+   "cat": "charts",
+   "p": {
+    "kicker": "Spending on Delta's cards",
+    "value": "≈1% of GDP",
+    "sub": "Ed Bastian's estimate"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7886,
+   "dur": 135,
+   "seg": "s040",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_swipe12",
+     "src": "airlines/assets/tv_swipe12.mp4",
+     "credit": "NBC4 Washington, 14 Jul 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 8021,
+   "dur": 137,
+   "seg": "s040",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "checkout",
+     "src": "airlines/assets/checkout.jpg",
+     "credit": "Sonny doe · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2560
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 8158,
+   "dur": 307,
+   "seg": "s041",
+   "cat": "docs",
+   "p": {
+    "title": "Who Pays For Your Rewards? Redistribution in the Credit Card Market",
+    "sub": "Federal Reserve working paper, 2023",
+    "lines": [
+     "≈ $15 billion a year",
+     "from less savvy and poorer cardholders",
+     "to richer, savvier ones"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8464,
+   "dur": 273,
+   "seg": "s042",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_swipe12",
+     "src": "airlines/assets/tv_swipe12.mp4",
+     "credit": "NBC4 Washington, 14 Jul 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "text",
+   "start": 8737,
+   "dur": 131,
+   "seg": "s043",
+   "cat": "text",
+   "p": {
+    "text": "THE MILE",
+    "sub": "the most valuable thing Delta sells"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8868,
+   "dur": 242,
+   "seg": "s044",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_pandemic20",
+     "src": "airlines/assets/tv_pandemic20.mp4",
+     "credit": "ABC7 News, 4 May 2020 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 356
+    },
+    "from": 18.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 9110,
+   "dur": 66,
+   "seg": "s044",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "storage_roswell",
+     "src": "airlines/assets/storage_roswell.jpg",
+     "credit": "Aeroprints.com · Wikimedia Commons · CC BY-SA 3.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in",
+    "label": "Stored airliners (file photo)"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9176,
+   "dur": 246,
+   "seg": "s045",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_pandemic20",
+     "src": "airlines/assets/tv_pandemic20.mp4",
+     "credit": "ABC7 News, 4 May 2020 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 356
+    },
+    "from": 0.0,
+    "label": "San Francisco airport, May 2020"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 9422,
+   "dur": 246,
+   "seg": "s046",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "delta_nw",
+     "src": "airlines/assets/delta_nw.jpg",
+     "credit": "InSapphoWeTrust from Los Angeles, California, USA · Wikimedia Commons · CC BY-SA 2.0",
+     "kind": "image",
+     "w": 1280,
+     "h": 1028
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 9668,
+   "dur": 292,
+   "seg": "s048",
+   "cat": "docs",
+   "p": {
+    "title": "MileagePlus valued at approximately $21.9 billion",
+    "sub": "United Airlines SEC filing, June 2020",
+    "lines": [
+     "Raised: $6.8 billion, secured by the programme"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "deal",
+   "start": 9960,
+   "dur": 243,
+   "seg": "s049",
+   "cat": "docs",
+   "p": {
+    "a": {
+     "id": "logo_delta",
+     "src": "airlines/assets/logo_delta.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 555
+    },
+    "date": "September 2020",
+    "text": "SkyMiles-backed financing",
+    "value": "$9B",
+    "stamp": "LARGEST EVER",
+    "src": "Delta press release, Sept 2020"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 10203,
+   "dur": 114,
+   "seg": "s050",
+   "cat": "charts",
+   "p": {
+    "kicker": "American Airlines, March 2021",
+    "value": "$10B",
+    "sub": "secured by AAdvantage"
+   }
+  },
+  {
+   "kind": "counter",
+   "start": 10317,
+   "dur": 146,
+   "seg": "s051",
+   "cat": "charts",
+   "p": {
+    "from": 0,
+    "to": 25.8,
+    "prefix": "$",
+    "suffix": "B",
+    "decimals": 1,
+    "label": "Lent against airline miles, 2020–21",
+    "sub": "United · Delta · American"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 10463,
+   "dur": 184,
+   "seg": "s051",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "storage_roswell",
+     "src": "airlines/assets/storage_roswell.jpg",
+     "credit": "Aeroprints.com · Wikimedia Commons · CC BY-SA 3.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out",
+    "label": "Stored airliners (file photo)"
+   }
+  },
+  {
+   "kind": "bars",
+   "start": 10647,
+   "dur": 264,
+   "seg": "s052",
+   "cat": "charts",
+   "p": {
+    "title": "American Airlines, 2020",
+    "rows": [
+     {
+      "n": "Its miles (appraised)",
+      "v": 31.5,
+      "label": "up to $31.5B",
+      "hero": true
+     },
+     {
+      "n": "The whole airline",
+      "v": 10,
+      "label": "< $10B"
+     }
+    ],
+    "src": "Appraisals cited by American; market value per Motley Fool, June 2020"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 10911,
+   "dur": 252,
+   "seg": "s053",
+   "cat": "text",
+   "p": {
+    "text": "FLYING, ON ITS OWN",
+    "sub": "lost money (one 2025 analysis)"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 11163,
+   "dur": 187,
+   "seg": "s054",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "delta_a350",
+     "src": "airlines/assets/delta_a350.jpg",
+     "credit": "4300streetcar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 11350,
+   "dur": 203,
+   "seg": "s055",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "spirit_a320neo",
+     "src": "airlines/assets/spirit_a320neo.jpg",
+     "credit": "Tomás Del Coro · Wikimedia Commons · CC BY-SA 2.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 919
+    },
+    "kb": "left"
+   }
+  },
+  {
+   "kind": "bars",
+   "start": 11553,
+   "dur": 329,
+   "seg": "s056",
+   "cat": "charts",
+   "p": {
+    "title": "Credit card money, 2023",
+    "rows": [
+     {
+      "n": "Delta",
+      "v": 6800,
+      "label": "$6.8B",
+      "hero": true
+     },
+     {
+      "n": "Spirit",
+      "v": 93.1,
+      "label": "$93M"
+     }
+    ],
+    "src": "Delta FY2023 results; Spirit FY2023 10-K"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 11882,
+   "dur": 256,
+   "seg": "s058",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "tv_amexad09",
+     "src": "airlines/assets/tv_amexad09.mp4",
+     "credit": "Delta SkyMiles card ad (American Express), as aired Oct 2009 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 414
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12138,
+   "dur": 176,
+   "seg": "s059",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit14",
+     "src": "airlines/assets/tv_spirit14.mp4",
+     "credit": "CBS News Sunday Morning, 23 Mar 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 10.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12314,
+   "dur": 249,
+   "seg": "s060",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_bagfees14",
+     "src": "airlines/assets/tv_bagfees14.mp4",
+     "credit": "ABC World News Now, 27 Nov 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12563,
+   "dur": 120,
+   "seg": "s061",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_bk24",
+     "src": "airlines/assets/tv_bk24.mp4",
+     "credit": "CNBC Power Lunch, 4 Oct 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 0.0,
+    "label": "CNBC, Oct 2024"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12683,
+   "dur": 165,
+   "seg": "s061",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit13",
+     "src": "airlines/assets/tv_spirit13.mp4",
+     "credit": "CBS This Morning, 22 May 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 30.0
+   }
+  },
+  {
+   "kind": "logo",
+   "start": 12848,
+   "dur": 192,
+   "seg": "s062",
+   "cat": "docs",
+   "p": {
+    "a": {
+     "id": "logo_jetblue",
+     "src": "airlines/assets/logo_jetblue.png",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 644
+    },
+    "sub": "May 2022: offers to buy Spirit"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 13040,
+   "dur": 150,
+   "seg": "s062",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_blocked24",
+     "src": "airlines/assets/tv_blocked24.mp4",
+     "credit": "CBS News Bay Area, 17 Jan 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 356
+    },
+    "from": 14.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 13190,
+   "dur": 290,
+   "seg": "s063",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_christie_2022",
+     "src": "airlines/assets/sot_christie_2022.mp4",
+     "credit": "CNBC Squawk Box, 19 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "Ted Christie",
+    "role": "Spirit CEO · CNBC, May 2022",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "deal",
+   "start": 13480,
+   "dur": 165,
+   "seg": "s064",
+   "cat": "docs",
+   "p": {
+    "a": {
+     "id": "logo_jetblue",
+     "src": "airlines/assets/logo_jetblue.png",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 644
+    },
+    "date": "July 2022",
+    "text": "Spirit agrees to JetBlue deal",
+    "value": "$3.8B",
+    "stamp": "AGREED",
+    "src": "Spirit / JetBlue announcement, July 2022"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 13645,
+   "dur": 243,
+   "seg": "s065",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_blocked24",
+     "src": "airlines/assets/tv_blocked24.mp4",
+     "credit": "CBS News Bay Area, 17 Jan 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 356
+    },
+    "from": 2.0,
+    "label": "CBS News, 17 Jan 2024"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 13888,
+   "dur": 181,
+   "seg": "s066",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit14",
+     "src": "airlines/assets/tv_spirit14.mp4",
+     "credit": "CBS News Sunday Morning, 23 Mar 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 54.0
+   }
+  },
+  {
+   "kind": "text",
+   "start": 14069,
+   "dur": 186,
+   "seg": "s066",
+   "cat": "text",
+   "p": {
+    "text": "GO BIG",
+    "sub": "Spirit's premium bundles, Aug 2024"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 14255,
+   "dur": 266,
+   "seg": "s067",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit14",
+     "src": "airlines/assets/tv_spirit14.mp4",
+     "credit": "CBS News Sunday Morning, 23 Mar 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 33.0,
+    "label": "Ben Baldanza, 1961–2024"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 14521,
+   "dur": 109,
+   "seg": "s068",
+   "cat": "docs",
+   "p": {
+    "title": "Spirit Airlines files for bankruptcy",
+    "sub": "18 November 2024"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 14630,
+   "dur": 124,
+   "seg": "s069",
+   "cat": "charts",
+   "p": {
+    "title": "Spirit net losses",
+    "rows": [
+     {
+      "n": "2020",
+      "v": 428.7,
+      "label": "$429M"
+     },
+     {
+      "n": "2021",
+      "v": 472.6,
+      "label": "$473M"
+     },
+     {
+      "n": "2022",
+      "v": 554.2,
+      "label": "$554M"
+     },
+     {
+      "n": "2023",
+      "v": 447.5,
+      "label": "$448M"
+     },
+     {
+      "n": "2024",
+      "v": 1229.5,
+      "label": "$1.2B",
+      "hero": true
+     }
+    ],
+    "src": "Spirit 10-K filings"
+   }
+  },
+  {
+   "kind": "clips",
+   "start": 14754,
+   "dur": 148,
+   "seg": "s069",
+   "cat": "docs",
+   "p": {
+    "items": [
+     {
+      "date": "Nov 2024",
+      "text": "Files for bankruptcy"
+     },
+     {
+      "date": "Mar 2025",
+      "text": "Emerges"
+     },
+     {
+      "date": "Aug 2025",
+      "text": "Files again"
+     }
+    ],
+    "instant": 1
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 14902,
+   "dur": 211,
+   "seg": "s070",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "spirit_a321",
+     "src": "airlines/assets/spirit_a321.jpg",
+     "credit": "Acroterion · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1000
+    },
+    "kb": "out",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 15113,
+   "dur": 68,
+   "seg": "s070",
+   "cat": "text",
+   "p": {
+    "text": "ALL FLIGHTS CANCELLED",
+    "sub": "2 May 2026 · ~17,000 jobs"
+   }
+  },
+  {
+   "kind": "vs",
+   "start": 15181,
+   "dur": 235,
+   "seg": "s071",
+   "cat": "real",
+   "p": {
+    "left_a": {
+     "id": "spirit_a320neo",
+     "src": "airlines/assets/spirit_a320neo.jpg",
+     "credit": "Tomás Del Coro · Wikimedia Commons · CC BY-SA 2.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 919
+    },
+    "right_a": {
+     "id": "delta_atl",
+     "src": "airlines/assets/delta_atl.jpg",
+     "credit": "Matthew Groh · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "left": "GONE",
+    "right": "THRIVING"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 15416,
+   "dur": 218,
+   "seg": "s072",
+   "cat": "charts",
+   "p": {
+    "kicker": "Delta's answer",
+    "value": "$8.2B",
+    "sub": "a year from American Express"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 15634,
+   "dur": 266,
+   "seg": "s073",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "pay_terminal",
+     "src": "airlines/assets/pay_terminal.jpg",
+     "credit": "RuinDig/Yuki Uchida · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 15900,
+   "dur": 241,
+   "seg": "s074",
+   "cat": "docs",
+   "p": {
+    "title": "Credit Card Competition Act",
+    "sub": "Reintroduced, January 2026",
+    "lines": [
+     "Would add competing card networks to push swipe fees down"
+    ]
+   }
+  },
+  {
+   "kind": "quote",
+   "start": 16141,
+   "dur": 197,
+   "seg": "s075",
+   "cat": "docs",
+   "p": {
+    "text": "unfair, abusive and deceptive practices",
+    "by": "Sens. Durbin and Marshall on airline loyalty programmes, 2023",
+    "style": "clip"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 16338,
+   "dur": 207,
+   "seg": "s076",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "capitol",
+     "src": "airlines/assets/capitol.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 823
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 16545,
+   "dur": 88,
+   "seg": "s077",
+   "cat": "text",
+   "p": {
+    "text": "STILL A LONG SHOT",
+    "sub": "analysts, 2026"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 16633,
+   "dur": 197,
+   "seg": "s077",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "delta_a350",
+     "src": "airlines/assets/delta_a350.jpg",
+     "credit": "4300streetcar · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 16830,
+   "dur": 108,
+   "seg": "s078",
+   "cat": "text",
+   "p": {
+    "text": "WHY?",
+    "big": true
+   }
+  },
+  {
+   "kind": "vs",
+   "start": 16938,
+   "dur": 238,
+   "seg": "s079",
+   "cat": "real",
+   "p": {
+    "left_a": {
+     "id": "spirit_lv",
+     "src": "airlines/assets/spirit_lv.jpg",
+     "credit": "Noah Wulf · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 3840,
+     "h": 2560
+    },
+    "right_a": {
+     "id": "checkout",
+     "src": "airlines/assets/checkout.jpg",
+     "credit": "Sonny doe · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2560
+    },
+    "left": "PASSENGERS PAY",
+    "right": "EVERYONE PAYS"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 17176,
+   "dur": 74,
+   "seg": "s080",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_bagfees14",
+     "src": "airlines/assets/tv_bagfees14.mp4",
+     "credit": "ABC World News Now, 27 Nov 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 17250,
+   "dur": 74,
+   "seg": "s080",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "checkout",
+     "src": "airlines/assets/checkout.jpg",
+     "credit": "Sonny doe · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2560
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "bars",
+   "start": 17324,
+   "dur": 101,
+   "seg": "s081",
+   "cat": "charts",
+   "p": {
+    "title": "Operating margin, 2015",
+    "rows": [
+     {
+      "n": "Spirit",
+      "v": 23.8,
+      "label": "23.8%",
+      "hero": true
+     },
+     {
+      "n": "Delta",
+      "v": 19.2,
+      "label": "19.2%"
+     }
+    ],
+    "src": "Spirit and Delta 10-K filings, 2015"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 17425,
+   "dur": 108,
+   "seg": "s081",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spirit14",
+     "src": "airlines/assets/tv_spirit14.mp4",
+     "credit": "CBS News Sunday Morning, 23 Mar 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 62.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 17533,
+   "dur": 139,
+   "seg": "s082",
+   "cat": "charts",
+   "p": {
+    "kicker": "Delta's target from American Express",
+    "value": "$10B",
+    "sub": "a year"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 17672,
+   "dur": 161,
+   "seg": "s082",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_swipe12",
+     "src": "airlines/assets/tv_swipe12.mp4",
+     "credit": "NBC4 Washington, 14 Jul 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 17833,
+   "dur": 164,
+   "seg": "s083",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "delta_atl",
+     "src": "airlines/assets/delta_atl.jpg",
+     "credit": "Matthew Groh · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 17997,
+   "dur": 91,
+   "seg": "s083",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "capitol",
+     "src": "airlines/assets/capitol.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 823
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "end",
+   "start": 18088,
+   "dur": 332,
+   "seg": "s084",
+   "cat": "text",
+   "p": {}
+  }
+ ],
+ "chapters": [
+  {
+   "name": "COLD OPEN",
+   "from": 0
+  },
+  {
+   "name": "1. HOME OF THE BARE FARE",
+   "from": 1398
+  },
+  {
+   "name": "2. BANKRUPT IN ATLANTA",
+   "from": 4432
+  },
+  {
+   "name": "3. THE MOST VALUABLE THING DELTA SELLS",
+   "from": 6734
+  },
+  {
+   "name": "4. COLLATERAL",
+   "from": 9176
+  },
+  {
+   "name": "5. THE SQUEEZE",
+   "from": 11553
+  },
+  {
+   "name": "6. THE THREAT",
+   "from": 15634
+  },
+  {
+   "name": "VERDICT",
+   "from": 16830
+  }
+ ]
+}

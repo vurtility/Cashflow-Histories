@@ -124,12 +124,6 @@
    "k": "video",
    "a": "tv_spirit14",
    "from": 18
-  },
-  {
-   "at": "even printing",
-   "k": "video",
-   "a": "tv_spirit13",
-   "from": 18
   }
  ],
  "s011": [
@@ -277,9 +271,9 @@
  ],
  "s025": [
   {
-   "k": "text",
-   "text": "PARTLY.",
-   "sub": "but that's not where the money is"
+   "k": "photo",
+   "a": "delta_a350",
+   "kb": "out"
   }
  ],
  "s026": [
@@ -471,13 +465,13 @@
   {
    "k": "video",
    "a": "tv_swipe12",
-   "from": 18
+   "from": 4
   },
   {
    "at": "shops don't charge",
-   "k": "video",
-   "a": "tv_swipe12",
-   "from": 4
+   "k": "photo",
+   "a": "checkout",
+   "kb": "out"
   }
  ],
  "s041": [
@@ -495,12 +489,6 @@
  ],
  "s042": [
   {
-   "k": "text",
-   "text": "THE INDUSTRY'S ANSWER",
-   "sub": "card customers spend more"
-  },
-  {
-   "at": "that's the trade",
    "k": "video",
    "a": "tv_swipe12",
    "from": 0
@@ -679,6 +667,12 @@
    "a": "tv_bk24",
    "from": 0,
    "label": "CNBC, Oct 2024"
+  },
+  {
+   "at": "spirit had to squeeze",
+   "k": "video",
+   "a": "tv_spirit13",
+   "from": 30
   }
  ],
  "s062": [
@@ -836,14 +830,8 @@
  ],
  "s073": [
   {
-   "k": "video",
-   "a": "tv_swipe12",
-   "from": 16
-  },
-  {
-   "at": "it's congress",
    "k": "photo",
-   "a": "capitol",
+   "a": "pay_terminal",
    "kb": "in"
   }
  ],
@@ -867,12 +855,6 @@
  ],
  "s076": [
   {
-   "k": "text",
-   "text": "THE AIRLINES",
-   "sub": "say it would gut rewards programmes"
-  },
-  {
-   "at": "and they've fought",
    "k": "photo",
    "a": "capitol",
    "kb": "out"
@@ -915,9 +897,9 @@
   },
   {
    "at": "delta gets paid",
-   "k": "video",
-   "a": "tv_swipe12",
-   "from": 18
+   "k": "photo",
+   "a": "checkout",
+   "kb": "in"
   }
  ],
  "s081": [
