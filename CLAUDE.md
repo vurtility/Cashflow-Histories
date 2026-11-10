@@ -45,3 +45,8 @@ If this is a fresh checkout, run `./setup.sh` first.
   - Delivered: master MP4 and 3 thumbnails in chat; thumbnails and `airlines-youtube-details.txt` in the owner's Drive "Claude" folder. The video is over the Drive connector's 10 MB limit, so the owner saves it there from the chat.
   - Wikimedia rate-limits this cloud IP heavily: `fetch_assets.py` now falls back to wikitext + standard 1920/1280/960 thumbnail widths.
 
+- Episode 3, **State Farm** ("Why State Farm Won't Insure California"):
+  - Script: `statefarm-script.md`. Voiceover: `production/episodes/statefarm/` (8.5 min, all QA pass). 5 real-voice clips (2011 jingle ad, Amy Bach, Santa Rosa homeowner, Harvey Rosenfield, Ricardo Lara), all from the TV News Archive.
+  - Edit v1: real footage 58%, charts 14%. Master: `render.py statefarm --master` (not in git).
+  - Thumbnails, `youtube.md` and `upload/statefarm-youtube-details.txt` done; thumbnails and the details file are in the owner's Drive "Claude" folder. The owner saves the master to Drive from chat.
+  - Open ⚠️ fact-check items: Palisades 69% ZIP figure, the ~40% capital analysis, the $1.26 company figure, the FAIR Plan rounding.
