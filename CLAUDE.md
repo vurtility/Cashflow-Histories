@@ -39,3 +39,9 @@ If this is a fresh checkout, run `./setup.sh` first.
   - Footage: news b-roll (CBS 2012 store footage, ABC 2018 closures, ABC 2023 slicers, Jersey Mike's 2024 ad with Cancro) added only where it matches the words. Real footage is 25%. The owner decided not to force the 40–50% target: the remaining chart time is explanation footage can't do. The TV News Archive index has nothing yet after 2024 (no Jersey Mike's IPO coverage).
   - Review copy v3 sent (540p; real-voice clips loudness-normalised at fetch via "af"). Render the 1080p master at publish.
   - Next: owner review of rough cut v3; resolve ⚠️ fact-check items; thumbnail.
+- Episode 2, **Spirit vs Delta** ("Why Spirit Died and Delta Didn't"):
+  - Script: `airlines-script.md`. Voiceover: `production/episodes/airlines/` (10.2 min, 80/80 QA). 4 real-voice clips (CNBC: Baldanza exit, Bastian ×2, Christie).
+  - Edit: real footage 51%, charts 17%. Master rendered with `render.py --master` (8 chapters, 56 min, 375 MB). Not in git; re-render from the cache-free build if needed.
+  - Delivered: master MP4 and 3 thumbnails in chat; thumbnails and `airlines-youtube-details.txt` in the owner's Drive "Claude" folder. The video is over the Drive connector's 10 MB limit, so the owner saves it there from the chat.
+  - Wikimedia rate-limits this cloud IP heavily: `fetch_assets.py` now falls back to wikitext + standard 1920/1280/960 thumbnail widths.
+
