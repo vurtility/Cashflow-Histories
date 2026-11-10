@@ -28,6 +28,7 @@ If this is a fresh checkout, run `./setup.sh` first.
   - **Less graphics, more footage and images** (owner, Nov 2026). Charts and text cards only where the viewer must see the number; otherwise show the real thing. Footage and photos can hold a few seconds longer (up to ~8s) rather than cutting to a graphic.
   - **Pictures of people show their face.** `build_shots.py` warns when a crop would cut a face off; fix it with `"focus"`.
 - **Sound:** real-voice clips play at the narration's loudness, never quieter (both −14 LUFS, `channel.json` `mix`). `fetch_assets.py` levels `sot_*` clips automatically and `build_shots.py` warns if one is quieter.
+- **Thumbnails:** follow `research/thumbnail-study.md` (big real logo or storefront, one subject, 2–4 words posing the video's question, three variants for Test & Compare).
 - **Fact-check** every number before publishing. Items marked ⚠️ in a script's fact-check log are unresolved.
 
 ## Status

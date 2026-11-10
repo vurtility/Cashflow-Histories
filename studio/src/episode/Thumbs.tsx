@@ -188,9 +188,76 @@ const Cross: React.FC<{a: string}> = ({a}) => (
   </Sheet>
 );
 
+// Lessons from competitors' best thumbnails (research/thumbnail-study.md): the brand is the hero (big logo
+// or storefront), 2-4 words that pose a verdict or question, one dominant subject, a simple decline symbol.
+
+const FallArrow: React.FC<{style?: React.CSSProperties; w?: number; h?: number}> = ({style, w = 620, h = 300}) => (
+  <svg width={w} height={h} viewBox="0 0 620 300" style={{position: 'absolute', overflow: 'visible', ...style}}>
+    <polyline points="10,30 170,120 250,80 420,210 560,250" fill="none" stroke={INK.ink} strokeWidth={44} strokeLinejoin="miter" transform="translate(10,10)" />
+    <polyline points="10,30 170,120 250,80 420,210 560,250" fill="none" stroke="#E8173A" strokeWidth={34} strokeLinejoin="miter" />
+    <polygon points="610,268 520,290 548,200" fill="#E8173A" stroke={INK.ink} strokeWidth={6} />
+  </svg>
+);
+
+// H: who pays for the closures?
+const WhoPays: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.ink}>
+    <Photo src={`${a}/store_foggy.jpg`} pos="50% 30%" zoom={1.45} origin="50% 30%" style={{inset: 0}} />
+    <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(22,33,62,0) 45%, rgba(22,33,62,0.6) 100%)'}} />
+    <FallArrow style={{left: 640, top: 330}} w={560} h={270} />
+    <div style={{position: 'absolute', left: 46, bottom: 52, background: INK.yellow, padding: '14px 34px 2px', boxShadow: `14px 10px 0 ${INK.pink}`}}>
+      <span style={{fontFamily: slab, fontSize: 132, color: INK.ink, whiteSpace: 'nowrap'}}>WHO PAYS?</span>
+    </div>
+  </Sheet>
+);
+
+// I: hero footlong with the 12.5% slice lifted out.
+const CUT = {x: 960, y: 352, w: 92, h: 250, lift: 120};
+const RealProduct: React.FC<{a: string}> = ({a}) => {
+  const img = <Img src={staticFile(`${a}/footlong.jpg`)} style={{position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', objectPosition: '60% 70%', filter: 'saturate(1.25) contrast(1.08)'}} />;
+  return (
+    <Sheet>
+      <AbsoluteFill>{img}</AbsoluteFill>
+      <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.55) 30%, rgba(255,255,255,0) 46%)'}} />
+      {/* the gap the slice leaves */}
+      <div style={{position: 'absolute', left: CUT.x, top: CUT.y, width: CUT.w, height: CUT.h, background: INK.ink, opacity: 0.85, border: `6px dashed ${INK.pink}`}} />
+      {/* the slice, lifted */}
+      <AbsoluteFill style={{transform: `translate(30px, ${-CUT.lift}px) rotate(-4deg)`, transformOrigin: `${CUT.x + CUT.w / 2}px ${CUT.y + CUT.h / 2}px`,
+        filter: `drop-shadow(14px 18px 0 ${INK.ink})`}}>
+        <AbsoluteFill style={{clipPath: `inset(${CUT.y}px ${1280 - CUT.x - CUT.w}px ${720 - CUT.y - CUT.h}px ${CUT.x}px)`}}>{img}</AbsoluteFill>
+      </AbsoluteFill>
+      <div style={{position: 'absolute', left: CUT.x - 170, top: CUT.y - CUT.lift - 150, background: INK.pink, padding: '8px 22px 0', boxShadow: `10px 8px 0 ${INK.ink}`, transform: 'rotate(-4deg)'}}>
+        <span style={{fontFamily: slab, fontSize: 96, color: INK.paper, whiteSpace: 'nowrap'}}>12.5%</span>
+      </div>
+      <div style={{position: 'absolute', left: 56, top: 44}}>
+        <Img src={staticFile(`${a}/logo_subway.png`)} style={{width: 420, height: 84, objectFit: 'contain', objectPosition: 'left center', display: 'block'}} />
+        <Num size={86} style={{marginTop: 22}}>THE REAL</Num>
+        <Num size={86} style={{marginTop: 4}}>PRODUCT</Num>
+      </div>
+    </Sheet>
+  );
+};
+
+// J: after Modern MBA's "Why Hotels Don't Fear Airbnb" (3.5M): stacked word boxes beside the evidence.
+const WhyFine: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.yellow}>
+    <Photo src={`${a}/closed_miami23.jpg`} pos="50% 55%" style={{left: 600, top: 0, width: 680, height: H}} />
+    <div style={{position: 'absolute', left: 586, top: 0, width: 20, height: H, background: INK.ink}} />
+    <Stamp style={{left: 760, top: 300, fontSize: 92, transform: 'rotate(-8deg)'}}>CLOSED</Stamp>
+    <div style={{position: 'absolute', left: 50, top: 60, display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 12}}>
+      {['WHY', 'SUBWAY', 'IS FINE'].map((w) => (
+        <div key={w} style={{background: INK.ink, color: INK.paper, fontFamily: slab, fontSize: 96, lineHeight: 1, padding: '14px 24px 4px', whiteSpace: 'nowrap'}}>{w}</div>
+      ))}
+    </div>
+    <div style={{position: 'absolute', left: 50, bottom: 56, background: INK.paper, padding: '14px 22px', boxShadow: `10px 8px 0 ${INK.pink}`}}>
+      <Img src={staticFile(`${a}/logo_subway.png`)} style={{width: 400, height: 80, objectFit: 'contain', display: 'block'}} />
+    </div>
+  </Sheet>
+);
+
 export const Thumb: React.FC<{ep: string; v: string}> = ({ep, v}) => {
   const a = `${ep}/assets`;
-  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross};
+  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine};
   const C = V[v] ?? ClosedRicher;
   return <C a={a} />;
 };
