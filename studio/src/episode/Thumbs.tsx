@@ -316,9 +316,60 @@ const OneDied: React.FC<{a: string}> = ({a}) => (
   </Sheet>
 );
 
+// ---- Episode 3 (State Farm) ----
+const SfLogo: React.FC<{a: string; w?: number; style?: React.CSSProperties}> = ({a, w = 360, style}) => (
+  <div style={{position: 'absolute', background: INK.paper, padding: '16px 24px', boxShadow: `10px 8px 0 ${INK.ink}`, ...style}}>
+    <Img src={staticFile(`${a}/logo_sf.png`)} style={{width: w, height: w * 0.16, objectFit: 'contain', display: 'block'}} />
+  </div>
+);
+
+// S: the jingle as a question, over what the fire left.
+const GoodNeighbor: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.ink}>
+    <Photo src={`${a}/palisades_destroyed.jpg`} pos="50% 55%" style={{inset: 0}} />
+    <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(22,33,62,0.75) 0%, rgba(22,33,62,0.1) 45%, rgba(22,33,62,0.0) 100%)'}} />
+    <SfLogo a={a} w={330} style={{left: 46, top: 40}} />
+    <div style={{position: 'absolute', left: 46, bottom: 50, display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 10}}>
+      {['LIKE A GOOD', 'NEIGHBOR?'].map((w) => (
+        <div key={w} style={{background: INK.yellow, color: INK.ink, fontFamily: slab, fontSize: 104, lineHeight: 1, padding: '14px 26px 4px', whiteSpace: 'nowrap', boxShadow: `10px 8px 0 ${INK.pink}`}}>{w}</div>
+      ))}
+    </div>
+  </Sheet>
+);
+
+// T: the money, and the answer.
+const StillNo: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.yellow}>
+    <Photo src={`${a}/eaton_home.jpg`} ink pos="50% 50%" style={{left: 620, top: 0, width: 660, height: H}} />
+    <div style={{position: 'absolute', left: 606, top: 0, width: 20, height: H, background: INK.ink}} />
+    <SfLogo a={a} w={300} style={{left: 46, top: 46}} />
+    <div style={{position: 'absolute', left: 46, top: 200}}>
+      <Num size={150}>$170B.</Num>
+    </div>
+    <Stamp style={{left: 70, top: 420, fontSize: 104, transform: 'rotate(-6deg)'}}>STILL NO.</Stamp>
+  </Sheet>
+);
+
+// U: dropped, then burned.
+const DroppedBurned: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.ink}>
+    <Photo src={`${a}/palisades_drive.jpg`} ink pos="50% 50%" style={{left: 0, top: 0, width: 636, height: H}} />
+    <Photo src={`${a}/palisades_destroyed.jpg`} pos="50% 55%" style={{left: 644, top: 0, width: 636, height: H}} />
+    {[{x: 40, t: 'DROPPED', d: 'July 2024', bg: INK.paper}, {x: 684, t: 'BURNED', d: 'January 2025', bg: INK.yellow}].map((c) => (
+      <div key={c.t} style={{position: 'absolute', left: c.x, bottom: 56}}>
+        <div style={{background: INK.ink, color: INK.paper, fontFamily: type, fontWeight: 700, fontSize: 40, padding: '6px 16px', display: 'inline-block', marginBottom: 12}}>{c.d}</div>
+        <div style={{background: c.bg, padding: '10px 28px 0', boxShadow: `12px 9px 0 ${INK.pink}`}}>
+          <span style={{fontFamily: slab, fontSize: 100, color: INK.ink, whiteSpace: 'nowrap'}}>{c.t}</span>
+        </div>
+      </div>
+    ))}
+    <SfLogo a={a} w={300} style={{left: 490, top: 40}} />
+  </Sheet>
+);
+
 export const Thumb: React.FC<{ep: string; v: string}> = ({ep, v}) => {
   const a = `${ep}/assets`;
-  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine, p: WhySpiritDied, q: FromACard, r: OneDied};
+  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine, p: WhySpiritDied, q: FromACard, r: OneDied, s: GoodNeighbor, t: StillNo, u: DroppedBurned};
   const C = V[v] ?? ClosedRicher;
   return <C a={a} />;
 };

@@ -1,0 +1,367 @@
+[
+  {
+    "id": "s001",
+    "chapter": "COLD OPEN",
+    "cue": "[BROLL: Pacific Palisades homes on the hillside, before. Caption: \"Pacific Palisades, Los Angeles\"]",
+    "text": "In July 2024, State Farm stopped renewing the home insurance of about sixteen hundred households in Pacific Palisades."
+  },
+  {
+    "id": "s002",
+    "chapter": "COLD OPEN",
+    "cue": "[PHOTO: homes destroyed in the Palisades fire]",
+    "text": "Six months later, the Palisades burned.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s003",
+    "chapter": "COLD OPEN",
+    "cue": "[GFX: State Farm, 2025: \"Net worth $170B\" · \"Profit $12.9B\"]",
+    "text": "State Farm is worth a hundred and seventy billion dollars. Last year, it made twelve point nine billion."
+  },
+  {
+    "id": "s004",
+    "chapter": "COLD OPEN",
+    "cue": "[DOC: May 2023 headline: \"State Farm stops accepting new homeowners applications in California\"]",
+    "text": "And it still won't sell a new home insurance policy anywhere in California."
+  },
+  {
+    "id": "s005",
+    "chapter": "COLD OPEN",
+    "cue": "",
+    "text": "State Farm TV ad — \"Wherever you are, whatever it takes, like a good neighbor, State Farm is there.\" | State Farm ad as aired, May 2011",
+    "type": "sot",
+    "duration": 9.9
+  },
+  {
+    "id": "s006",
+    "chapter": "COLD OPEN",
+    "cue": "[VISUAL: title card]",
+    "text": "So why won't the richest home insurer in America insure a house in California?"
+  },
+  {
+    "id": "s007",
+    "chapter": "COLD OPEN",
+    "cue": "",
+    "text": "It's not because it can't afford the fires. That's the strange part."
+  },
+  {
+    "id": "s008",
+    "chapter": "1. A FARMER'S IDEA",
+    "cue": "[PHOTO: State Farm building, Bloomington, Illinois]",
+    "text": "State Farm started in 1922, in Bloomington, Illinois. A retired farmer named George Mecherle had an idea: cheap car insurance for farmers, from a company owned by the people it insured."
+  },
+  {
+    "id": "s009",
+    "chapter": "1. A FARMER'S IDEA",
+    "cue": "[GFX: \"Mutual: owned by its policyholders, not shareholders\"]",
+    "text": "That's still how it works. State Farm has no shareholders. It's a mutual, owned by its customers."
+  },
+  {
+    "id": "s010",
+    "chapter": "1. A FARMER'S IDEA",
+    "cue": "[PHOTO: Barry Manilow, face visible]",
+    "text": "In 1971, it got a jingle. A young songwriter called Barry Manilow wrote the music. He was paid five hundred dollars."
+  },
+  {
+    "id": "s011",
+    "chapter": "1. A FARMER'S IDEA",
+    "cue": "[GFX: map: State Farm \"#1 home insurer in America, ~18%\" · \"California, ~1 in 5 homes\"]",
+    "text": "Today, State Farm is the biggest home insurer in America. In California, it insured about one home in five."
+  },
+  {
+    "id": "s012",
+    "chapter": "1. A FARMER'S IDEA",
+    "cue": "[DOC: May 2023: \"State Farm General… will cease accepting new applications\"]",
+    "text": "So in May 2023, when it stopped selling new home insurance in California, it wasn't a small company retreating. It was the biggest one."
+  },
+  {
+    "id": "s013",
+    "chapter": "2. THE OBVIOUS ANSWER",
+    "cue": "[PHOTO: Palisades fire from UCLA]",
+    "text": "The obvious answer is fire. California's wildfires have grown bigger and more destructive, and every burned house is a claim."
+  },
+  {
+    "id": "s014",
+    "chapter": "2. THE OBVIOUS ANSWER",
+    "cue": "[GFX: \"$1.26 paid out for every $1 collected\" · \"State Farm, California, over 9 years (company figure)\"]",
+    "text": "State Farm says that over nine years in California, it paid out a dollar twenty-six for every dollar it collected. Twenty-six cents lost on every premium dollar."
+  },
+  {
+    "id": "s015",
+    "chapter": "2. THE OBVIOUS ANSWER",
+    "cue": "[DOC: March 2024: \"State Farm won't renew 72,000 California policies\"]",
+    "text": "So it raised prices, and kept raising them. In March 2024, it said it would not renew seventy-two thousand policies, including thirty thousand homes and rentals."
+  },
+  {
+    "id": "s016",
+    "chapter": "2. THE OBVIOUS ANSWER",
+    "cue": "[GFX: logos of California's largest insurers, stamped \"PAUSED\" or \"LIMITED\"]",
+    "text": "And State Farm wasn't alone. At least seven of California's largest home insurers had paused or limited new policies."
+  },
+  {
+    "id": "s017",
+    "chapter": "2. THE OBVIOUS ANSWER",
+    "cue": "",
+    "text": "Amy Bach, United Policyholders — \"Very frustrating. They just got a 20% rate increase. It just got it.\" | NBC Bay Area, 21 Mar 2024",
+    "type": "sot",
+    "duration": 5.8
+  },
+  {
+    "id": "s018",
+    "chapter": "2. THE OBVIOUS ANSWER",
+    "cue": "[BROLL: Santa Rosa street, homeowner]",
+    "text": "For the customers who stayed, the bills jumped."
+  },
+  {
+    "id": "s019",
+    "chapter": "2. THE OBVIOUS ANSWER",
+    "cue": "",
+    "text": "Santa Rosa homeowner — \"so they added $1,200 to it. So now instead of $900 it's $2,100. How do I pay that?\" | KPIX CBS News Bay Area, 29 Aug 2024",
+    "type": "sot",
+    "duration": 8.1
+  },
+  {
+    "id": "s020",
+    "chapter": "2. THE OBVIOUS ANSWER",
+    "cue": "[GFX: \"$170B net worth\" vs \"LA fire claims: ~$7B (State Farm's estimate)\"]",
+    "text": "But here's the problem with the obvious answer. The January 2025 fires were the worst in Los Angeles history, and State Farm expected about seven billion dollars of claims. That's around four percent of what State Farm is worth."
+  },
+  {
+    "id": "s021",
+    "chapter": "2. THE OBVIOUS ANSWER",
+    "cue": "[VISUAL: beat]",
+    "text": "A company with a hundred and seventy billion dollars can pay for fires. So why is it acting like it can't?"
+  },
+  {
+    "id": "s022",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[GFX: org chart: \"State Farm Mutual ($170B)\" → separate box \"State Farm General (California homes)\"]",
+    "text": "Because the State Farm that sells your California home insurance isn't the State Farm with a hundred and seventy billion dollars."
+  },
+  {
+    "id": "s023",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[GFX: \"State Farm General Insurance Company\": its own capital, its own balance sheet]",
+    "text": "It's a separate company: State Farm General. It has its own money, its own balance sheet, and its own losses. The parent can lend it money, but it doesn't have to pay its bills."
+  },
+  {
+    "id": "s024",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[GFX: map: California vs \"Ohio · Texas · Illinois…\" policyholders]",
+    "text": "And State Farm's argument is that it shouldn't. The hundred and seventy billion belongs, in effect, to policyholders all over America. Why should a family in Ohio pay for wildfire losses in California?"
+  },
+  {
+    "id": "s025",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[VISUAL: \"Simplified example: round numbers\"]",
+    "text": "Here's why that matters, with simple numbers."
+  },
+  {
+    "id": "s026",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[GFX: step 1: \"$100 premium in\" · \"$126 claims out\" · \"−$26\"]",
+    "text": "Say the California company collects a hundred dollars in premiums, and pays out a hundred and twenty-six in claims. It loses twenty-six dollars."
+  },
+  {
+    "id": "s027",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[GFX: step 2: a capital bar shrinking toward a red line marked \"regulators step in\"]",
+    "text": "Those losses come out of its capital, the cushion regulators require. One analysis found its 2023 losses cut that cushion by about forty percent."
+  },
+  {
+    "id": "s028",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[DOC: AM Best, March 2024: \"State Farm General downgraded from A to B\"]",
+    "text": "In March 2024, the ratings agency AM Best downgraded State Farm General from A to B."
+  },
+  {
+    "id": "s029",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[GFX: step 3: \"Raise prices?\" → \"needs state approval\"]",
+    "text": "The normal fix is to charge more. But in California, that needs the state's approval."
+  },
+  {
+    "id": "s030",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[DOC: Proposition 103, 1988]",
+    "text": "Since 1988, under Proposition 103, insurers have had to justify every rate rise to the state, based largely on past losses. They couldn't charge customers for reinsurance, the insurance that insurers buy for themselves."
+  },
+  {
+    "id": "s031",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[PHOTO: Harvey Rosenfield, or KTVU footage]",
+    "text": "The man who wrote Proposition 103 says it's done exactly what it was meant to."
+  },
+  {
+    "id": "s032",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "",
+    "text": "Harvey Rosenfield, author of Proposition 103 — \"Prop 103 has been in place for decades and insurers have been doing just fine, not being able to pass along their reinsurance costs to consumers.\" | KTVU FOX 2, 12 Jul 2023",
+    "type": "sot",
+    "duration": 10.3
+  },
+  {
+    "id": "s033",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[QUOTE: Consumer Federation of America, 2024: State Farm's California losses were \"lower than industry averages\" (paraphrase)]",
+    "text": "Consumer advocates also point out that, by some industry data, State Farm's California losses were lower than the industry average, and that it had been profitable there in recent years."
+  },
+  {
+    "id": "s034",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "",
+    "text": "Insurers say the opposite: that prices set from the past can't cover the risk coming next. So if State Farm General couldn't charge what it thought the risk was, it did the only thing left. It sold less."
+  },
+  {
+    "id": "s035",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[GFX: State Farm 2025: \"Home and property insurance: −$3.1B\" · \"Car insurance: +$4.6B\" · \"Investments: +$7.0B\"]",
+    "text": "And here's the part almost nobody knows. Across the whole country, State Farm loses money on home insurance. Three point six billion dollars in 2024. Three point one billion in 2025."
+  },
+  {
+    "id": "s036",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[BROLL: State Farm car insurance ad]",
+    "text": "Its profits come from car insurance and from investing the premiums it holds."
+  },
+  {
+    "id": "s037",
+    "chapter": "3. THE COMPANY INSIDE THE COMPANY",
+    "cue": "[VISUAL: line card]",
+    "text": "The good neighbor makes its money on your car, not your house."
+  },
+  {
+    "id": "s038",
+    "chapter": "4. JANUARY 7TH",
+    "cue": "[PHOTO: Palisades homes before]",
+    "text": "Which brings us back to Pacific Palisades."
+  },
+  {
+    "id": "s039",
+    "chapter": "4. JANUARY 7TH",
+    "cue": "[GFX: \"90272: ~1,626 of ~2,342 State Farm policies set for non-renewal (≈69%)\"]",
+    "text": "When State Farm decided which California policies to drop, Pacific Palisades was hit hardest. In its main ZIP code, around seven in ten of its home policies were set for non-renewal."
+  },
+  {
+    "id": "s040",
+    "chapter": "4. JANUARY 7TH",
+    "cue": "[PHOTO: Palisades fire, 7 January 2025]",
+    "text": "On the seventh of January 2025, the Palisades and Eaton fires began."
+  },
+  {
+    "id": "s041",
+    "chapter": "4. JANUARY 7TH",
+    "cue": "[PHOTO: homes destroyed in the Palisades fire]",
+    "text": "Thousands of homes were destroyed. State Farm received more than twelve thousand claims."
+  },
+  {
+    "id": "s042",
+    "chapter": "4. JANUARY 7TH",
+    "cue": "[DOC: State Farm statement, Jan 2025: renewals offered]",
+    "text": "After the fire, State Farm offered renewals to the people it had planned to drop. But not to those whose policies had already ended before the fire started."
+  },
+  {
+    "id": "s043",
+    "chapter": "4. JANUARY 7TH",
+    "cue": "[DOC: Feb 2025: \"State Farm seeks 22% emergency rate increase\"]",
+    "text": "A month later, it asked for an emergency rate rise of twenty-two percent."
+  },
+  {
+    "id": "s044",
+    "chapter": "4. JANUARY 7TH",
+    "cue": "[GFX: \"Approved: +17% for homeowners, from June 1, 2025\"]",
+    "text": "The state approved seventeen. The first emergency rate rise of its kind in California."
+  },
+  {
+    "id": "s045",
+    "chapter": "5. THE LAST RESORT",
+    "cue": "[GFX: FAIR Plan policies climbing to ~669,000 (end of 2025)]",
+    "text": "When nobody else will insure you in California, there's the FAIR Plan, the insurer of last resort. Its coverage is basic and expensive, and by the end of 2025 it had around six hundred and seventy thousand policies."
+  },
+  {
+    "id": "s046",
+    "chapter": "5. THE LAST RESORT",
+    "cue": "[GFX: \"FAIR Plan exposure: +230% since 2022 → $724B\"]",
+    "text": "The value of property it covers has more than tripled since 2022."
+  },
+  {
+    "id": "s047",
+    "chapter": "5. THE LAST RESORT",
+    "cue": "[DOC: Feb 2025: \"$1 billion assessment on insurers\"]",
+    "text": "After the fires, the FAIR Plan needed a billion dollars from the insurance companies. And they're allowed to pass up to half of it on to their own customers."
+  },
+  {
+    "id": "s048",
+    "chapter": "5. THE LAST RESORT",
+    "cue": "[VISUAL: line card]",
+    "text": "So even if you never had a State Farm policy, if you insure a home in California, you may be paying for the homes it stopped insuring."
+  },
+  {
+    "id": "s049",
+    "chapter": "5. THE LAST RESORT",
+    "cue": "[PHOTO: Ricardo Lara, face visible]",
+    "text": "The state's answer is a new deal."
+  },
+  {
+    "id": "s050",
+    "chapter": "5. THE LAST RESORT",
+    "cue": "",
+    "text": "Ricardo Lara, California Insurance Commissioner — \"There's no doubt that California is at an insurance crossroads. Making insurance more available is becoming critical for our entire economy.\" | NBC Nightly News, 22 Sep 2023",
+    "type": "sot",
+    "duration": 10.1
+  },
+  {
+    "id": "s051",
+    "chapter": "5. THE LAST RESORT",
+    "cue": "[GFX: the deal: \"Insurers may use wildfire models + reinsurance costs\" ↔ \"if they write more policies in high-risk areas\"]",
+    "text": "Insurers can now use wildfire models and charge for reinsurance. In return, they have to write more policies in the places they've been leaving."
+  },
+  {
+    "id": "s052",
+    "chapter": "5. THE LAST RESORT",
+    "cue": "",
+    "text": "Prices will rise. The question is whether the insurers come back."
+  },
+  {
+    "id": "s053",
+    "chapter": "VERDICT",
+    "cue": "[VISUAL: title card]",
+    "text": "So why won't a company worth a hundred and seventy billion dollars insure a house in California?"
+  },
+  {
+    "id": "s054",
+    "chapter": "VERDICT",
+    "cue": "[GFX: the org chart again; a wall drawn between the two boxes]",
+    "text": "Because the money was never on California's side of the wall. The company that insures California homes was built to stand on its own."
+  },
+  {
+    "id": "s055",
+    "chapter": "VERDICT",
+    "cue": "[GFX: \"Priced by the past\" vs \"Risk from the future\", the gap shaded]",
+    "text": "And for decades, California made it charge last decade's price for this decade's risk. When the fires came, the gap was too big for the small company, and the big one wasn't obliged to fill it."
+  },
+  {
+    "id": "s056",
+    "chapter": "VERDICT",
+    "cue": "[BROLL: jingle ad again, muted]",
+    "text": "Like a good neighbor, State Farm is there. Just not always for your house."
+  },
+  {
+    "id": "s057",
+    "chapter": "VERDICT",
+    "cue": "[GFX: map: Florida, Louisiana highlighted: \"insurers retreating\"]",
+    "text": "And this isn't only California. Insurers have been pulling back from Florida and Louisiana too, wherever the risk is rising faster than the price."
+  },
+  {
+    "id": "s058",
+    "chapter": "VERDICT",
+    "cue": "",
+    "text": "The question now is whether California's new rules bring the insurers back, or whether more homes end up in the last resort. And whether the same thing happens where you live."
+  },
+  {
+    "id": "s059",
+    "chapter": "VERDICT",
+    "cue": "[END CARD]",
+    "text": "If you'll never hear that jingle the same way again, that's what this channel does: the economics nobody explains, one company at a time. Subscribe, and you'll get the next one."
+  }
+]

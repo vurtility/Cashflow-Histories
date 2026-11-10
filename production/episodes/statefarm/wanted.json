@@ -1,0 +1,212 @@
+[
+ {
+  "id": "sot_jingle_2011",
+  "from": "tvnews",
+  "ref": "KNTV_20110513_140000_Today",
+  "t": [
+   4371.4,
+   4381.4
+  ],
+  "credit": "State Farm TV ad, as aired May 2011 · TV News Archive",
+  "basis": "fair use: brief excerpt of the company's own TV ad, as aired, to show the slogan under discussion; commentary, transformed",
+  "archival": true
+ },
+ {
+  "id": "sot_homeowner_2024",
+  "from": "tvnews",
+  "ref": "KPIX_20240829_130000_CBS_News_Bay_Area_Morning_Edition_6am",
+  "t": [
+   393.8,
+   402.4
+  ],
+  "credit": "KPIX CBS News Bay Area, 29 Aug 2024 · TV News Archive",
+  "basis": "fair use: short excerpt (under 12s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "sot_bach_2024",
+  "from": "tvnews",
+  "ref": "KNTV_20240322_020000_NBC_Bay_Area_News_Tonight",
+  "t": [
+   179.0,
+   184.9
+  ],
+  "credit": "NBC Bay Area, 21 Mar 2024 · TV News Archive",
+  "basis": "fair use: short excerpt (under 12s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "sot_rosenfield_2023",
+  "from": "tvnews",
+  "ref": "KTVU_20230713_000000_KTVU_FOX_2_News_at_5pm",
+  "t": [
+   2868.3,
+   2880.4
+  ],
+  "credit": "KTVU FOX 2, 12 Jul 2023 · TV News Archive",
+  "basis": "fair use: short excerpt (under 12s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "sot_lara_2023",
+  "from": "tvnews",
+  "ref": "KNTV_20230922_230000_NBC_Nightly_News_With_Lester_Holt",
+  "t": [
+   819.0,
+   829.2
+  ],
+  "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+  "basis": "fair use: short excerpt (under 12s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "tv_ad_2011",
+  "from": "tvnews",
+  "ref": "KNTV_20110513_140000_Today",
+  "t": [
+   4353,
+   4383
+  ],
+  "credit": "State Farm TV ad, as aired May 2011 · TV News Archive",
+  "basis": "fair use: brief excerpt of the company's own TV ad, as aired, to show the slogan under discussion; commentary, transformed",
+  "archival": true
+ },
+ {
+  "id": "tv_nonrenew24",
+  "from": "tvnews",
+  "ref": "KNTV_20240322_020000_NBC_Bay_Area_News_Tonight",
+  "t": [
+   154,
+   216
+  ],
+  "credit": "NBC Bay Area, 21 Mar 2024 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_stopnew23",
+  "from": "tvnews",
+  "ref": "KTVU_20230530_110000_KTVU_Mornings_on_2",
+  "t": [
+   3985,
+   4025
+  ],
+  "credit": "KTVU FOX 2, 30 May 2023 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_cw23",
+  "from": "tvnews",
+  "ref": "KPIX_20230530_010000_CBS_News_Bay_Area_Evening_Edition_6pm",
+  "t": [
+   111,
+   128
+  ],
+  "credit": "KPIX CBS News Bay Area, 29 May 2023 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_loss24",
+  "from": "tvnews",
+  "ref": "KGO_20240322_120000_ABC7_News_500AM",
+  "t": [
+   1865,
+   1887
+  ],
+  "credit": "ABC7 News, 22 Mar 2024 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_lara23",
+  "from": "tvnews",
+  "ref": "KNTV_20230922_230000_NBC_Nightly_News_With_Lester_Holt",
+  "t": [
+   790,
+   818
+  ],
+  "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_lara23b",
+  "from": "tvnews",
+  "ref": "KNTV_20230922_230000_NBC_Nightly_News_With_Lester_Holt",
+  "t": [
+   856,
+   870
+  ],
+  "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_homeowner24",
+  "from": "tvnews",
+  "ref": "KPIX_20240829_130000_CBS_News_Bay_Area_Morning_Edition_6am",
+  "t": [
+   424,
+   452
+  ],
+  "credit": "KPIX CBS News Bay Area, 29 Aug 2024 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "palisades_ucla",
+  "from": "commons",
+  "ref": "File:Palisades Fire from UCLA 0668 (cropped).jpg"
+ },
+ {
+  "id": "usfs_taskforce",
+  "from": "commons",
+  "ref": "File:2025 Southern California fires and the United States Forest Service (USFS) - Taskforce 1600 at the Palisades Fire (54264940069).jpg"
+ },
+ {
+  "id": "palisades_destroyed",
+  "from": "commons",
+  "ref": "File:Homes destroyed in the Palisades fire (54272193113).jpg"
+ },
+ {
+  "id": "palisades_fire",
+  "from": "commons",
+  "ref": "File:Palisades Fire (54253586717).jpg"
+ },
+ {
+  "id": "palisades_drive",
+  "from": "commons",
+  "ref": "File:2025 Palisades Fire Seen From Palisades Drive (cropped).jpg"
+ },
+ {
+  "id": "eaton_home",
+  "from": "commons",
+  "ref": "File:Destroyed home and vehicle caused by the Eaton Fire, 2025.jpg"
+ },
+ {
+  "id": "eaton_altadena",
+  "from": "commons",
+  "ref": "File:20240113-eaton-fire-destruction-altadena-lake.jpg"
+ },
+ {
+  "id": "sf_bloomington",
+  "from": "commons",
+  "ref": "File:Bloomington Il State Farm Bldg1.JPG"
+ },
+ {
+  "id": "sf_office",
+  "from": "commons",
+  "ref": "File:A State Farm Insurance office in a classic railroad depot building in Hiawassee, Georgia.jpg"
+ },
+ {
+  "id": "sf_dunwoody",
+  "from": "commons",
+  "ref": "File:State Farm Building, Dunwoody, GA July 2017.jpg"
+ },
+ {
+  "id": "logo_sf",
+  "from": "commons",
+  "ref": "File:State Farm logo.svg"
+ },
+ {
+  "id": "manilow",
+  "from": "commons",
+  "ref": "File:BarryManilow.jpg"
+ },
+ {
+  "id": "lara_photo",
+  "from": "commons",
+  "ref": "File:Ricardo Lara (48002900841).jpg"
+ }
+]
