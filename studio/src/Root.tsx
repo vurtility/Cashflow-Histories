@@ -6,6 +6,7 @@ import {PriceTagFrame, PriceTagThumb} from './concepts/PriceTag';
 import {MisprintFrame, MisprintThumb} from './concepts/Misprint';
 import {FeedMock} from './concepts/Feed';
 import {EPISODES, Episode} from './episode/Episode';
+import {Thumb} from './episode/Thumbs';
 
 const ConceptFrame: React.FC<{concept: string; frame: string}> = ({concept, frame}) => {
   if (concept === 'banknote') return <BanknoteFrame frame={frame} />;
@@ -30,6 +31,10 @@ export const Root: React.FC = () => (
     {Object.entries(EPISODES).map(([ep, d]) => (
       <Composition key={ep} id={`Episode-${ep}`} component={Episode as any} durationInFrames={d.durationInFrames} fps={d.fps}
         width={1920} height={1080} defaultProps={{ep}} />
+    ))}
+    {Object.keys(EPISODES).map((ep) => (
+      <Composition key={'t' + ep} id={`Thumb-${ep}`} component={Thumb as any} durationInFrames={1} fps={30}
+        width={1280} height={720} defaultProps={{ep, v: 'a'}} />
     ))}
   </>
 );
