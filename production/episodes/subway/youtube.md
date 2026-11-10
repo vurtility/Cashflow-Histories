@@ -7,6 +7,11 @@ Alternates for Test & Compare:
 - Subway Isn't Dying. Its Restaurants Are.
 - Subway Lost 729 Stores. Its Profit Went Up 46x.
 
+## Thumbnails (Test & Compare)
+Chosen 2026-11-10: `upload/subway-thumbnail-1-h.jpg` (Who pays?), `-2-j.jpg` (Why Subway is fine), `-3-i.jpg` (The real product).
+Upload steps: YouTube Studio on a computer → Create → Upload video → `subway-youtube-1080p.mp4` → paste title and description →
+Thumbnail → "Test & compare" → add the three JPGs → Visibility. (Test & Compare is set up on desktop Studio, not the phone app.)
+
 ## Description
 
 Subway ended 2025 with 729 fewer US restaurants: two gone every day. In the same year, its profit hit $688 million, up from $15 million two years earlier. How does a chain shrink and get richer at the same time?
