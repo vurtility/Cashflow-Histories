@@ -1515,6 +1515,15 @@
     },
     "name": "Ricardo Lara",
     "role": "California Insurance Commissioner · NBC, Sep 2023",
+    "pic": {
+     "id": "sot_lara_2023",
+     "src": "statefarm/assets/sot_lara_2023.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "picAt": 2.5,
     "from": 0.0
    }
   },
