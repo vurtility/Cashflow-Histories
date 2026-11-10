@@ -13,7 +13,7 @@
 | Airline | Year | Fare per passenger flight | Fees and extras per passenger flight | Card / loyalty cash from partners | Operating margin | Source |
 |---|---|---|---|---|---|---|
 | Spirit | 2015 | – | – | – | 23.8% (record) | Spirit FY2015 10-K |
-| Delta | 2015 | – | – | – | 16.2% | Delta Q4 2015 earnings call |
+| Delta | 2015 | – | – | – | 19.2% | Delta FY2015 10-K |
 | Spirit | 2023 | $53.01 | $68.57 | $93.1M | −9.2% | Spirit FY2023 annual report |
 | Delta | 2023 | – | – | $6.8B (Amex) | – | Delta FY2023 results |
 | Delta | 2025 | – | – | $8.2B (Amex) | ~$5.8B operating income | Delta 10-K FY2025; FY2025 results |
@@ -29,8 +29,8 @@
 | 2 | **The truth** | In 2015 the cheap airline was more profitable than Delta. But the big carriers had quietly turned into credit-card businesses: Delta's payments from American Express ($8.2B in 2025) are bigger than its entire operating profit. Spirit's extras came out of its passengers' pockets; Delta's come out of a bank, funded by swipe fees that every shopper pays. |
 | 3 | **Central question** | In 2015 Spirit was more profitable than Delta. Eleven years later Spirit doesn't exist and Delta made billions. How? |
 | 4 | **Final payoff** | Spirit died because its only extra money came from its own passengers, and they were the people with the least to give. Delta survives because its extra money comes from everyone who pays with a card, flying or not. Delta didn't beat Spirit at flying. It stopped needing to win at flying. |
-| 5 | **Shock bank** | ① Delta's American Express money ($8.2B, 2025) is bigger than its operating profit (~$5.8B) ② In 2020 the banks lent $25.8B against airline miles (United $6.8B, Delta $9B, American $10B), with the planes parked ③ Spirit's 2015 operating margin was 23.8%, against Delta's 16.2% ④ Spirit passengers paid more in fees ($68.57) than for the seat ($53.01) in 2023 ⑤ Delta got 73× as much from its card partner as Spirit did (2023) ⑥ Delta takes in about $22 million a day from Amex ⑦ United valued its miles programme at $21.9B ⑧ Without loyalty money, one analysis finds the big airlines' flying loses money ⑨ Fed research: about $15B a year flows from less savvy and poorer cardholders to richer ones ⑩ Baldanza, the man who built Spirit's fee model, died nine days before its first bankruptcy ⑪ Delta started as a crop-dusting company and went bankrupt in 2005 ⑫ Bastian: Delta card spend is close to 1% of US GDP |
-| 6 | **Derived numbers** | $8.2B ÷ 365 = **$22.5M a day** from Amex · $8.2B vs ~$5.8B operating income = **1.4×** · Spirit fees $68.57 ÷ fare $53.01 = **1.29×** (fees are 56% of what the passenger paid) · Delta Amex $6.8B ÷ Spirit card cash $93.1M = **73×** (2023) · pandemic loans $6.8B + $9B + $10B = **$25.8B** · Spirit net losses 2020–24: 428.7 + 472.6 + 554.2 + 447.5 + 1,229.5 = **~$3.1B** · 23.8% vs 16.2% = Spirit's margin was **47% higher** than Delta's in 2015. *Caveats: Amex payments are revenue, not pure profit (Delta must honour the miles), so "bigger than its profit" is a comparison, not a claim that flying loses exactly that much; the 2025 operating income is the adjusted figure; the "without loyalty" margins are one analyst's stress test.* |
+| 5 | **Shock bank** | ① Delta's American Express money ($8.2B, 2025) is bigger than its operating profit (~$5.8B) ② In 2020 the banks lent $25.8B against airline miles (United $6.8B, Delta $9B, American $10B), with the planes parked ③ Spirit's 2015 operating margin was 23.8%, against Delta's 19.2% ④ Spirit passengers paid more in fees ($68.57) than for the seat ($53.01) in 2023 ⑤ Delta got 73× as much from its card partner as Spirit did (2023) ⑥ Delta takes in about $22 million a day from Amex ⑦ United valued its miles programme at $21.9B ⑧ Without loyalty money, one analysis finds the big airlines' flying loses money ⑨ Fed research: about $15B a year flows from less savvy and poorer cardholders to richer ones ⑩ Baldanza, the man who built Spirit's fee model, died thirteen days before its first bankruptcy ⑪ Delta started as a crop-dusting company and went bankrupt in 2005 ⑫ Bastian: Delta card spend is close to 1% of US GDP |
+| 6 | **Derived numbers** | $8.2B ÷ 365 = **$22.5M a day** from Amex · $8.2B vs ~$5.8B operating income = **1.4×** · Spirit fees $68.57 ÷ fare $53.01 = **1.29×** (fees are 56% of what the passenger paid) · Delta Amex $6.8B ÷ Spirit card cash $93.1M = **73×** (2023) · pandemic loans $6.8B + $9B + $10B = **$25.8B** · Spirit net losses 2020–24: 428.7 + 472.6 + 554.2 + 447.5 + 1,229.5 = **~$3.1B** · 23.8% vs 19.2% = Spirit's margin was **about a quarter higher** than Delta's in 2015. *Caveats: Amex payments are revenue, not pure profit (Delta must honour the miles), so "bigger than its profit" is a comparison, not a claim that flying loses exactly that much; the 2025 operating income is the adjusted figure; the "without loyalty" margins are one analyst's stress test.* |
 | 7 | **Stakes / antagonist** | For Spirit: fuel, engine-grounded planes, a blocked merger, customers who can't absorb price rises. For Delta: the Credit Card Competition Act, which would cut the swipe fees the whole model runs on. |
 | 8 | **Turning points** | 1996 (Delta's Amex card launches) · 2005 (Delta bankrupt; Baldanza takes over Spirit) · 2007 (Spirit goes ultra-low-cost) · 2015 (Spirit's record margin) · 2016 (Baldanza out) · 2020 (miles become collateral) · Jan 2024 (JetBlue deal blocked) · Nov 2024 (Spirit's first bankruptcy) · Aug 2025 (second) · 2 May 2026 (Spirit stops flying) |
 | 9 | **Unresolved future** | If Washington ever cuts swipe fees, what happens to an airline whose biggest source of profit is a card? |
@@ -48,7 +48,7 @@
 | 7 | Bastian: Delta card spend is close to 1% of US GDP | Fortune / Yahoo Finance, Apr 2026 (his claim) | Ch 3 |
 | 8 | Delta's $9B SkyMiles loan: the largest debt deal in airline history | Bloomberg via Motley Fool; Delta IR | Ch 4 |
 | 9 | Spirit dropped change fees (May 2024) and launched premium "Go Big" bundles (Aug 2024): the fee airline tried to become a legacy airline | Spirit; The Points Guy; OMAAT | Ch 5 |
-| 10 | Baldanza died on 9 Nov 2024, at 62; nine days later Spirit filed for bankruptcy | Boston Globe; UPI | Ch 5 |
+| 10 | Baldanza died on 5 Nov 2024, at 62; thirteen days later Spirit filed for bankruptcy | Bloomberg; Skift; UPI | Ch 5 |
 | 11 | The end: all flights cancelled, customer service switched off | Fox 35; OMAAT | Ch 5 |
 
 ### Real-voice clip bank
@@ -106,7 +106,7 @@ Exact words transcribed from the TV News Archive excerpts (Whisper, word-timed).
 | Spirit more profitable than Delta in 2015, dead in 2026 | #2 | Cold open, first line | Strong fact in the first 60s |
 | $25.8B lent against miles, with the planes parked | #1 | Midpoint (ch 4) | Strongest at the midpoint |
 | Delta's Amex money bigger than its profit | #1b | Teased in the cold open, paid off in ch 3 | |
-| Baldanza dies nine days before the bankruptcy | #3 | Ch 5 | Human moment late on |
+| Baldanza dies thirteen days before the bankruptcy | #3 | Ch 5 | Human moment late on |
 | The swipe-fee law and $10B target | ending | Verdict | The future question |
 
 ---
@@ -157,8 +157,8 @@ Exact words transcribed from the TV News Archive excerpts (Whisper, word-timed).
 `[BROLL: Spirit's yellow planes at the gate. Caption: "Spirit Airlines, 2015"]`
 In 2015, Spirit Airlines made more profit on every dollar than Delta did.
 
-`[GFX: two bars. Spirit 23.8% · Delta 16.2%. Small print: "Operating margin, 2015. Company filings"]`
-Twenty-four cents of operating profit on every dollar. Delta made sixteen.
+`[GFX: two bars. Spirit 23.8% · Delta 19.2%. Small print: "Operating margin, 2015. Company filings"]`
+Twenty-four cents of operating profit on every dollar. Delta made nineteen.
 
 `[BROLL: departures board, every Spirit flight "CANCELLED"]`
 On the second of May 2026, Spirit cancelled every flight it had. It never flew again.
@@ -365,10 +365,10 @@ In January 2024, a federal judge blocked it. His reason: it would take seats out
 So Spirit tried the last thing it had: becoming Delta. It scrapped change fees and started selling premium bundles with bigger seats. The Home of the Bare Fare, selling comfort.
 
 `[PHOTO: Ben Baldanza, face visible. Label "Ben Baldanza, 1961–2024"]`
-On the ninth of November 2024, Ben Baldanza, the man who built Spirit's fee model, died. He was sixty-two.
+On the fifth of November 2024, Ben Baldanza, the man who built Spirit's fee model, died. He was sixty-two.
 
 `[DOC: 18 Nov 2024 headline: "Spirit Airlines files for bankruptcy"]`
-Nine days later, Spirit filed for bankruptcy.
+Thirteen days later, Spirit filed for bankruptcy.
 
 `[GFX: Spirit net losses 2020–2024 stacking to "$3.1B"]`
 It had lost more than three billion dollars in five years. It came out of bankruptcy in March 2025, and filed again that August.
@@ -410,7 +410,7 @@ Not because Delta flies better. Spirit's extra money came out of its passengers'
 `[BROLL: supermarket checkout again]`
 Spirit charged you for your bag. Delta gets paid when you buy groceries.
 
-`[GFX: callback: cold-open bars, Spirit 23.8% vs Delta 16.2%, then Spirit's bar fades]`
+`[GFX: callback: cold-open bars, Spirit 23.8% vs Delta 19.2%, then Spirit's bar fades]`
 In 2015, Spirit had the better margin. But a margin is only as strong as the person paying it.
 
 `[GFX: Delta target "$10B a year" from American Express]`
@@ -437,7 +437,7 @@ If you'll never look at your airline card the same way again, that's what this c
 | 6–7 | MIDPOINT: planes parked → banks lend against miles: $6.8B, $9B (largest ever), $10B = $25.8B → American worth less than its miles | Strongest reveal |
 | 7–8 | Flying alone loses money (analysis) → "why didn't Spirit do the same?" → 73× gap → P2 payoff: the people with the least to give (L3 closed) | Reveal, CLIFFHANGER #4, payoff |
 | 8–9 | Christie clip: "raise fares… insurmountable" → Spirit says yes anyway → judge blocks it for that reason → Spirit tries to become Delta | Irony punch, scene |
-| 9–10 | Baldanza dies; nine days later, bankruptcy → $3.1B lost → 2 May 2026 shutdown → return to the title question → "Delta has a weak spot too" | Human moment, scene, CLIFFHANGER #5 |
+| 9–10 | Baldanza dies; thirteen days later, bankruptcy → $3.1B lost → 2 May 2026 shutdown → return to the title question → "Delta has a weak spot too" | Human moment, scene, CLIFFHANGER #5 |
 | 10–11 | Congress and the swipe-fee bill, both sides → verdict: "Spirit charged you for your bag; Delta gets paid when you buy groceries" → future question → subscribe | Stakes, bookend, future |
 
 **Longest gap:** ~60s (2:32–3:30, Delta's history), covered by the crop-duster and same-day-bankruptcy anecdotes.
@@ -488,7 +488,7 @@ If you'll never look at your airline card the same way again, that's what this c
 | Claim | Verdict | Source | Change made |
 |---|---|---|---|
 | Spirit 2015 operating margin 23.8% (record); operating income $509.1M on $2,141.5M revenue | ✅ | Spirit FY2015 10-K; Q4 2015 earnings release | "Twenty-four cents" = 23.8% rounded |
-| Delta 2015 operating margin 16.2% | ⚠️ | Delta Q4 2015 earnings call transcript (roic.ai); press release confirms a record year | Check against Delta's FY2015 10-K before publishing |
+| Delta 2015 operating margin 19.2% | ✏️ ✅ | Delta FY2015 10-K: operating income $7,802M ÷ revenue $40,704M | Corrected from 16.2% (a call-transcript figure) to the GAAP 10-K figure |
 | Spirit stopped flying 2 May 2026; all flights cancelled; ~17,000 jobs; $500M government rescue failed | ✅ | Aviation Week; Insurance Journal; Fox 35; OMAAT | "Seventeen thousand jobs" per a Spirit lawyer's estimate in court |
 | Delta FY2025 operating income ~$5.8B | ✅ ⚠️ | Delta FY2025 results (Reuters summary via iTiger: "operating income of USD 5.8 billion") | Adjusted figure; GAAP pre-tax was $6.2B, adjusted pre-tax $5.0B. Shown as "about" |
 | Amex paid Delta $8.2B in 2025 and $6.8B in 2023; target $10B | ✅ | Delta 10-K FY2025; Delta FY2023 results; AP | — |
@@ -515,7 +515,7 @@ If you'll never look at your airline card the same way again, that's what this c
 | Spirit rejected JetBlue's bid in May 2022 (Christie on CNBC), then agreed to JetBlue's $3.8B deal in July 2022 | ✅ | CNBC 19 May 2022 (clip); July 2022 deal widely reported (Reuters, CNBC) | — |
 | Bastian (Jan 2024): "over $7 billion of revenue off of the card this year"; actual 2024: $7.4B | ✅ | CNBC clip; Delta FY2024 results | — |
 | Spirit dropped change fees (May 2024); premium bundles incl. Go Big (Aug 2024) | ✅ | The Points Guy; OMAAT; Motley Fool | — |
-| Baldanza died 9 Nov 2024, aged 62 | ✅ ⚠️ | Boston Globe, 9 Nov 2024 | Confirm the exact date of death |
+| Baldanza died 5 Nov 2024, aged 62 (ALS) | ✏️ ✅ | Bloomberg, Skift, Dallas News (6 Nov 2024); Legacy.com | Corrected from 9 Nov (the Globe's publication date); "thirteen days" before the 18 Nov filing |
 | Spirit Chapter 11 on 18 Nov 2024; emerged 12 Mar 2025; refiled 29 Aug 2025 | ✅ | UPI; GMA; Aviation Week | — |
 | Spirit net losses 2020–2024 ≈ $3.1B | ✅ ⚠️ | 10-Ks for 2020, 2023, 2024; 2021–22 from stockanalysis.com | Check 2021–22 against 10-Ks |
 | CCCA reintroduced Jan 2026; analysts: long shot; A4A opposes; 2023 Durbin–Marshall letter | ✅ | The Points Guy; Payments Dive; A4A; Bernstein via TPG | — |

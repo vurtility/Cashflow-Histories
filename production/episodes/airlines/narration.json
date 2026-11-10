@@ -1,0 +1,515 @@
+[
+  {
+    "id": "s001",
+    "chapter": "COLD OPEN",
+    "cue": "[BROLL: Spirit's yellow planes at the gate. Caption: \"Spirit Airlines, 2015\"]",
+    "text": "In 2015, Spirit Airlines made more profit on every dollar than Delta did."
+  },
+  {
+    "id": "s002",
+    "chapter": "COLD OPEN",
+    "cue": "[GFX: two bars. Spirit 23.8% · Delta 19.2%. Small print: \"Operating margin, 2015. Company filings\"]",
+    "text": "Twenty-four cents of operating profit on every dollar. Delta made nineteen."
+  },
+  {
+    "id": "s003",
+    "chapter": "COLD OPEN",
+    "cue": "[BROLL: departures board, every Spirit flight \"CANCELLED\"]",
+    "text": "On the second of May 2026, Spirit cancelled every flight it had. It never flew again.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s004",
+    "chapter": "COLD OPEN",
+    "cue": "[BROLL: Delta planes at Atlanta]",
+    "text": "Delta, an airline that went bankrupt in 2005, made an operating profit of about five point eight billion dollars last year."
+  },
+  {
+    "id": "s005",
+    "chapter": "COLD OPEN",
+    "cue": "[VISUAL: a cheque, amount blurred, \"Pay to: Delta Air Lines\"]",
+    "text": "And one payment Delta receives every year is bigger than that entire profit. It doesn't come from a passenger."
+  },
+  {
+    "id": "s006",
+    "chapter": "COLD OPEN",
+    "cue": "[VISUAL: title card]",
+    "text": "So how did the airline that was winning die, while the one that went bankrupt thrived?"
+  },
+  {
+    "id": "s007",
+    "chapter": "COLD OPEN",
+    "cue": "",
+    "text": "It wasn't the planes. It wasn't the service. The answer is in your wallet."
+  },
+  {
+    "id": "s008",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "[BROLL: 1960s Michigan highway, trucks. Caption: \"1964\"]",
+    "text": "Spirit didn't start as an airline. It started in 1964 as a trucking company in Michigan, and spent decades as a small charter and holiday operator."
+  },
+  {
+    "id": "s009",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "[PHOTO: Ben Baldanza, face visible. Label \"Ben Baldanza, CEO 2005–2016\"]",
+    "text": "Then, in 2005, it hired Ben Baldanza. And Baldanza had an idea that sounded insane in America."
+  },
+  {
+    "id": "s010",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "[GFX: a fare ticket tearing into pieces: seat · bag · carry-on · seat choice · printed boarding pass]",
+    "text": "Sell the seat for almost nothing. Then charge for everything else. Your bag. Your carry-on. Choosing a seat. Even printing your boarding pass at the airport."
+  },
+  {
+    "id": "s011",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "[BROLL: Spirit ad. Caption: \"Home of the Bare Fare\"]",
+    "text": "By 2007, Spirit had become America's first true ultra-low-cost airline. It called itself the Home of the Bare Fare."
+  },
+  {
+    "id": "s012",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "[DOC: Consumerist headline, highlighted: \"easily the most complained-about airline in the U.S.\"]",
+    "text": "Customers hated it. Spirit became the most complained-about airline in the country."
+  },
+  {
+    "id": "s013",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "",
+    "text": "But here's what mattered: they kept buying."
+  },
+  {
+    "id": "s014",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "[GFX: Spirit operating margin rising to 23.8% in 2015, labelled \"record\"]",
+    "text": "By 2015, Spirit was making a record twenty-four cents of operating profit on every dollar. The airline everyone loved to hate was one of the most profitable in America."
+  },
+  {
+    "id": "s015",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "[GFX: Spirit 2023, one passenger: \"Seat $53\" · \"Everything else $69\"]",
+    "text": "And the model kept going. By 2023, the average Spirit passenger paid fifty-three dollars for the seat, and sixty-nine dollars for everything else."
+  },
+  {
+    "id": "s016",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "[VISUAL: line card]",
+    "text": "More for the extras than for the flight."
+  },
+  {
+    "id": "s017",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "[DOC: Jan 2016 headline: \"Spirit Airlines CEO Baldanza replaced\"]",
+    "text": "Baldanza himself was replaced in January 2016. By then, he'd built exactly what he set out to build."
+  },
+  {
+    "id": "s018",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "",
+    "text": "Sue Herrera, CNBC — \"Baldanza transformed Spirit from a money-losing operation into an ultra low-cost carrier that charged for extra basic amenities, including seats that didn't recline.\" | CNBC Squawk Alley, 5 Jan 2016",
+    "type": "sot",
+    "duration": 10.2
+  },
+  {
+    "id": "s019",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "",
+    "text": "So the cheap airline had cracked it. Rock-bottom fares, and the profit in the extras."
+  },
+  {
+    "id": "s020",
+    "chapter": "1. HOME OF THE BARE FARE",
+    "cue": "[BROLL: Spirit plane taking off, slow motion]",
+    "text": "But the model had one weakness. And it was hiding in exactly where those extras came from."
+  },
+  {
+    "id": "s021",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "[PHOTO: Huff Daland crop-duster biplane. Caption \"Huff Daland Dusters, 1924\"]",
+    "text": "Delta started even further from glamour: in 1924, as a crop-dusting company in Georgia."
+  },
+  {
+    "id": "s022",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "[DOC: 2005 headline: \"Delta, Northwest file for bankruptcy\"]",
+    "text": "And in September 2005, it went bankrupt, on the same day as Northwest."
+  },
+  {
+    "id": "s023",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "[BROLL: Delta and Northwest planes side by side]",
+    "text": "It came back, swallowed Northwest in 2008, and became one of the biggest airlines in the world."
+  },
+  {
+    "id": "s024",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "",
+    "text": "So you'd assume Delta's comeback was about flying better: better planes, better service, better prices."
+  },
+  {
+    "id": "s025",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "[VISUAL: beat]",
+    "text": "Partly. But that's not where the most important money comes from."
+  },
+  {
+    "id": "s026",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "[LOGO: American Express beside Delta]",
+    "text": "In 1996, Delta started a co-branded credit card with American Express. It looked like a marketing deal. Earn miles when you shop, spend them on flights."
+  },
+  {
+    "id": "s027",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "[BROLL: American Express event, Palm Desert, Jan 2024]",
+    "text": "In January 2024, Delta's chief executive, Ed Bastian, was asked on CNBC what the relationship is worth."
+  },
+  {
+    "id": "s028",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "",
+    "text": "Ed Bastian, Delta CEO — \"We will generate over $7 billion of revenue off of the card this year.\" | CNBC Squawk Box, 19 Jan 2024",
+    "type": "sot",
+    "duration": 6.1
+  },
+  {
+    "id": "s029",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "[GFX: Amex payments to Delta growing: $6.8B (2023) → $7.4B (2024) → $8.2B (2025)]",
+    "text": "He was right. And in 2025, it was eight point two billion."
+  },
+  {
+    "id": "s030",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "[GFX: two bars. Amex $8.2B vs Delta operating profit ~$5.8B. Small print: \"Payments are revenue, not profit: Delta must honour the miles\"]",
+    "text": "That's the payment from the cold open. Bigger than Delta's entire operating profit."
+  },
+  {
+    "id": "s031",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "[GFX: \"$8.2B ÷ 365 = $22.5M a day\"]",
+    "text": "About twenty-two million dollars a day. From a company that doesn't fly a single plane."
+  },
+  {
+    "id": "s032",
+    "chapter": "2. BANKRUPT IN ATLANTA",
+    "cue": "[VISUAL: a single \"mile\" token]",
+    "text": "Which raises a strange question. Why would a bank pay billions for airline miles?"
+  },
+  {
+    "id": "s033",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "[VISUAL: \"Simplified example: round numbers, not Delta's actual rates\"]",
+    "text": "Here's how it works, with simple numbers."
+  },
+  {
+    "id": "s034",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "[BROLL: supermarket checkout, card tapped on a terminal]",
+    "text": "Say you buy a hundred dollars of groceries on a Delta card. The supermarket pays a fee for taking your card. Call it a couple of dollars."
+  },
+  {
+    "id": "s035",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "[GFX: $100 → $2–3 fee to the card company → card company buys miles from Delta → miles land in your account]",
+    "text": "The card company uses part of that to buy miles from Delta, and puts them in your account."
+  },
+  {
+    "id": "s036",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "[GFX: Delta, coins in, no plane]",
+    "text": "Now look at what Delta just did. It got paid for a flight you haven't taken. You might take it next year. You might never take it at all."
+  },
+  {
+    "id": "s037",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "[BROLL: half-empty cabin]",
+    "text": "And when you do, it's often in a seat that would have flown empty anyway."
+  },
+  {
+    "id": "s038",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "",
+    "text": "Ed Bastian, Delta CEO — \"You put those two things together, it's incredible magic that occurs.\" | CNBC Squawk Box, 19 Jan 2024",
+    "type": "sot",
+    "duration": 3.0
+  },
+  {
+    "id": "s039",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "[GFX: \"Delta card spend ≈ 1% of US GDP\" (Ed Bastian, CEO)]",
+    "text": "Bastian says spending on Delta's cards is now close to one percent of America's entire economy."
+  },
+  {
+    "id": "s040",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "[BROLL: shoppers paying with cash]",
+    "text": "And here's where it reaches your wallet, even if you've never flown Delta. Shops don't charge card users more. They raise prices for everyone."
+  },
+  {
+    "id": "s041",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "[DOC: Federal Reserve paper, 2023, title and key line highlighted]",
+    "text": "Federal Reserve researchers estimate that rewards cards move about fifteen billion dollars a year from less savvy and poorer cardholders to richer, savvier ones."
+  },
+  {
+    "id": "s042",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "[QUOTE: card industry position, paraphrase]",
+    "text": "The card industry's answer is that rewards are funded by fees that shops choose to pay, because card customers spend more. That's the trade-off."
+  },
+  {
+    "id": "s043",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "[VISUAL: line card]",
+    "text": "Either way, the mile is the most valuable thing Delta sells."
+  },
+  {
+    "id": "s044",
+    "chapter": "3. THE MOST VALUABLE THING DELTA SELLS",
+    "cue": "[BROLL: Delta plane parked, engines covered]",
+    "text": "But for years, nobody could say how valuable. Then, in 2020, every plane in America stopped flying, and the world found out."
+  },
+  {
+    "id": "s045",
+    "chapter": "4. COLLATERAL",
+    "cue": "[BROLL: 2020, rows of parked airliners in the desert]",
+    "text": "Spring 2020. Passengers vanished almost overnight. The airlines were burning cash with nothing coming in."
+  },
+  {
+    "id": "s046",
+    "chapter": "4. COLLATERAL",
+    "cue": "",
+    "text": "They needed to borrow tens of billions of dollars. Normally, an airline borrows against its planes."
+  },
+  {
+    "id": "s047",
+    "chapter": "4. COLLATERAL",
+    "cue": "[VISUAL: beat]",
+    "text": "Not this time."
+  },
+  {
+    "id": "s048",
+    "chapter": "4. COLLATERAL",
+    "cue": "[DOC: United filing, highlighted: \"MileagePlus… approximately $21.9 billion\"]",
+    "text": "In June 2020, United valued its frequent-flyer programme at twenty-one point nine billion dollars, and borrowed six point eight billion against it."
+  },
+  {
+    "id": "s049",
+    "chapter": "4. COLLATERAL",
+    "cue": "[DOC: Delta press release, Sept 2020: \"SkyMiles financing… $9 billion\"]",
+    "text": "In September, Delta borrowed nine billion against SkyMiles. The biggest debt deal the airline industry had ever seen."
+  },
+  {
+    "id": "s050",
+    "chapter": "4. COLLATERAL",
+    "cue": "[DOC: American, March 2021: \"AAdvantage… $10.0 billion\"]",
+    "text": "American followed with ten billion against AAdvantage."
+  },
+  {
+    "id": "s051",
+    "chapter": "4. COLLATERAL",
+    "cue": "[GFX: three stacks totalling \"$25.8B, secured by miles\"]",
+    "text": "Twenty-five point eight billion dollars, lent against miles. With the planes parked, the most valuable thing these airlines owned was a promise of free flights."
+  },
+  {
+    "id": "s052",
+    "chapter": "4. COLLATERAL",
+    "cue": "[GFX: American's appraisal $19.5–31.5B vs its market value under $10B (2020). Small print: \"Appraisals cited by the company; market value per Motley Fool\"]",
+    "text": "Appraisals of American's programme came in at up to thirty-one billion dollars, at a time when the whole airline was worth less than ten."
+  },
+  {
+    "id": "s053",
+    "chapter": "4. COLLATERAL",
+    "cue": "[GFX: one analysis: operating margins without loyalty revenue below zero for the big airlines. Small print: \"Analyst estimate, 2025\"]",
+    "text": "One 2025 analysis stripped the loyalty money out of the big airlines' results. Their flying, on its own, lost money."
+  },
+  {
+    "id": "s054",
+    "chapter": "4. COLLATERAL",
+    "cue": "[VISUAL: line card]",
+    "text": "So Delta didn't survive by winning at flying. It built a business that no longer needs to."
+  },
+  {
+    "id": "s055",
+    "chapter": "4. COLLATERAL",
+    "cue": "[BROLL: Spirit yellow plane]",
+    "text": "Which brings us back to Spirit. If the miles are this valuable, why didn't Spirit just do the same?"
+  },
+  {
+    "id": "s056",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[GFX: two bars, 2023 card money. Delta $6.8B vs Spirit $93M]",
+    "text": "It tried. Spirit had its own credit card too. In 2023 it brought in ninety-three million dollars."
+  },
+  {
+    "id": "s057",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "",
+    "text": "Delta's brought in seventy-three times as much."
+  },
+  {
+    "id": "s058",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[BROLL: Delta Sky Club lounge vs a Spirit gate area]",
+    "text": "Because a card like that only works if the people holding it spend a lot. Business travellers. Households putting everything on the card."
+  },
+  {
+    "id": "s059",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[GFX: callback: Spirit passenger \"Seat $53 · Everything else $69\"]",
+    "text": "Spirit's customers were the opposite. They chose Spirit because every dollar mattered."
+  },
+  {
+    "id": "s060",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "",
+    "text": "So Spirit's extra money had only one place to come from: its own passengers. And they were the people with the least to give."
+  },
+  {
+    "id": "s061",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[GFX: timeline: fuel up · planes grounded · fares down 2023]",
+    "text": "When costs rose, Delta's card money kept growing. Spirit had to squeeze its passengers harder. And price-sensitive passengers have options."
+  },
+  {
+    "id": "s062",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[BROLL: JetBlue and Spirit planes]",
+    "text": "Spirit's way out was a merger. In May 2022, JetBlue offered to buy it. Spirit's chief executive went on CNBC to explain why the board said no."
+  },
+  {
+    "id": "s063",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "",
+    "text": "Ted Christie, Spirit CEO — \"and then attempting to buy a competitor and take seats out of the market and raise fares. And that's that's going to be a big issue and one that our board viewed as insurmountable.\" | CNBC Squawk Box, 19 May 2022",
+    "type": "sot",
+    "duration": 9.4
+  },
+  {
+    "id": "s064",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[DOC: July 2022 headline: \"Spirit agrees to $3.8 billion JetBlue deal\"]",
+    "text": "Two months later, Spirit said yes, for three point eight billion dollars."
+  },
+  {
+    "id": "s065",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[DOC: Jan 2024 headline: \"Judge blocks JetBlue–Spirit merger\"]",
+    "text": "In January 2024, a federal judge blocked it. His reason: it would take seats out of the market and raise fares."
+  },
+  {
+    "id": "s066",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[BROLL: Spirit premium seats, \"Go Big\" bundle]",
+    "text": "So Spirit tried the last thing it had: becoming Delta. It scrapped change fees and started selling premium bundles with bigger seats. The Home of the Bare Fare, selling comfort."
+  },
+  {
+    "id": "s067",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[PHOTO: Ben Baldanza, face visible. Label \"Ben Baldanza, 1961–2024\"]",
+    "text": "On the fifth of November 2024, Ben Baldanza, the man who built Spirit's fee model, died. He was sixty-two."
+  },
+  {
+    "id": "s068",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[DOC: 18 Nov 2024 headline: \"Spirit Airlines files for bankruptcy\"]",
+    "text": "Thirteen days later, Spirit filed for bankruptcy."
+  },
+  {
+    "id": "s069",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[GFX: Spirit net losses 2020–2024 stacking to \"$3.1B\"]",
+    "text": "It had lost more than three billion dollars in five years. It came out of bankruptcy in March 2025, and filed again that August."
+  },
+  {
+    "id": "s070",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[BROLL: news coverage of the shutdown]",
+    "text": "On the second of May 2026, a government rescue fell through, and Spirit stopped flying. Seventeen thousand jobs."
+  },
+  {
+    "id": "s071",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "[VISUAL: title card]",
+    "text": "So let's go back to the question. Spirit was more profitable than Delta. Why is one gone and the other thriving?"
+  },
+  {
+    "id": "s072",
+    "chapter": "5. THE SQUEEZE",
+    "cue": "",
+    "text": "Delta has an answer, and it's eight billion dollars a year. But that answer has a weak spot too."
+  },
+  {
+    "id": "s073",
+    "chapter": "6. THE THREAT",
+    "cue": "[BROLL: US Capitol]",
+    "text": "Every card swipe pays a fee, and those fees fund the miles. So the biggest threat to Delta isn't another airline. It's Congress."
+  },
+  {
+    "id": "s074",
+    "chapter": "6. THE THREAT",
+    "cue": "[DOC: bill text: \"Credit Card Competition Act\"]",
+    "text": "A bill called the Credit Card Competition Act would push those fees down. It was reintroduced in January 2026."
+  },
+  {
+    "id": "s075",
+    "chapter": "6. THE THREAT",
+    "cue": "[QUOTE: Durbin and Marshall letter, 2023: \"unfair, abusive and deceptive practices\"]",
+    "text": "Its backers say airline loyalty programmes have turned into a way to make shoppers pay for frequent flyers."
+  },
+  {
+    "id": "s076",
+    "chapter": "6. THE THREAT",
+    "cue": "[QUOTE: Airlines for America, paraphrase: \"would threaten the rewards programmes travellers value\"]",
+    "text": "The airlines say it would gut the rewards millions of travellers count on. And they've fought it every time."
+  },
+  {
+    "id": "s077",
+    "chapter": "6. THE THREAT",
+    "cue": "[GFX: \"Analysts: still a long shot\"]",
+    "text": "For now, analysts call it a long shot. But Delta's single biggest source of profit depends on a fee that a vote in Washington could cut."
+  },
+  {
+    "id": "s078",
+    "chapter": "VERDICT",
+    "cue": "[VISUAL: title card]",
+    "text": "So why did Spirit die, and Delta didn't?"
+  },
+  {
+    "id": "s079",
+    "chapter": "VERDICT",
+    "cue": "[GFX: split screen: Spirit \"money from passengers\" · Delta \"money from every card swipe\"]",
+    "text": "Not because Delta flies better. Spirit's extra money came out of its passengers' pockets. Delta's comes out of everyone's."
+  },
+  {
+    "id": "s080",
+    "chapter": "VERDICT",
+    "cue": "[BROLL: supermarket checkout again]",
+    "text": "Spirit charged you for your bag. Delta gets paid when you buy groceries."
+  },
+  {
+    "id": "s081",
+    "chapter": "VERDICT",
+    "cue": "[GFX: callback: cold-open bars, Spirit 23.8% vs Delta 19.2%, then Spirit's bar fades]",
+    "text": "In 2015, Spirit had the better margin. But a margin is only as strong as the person paying it."
+  },
+  {
+    "id": "s082",
+    "chapter": "VERDICT",
+    "cue": "[GFX: Delta target \"$10B a year\" from American Express]",
+    "text": "Delta now wants ten billion dollars a year from American Express. The more America swipes, the more Delta makes, whether anyone flies or not."
+  },
+  {
+    "id": "s083",
+    "chapter": "VERDICT",
+    "cue": "[BROLL: Delta plane taking off at dusk]",
+    "text": "The question is what happens to an airline that makes more from a credit card than from flying, if Washington ever decides to cut the card fees."
+  },
+  {
+    "id": "s084",
+    "chapter": "VERDICT",
+    "cue": "[END CARD]",
+    "text": "If you'll never look at your airline card the same way again, that's what this channel does: the economics nobody explains, one company at a time. Subscribe, and you'll get the next one."
+  }
+]

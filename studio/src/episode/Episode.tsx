@@ -4,8 +4,9 @@ import {AbsoluteFill, Audio, Sequence, interpolate, staticFile, useCurrentFrame}
 import {SCENES} from './Scenes';
 import {INK, slab, type} from './kit';
 import subway from './data/subway.json';
+import airlines from './data/airlines.json';
 
-export const EPISODES: Record<string, any> = {subway};
+export const EPISODES: Record<string, any> = {subway, airlines};
 
 const ChapterStamp: React.FC<{name: string; n: number}> = ({name, n}) => {
   const f = useCurrentFrame();

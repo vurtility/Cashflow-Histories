@@ -223,7 +223,7 @@ def main(ep: Path):
     for x in tl["segments"]:
         if not chapters or chapters[-1]["name"] != x["chapter"]:
             chapters.append({"name": x["chapter"], "from": round(x["start"] * FPS)})
-    data = {"fps": FPS, "durationInFrames": round(total * FPS) + FPS, "episode": ep.name, "print": "001",
+    data = {"fps": FPS, "durationInFrames": round(total * FPS) + FPS, "episode": ep.name, "print": (json.loads((ep / "episode.json").read_text()).get("print", "001") if (ep / "episode.json").exists() else "001"),
             "vo": vo, "shots": out_shots, "chapters": chapters}
     out = STUDIO / "src" / "episode" / "data" / f"{ep.name}.json"
     out.parent.mkdir(parents=True, exist_ok=True)

@@ -255,9 +255,70 @@ const WhyFine: React.FC<{a: string}> = ({a}) => (
   </Sheet>
 );
 
+// ---- Episode 2 (airlines): Spirit vs Delta ----
+// P: the title question on the dead airline's plane.
+const WhySpiritDied: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.yellow}>
+    <Photo src={`${a}/spirit_lv.jpg`} ink pos="50% 50%" zoom={1.1} style={{left: 560, top: 0, width: 720, height: H}} />
+    <div style={{position: 'absolute', left: 546, top: 0, width: 20, height: H, background: INK.ink}} />
+    <Stamp style={{left: 700, top: 300, fontSize: 96, transform: 'rotate(-8deg)'}}>CLOSED</Stamp>
+    <div style={{position: 'absolute', left: 46, top: 56, display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 12}}>
+      {['WHY', 'SPIRIT', 'DIED'].map((w) => (
+        <div key={w} style={{background: INK.ink, color: INK.paper, fontFamily: slab, fontSize: 104, lineHeight: 1, padding: '14px 24px 4px', whiteSpace: 'nowrap'}}>{w}</div>
+      ))}
+    </div>
+    <div style={{position: 'absolute', left: 46, bottom: 50, background: INK.paper, padding: '14px 22px', boxShadow: `10px 8px 0 ${INK.pink}`}}>
+      <Img src={staticFile(`${a}/logo_spirit.png`)} style={{width: 330, height: 92, objectFit: 'contain', display: 'block'}} />
+    </div>
+  </Sheet>
+);
+
+// Q: the hidden business: a card pays more than the flying makes.
+const FromACard: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.ink}>
+    <Photo src={`${a}/delta_a350.jpg`} pos="50% 55%" style={{inset: 0}} />
+    <AbsoluteFill style={{background: 'linear-gradient(90deg, rgba(22,33,62,0.0) 35%, rgba(22,33,62,0.75) 100%)'}} />
+    <div style={{position: 'absolute', left: 46, top: 46, background: INK.paper, padding: '12px 20px', boxShadow: `10px 8px 0 ${INK.pink}`}}>
+      <Img src={staticFile(`${a}/logo_delta.jpg`)} style={{width: 300, height: 70, objectFit: 'contain', display: 'block'}} />
+    </div>
+    <div style={{position: 'absolute', right: 50, top: 150, textAlign: 'right'}}>
+      <div style={{display: 'inline-block', background: INK.yellow, padding: '10px 30px 0', boxShadow: `12px 9px 0 ${INK.pink}`}}>
+        <span style={{fontFamily: slab, fontSize: 170, color: INK.ink, whiteSpace: 'nowrap'}}>$8.2B</span>
+      </div>
+      <div style={{marginTop: 26}}>
+        <span style={{display: 'inline-block', background: INK.ink, color: INK.paper, fontFamily: slab, fontSize: 76, padding: '8px 22px 0', whiteSpace: 'nowrap'}}>FROM A CARD</span>
+      </div>
+      <div style={{marginTop: 26, display: 'inline-block', background: INK.paper, padding: '12px 20px'}}>
+        <Img src={staticFile(`${a}/logo_amex.png`)} style={{width: 220, height: 80, objectFit: 'contain', display: 'block'}} />
+      </div>
+    </div>
+  </Sheet>
+);
+
+// R: the twin/foil, in one picture.
+const OneDied: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.ink}>
+    <Photo src={`${a}/spirit_lv.jpg`} ink pos="50% 50%" style={{left: 0, top: 0, width: 636, height: H}} />
+    <Photo src={`${a}/delta_a350.jpg`} pos="45% 55%" style={{left: 644, top: 0, width: 636, height: H}} />
+    {[{x: 40, t: 'DIED', logo: 'logo_spirit.png', bg: INK.paper}, {x: 684, t: 'THRIVED', logo: 'logo_delta.jpg', bg: INK.yellow}].map((c) => (
+      <div key={c.t} style={{position: 'absolute', left: c.x, bottom: 56}}>
+        <div style={{background: INK.paper, padding: '10px 16px', display: 'inline-block', marginBottom: 14}}>
+          <Img src={staticFile(`${a}/${c.logo}`)} style={{width: 220, height: 60, objectFit: 'contain', display: 'block'}} />
+        </div>
+        <div style={{background: c.bg, padding: '10px 28px 0', boxShadow: `12px 9px 0 ${INK.pink}`}}>
+          <span style={{fontFamily: slab, fontSize: 112, color: INK.ink, whiteSpace: 'nowrap'}}>{c.t}</span>
+        </div>
+      </div>
+    ))}
+    <div style={{position: 'absolute', left: 0, right: 0, top: 70, textAlign: 'center'}}>
+      <span style={{display: 'inline-block', background: INK.pink, color: INK.paper, fontFamily: slab, fontSize: 120, padding: '12px 40px 0', boxShadow: `12px 9px 0 ${INK.ink}`}}>WHY?</span>
+    </div>
+  </Sheet>
+);
+
 export const Thumb: React.FC<{ep: string; v: string}> = ({ep, v}) => {
   const a = `${ep}/assets`;
-  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine};
+  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine, p: WhySpiritDied, q: FromACard, r: OneDied};
   const C = V[v] ?? ClosedRicher;
   return <C a={a} />;
 };

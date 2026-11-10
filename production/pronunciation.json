@@ -2,26 +2,79 @@
   "_about": "Channel pronunciation dictionary. 'always' swaps are applied to every line before it goes to ElevenLabs. 'candidates' are alternative spellings the QA check tries ONLY if a line fails on that word; the one that passes is promoted to 'always' in the QA report for you to confirm. 'homophones' are words speech recognition can't tell apart, treated as equal when checking.",
   "always": {
     "MTF Enterprises": "M-T-F Enterprises",
-    "FDD": "F-D-D"
+    "FDD": "F-D-D",
+    "AAdvantage": "A-Advantage"
   },
   "candidates": {
-    "Cancro": ["Can-kro", "Kan-krow"],
-    "Roark": ["Rork", "Roh-ark"],
-    "DeLuca": ["Deh-Loo-kah", "Duh-Loo-ka"],
-    "Circana": ["Sur-kah-nah"]
+    "Cancro": [
+      "Can-kro",
+      "Kan-krow"
+    ],
+    "Roark": [
+      "Rork",
+      "Roh-ark"
+    ],
+    "DeLuca": [
+      "Deh-Loo-kah",
+      "Duh-Loo-ka"
+    ],
+    "Circana": [
+      "Sur-kah-nah"
+    ]
   },
   "homophones": [
-    ["two", "to", "too"],
-    ["four", "for", "fore"],
-    ["eight", "ate"],
-    ["one", "won"],
-    ["their", "there", "theyre"],
-    ["its", "it's"],
-    ["right", "write"],
-    ["buy", "by", "bye"],
-    ["sub", "sup"],
-    ["footlong", "foot long", "foot-long"],
-    ["percent", "%"],
-    ["okay", "ok"]
+    [
+      "two",
+      "to",
+      "too"
+    ],
+    [
+      "four",
+      "for",
+      "fore"
+    ],
+    [
+      "eight",
+      "ate"
+    ],
+    [
+      "one",
+      "won"
+    ],
+    [
+      "their",
+      "there",
+      "theyre"
+    ],
+    [
+      "its",
+      "it's"
+    ],
+    [
+      "right",
+      "write"
+    ],
+    [
+      "buy",
+      "by",
+      "bye"
+    ],
+    [
+      "sub",
+      "sup"
+    ],
+    [
+      "footlong",
+      "foot long",
+      "foot-long"
+    ],
+    [
+      "percent",
+      "%"
+    ],
+    [
+      "okay",
+      "ok"
+    ]
   ]
 }

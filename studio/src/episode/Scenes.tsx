@@ -566,7 +566,7 @@ const Clips: React.FC<P> = ({items, instant = 0, dur, print}) => {
   );
 };
 
-const Timeline: React.FC<P> = ({items, dur, print}) => {
+const Timeline: React.FC<P> = ({items, src = 'Stuart Frankel interviews; Subway', dur, print}) => {
   const f = useCurrentFrame();
   return (
     <Sheet print={print}>
@@ -586,13 +586,13 @@ const Timeline: React.FC<P> = ({items, dur, print}) => {
       {items.map((_: any, i: number) => (
         <div key={'d' + i} style={{position: 'absolute', left: 160 + (i / (items.length - 1)) * 1480 - 22, top: 512, width: 44, height: 44, borderRadius: '50%', background: INK.pink, border: `5px solid ${INK.ink}`}} />
       ))}
-      <Caption t="Stuart Frankel interviews; Subway" />
+      <Caption t={src} />
       <Bug />
     </Sheet>
   );
 };
 
-const Stamps: React.FC<P> = ({items, dur, print}) => {
+const Stamps: React.FC<P> = ({items, word = 'BANKRUPT', unit = 'Subway stores', src = 'US bankruptcy court filings', dur, print}) => {
   const f = useCurrentFrame();
   return (
     <Sheet print={print}>
@@ -603,20 +603,20 @@ const Stamps: React.FC<P> = ({items, dur, print}) => {
           const o = interpolate(f, [t0, t0 + 3], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
           return (
             <div key={i} style={{opacity: o, transform: `scale(${s}) rotate(${i ? 5 : -6}deg)`, border: `10px solid ${INK.pink}`, padding: '30px 50px', textAlign: 'center', color: INK.pink}}>
-              <div style={{fontFamily: slab, fontSize: 80}}>BANKRUPT</div>
+              <div style={{fontFamily: slab, fontSize: 80}}>{it.word ?? word}</div>
               <div style={{fontFamily: type, fontWeight: 700, fontSize: 46, color: INK.ink, marginTop: 14}}>{it.name}</div>
-              <div style={{fontFamily: type, fontSize: 40, color: INK.ink}}>{it.stores} Subway stores · {it.year}</div>
+              <div style={{fontFamily: type, fontSize: 40, color: INK.ink}}>{it.stores != null ? `${it.stores} ${unit} · ` : ''}{it.year}</div>
             </div>
           );
         })}
       </AbsoluteFill>
-      <Caption t="US bankruptcy court filings" />
+      <Caption t={src} />
       <Bug />
     </Sheet>
   );
 };
 
-const Deal: React.FC<P> = ({a, date, text, value, stamp, dur, print}) => {
+const Deal: React.FC<P> = ({a, date, text, value, stamp, src = 'Roark Capital / Subway announcements, 2023–24', dur, print}) => {
   const p = usePop(0);
   const st = interpolate(useCurrentFrame(), [dur * 0.55, dur * 0.55 + 6], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
   return (
@@ -629,7 +629,7 @@ const Deal: React.FC<P> = ({a, date, text, value, stamp, dur, print}) => {
       </AbsoluteFill>
       <div style={{position: 'absolute', right: 200, top: 300, border: `10px solid ${INK.pink}`, color: INK.pink, fontFamily: slab, fontSize: 72, padding: '14px 36px',
         transform: `rotate(-10deg) scale(${2 - st})`, opacity: st}}>{stamp}</div>
-      <Caption t="Roark Capital / Subway announcements, 2023–24" />
+      <Caption t={src} />
       <Bug />
     </Sheet>
   );

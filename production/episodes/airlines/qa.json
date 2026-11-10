@@ -1,0 +1,1995 @@
+{
+  "median_db": -14.8,
+  "spent_chars": 425,
+  "results": {
+    "s001": {
+      "heard": "In 2015, Spirit Airlines made more profit on every dollar than Delta did.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 20,
+        "rate": 3.75,
+        "wpm": 146.1,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.917
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Delta",
+        "Spirit Airlines"
+      ],
+      "attempts": []
+    },
+    "s002": {
+      "heard": "24 cents of operating profit on every dollar. Delta made 19.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 4.2,
+        "wpm": 120.4,
+        "lead_silence": 0.02,
+        "silences": [
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.916
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s003": {
+      "heard": "On the 2nd of May, 2026, Spirit canceled every flight it had. It never flew again.",
+      "accuracy": 0.944,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "second",
+          "heard": "two nd"
+        }
+      ],
+      "pace": {
+        "syllables": 23,
+        "rate": 3.4,
+        "wpm": 142.0,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32,
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.936
+      },
+      "problems": [],
+      "score": 0.944,
+      "risky": [
+        "(digits in text)",
+        "May",
+        "Spirit"
+      ],
+      "attempts": []
+    },
+    "s004": {
+      "heard": "Delta, an airline that went bankrupt in 2005, made an operating profit of about $5.8 billion last year.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 3.73,
+        "wpm": 156.7,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.939
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s005": {
+      "heard": "And one payment Delta receives every year is bigger than that entire profit. It doesn't come from a passenger.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 4.42,
+        "wpm": 168.1,
+        "lead_silence": 0.06,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.897
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta"
+      ],
+      "attempts": []
+    },
+    "s006": {
+      "heard": "So how did the airline that was winning die while the one that went bankrupt thrived?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 21,
+        "rate": 3.92,
+        "wpm": 179.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.881
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s007": {
+      "heard": "It wasn't the planes, it wasn't the service, the answer is in your wallet.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 18,
+        "rate": 3.66,
+        "wpm": 170.7,
+        "lead_silence": 0.02,
+        "silences": [
+          0.3,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -16.0,
+        "peak": 0.89
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s008": {
+      "heard": "Spirit didn't start as an airline. It started in 1964 as a trucking company in Michigan and spent decades as a small charter and holiday operator.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 41,
+        "rate": 4.32,
+        "wpm": 164.6,
+        "lead_silence": 0.02,
+        "silences": [
+          0.32,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.895
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Michigan"
+      ],
+      "attempts": []
+    },
+    "s009": {
+      "heard": "Then in 2005, it hired Ben Baldanza, and Baldanza had an idea that sounded insane in America.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 3.44,
+        "wpm": 129.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.932
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "America",
+        "Baldanza",
+        "Ben Baldanza"
+      ],
+      "attempts": []
+    },
+    "s010": {
+      "heard": "Sell the seat for almost nothing, then charge for everything else. Your bag, your carry-on, choosing a seat, even printing your boarding pass at the airport.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 3.79,
+        "wpm": 159.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32,
+          0.26,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.937
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s011": {
+      "heard": "By 2007, Spirit had become America's first true ultra-low-cost airline. It called itself the home of the Bear Fair.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 29,
+        "rate": 3.27,
+        "wpm": 128.4,
+        "lead_silence": 0.06,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.941
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "America's",
+        "Bare Fare",
+        "Home",
+        "Spirit"
+      ],
+      "attempts": []
+    },
+    "s012": {
+      "heard": "Customers hated it. Spirit became the most complained about airline in the country.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 4.39,
+        "wpm": 137.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.885
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s013": {
+      "heard": "But here's what mattered, they kept buying.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 10,
+        "rate": 3.42,
+        "wpm": 143.8,
+        "lead_silence": 0.1,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -16.5,
+        "peak": 0.895
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s014": {
+      "heard": "By 2015, Spirit was making a record 24 cents of operating profit on every dollar. The airline everyone loved to hate was one of the most profitable in America.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 50,
+        "rate": 4.45,
+        "wpm": 154.8,
+        "lead_silence": 0.1,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.93
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "America",
+        "Spirit",
+        "record"
+      ],
+      "attempts": []
+    },
+    "s015": {
+      "heard": "and the model kept going. By 2023, the average Spirit passenger paid $53 for the seat and $69 for everything else.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 3.82,
+        "wpm": 142.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.93
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Spirit"
+      ],
+      "attempts": []
+    },
+    "s016": {
+      "heard": "More for the extras than for the flight.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 9,
+        "rate": 4.25,
+        "wpm": 226.4,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s017": {
+      "heard": "Baldanza himself was replaced in January 2016. By then, he'd built exactly what he set out to build.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 3.54,
+        "wpm": 147.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.917
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "January"
+      ],
+      "attempts": []
+    },
+    "s019": {
+      "heard": "so the cheap airline had cracked it, rock bottom fares, and the profit in the extras.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 3.96,
+        "wpm": 161.9,
+        "lead_silence": 0.08,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.949
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s020": {
+      "heard": "But the model had one weakness, and it was hiding in exactly where those extras came from.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 4.14,
+        "wpm": 183.5,
+        "lead_silence": 0.06,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.89
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s021": {
+      "heard": "Delta started even further from Glamour in 1924 as a crop dusting company in Georgia.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 3.57,
+        "wpm": 130.4,
+        "lead_silence": 0.02,
+        "silences": [
+          0.42,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.891
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Georgia"
+      ],
+      "attempts": []
+    },
+    "s022": {
+      "heard": "And in September 2005, it went bankrupt, on the same day as Northwest.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 16,
+        "rate": 3.09,
+        "wpm": 150.6,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.906
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Northwest",
+        "September"
+      ],
+      "attempts": []
+    },
+    "s023": {
+      "heard": "It came back, swallowed Northwest in 2008, and became one of the biggest airlines in the world.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 3.63,
+        "wpm": 160.9,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.901
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Northwest"
+      ],
+      "attempts": []
+    },
+    "s024": {
+      "heard": "So you'd assume Delta's comeback was about flying better. Better planes, better service, better prices.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 4.18,
+        "wpm": 139.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.896
+      },
+      "problems": [],
+      "score": 1.0,
+      "attempts": [
+        {
+          "plan": "new take",
+          "accuracy": 0.6,
+          "problems": [
+            "accuracy 60%"
+          ]
+        },
+        {
+          "plan": "steadier delivery",
+          "accuracy": 1.0,
+          "problems": []
+        }
+      ],
+      "risky": [
+        "Delta's"
+      ],
+      "fixed_by": "steadier delivery"
+    },
+    "s025": {
+      "heard": "Partly, but that's not where the most important money comes from.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 16,
+        "rate": 4.37,
+        "wpm": 180.3,
+        "lead_silence": 0.06,
+        "silences": [
+          0.48
+        ]
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.879
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s026": {
+      "heard": "In 1996, Delta started a co-branded credit card with American Express. It looked like a marketing deal. Earn miles when you shop. Spend them on flights.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 38,
+        "rate": 3.86,
+        "wpm": 158.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "American Express",
+        "Delta"
+      ],
+      "attempts": []
+    },
+    "s027": {
+      "heard": "In January 2024, Delta's chief executive, Ed Bastian, was asked on CNBC what the relationship is worth.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 3.51,
+        "wpm": 132.5,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.938
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "CNBC",
+        "Delta's",
+        "Ed Bastian",
+        "January"
+      ],
+      "attempts": []
+    },
+    "s029": {
+      "heard": "He was right, and in 2025, it was 8.2 billion.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 12,
+        "rate": 2.73,
+        "wpm": 163.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.906
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s030": {
+      "heard": "That's the payment from the cold open, bigger than Delta's entire operating profit.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 4.51,
+        "wpm": 159.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.925
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta's"
+      ],
+      "attempts": []
+    },
+    "s031": {
+      "heard": "About $22 million a day from a company that doesn't fly a single plane.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 4.11,
+        "wpm": 160.7,
+        "lead_silence": 0.02,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.93
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s032": {
+      "heard": "Which raises a strange question, why would a bank pay billions for airline miles?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 19,
+        "rate": 3.54,
+        "wpm": 156.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.9
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s033": {
+      "heard": "Here's how it works with simple numbers.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 10,
+        "rate": 4.59,
+        "wpm": 192.7,
+        "lead_silence": 0.1,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.873
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s034": {
+      "heard": "Say you buy $100 of groceries on a Delta card. The supermarket pays a fee for taking your card. Call it a couple of dollars.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 38,
+        "rate": 4.97,
+        "wpm": 212.0,
+        "lead_silence": 0.02,
+        "silences": [
+          0.28,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.894
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta"
+      ],
+      "attempts": []
+    },
+    "s035": {
+      "heard": "The card company uses part of that to buy miles from Delta and puts them in your account.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 4.74,
+        "wpm": 213.4,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.924
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta"
+      ],
+      "attempts": []
+    },
+    "s036": {
+      "heard": "Now look at what Delta just did. It got paid for a flight you haven't taken. You might take it next year. You might never take it at all.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 33,
+        "rate": 4.23,
+        "wpm": 223.1,
+        "lead_silence": 0.06,
+        "silences": [
+          0.34,
+          0.36,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.937
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta"
+      ],
+      "attempts": []
+    },
+    "s037": {
+      "heard": "And when you do, it's often in a seat that would have flown empty anyway.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 19,
+        "rate": 4.7,
+        "wpm": 222.8,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.893
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s039": {
+      "heard": "Bastion says spending on Delta's cards is now close to 1% of America's entire economy.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 4.38,
+        "wpm": 155.8,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "America's",
+        "Delta's",
+        "close"
+      ],
+      "attempts": []
+    },
+    "s040": {
+      "heard": "And here's where it reaches your wallet, even if you've never flown Delta. Shops don't charge card users more. They raise prices for everyone.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 34,
+        "rate": 3.9,
+        "wpm": 165.1,
+        "lead_silence": 0.08,
+        "silences": [
+          0.26,
+          0.4,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.91
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta"
+      ],
+      "attempts": []
+    },
+    "s041": {
+      "heard": "Federal Reserve researchers estimate that rewards cards move about $15 billion a year from less savvy and poorer cardholders to richer, savvier ones.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 43,
+        "rate": 4.37,
+        "wpm": 146.3,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.0,
+        "peak": 0.902
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Reserve",
+        "estimate"
+      ],
+      "attempts": []
+    },
+    "s042": {
+      "heard": "The card industry's answer is that rewards are funded by fees that shops choose to pay because card customers spend more. That's the trade-off.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 33,
+        "rate": 3.79,
+        "wpm": 165.5,
+        "lead_silence": 0.06,
+        "silences": [
+          0.32,
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.886
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s043": {
+      "heard": "Either way, the mile is the most valuable thing Delta sells.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 16,
+        "rate": 4.02,
+        "wpm": 165.8,
+        "lead_silence": 0.06,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.89
+      },
+      "problems": [],
+      "score": 1.0,
+      "attempts": [
+        {
+          "plan": "new take",
+          "accuracy": 0.909,
+          "problems": [
+            "accuracy 91%"
+          ]
+        },
+        {
+          "plan": "steadier delivery",
+          "accuracy": 1.0,
+          "problems": []
+        }
+      ],
+      "risky": [
+        "Delta"
+      ],
+      "fixed_by": "steadier delivery"
+    },
+    "s044": {
+      "heard": "But for years, nobody could say how valuable. Then, in 2020, every plane in America stopped flying, and the world found out.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 31,
+        "rate": 3.3,
+        "wpm": 140.7,
+        "lead_silence": 0.06,
+        "silences": [
+          0.42,
+          0.28,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.901
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "America"
+      ],
+      "attempts": []
+    },
+    "s045": {
+      "heard": "Spring 2020. Passengers vanished almost overnight. The airlines were burning cash with nothing coming in.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 3.32,
+        "wpm": 114.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.5,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.917
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s046": {
+      "heard": "they needed to borrow tens of billions of dollars. Normally, an airline borrows against its planes.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 4.21,
+        "wpm": 155.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.44
+        ]
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 1.0,
+      "attempts": [
+        {
+          "plan": "new take",
+          "accuracy": 1.0,
+          "problems": []
+        }
+      ],
+      "risky": [],
+      "fixed_by": "new take"
+    },
+    "s047": {
+      "heard": "Not this time.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 3,
+        "rate": 2.94,
+        "wpm": 176.5,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -16.5,
+        "peak": 0.948
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s048": {
+      "heard": "In June 2020, United valued its frequent flier program at $21.9 billion and borrowed $6.8 billion against it.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 34,
+        "rate": 3.64,
+        "wpm": 141.3,
+        "lead_silence": 0.06,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.901
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "June",
+        "United"
+      ],
+      "attempts": []
+    },
+    "s049": {
+      "heard": "In September, Delta borrowed 9 billion against SkyMiles, the biggest debt deal the airline industry had ever seen.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 4.19,
+        "wpm": 141.4,
+        "lead_silence": 0.02,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.978
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta",
+        "September",
+        "SkyMiles"
+      ],
+      "attempts": []
+    },
+    "s050": {
+      "heard": "American followed with $10 billion against A Advantage.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 16,
+        "rate": 4.65,
+        "wpm": 122.1,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.954
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s051": {
+      "heard": "$25.8 billion lent against miles. With the planes parked, the most valuable thing these airlines owned was a promise of free flights.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 3.69,
+        "wpm": 141.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.28,
+          0.56,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.929
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s052": {
+      "heard": "Appraisals of Americans program came in at up to $31 billion, at a time when the whole airline was worth less than 10.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 35,
+        "rate": 4.17,
+        "wpm": 171.4,
+        "lead_silence": 0.08,
+        "silences": [
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.922
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "American's"
+      ],
+      "attempts": []
+    },
+    "s053": {
+      "heard": "One 2025 analysis stripped the loyalty money out of the big airline's results. They're flying, on its own, lost money.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 29,
+        "rate": 3.62,
+        "wpm": 150.0,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.921
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s054": {
+      "heard": "So Delta didn't survive by winning at flying. It built a business that no longer needs to.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 3.92,
+        "wpm": 174.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta"
+      ],
+      "attempts": []
+    },
+    "s055": {
+      "heard": "Which brings us back to spirit. If the miles are this valuable, why didn't spirit just do the same?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 4.07,
+        "wpm": 193.2,
+        "lead_silence": 0.08,
+        "silences": [
+          0.4,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.906
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Spirit"
+      ],
+      "attempts": []
+    },
+    "s056": {
+      "heard": "It tried. Spirit had its own credit card, too. In 2023, it brought in $93 million.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 3.19,
+        "wpm": 141.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.931
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s057": {
+      "heard": "Delta's brought in 73 times as much.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 12,
+        "rate": 4.14,
+        "wpm": 144.8,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.928
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s058": {
+      "heard": "Because a card like that only works if the people holding it spend a lot. Business travelers. Households putting everything on the card.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 4.53,
+        "wpm": 169.1,
+        "lead_silence": 0.08,
+        "silences": [
+          0.42,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.927
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s059": {
+      "heard": "Spirit's customers were the opposite. They chose Spirit because every dollar mattered.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 4.38,
+        "wpm": 131.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.897
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Spirit"
+      ],
+      "attempts": []
+    },
+    "s060": {
+      "heard": "So Spirit's extra money had only one place to come from, its own passengers, and they were the people with the least to give.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 31,
+        "rate": 3.9,
+        "wpm": 181.4,
+        "lead_silence": 0.02,
+        "silences": [
+          0.4,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.911
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Spirit's"
+      ],
+      "attempts": []
+    },
+    "s061": {
+      "heard": "When costs rose, Delta's card money kept growing. Spirit had to squeeze its passengers harder, and price-sensitive passengers have options.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 34,
+        "rate": 3.74,
+        "wpm": 131.9,
+        "lead_silence": 0.1,
+        "silences": [
+          0.32,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.5,
+        "peak": 0.948
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta's"
+      ],
+      "attempts": []
+    },
+    "s062": {
+      "heard": "Spirit's way out was a merger. In May 2022, JetBlue offered to buy it. Spirit's chief executive went on CNBC to explain why the board said no.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 35,
+        "rate": 3.16,
+        "wpm": 146.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.48,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.912
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "CNBC",
+        "JetBlue",
+        "May"
+      ],
+      "attempts": []
+    },
+    "s064": {
+      "heard": "Two months later, Spirit said yes for $3.8 billion.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 16,
+        "rate": 3.12,
+        "wpm": 140.6,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.912
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Spirit"
+      ],
+      "attempts": []
+    },
+    "s065": {
+      "heard": "In January 2024, a federal judge blocked it. His reason? It would take seats out of the market and raise fares.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 28,
+        "rate": 3.62,
+        "wpm": 162.8,
+        "lead_silence": 0.02,
+        "silences": [
+          0.34,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.901
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "January"
+      ],
+      "attempts": []
+    },
+    "s066": {
+      "heard": "So Spirit tried the last thing it had, becoming Delta. It scrapped change fees and started selling premium bundles with bigger seats. The home of the Bear Fair. Selling comfort.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 42,
+        "rate": 3.55,
+        "wpm": 152.0,
+        "lead_silence": 0.06,
+        "silences": [
+          0.38,
+          0.42,
+          0.38,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.931
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Bare Fare",
+        "Delta",
+        "Home",
+        "Spirit"
+      ],
+      "attempts": []
+    },
+    "s067": {
+      "heard": "On the 5th of November, 2024, Ben Baldanza, the man who built Spirit's fee model, died. He was 62.",
+      "accuracy": 0.955,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "fifth",
+          "heard": "five th"
+        }
+      ],
+      "pace": {
+        "syllables": 26,
+        "rate": 3.11,
+        "wpm": 136.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32,
+          0.26,
+          0.28,
+          0.48
+        ]
+      },
+      "audio": {
+        "rms_db": -15.9,
+        "peak": 0.906
+      },
+      "problems": [],
+      "score": 0.955,
+      "risky": [
+        "(digits in text)",
+        "Ben Baldanza",
+        "November",
+        "Spirit's"
+      ],
+      "attempts": []
+    },
+    "s068": {
+      "heard": "13 days later, Spirit filed for bankruptcy.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 13,
+        "rate": 3.96,
+        "wpm": 128.0,
+        "lead_silence": 0.06,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.88
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Spirit"
+      ],
+      "attempts": []
+    },
+    "s069": {
+      "heard": "It had lost more than $3 billion in five years. It came out of bankruptcy in March 2025 and filed again that August.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 3.46,
+        "wpm": 165.9,
+        "lead_silence": 0.06,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "August",
+        "March"
+      ],
+      "attempts": []
+    },
+    "s070": {
+      "heard": "On the 2nd of May, 2026, a government rescue fell through and Spirit stopped flying. 17,000 jobs.",
+      "accuracy": 0.947,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "second",
+          "heard": "two nd"
+        }
+      ],
+      "pace": {
+        "syllables": 25,
+        "rate": 2.81,
+        "wpm": 121.3,
+        "lead_silence": 0.06,
+        "silences": [
+          0.26,
+          0.28,
+          0.44
+        ]
+      },
+      "audio": {
+        "rms_db": -15.7,
+        "peak": 0.916
+      },
+      "problems": [],
+      "score": 0.947,
+      "risky": [
+        "(digits in text)",
+        "May",
+        "Spirit"
+      ],
+      "attempts": []
+    },
+    "s071": {
+      "heard": "So, let's go back to the question. Spirit was more profitable than Delta. Why is one gone and the other thriving?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 29,
+        "rate": 4.01,
+        "wpm": 174.0,
+        "lead_silence": 0.1,
+        "silences": [
+          0.38,
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.882
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta"
+      ],
+      "attempts": []
+    },
+    "s072": {
+      "heard": "Delta has an answer, and it's $8 billion a year, but that answer has a weak spot too.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 3.74,
+        "wpm": 177.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.28,
+          0.44
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.91
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s073": {
+      "heard": "Every card swipe pays a fee, and those fees fund the miles. So the biggest threat to Delta isn't another airline, it's Congress.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 3.76,
+        "wpm": 162.0,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26,
+          0.46,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.918
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Congress",
+        "Delta"
+      ],
+      "attempts": []
+    },
+    "s074": {
+      "heard": "A bill called the Credit Card Competition Act would push those fees down. It was reintroduced in January 2026.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 28,
+        "rate": 3.65,
+        "wpm": 148.4,
+        "lead_silence": 0.02,
+        "silences": [
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.935
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Credit Card Competition Act",
+        "January"
+      ],
+      "attempts": []
+    },
+    "s075": {
+      "heard": "Its backers say airline loyalty programs have turned into a way to make shoppers pay for frequent flyers.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 4.4,
+        "wpm": 175.9,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.916
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s076": {
+      "heard": "The airlines say it would gut the rewards millions of travelers count on. And they fought it every time.",
+      "accuracy": 0.944,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "theyve",
+          "heard": "they"
+        }
+      ],
+      "pace": {
+        "syllables": 27,
+        "rate": 4.1,
+        "wpm": 173.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.938
+      },
+      "problems": [],
+      "score": 0.944,
+      "risky": [],
+      "attempts": []
+    },
+    "s077": {
+      "heard": "For now, analysts call it a long shot, but Delta's single biggest source of profit depends on a fee that a vote in Washington could cut.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 35,
+        "rate": 4.04,
+        "wpm": 180.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.923
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta's",
+        "Washington"
+      ],
+      "attempts": []
+    },
+    "s078": {
+      "heard": "So why did spirit die and Delta didn't?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 10,
+        "rate": 3.29,
+        "wpm": 157.9,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.853
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta",
+        "Spirit"
+      ],
+      "attempts": []
+    },
+    "s079": {
+      "heard": "Not because Delta flies better. Spirit's extra money came out of its passenger's pockets. Delta's comes out of everyone's.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 33,
+        "rate": 4.38,
+        "wpm": 151.2,
+        "lead_silence": 0.02,
+        "silences": [
+          0.34,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.9
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Delta"
+      ],
+      "attempts": []
+    },
+    "s080": {
+      "heard": "Spirit charged you for your bag. Delta gets paid when you buy groceries.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 18,
+        "rate": 3.95,
+        "wpm": 171.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.922
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s081": {
+      "heard": "In 2015, Spirit had the better margin, but a margin is only as strong as the person paying it.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 3.66,
+        "wpm": 173.8,
+        "lead_silence": 0.02,
+        "silences": [
+          0.46
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.884
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Spirit"
+      ],
+      "attempts": []
+    },
+    "s082": {
+      "heard": "Delta now wants $10 billion a year from American Express. The more America swipes, the more Delta makes, whether anyone flies or not.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 4.06,
+        "wpm": 150.0,
+        "lead_silence": 0.02,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -13.9,
+        "peak": 0.95
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "America",
+        "American Express",
+        "Delta"
+      ],
+      "attempts": []
+    },
+    "s083": {
+      "heard": "The question is, what happens to an airline that makes more from a credit card than from flying if Washington ever decides to cut the card fees?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 4.53,
+        "wpm": 198.5,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.887
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Washington"
+      ],
+      "attempts": []
+    },
+    "s084": {
+      "heard": "If you'll never look at your airline card the same way again, that's what this channel does. The economics nobody explains. One company at a time. Subscribe and you'll get the next one.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 46,
+        "rate": 4.18,
+        "wpm": 180.0,
+        "lead_silence": 0.04,
+        "silences": [
+          0.28,
+          0.3,
+          0.28,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.902
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    }
+  }
+}

@@ -1,0 +1,273 @@
+[
+ {
+  "id": "tv_amexad09",
+  "from": "tvnews",
+  "ref": "CNBC_20091020_100000_Squawk_Box",
+  "t": [
+   2488,
+   2516
+  ],
+  "use": "Delta SkyMiles Amex card ad, as aired 2009",
+  "credit": "Delta SkyMiles card ad (American Express), as aired Oct 2009 · TV News Archive",
+  "basis": "fair use: brief excerpts of the company's own TV ad, as aired, to show the product under discussion; commentary, transformed",
+  "archival": true
+ },
+ {
+  "id": "tv_baldanza13",
+  "from": "tvnews",
+  "ref": "CNBC_20130314_030000_Mad_Money",
+  "t": [
+   1145,
+   1155
+  ],
+  "use": "Ben Baldanza on camera",
+  "credit": "CNBC, Mad Money, 13 Mar 2013 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_spirit14",
+  "from": "tvnews",
+  "ref": "WUSA_20140323_130000_CBS_News_Sunday_Morning",
+  "t": [
+   3280,
+   3348
+  ],
+  "use": "Spirit cabin, Baldanza interview, planes",
+  "credit": "CBS News Sunday Morning, 23 Mar 2014 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_spirit13",
+  "from": "tvnews",
+  "ref": "KPIX_20130522_140000_CBS_This_Morning",
+  "t": [
+   5770,
+   5810
+  ],
+  "use": "Consumer Reports ranking, check-in, bag sizer",
+  "credit": "CBS This Morning, 22 May 2013 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_blocked24",
+  "from": "tvnews",
+  "ref": "KPIX_20240117_130000_CBS_News_Bay_Area_Morning_Edition_5am",
+  "t": [
+   2852,
+   2872
+  ],
+  "use": "JetBlue-Spirit merger blocked report",
+  "credit": "CBS News Bay Area, 17 Jan 2024 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_pandemic20",
+  "from": "tvnews",
+  "ref": "KGO_20200504_230000_ABC7_News_400PM",
+  "t": [
+   1230,
+   1258
+  ],
+  "use": "empty airport terminals, 2020",
+  "credit": "ABC7 News, 4 May 2020 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_bagfees14",
+  "from": "tvnews",
+  "ref": "WJLA_20141127_073700_ABC_World_News_Now",
+  "t": [
+   1777,
+   1815
+  ],
+  "use": "Spirit bag fees report",
+  "credit": "ABC World News Now, 27 Nov 2014 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_bk24",
+  "from": "tvnews",
+  "ref": "CNBC_20241004_180000_Power_Lunch",
+  "t": [
+   1223,
+   1235
+  ],
+  "use": "Spirit exploring bankruptcy",
+  "credit": "CNBC Power Lunch, 4 Oct 2024 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "tv_swipe12",
+  "from": "tvnews",
+  "ref": "WRC_20120714_130000_News_4_Today",
+  "t": [
+   4300,
+   4322
+  ],
+  "use": "cards, terminal, checkout",
+  "credit": "NBC4 Washington, 14 Jul 2012 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the airline business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "sot_cnbc_baldanza_2016",
+  "from": "tvnews",
+  "ref": "CNBC_20160105_160000_Squawk_Alley",
+  "t": [
+   1816.8,
+   1827.0
+  ],
+  "use": "sot: CNBC on Baldanza's exit",
+  "credit": "CNBC Squawk Alley, 5 Jan 2016 · TV News Archive",
+  "basis": "fair use: short excerpt (under 11s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "sot_bastian_2024",
+  "from": "tvnews",
+  "ref": "CNBC_20240119_110000_Squawk_Box",
+  "t": [
+   10036.4,
+   10042.6
+  ],
+  "use": "sot: Bastian $7B",
+  "credit": "CNBC Squawk Box, 19 Jan 2024 · TV News Archive",
+  "basis": "fair use: short excerpt (under 11s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "sot_bastian_magic_2024",
+  "from": "tvnews",
+  "ref": "CNBC_20240119_110000_Squawk_Box",
+  "t": [
+   10066.1,
+   10069.1
+  ],
+  "use": "sot: Bastian magic",
+  "credit": "CNBC Squawk Box, 19 Jan 2024 · TV News Archive",
+  "basis": "fair use: short excerpt (under 11s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "sot_christie_2022",
+  "from": "tvnews",
+  "ref": "CNBC_20220519_100000_Squawk_Box",
+  "t": [
+   5276.9,
+   5286.3
+  ],
+  "use": "sot: Christie on JetBlue",
+  "credit": "CNBC Squawk Box, 19 May 2022 · TV News Archive",
+  "basis": "fair use: short excerpt (under 11s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+ },
+ {
+  "id": "spirit_lv",
+  "from": "commons",
+  "ref": "File:Spirit Airlines Airbus over Las Vegas.jpg",
+  "use": ""
+ },
+ {
+  "id": "spirit_a320neo",
+  "from": "commons",
+  "ref": "File:N939NK Spirit Airlines Airbus A320neo.jpg",
+  "use": ""
+ },
+ {
+  "id": "spirit_atl",
+  "from": "commons",
+  "ref": "File:Spirit N653NK pushed back from gate D4 at ATL.jpg",
+  "use": ""
+ },
+ {
+  "id": "spirit_a321",
+  "from": "commons",
+  "ref": "File:Spirit Airbus A321 N669NK BWI MD1.jpg",
+  "use": ""
+ },
+ {
+  "id": "delta_atl",
+  "from": "commons",
+  "ref": "File:Delta Air Lines A320 approaching ATL.jpg",
+  "use": ""
+ },
+ {
+  "id": "delta_a350",
+  "from": "commons",
+  "ref": "File:Delta Air Lines Airbus A350-900 N507DN at Taoyuan February 2026 1.jpg",
+  "use": ""
+ },
+ {
+  "id": "delta_cabin",
+  "from": "commons",
+  "ref": "File:Delta Air Lines Airbus A350-900 N512DN interior May 2026.jpg",
+  "use": ""
+ },
+ {
+  "id": "delta_nw",
+  "from": "commons",
+  "ref": "File:Delta Air Lines - N352NW (8081700149).jpg",
+  "use": ""
+ },
+ {
+  "id": "dlnw_tails",
+  "from": "commons",
+  "ref": "File:DL-NW Tails.svg",
+  "use": ""
+ },
+ {
+  "id": "huff_daland",
+  "from": "commons",
+  "ref": "File:Huff-Daland Duster - DPLA - e4f0d483310498ee062cdb10c4ee5e92 (page 1).jpg",
+  "use": ""
+ },
+ {
+  "id": "bastian_photo",
+  "from": "commons",
+  "ref": "File:Ed Bastian Delta CEO.jpg",
+  "use": ""
+ },
+ {
+  "id": "capitol",
+  "from": "commons",
+  "ref": "File:Capitol Building Full View.jpg",
+  "use": ""
+ },
+ {
+  "id": "pay_terminal",
+  "from": "commons",
+  "ref": "File:Cashless-Payment-Devices CreditCard-and-Code-payment.jpg",
+  "use": ""
+ },
+ {
+  "id": "checkout",
+  "from": "commons",
+  "ref": "File:Checkout line for grocery store.jpg",
+  "use": ""
+ },
+ {
+  "id": "storage_roswell",
+  "from": "commons",
+  "ref": "File:N7506 McDonnell Douglas MD-82 American ( Arrived On This Day For Storage.. ) (8735577571).jpg",
+  "use": ""
+ },
+ {
+  "id": "logo_spirit",
+  "from": "commons",
+  "ref": "File:Spirit Airlines logo.svg",
+  "use": ""
+ },
+ {
+  "id": "logo_delta",
+  "from": "commons",
+  "ref": "File:Delta Air Lines full names logo.jpg",
+  "use": ""
+ },
+ {
+  "id": "logo_amex",
+  "from": "commons",
+  "ref": "File:The American Express logo.png",
+  "use": ""
+ },
+ {
+  "id": "logo_jetblue",
+  "from": "commons",
+  "ref": "File:JetBlue Airways Logo.svg",
+  "use": ""
+ }
+]

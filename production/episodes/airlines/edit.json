@@ -1,0 +1,981 @@
+{
+ "s001": [
+  {
+   "k": "video",
+   "a": "tv_spirit14",
+   "from": 56,
+   "label": "Spirit Airlines"
+  }
+ ],
+ "s002": [
+  {
+   "k": "bars",
+   "title": "Operating margin, 2015",
+   "rows": [
+    {
+     "n": "Spirit",
+     "v": 23.8,
+     "label": "23.8%",
+     "hero": true
+    },
+    {
+     "n": "Delta",
+     "v": 19.2,
+     "label": "19.2%"
+    }
+   ],
+   "src": "Spirit and Delta 10-K filings, 2015"
+  }
+ ],
+ "s003": [
+  {
+   "k": "photo",
+   "a": "spirit_atl",
+   "kb": "in",
+   "treat": "ink"
+  },
+  {
+   "at": "it never flew",
+   "k": "text",
+   "text": "ALL FLIGHTS CANCELLED",
+   "sub": "2 May 2026"
+  }
+ ],
+ "s004": [
+  {
+   "k": "photo",
+   "a": "delta_atl",
+   "kb": "in",
+   "label": "Delta Air Lines"
+  },
+  {
+   "at": "made an operating",
+   "k": "stat",
+   "kicker": "Delta, 2025",
+   "value": "$5.8B",
+   "sub": "operating profit (adjusted)"
+  }
+ ],
+ "s005": [
+  {
+   "k": "text",
+   "text": "ONE PAYMENT",
+   "sub": "bigger than all of that profit"
+  },
+  {
+   "at": "it doesn't come",
+   "k": "photo",
+   "a": "pay_terminal",
+   "kb": "in"
+  }
+ ],
+ "s006": [
+  {
+   "k": "vs",
+   "left_a": "spirit_lv",
+   "right_a": "delta_a350",
+   "left": "SPIRIT",
+   "right": "DELTA"
+  }
+ ],
+ "s007": [
+  {
+   "k": "video",
+   "a": "tv_spirit14",
+   "from": 1
+  },
+  {
+   "at": "the answer",
+   "k": "video",
+   "a": "tv_swipe12",
+   "from": 16
+  }
+ ],
+ "s008": [
+  {
+   "k": "place",
+   "place": "MICHIGAN",
+   "year": "1964"
+  },
+  {
+   "at": "and spent decades",
+   "k": "photo",
+   "a": "spirit_a320neo",
+   "kb": "left",
+   "treat": "ink"
+  }
+ ],
+ "s009": [
+  {
+   "k": "video",
+   "a": "tv_baldanza13",
+   "from": 0,
+   "label": "Ben Baldanza, Spirit CEO 2005–2016"
+  }
+ ],
+ "s010": [
+  {
+   "k": "video",
+   "a": "tv_spirit13",
+   "from": 22
+  },
+  {
+   "at": "choosing a seat",
+   "k": "video",
+   "a": "tv_spirit14",
+   "from": 18
+  },
+  {
+   "at": "even printing",
+   "k": "video",
+   "a": "tv_spirit13",
+   "from": 18
+  }
+ ],
+ "s011": [
+  {
+   "k": "video",
+   "a": "tv_bagfees14",
+   "from": 8
+  },
+  {
+   "at": "it called itself",
+   "k": "text",
+   "text": "HOME OF THE BARE FARE",
+   "sub": "Spirit's own slogan"
+  }
+ ],
+ "s012": [
+  {
+   "k": "video",
+   "a": "tv_spirit13",
+   "from": 1,
+   "label": "Consumer Reports airline ratings"
+  }
+ ],
+ "s013": [
+  {
+   "k": "video",
+   "a": "tv_spirit13",
+   "from": 28
+  }
+ ],
+ "s014": [
+  {
+   "k": "counter",
+   "from": 0,
+   "to": 23.8,
+   "suffix": "%",
+   "decimals": 1,
+   "label": "Spirit operating margin, 2015",
+   "sub": "a record"
+  },
+  {
+   "at": "the airline everyone",
+   "k": "video",
+   "a": "tv_spirit14",
+   "from": 60
+  }
+ ],
+ "s015": [
+  {
+   "k": "cols",
+   "title": "Average Spirit passenger, 2023",
+   "rows": [
+    {
+     "n": "The seat",
+     "v": 53.01,
+     "label": "$53"
+    },
+    {
+     "n": "Everything else",
+     "v": 68.57,
+     "label": "$69",
+     "hero": true
+    }
+   ],
+   "src": "Spirit FY2023 annual report, per passenger flight"
+  }
+ ],
+ "s017": [
+  {
+   "k": "doc",
+   "title": "Spirit Airlines CEO Ben Baldanza replaced",
+   "sub": "January 2016",
+   "lines": [
+    "Former AirTran CEO Robert Fornaro takes over"
+   ]
+  },
+  {
+   "at": "by then",
+   "k": "video",
+   "a": "tv_spirit14",
+   "from": 32,
+   "label": "Ben Baldanza"
+  }
+ ],
+ "s018": [
+  {
+   "k": "sot",
+   "a": "sot_cnbc_baldanza_2016",
+   "name": "CNBC",
+   "role": "News update · 5 Jan 2016"
+  }
+ ],
+ "s019": [
+  {
+   "k": "video",
+   "a": "tv_spirit14",
+   "from": 44
+  }
+ ],
+ "s020": [
+  {
+   "k": "photo",
+   "a": "spirit_a321",
+   "kb": "in",
+   "treat": "ink"
+  }
+ ],
+ "s021": [
+  {
+   "k": "photo",
+   "a": "huff_daland",
+   "kb": "in",
+   "label": "Huff Daland Dusters, 1924"
+  }
+ ],
+ "s022": [
+  {
+   "k": "doc",
+   "title": "Delta and Northwest file for bankruptcy",
+   "sub": "14 September 2005",
+   "lines": [
+    "Both airlines, on the same day"
+   ]
+  }
+ ],
+ "s023": [
+  {
+   "k": "photo",
+   "a": "dlnw_tails",
+   "kb": "in"
+  },
+  {
+   "at": "and became one",
+   "k": "photo",
+   "a": "delta_a350",
+   "kb": "right"
+  }
+ ],
+ "s024": [
+  {
+   "k": "photo",
+   "a": "delta_cabin",
+   "kb": "in"
+  }
+ ],
+ "s025": [
+  {
+   "k": "text",
+   "text": "PARTLY.",
+   "sub": "but that's not where the money is"
+  }
+ ],
+ "s026": [
+  {
+   "k": "video",
+   "a": "tv_amexad09",
+   "from": 2,
+   "label": "Delta SkyMiles card ad, 2009"
+  },
+  {
+   "at": "earn miles",
+   "k": "video",
+   "a": "tv_amexad09",
+   "from": 20
+  }
+ ],
+ "s027": [
+  {
+   "k": "photo",
+   "a": "bastian_photo",
+   "kb": "in",
+   "label": "Ed Bastian, Delta CEO"
+  }
+ ],
+ "s028": [
+  {
+   "k": "sot",
+   "a": "sot_bastian_2024",
+   "name": "Ed Bastian",
+   "role": "Delta CEO · CNBC, Jan 2024"
+  }
+ ],
+ "s029": [
+  {
+   "k": "cols",
+   "title": "American Express payments to Delta",
+   "rows": [
+    {
+     "n": "2023",
+     "v": 6.8,
+     "label": "$6.8B"
+    },
+    {
+     "n": "2024",
+     "v": 7.4,
+     "label": "$7.4B"
+    },
+    {
+     "n": "2025",
+     "v": 8.2,
+     "label": "$8.2B",
+     "hero": true
+    }
+   ],
+   "src": "Delta annual results"
+  }
+ ],
+ "s030": [
+  {
+   "k": "bars",
+   "title": "Delta, 2025",
+   "rows": [
+    {
+     "n": "From Amex",
+     "v": 8.2,
+     "label": "$8.2B",
+     "hero": true
+    },
+    {
+     "n": "Operating profit",
+     "v": 5.8,
+     "label": "$5.8B"
+    }
+   ],
+   "src": "Delta 10-K, FY2025 results · Amex payments are revenue: Delta must honour the miles"
+  }
+ ],
+ "s031": [
+  {
+   "k": "counter",
+   "from": 0,
+   "to": 22.5,
+   "prefix": "$",
+   "suffix": "M",
+   "decimals": 1,
+   "label": "From American Express",
+   "sub": "every day, 2025"
+  }
+ ],
+ "s032": [
+  {
+   "k": "logo",
+   "a": "logo_amex",
+   "sub": "Why pay billions for airline miles?"
+  }
+ ],
+ "s033": [
+  {
+   "k": "text",
+   "text": "SIMPLIFIED EXAMPLE",
+   "sub": "round numbers, not Delta's actual rates"
+  }
+ ],
+ "s034": [
+  {
+   "k": "photo",
+   "a": "checkout",
+   "kb": "in"
+  },
+  {
+   "at": "the supermarket pays",
+   "k": "video",
+   "a": "tv_swipe12",
+   "from": 16
+  },
+  {
+   "at": "call it a couple",
+   "k": "stat",
+   "kicker": "Card fee on $100 of groceries",
+   "value": "~$2–3",
+   "sub": "paid by the shop (example)"
+  }
+ ],
+ "s035": [
+  {
+   "k": "timeline",
+   "items": [
+    {
+     "date": "$100",
+     "text": "you shop"
+    },
+    {
+     "date": "~$2–3",
+     "text": "shop's card fee"
+    },
+    {
+     "date": "Miles",
+     "text": "bought from Delta"
+    },
+    {
+     "date": "You",
+     "text": "get the miles"
+    }
+   ],
+   "src": "Simplified example"
+  }
+ ],
+ "s036": [
+  {
+   "k": "text",
+   "text": "PAID FOR A FLIGHT",
+   "sub": "you haven't taken"
+  },
+  {
+   "at": "you might take",
+   "k": "photo",
+   "a": "delta_a350",
+   "kb": "out"
+  }
+ ],
+ "s037": [
+  {
+   "k": "photo",
+   "a": "delta_cabin",
+   "kb": "right",
+   "focus": [
+    0.5,
+    0.6
+   ]
+  }
+ ],
+ "s038": [
+  {
+   "k": "sot",
+   "a": "sot_bastian_magic_2024",
+   "name": "Ed Bastian",
+   "role": "Delta CEO · CNBC, Jan 2024"
+  }
+ ],
+ "s039": [
+  {
+   "k": "stat",
+   "kicker": "Spending on Delta's cards",
+   "value": "≈1% of GDP",
+   "sub": "Ed Bastian's estimate"
+  }
+ ],
+ "s040": [
+  {
+   "k": "video",
+   "a": "tv_swipe12",
+   "from": 18
+  },
+  {
+   "at": "shops don't charge",
+   "k": "video",
+   "a": "tv_swipe12",
+   "from": 4
+  }
+ ],
+ "s041": [
+  {
+   "k": "doc",
+   "title": "Who Pays For Your Rewards? Redistribution in the Credit Card Market",
+   "sub": "Federal Reserve working paper, 2023",
+   "lines": [
+    "≈ $15 billion a year",
+    "from less savvy and poorer cardholders",
+    "to richer, savvier ones"
+   ],
+   "hi": 0
+  }
+ ],
+ "s042": [
+  {
+   "k": "text",
+   "text": "THE INDUSTRY'S ANSWER",
+   "sub": "card customers spend more"
+  },
+  {
+   "at": "that's the trade",
+   "k": "video",
+   "a": "tv_swipe12",
+   "from": 0
+  }
+ ],
+ "s043": [
+  {
+   "k": "text",
+   "text": "THE MILE",
+   "sub": "the most valuable thing Delta sells"
+  }
+ ],
+ "s044": [
+  {
+   "k": "video",
+   "a": "tv_pandemic20",
+   "from": 18
+  },
+  {
+   "at": "and the world",
+   "k": "photo",
+   "a": "storage_roswell",
+   "kb": "in",
+   "label": "Stored airliners (file photo)"
+  }
+ ],
+ "s045": [
+  {
+   "k": "video",
+   "a": "tv_pandemic20",
+   "from": 0,
+   "label": "San Francisco airport, May 2020"
+  }
+ ],
+ "s046": [
+  {
+   "k": "photo",
+   "a": "delta_nw",
+   "kb": "in"
+  }
+ ],
+ "s048": [
+  {
+   "k": "doc",
+   "title": "MileagePlus valued at approximately $21.9 billion",
+   "sub": "United Airlines SEC filing, June 2020",
+   "lines": [
+    "Raised: $6.8 billion, secured by the programme"
+   ],
+   "hi": 0
+  }
+ ],
+ "s049": [
+  {
+   "k": "deal",
+   "a": "logo_delta",
+   "date": "September 2020",
+   "text": "SkyMiles-backed financing",
+   "value": "$9B",
+   "stamp": "LARGEST EVER",
+   "src": "Delta press release, Sept 2020"
+  }
+ ],
+ "s050": [
+  {
+   "k": "stat",
+   "kicker": "American Airlines, March 2021",
+   "value": "$10B",
+   "sub": "secured by AAdvantage"
+  }
+ ],
+ "s051": [
+  {
+   "k": "counter",
+   "from": 0,
+   "to": 25.8,
+   "prefix": "$",
+   "suffix": "B",
+   "decimals": 1,
+   "label": "Lent against airline miles, 2020–21",
+   "sub": "United · Delta · American"
+  },
+  {
+   "at": "with the planes",
+   "k": "photo",
+   "a": "storage_roswell",
+   "kb": "out",
+   "label": "Stored airliners (file photo)"
+  }
+ ],
+ "s052": [
+  {
+   "k": "bars",
+   "title": "American Airlines, 2020",
+   "rows": [
+    {
+     "n": "Its miles (appraised)",
+     "v": 31.5,
+     "label": "up to $31.5B",
+     "hero": true
+    },
+    {
+     "n": "The whole airline",
+     "v": 10,
+     "label": "< $10B"
+    }
+   ],
+   "src": "Appraisals cited by American; market value per Motley Fool, June 2020"
+  }
+ ],
+ "s053": [
+  {
+   "k": "text",
+   "text": "FLYING, ON ITS OWN",
+   "sub": "lost money (one 2025 analysis)"
+  }
+ ],
+ "s054": [
+  {
+   "k": "photo",
+   "a": "delta_a350",
+   "kb": "in"
+  }
+ ],
+ "s055": [
+  {
+   "k": "photo",
+   "a": "spirit_a320neo",
+   "kb": "left"
+  }
+ ],
+ "s056": [
+  {
+   "k": "bars",
+   "title": "Credit card money, 2023",
+   "rows": [
+    {
+     "n": "Delta",
+     "v": 6800,
+     "label": "$6.8B",
+     "hero": true
+    },
+    {
+     "n": "Spirit",
+     "v": 93.1,
+     "label": "$93M"
+    }
+   ],
+   "src": "Delta FY2023 results; Spirit FY2023 10-K"
+  }
+ ],
+ "s058": [
+  {
+   "k": "video",
+   "a": "tv_amexad09",
+   "from": 16
+  }
+ ],
+ "s059": [
+  {
+   "k": "video",
+   "a": "tv_spirit14",
+   "from": 10
+  }
+ ],
+ "s060": [
+  {
+   "k": "video",
+   "a": "tv_bagfees14",
+   "from": 12
+  }
+ ],
+ "s061": [
+  {
+   "k": "video",
+   "a": "tv_bk24",
+   "from": 0,
+   "label": "CNBC, Oct 2024"
+  }
+ ],
+ "s062": [
+  {
+   "k": "logo",
+   "a": "logo_jetblue",
+   "sub": "May 2022: offers to buy Spirit"
+  },
+  {
+   "at": "spirit's chief",
+   "k": "video",
+   "a": "tv_blocked24",
+   "from": 14
+  }
+ ],
+ "s063": [
+  {
+   "k": "sot",
+   "a": "sot_christie_2022",
+   "name": "Ted Christie",
+   "role": "Spirit CEO · CNBC, May 2022"
+  }
+ ],
+ "s064": [
+  {
+   "k": "deal",
+   "a": "logo_jetblue",
+   "date": "July 2022",
+   "text": "Spirit agrees to JetBlue deal",
+   "value": "$3.8B",
+   "stamp": "AGREED",
+   "src": "Spirit / JetBlue announcement, July 2022"
+  }
+ ],
+ "s065": [
+  {
+   "k": "video",
+   "a": "tv_blocked24",
+   "from": 2,
+   "label": "CBS News, 17 Jan 2024"
+  }
+ ],
+ "s066": [
+  {
+   "k": "video",
+   "a": "tv_spirit14",
+   "from": 54
+  },
+  {
+   "at": "started selling",
+   "k": "text",
+   "text": "GO BIG",
+   "sub": "Spirit's premium bundles, Aug 2024"
+  }
+ ],
+ "s067": [
+  {
+   "k": "video",
+   "a": "tv_spirit14",
+   "from": 33,
+   "label": "Ben Baldanza, 1961–2024"
+  }
+ ],
+ "s068": [
+  {
+   "k": "doc",
+   "title": "Spirit Airlines files for bankruptcy",
+   "sub": "18 November 2024"
+  }
+ ],
+ "s069": [
+  {
+   "k": "cols",
+   "title": "Spirit net losses",
+   "rows": [
+    {
+     "n": "2020",
+     "v": 428.7,
+     "label": "$429M"
+    },
+    {
+     "n": "2021",
+     "v": 472.6,
+     "label": "$473M"
+    },
+    {
+     "n": "2022",
+     "v": 554.2,
+     "label": "$554M"
+    },
+    {
+     "n": "2023",
+     "v": 447.5,
+     "label": "$448M"
+    },
+    {
+     "n": "2024",
+     "v": 1229.5,
+     "label": "$1.2B",
+     "hero": true
+    }
+   ],
+   "src": "Spirit 10-K filings"
+  },
+  {
+   "at": "it came out",
+   "k": "clips",
+   "items": [
+    {
+     "date": "Nov 2024",
+     "text": "Files for bankruptcy"
+    },
+    {
+     "date": "Mar 2025",
+     "text": "Emerges"
+    },
+    {
+     "date": "Aug 2025",
+     "text": "Files again"
+    }
+   ],
+   "instant": 1
+  }
+ ],
+ "s070": [
+  {
+   "k": "photo",
+   "a": "spirit_a321",
+   "kb": "out",
+   "treat": "ink"
+  },
+  {
+   "at": "seventeen thousand",
+   "k": "text",
+   "text": "ALL FLIGHTS CANCELLED",
+   "sub": "2 May 2026 · ~17,000 jobs"
+  }
+ ],
+ "s071": [
+  {
+   "k": "vs",
+   "left_a": "spirit_a320neo",
+   "right_a": "delta_atl",
+   "left": "GONE",
+   "right": "THRIVING"
+  }
+ ],
+ "s072": [
+  {
+   "k": "stat",
+   "kicker": "Delta's answer",
+   "value": "$8.2B",
+   "sub": "a year from American Express"
+  }
+ ],
+ "s073": [
+  {
+   "k": "video",
+   "a": "tv_swipe12",
+   "from": 16
+  },
+  {
+   "at": "it's congress",
+   "k": "photo",
+   "a": "capitol",
+   "kb": "in"
+  }
+ ],
+ "s074": [
+  {
+   "k": "doc",
+   "title": "Credit Card Competition Act",
+   "sub": "Reintroduced, January 2026",
+   "lines": [
+    "Would add competing card networks to push swipe fees down"
+   ]
+  }
+ ],
+ "s075": [
+  {
+   "k": "quote",
+   "text": "unfair, abusive and deceptive practices",
+   "by": "Sens. Durbin and Marshall on airline loyalty programmes, 2023",
+   "style": "clip"
+  }
+ ],
+ "s076": [
+  {
+   "k": "text",
+   "text": "THE AIRLINES",
+   "sub": "say it would gut rewards programmes"
+  },
+  {
+   "at": "and they've fought",
+   "k": "photo",
+   "a": "capitol",
+   "kb": "out"
+  }
+ ],
+ "s077": [
+  {
+   "k": "text",
+   "text": "STILL A LONG SHOT",
+   "sub": "analysts, 2026"
+  },
+  {
+   "at": "but delta's single",
+   "k": "photo",
+   "a": "delta_a350",
+   "kb": "out"
+  }
+ ],
+ "s078": [
+  {
+   "k": "text",
+   "text": "WHY?",
+   "big": true
+  }
+ ],
+ "s079": [
+  {
+   "k": "vs",
+   "left_a": "spirit_lv",
+   "right_a": "checkout",
+   "left": "PASSENGERS PAY",
+   "right": "EVERYONE PAYS"
+  }
+ ],
+ "s080": [
+  {
+   "k": "video",
+   "a": "tv_bagfees14",
+   "from": 20
+  },
+  {
+   "at": "delta gets paid",
+   "k": "video",
+   "a": "tv_swipe12",
+   "from": 18
+  }
+ ],
+ "s081": [
+  {
+   "k": "bars",
+   "title": "Operating margin, 2015",
+   "rows": [
+    {
+     "n": "Spirit",
+     "v": 23.8,
+     "label": "23.8%",
+     "hero": true
+    },
+    {
+     "n": "Delta",
+     "v": 19.2,
+     "label": "19.2%"
+    }
+   ],
+   "src": "Spirit and Delta 10-K filings, 2015"
+  },
+  {
+   "at": "but a margin",
+   "k": "video",
+   "a": "tv_spirit14",
+   "from": 62
+  }
+ ],
+ "s082": [
+  {
+   "k": "stat",
+   "kicker": "Delta's target from American Express",
+   "value": "$10B",
+   "sub": "a year"
+  },
+  {
+   "at": "the more america",
+   "k": "video",
+   "a": "tv_swipe12",
+   "from": 4
+  }
+ ],
+ "s083": [
+  {
+   "k": "photo",
+   "a": "delta_atl",
+   "kb": "out"
+  },
+  {
+   "at": "if washington",
+   "k": "photo",
+   "a": "capitol",
+   "kb": "in"
+  }
+ ],
+ "s084": [
+  {
+   "k": "end"
+  }
+ ]
+}
