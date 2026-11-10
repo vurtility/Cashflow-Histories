@@ -259,7 +259,7 @@ const WhyFine: React.FC<{a: string}> = ({a}) => (
 // P: the title question on the dead airline's plane.
 const WhySpiritDied: React.FC<{a: string}> = ({a}) => (
   <Sheet bg={INK.yellow}>
-    <Photo src={`${a}/spirit_lv.jpg`} ink pos="50% 50%" zoom={1.1} style={{left: 560, top: 0, width: 720, height: H}} />
+    <Photo src={`${a}/spirit_a320neo.jpg`} pos="45% 50%" zoom={1.25} style={{left: 560, top: 0, width: 720, height: H}} />
     <div style={{position: 'absolute', left: 546, top: 0, width: 20, height: H, background: INK.ink}} />
     <Stamp style={{left: 700, top: 300, fontSize: 96, transform: 'rotate(-8deg)'}}>CLOSED</Stamp>
     <div style={{position: 'absolute', left: 46, top: 56, display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 12}}>
@@ -276,7 +276,7 @@ const WhySpiritDied: React.FC<{a: string}> = ({a}) => (
 // Q: the hidden business: a card pays more than the flying makes.
 const FromACard: React.FC<{a: string}> = ({a}) => (
   <Sheet bg={INK.ink}>
-    <Photo src={`${a}/delta_a350.jpg`} pos="50% 55%" style={{inset: 0}} />
+    <Photo src={`${a}/delta_atl.jpg`} pos="50% 50%" zoom={1.9} origin="38% 58%" style={{inset: 0}} />
     <AbsoluteFill style={{background: 'linear-gradient(90deg, rgba(22,33,62,0.0) 35%, rgba(22,33,62,0.75) 100%)'}} />
     <div style={{position: 'absolute', left: 46, top: 46, background: INK.paper, padding: '12px 20px', boxShadow: `10px 8px 0 ${INK.pink}`}}>
       <Img src={staticFile(`${a}/logo_delta.jpg`)} style={{width: 300, height: 70, objectFit: 'contain', display: 'block'}} />
@@ -298,15 +298,15 @@ const FromACard: React.FC<{a: string}> = ({a}) => (
 // R: the twin/foil, in one picture.
 const OneDied: React.FC<{a: string}> = ({a}) => (
   <Sheet bg={INK.ink}>
-    <Photo src={`${a}/spirit_lv.jpg`} ink pos="50% 50%" style={{left: 0, top: 0, width: 636, height: H}} />
-    <Photo src={`${a}/delta_a350.jpg`} pos="45% 55%" style={{left: 644, top: 0, width: 636, height: H}} />
+    <Photo src={`${a}/spirit_a320neo.jpg`} ink pos="40% 50%" zoom={1.5} origin="40% 45%" style={{left: 0, top: 0, width: 636, height: H}} />
+    <Photo src={`${a}/delta_atl.jpg`} pos="50% 50%" zoom={2.1} origin="45% 58%" style={{left: 644, top: 0, width: 636, height: H}} />
     {[{x: 40, t: 'DIED', logo: 'logo_spirit.png', bg: INK.paper}, {x: 684, t: 'THRIVED', logo: 'logo_delta.jpg', bg: INK.yellow}].map((c) => (
       <div key={c.t} style={{position: 'absolute', left: c.x, bottom: 56}}>
         <div style={{background: INK.paper, padding: '10px 16px', display: 'inline-block', marginBottom: 14}}>
           <Img src={staticFile(`${a}/${c.logo}`)} style={{width: 220, height: 60, objectFit: 'contain', display: 'block'}} />
         </div>
         <div style={{background: c.bg, padding: '10px 28px 0', boxShadow: `12px 9px 0 ${INK.pink}`}}>
-          <span style={{fontFamily: slab, fontSize: 112, color: INK.ink, whiteSpace: 'nowrap'}}>{c.t}</span>
+          <span style={{fontFamily: slab, fontSize: 92, color: INK.ink, whiteSpace: 'nowrap'}}>{c.t}</span>
         </div>
       </div>
     ))}

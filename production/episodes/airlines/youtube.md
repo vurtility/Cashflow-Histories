@@ -16,7 +16,14 @@ In 2015, Spirit Airlines made more profit on every dollar than Delta did. On 2 M
 
 So how did the airline that was winning die, while the one that went bankrupt thrived? It wasn't the planes or the service. It's in your wallet.
 
-[CHAPTERS]
+0:00 Spirit beat Delta. Then it died
+0:46 Home of the Bare Fare
+2:27 Bankrupt in Atlanta
+3:44 The most valuable thing Delta sells
+5:05 Collateral
+6:25 The squeeze
+8:41 The threat
+9:21 Verdict
 
 SOURCES
 Spirit Airlines and Delta Air Lines 10-K filings and annual results (2015, 2023, 2024, 2025) · United Airlines SEC filing (June 2020) · Delta and American Airlines financing announcements (2020–21) · Federal Reserve working paper "Who Pays For Your Rewards?" (2023) · Boston Fed (2010) · Fortune · Reuters · Bloomberg · CNBC · NPR · Aviation Week · The Points Guy · Motley Fool. Amex payments are revenue, not pure profit. The 2025 operating profit is Delta's adjusted figure. The "flying alone loses money" finding is one 2025 analysis. American's appraisal figures are as cited by the company in 2020.
@@ -25,7 +32,7 @@ FOOTAGE
 News excerpts from CNBC, CBS News, KPIX CBS, ABC News, ABC7 KGO and NBC4 Washington, via the Internet Archive's TV News Archive. Delta SkyMiles card ad (2009) as aired. Short excerpts used for commentary and criticism under fair use. Logos identify the companies discussed; this video is not affiliated with or endorsed by Spirit, Delta, American Express, JetBlue, United or American.
 
 PHOTOS (Wikimedia Commons)
-[CREDITS]
+4300streetcar (CC BY 4.0) · Acroterion (CC BY-SA 4.0) · Aeroprints.com (CC BY-SA 3.0) · Deltanet Photos (CC BY 2.0) · InSapphoWeTrust from Los Angeles, California, USA (CC BY-SA 2.0) · Matthew Groh (CC BY-SA 4.0) · Noah Wulf (CC BY-SA 4.0) · RuinDig/Yuki Uchida (CC BY 4.0) · Sonny doe (CC BY-SA 4.0) · Tomás Del Coro (CC BY-SA 2.0). Photos were recoloured and cropped. Licences: creativecommons.org/licenses
 
 #Airlines #Delta #CreditCards
 
