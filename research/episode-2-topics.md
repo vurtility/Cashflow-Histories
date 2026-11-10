@@ -12,7 +12,14 @@ Goal: maximum earnings = RPM × views. Scored with the skill's Stage 0 factors (
 | 4 | **Why Home Insurance Is Breaking America** | Premiums up ~46% since 2021; insurers leaving California, Florida and Louisiana. How insurers really make money (the float, reinsurance), and why the maths broke. | $12–25+ (insurance is the top-paying ad category) | Medium–high: homeowners are an older, higher-value audience; very timely | 4 | 4 | 4 | 3 | 4 | 1 | 5 | 4 |
 | 5 | **The Timeshare Trap** | Owners can't even give them away, yet the companies are very profitable: most of the price is sales cost, and the loans earn double-digit interest. Story: Westgate, "The Queen of Versailles". | $9–16 (real estate, travel, finance advertisers) | Medium–high: Company Man-style outrage topic | 3 | 5 | 5 | 4 | 4 | 2 | 2 | 5 |
 
-## Recommendation: #1 (airlines)
+## Re-cut for the channel format (one company per episode)
+1. **Delta**: Why Spirit Died and Delta Didn't (unchanged)
+2. **American Express**: How Amex Really Makes Money (replaces the credit-card rewards industry topic; 1850 origins, the 1963 salad-oil scandal and Buffett, merchant fees, the Fed's rewards study)
+3. **Carvana**: The Car Company That Should Be Dead (replaces car dealers; the stock fell ~99% then recovered; money in the loans)
+4. **State Farm**: Why America's Biggest Insurer Walked Away From California (replaces home insurance)
+5. **Westgate**: The Timeshare King (replaces timeshares)
+
+## Recommendation: #1 (Delta); close second #2 (Amex)
 It has the best RPM × views combination:
 - A universal topic with a proven 2M comparable.
 - Credit-card advertisers drive the RPM.
