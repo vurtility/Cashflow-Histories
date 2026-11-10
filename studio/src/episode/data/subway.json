@@ -855,7 +855,7 @@
   {
    "kind": "photo",
    "start": 2997,
-   "dur": 182,
+   "dur": 105,
    "seg": "s017",
    "cat": "real",
    "p": {
@@ -872,6 +872,24 @@
    }
   },
   {
+   "kind": "video",
+   "start": 3102,
+   "dur": 77,
+   "seg": "s017",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "broll_cbs_2012",
+     "src": "subway/assets/broll_cbs_2012.mp4",
+     "credit": "KPIX CBS 5 News, 30 Mar 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 14.1
+   }
+  },
+  {
    "kind": "flow",
    "start": 3179,
    "dur": 312,
@@ -882,12 +900,30 @@
   {
    "kind": "text",
    "start": 3491,
-   "dur": 235,
+   "dur": 123,
    "seg": "s018",
    "cat": "text",
    "p": {
     "text": "A CUT OF SALES.",
     "sub": "Not profit."
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3614,
+   "dur": 112,
+   "seg": "s018",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "broll_cbs_2012",
+     "src": "subway/assets/broll_cbs_2012.mp4",
+     "credit": "KPIX CBS 5 News, 30 Mar 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 18.1
    }
   },
   {
@@ -1133,22 +1169,21 @@
    }
   },
   {
-   "kind": "photo",
+   "kind": "video",
    "start": 6100,
    "dur": 92,
    "seg": "s029",
    "cat": "real",
    "p": {
     "a": {
-     "id": "closed_miami23",
-     "src": "subway/assets/closed_miami23.jpg",
-     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
-     "kind": "image",
-     "w": 3840,
-     "h": 2880
+     "id": "broll_abc_close500_2018",
+     "src": "subway/assets/broll_abc_close500_2018.mp4",
+     "credit": "ABC7 News, 26 Apr 2018 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
     },
-    "kb": "right",
-    "treat": "ink"
+    "from": 10.1
    }
   },
   {
@@ -1682,39 +1717,39 @@
    "p": {}
   },
   {
-   "kind": "photo",
+   "kind": "video",
    "start": 10427,
    "dur": 51,
    "seg": "s049",
    "cat": "real",
    "p": {
     "a": {
-     "id": "footlong_italian",
-     "src": "subway/assets/footlong_italian.jpg",
-     "credit": "Daniel from Glasgow, United Kingdom · Wikimedia Commons · CC BY 2.0",
-     "kind": "image",
-     "w": 3840,
-     "h": 2880
+     "id": "broll_cbs_2012",
+     "src": "subway/assets/broll_cbs_2012.mp4",
+     "credit": "KPIX CBS 5 News, 30 Mar 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
     },
-    "kb": "in"
+    "from": 21.1
    }
   },
   {
-   "kind": "photo",
+   "kind": "video",
    "start": 10478,
    "dur": 84,
    "seg": "s049",
    "cat": "real",
    "p": {
     "a": {
-     "id": "counter_brickell",
-     "src": "subway/assets/counter_brickell.jpg",
-     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
-     "kind": "image",
-     "w": 3840,
-     "h": 2880
+     "id": "broll_abc_slicers_2023",
+     "src": "subway/assets/broll_abc_slicers_2023.mp4",
+     "credit": "ABC World News Now, 6 Jul 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 356
     },
-    "kb": "right"
+    "from": 0.0
    }
   },
   {
@@ -1887,22 +1922,21 @@
    }
   },
   {
-   "kind": "photo",
+   "kind": "video",
    "start": 12056,
    "dur": 88,
    "seg": "s056",
    "cat": "real",
    "p": {
     "a": {
-     "id": "closed_miami23",
-     "src": "subway/assets/closed_miami23.jpg",
-     "credit": "Phillip Pessar · Wikimedia Commons · CC BY 2.0",
-     "kind": "image",
-     "w": 3840,
-     "h": 2880
+     "id": "broll_abc_close500_2018",
+     "src": "subway/assets/broll_abc_close500_2018.mp4",
+     "credit": "ABC7 News, 26 Apr 2018 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
     },
-    "kb": "in",
-    "treat": "ink"
+    "from": 1.1
    }
   },
   {
@@ -2240,14 +2274,21 @@
    }
   },
   {
-   "kind": "person",
+   "kind": "video",
    "start": 15155,
    "dur": 195,
    "seg": "s070",
-   "cat": "text",
+   "cat": "archival",
    "p": {
-    "name": "Peter Cancro",
-    "role": "High-school senior · age 17"
+    "a": {
+     "id": "jm_ad_2024",
+     "src": "subway/assets/jm_ad_2024.mp4",
+     "credit": "Jersey Mike's TV ad, as aired Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 356
+    },
+    "from": 6.1
    }
   },
   {

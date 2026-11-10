@@ -211,22 +211,10 @@
    "label": "Building the store"
   },
   {
-   "at": "pays the rent",
-   "k": "photo",
-   "a": "store_sandhill",
-   "kb": "right"
-  },
-  {
    "at": "hires the staff",
-   "k": "photo",
-   "a": "counter_brickell",
-   "kb": "out"
-  },
-  {
-   "at": "buys the food",
-   "k": "photo",
-   "a": "footlong",
-   "kb": "in"
+   "k": "video",
+   "a": "broll_cbs_2012",
+   "from": 14.1
   },
   {
    "at": "subway takes",
@@ -238,6 +226,12 @@
    "k": "text",
    "text": "A CUT OF SALES.",
    "sub": "Not profit."
+  },
+  {
+   "at": "whether the store",
+   "k": "video",
+   "a": "broll_cbs_2012",
+   "from": 18.1
   }
  ],
  "s019": [
@@ -381,10 +375,9 @@
   },
   {
    "at": "for the people",
-   "k": "photo",
-   "a": "closed_miami23",
-   "kb": "right",
-   "treat": "ink"
+   "k": "video",
+   "a": "broll_abc_close500_2018",
+   "from": 10.1
   }
  ],
  "s030": [
@@ -676,21 +669,15 @@
   },
   {
    "at": "a single slice",
-   "k": "photo",
-   "a": "footlong_italian",
-   "kb": "in"
+   "k": "video",
+   "a": "broll_cbs_2012",
+   "from": 21.1
   },
   {
    "at": "a single wage",
-   "k": "photo",
-   "a": "counter_brickell",
-   "kb": "right"
-  },
-  {
-   "at": "month's rent",
-   "k": "photo",
-   "a": "store_franklin",
-   "kb": "out"
+   "k": "video",
+   "a": "broll_abc_slicers_2023",
+   "from": 0.0
   }
  ],
  "s050": [
@@ -778,10 +765,9 @@
  ],
  "s056": [
   {
-   "k": "photo",
-   "a": "closed_miami23",
-   "kb": "in",
-   "treat": "ink"
+   "k": "video",
+   "a": "broll_abc_close500_2018",
+   "from": 1.1
   },
   {
    "at": "fewer stores",
@@ -963,9 +949,9 @@
  ],
  "s070": [
   {
-   "k": "person",
-   "name": "Peter Cancro",
-   "role": "High-school senior · age 17"
+   "k": "video",
+   "a": "jm_ad_2024",
+   "from": 6.1
   },
   {
    "at": "he was too young",

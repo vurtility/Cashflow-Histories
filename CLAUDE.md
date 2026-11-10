@@ -32,4 +32,5 @@ If this is a fresh checkout, run `./setup.sh` first.
   - Script: `subway-script.md` (now with 6 real-voice clips).
   - Voiceover: `production/episodes/subway/` (10.7 min, 77/77 QA pass).
   - Edit: rough cut v3. Real voices 7% (DeLuca CNBC 2013, Chidsey Fox Business 2020, CBS Roark 2023, Cancro Bloomberg 2014 and Fox Business 2021, the 2011 jingle), all from the TV News Archive.
-  - Next: real footage is 24% against 40–50%. Pull news b-roll (store exteriors, kitchens, Jersey Mike's IPO) from the TV News Archive (`fetch_assets.py search "tv:…"`). YouTube blocks downloads from cloud IPs ("confirm you're not a bot"); it would need the owner's cookies.
+  - Footage: news b-roll (CBS 2012 store footage, ABC 2018 closures, ABC 2023 slicers, Jersey Mike's 2024 ad with Cancro) added only where it matches the words. Real footage is 25%. The owner decided not to force the 40–50% target: the remaining chart time is explanation footage can't do. The TV News Archive index has nothing yet after 2024 (no Jersey Mike's IPO coverage).
+  - Next: owner review of rough cut v3; resolve ⚠️ fact-check items; thumbnail.

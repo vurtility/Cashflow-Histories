@@ -45,6 +45,10 @@ def _open(url, timeout):
             if e.code not in (429, 500, 502, 503) or attempt == 5:
                 raise
             time.sleep(int(e.headers.get("Retry-After") or 0) or 5 * 2 ** attempt)
+        except (urllib.error.URLError, ConnectionError, TimeoutError):  # GDELT drops connections at times
+            if attempt == 5:
+                raise
+            time.sleep(3 * 2 ** attempt)
 
 
 def get_json(url):

@@ -382,5 +382,56 @@
   "use": "held frame of DeLuca on camera, under his own 2013 answer (CNBC cut to charts during it)",
   "credit": "CNBC, Squawk on the Street, 27 Feb 2013 · TV News Archive",
   "basis": "fair use: a single held frame from the same interview, identifying the speaker; commentary"
+ },
+ {
+  "id": "broll_cbs_2012",
+  "from": "tvnews",
+  "ref": "KPIX_20120330_190000_CBS_5_Eyewitness_News_at_Noon",
+  "t": [
+   1040.0,
+   1084.0
+  ],
+  "use": "b-roll: Subway store, sub making, menu board, footlong measured",
+  "credit": "KPIX CBS 5 News, 30 Mar 2012 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on Subway's business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "broll_abc_slicers_2023",
+  "from": "tvnews",
+  "ref": "KGO_20230706_084100_ABC_World_News_Now",
+  "t": [
+   246.0,
+   273.0
+  ],
+  "use": "b-roll: slicers, sandwich line",
+  "credit": "ABC World News Now, 6 Jul 2023 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on Subway's business; transformed by narration and analysis, credited on screen",
+  "vf": "crop=528:356:0:63,scale=640:356,setsar=1"
+ },
+ {
+  "id": "broll_abc_close500_2018",
+  "from": "tvnews",
+  "ref": "KGO_20180426_130000_ABC7_News_600AM",
+  "t": [
+   2856.0,
+   2870.0
+  ],
+  "use": "b-roll: closures report 2018",
+  "credit": "ABC7 News, 26 Apr 2018 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on Subway's business; transformed by narration and analysis, credited on screen"
+ },
+ {
+  "id": "jm_ad_2024",
+  "from": "tvnews",
+  "ref": "KNTV_20240322_230000_NBC_Nightly_News_With_Lester_Holt",
+  "t": [
+   1462.0,
+   1490.0
+  ],
+  "archival": true,
+  "use": "Jersey Mike's ad as aired: Cancro, sub making",
+  "credit": "Jersey Mike's TV ad, as aired Mar 2024 · TV News Archive",
+  "basis": "fair use: brief excerpts of the company's own ad, as aired, to show the company and its founder; commentary, transformed",
+  "vf": "crop=528:356:0:63,scale=640:356,setsar=1"
  }
 ]
