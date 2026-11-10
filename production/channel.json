@@ -32,5 +32,10 @@
     ],
     "code": "studio/src/concepts/Misprint.tsx",
     "fallback": "If it doesn't perform after the first videos, revert to the simpler earlier design (round-1 directions in studio/src/brands.ts, sheets in studio/out/)."
+  },
+  "mix": {
+    "narration_lufs": -14,
+    "sot_lufs": -14,
+    "note": "Real-voice clips must match the narration, never quieter (owner, 2026-11-10). fetch_assets normalises sot_* clips to sot_lufs; build_shots warns if any is >1 dB under the narration."
   }
 }

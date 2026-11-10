@@ -29,12 +29,9 @@
 - jackson_aerial: 7.8s · licence: CC BY-SA 4.0
 - store_remodel: 7.8s · licence: CC BY 4.0
 
-## Footage shots over 6.5s (consider a cut)
-
-- s070 video jm_ad_2024 6.5s
-
 ## Warnings
 
+- s035: ad_scrabble: face at (0.03, 0.43) of the frame is cut off; set "focus" near it
 - s037: clip sot_jingle_2011 is 6.8s but shot is 7.0s (will freeze)
 - s041: clip sot_deluca_2013 is 9.5s but shot is 9.8s (will freeze)
 - s054: clip sot_chidsey_2020 is 6.6s but shot is 6.9s (will freeze)

@@ -43,6 +43,62 @@ TARGETS = {  # from research/editing-study.md
 }
 
 
+# Footage sits inside FootageFrame: 1760x904 px, object-fit cover, then a Ken Burns zoom of up to 1.16.
+BOX_W, BOX_H, MAX_ZOOM = 1760, 904, 1.16
+
+
+def face_problems(path, kind, focus, at_seconds):
+    """Faces the 16:9 crop (plus zoom) would cut off. Owner rule: pictures of people show their face."""
+    import cv2  # local import: keeps cv2 out of runs that never reach the face check
+    cv2.utils.logging.setLogLevel(cv2.utils.logging.LOG_LEVEL_ERROR)
+    if kind == "video":
+        cap = cv2.VideoCapture(str(path))
+        cap.set(cv2.CAP_PROP_POS_MSEC, at_seconds * 1000)
+        ok, img = cap.read()
+        cap.release()
+        if not ok:
+            return []
+    else:
+        img = cv2.imread(str(path))
+        if img is None:
+            return []
+    h, w = img.shape[:2]
+    scale = min(1.0, 1280 / max(w, h))  # YuNet is quick at this size and still finds small faces
+    small = cv2.resize(img, (int(w * scale), int(h * scale))) if scale < 1 else img
+    det = cv2.FaceDetectorYN.create(str(HERE / "models" / "face_detection_yunet_2023mar.onnx"), "",
+                                    (small.shape[1], small.shape[0]), 0.75)
+    _, found = det.detect(small)
+    if found is None:
+        return []
+    faces = [tuple(float(v) / scale for v in f[:4]) for f in found if f[2] / scale >= w / 50]
+    if not faces:
+        return []
+    c = max(BOX_W / w, BOX_H / h)
+    cw, ch = BOX_W / c, BOX_H / c
+    x0, y0 = (w - cw) * focus[0], (h - ch) * focus[1]
+    vw, vh = cw / MAX_ZOOM, ch / MAX_ZOOM
+    vx0, vy0 = x0 + (cw - vw) / 2, y0 + (ch - vh) / 2
+    out = []
+    for (fx, fy, fw, fh) in sorted(faces, key=lambda f: -f[2] * f[3])[:3]:
+        ix = max(0, min(fx + fw, vx0 + vw) - max(fx, vx0))
+        iy = max(0, min(fy + fh, vy0 + vh) - max(fy, vy0))
+        if ix * iy < 0.7 * fw * fh:
+            out.append(f"face at ({(fx + fw / 2) / w:.2f}, {(fy + fh / 2) / h:.2f}) of the frame is cut off; "
+                       f"set \"focus\" near it")
+    return out
+
+
+def loudness(path):
+    import subprocess
+    r = subprocess.run(["ffmpeg", "-nostdin", "-i", str(path), "-af", "ebur128", "-f", "null", "-"],
+                       capture_output=True, text=True)
+    vals = [l for l in r.stderr.splitlines() if l.strip().startswith("I:")]
+    try:
+        return float(vals[-1].split()[1])
+    except (IndexError, ValueError):
+        return None
+
+
 def word_time(ep, seg, phrase):
     """Seconds into the line at which `phrase` is spoken, from the take's character timings."""
     meta = ep / "vo" / f"{seg['id']}.json"
@@ -140,7 +196,21 @@ def main(ep: Path):
                     p["from"] = round(start, 2)
                     video_cursor[aid] = start + dur
         per_cat[cat] += dur
-        if cat in ("real", "archival", "stock") and dur > 6.5:
+        for key in ("a", "pic"):
+            a = p.get(key)
+            if isinstance(a, dict) and s["kind"] in ("photo", "video", "sot") and a.get("kind") in ("image", "video"):
+                if s["kind"] == "sot" and key == "a" and p.get("pic"):
+                    continue
+                at = float(p.get("picAt", 1) if key == "pic" else p.get("from", 0)) + (0 if key == "pic" else dur / 2)
+                for prob in face_problems(HERE / assets[a["id"]]["local"], a["kind"], p.get("focus", [0.5, 0.5]), at):
+                    warnings.append(f"{s['seg']}: {a['id']}: {prob}")
+        if s["kind"] == "sot" and isinstance(p.get("a"), dict):
+            want = json.loads((HERE / "channel.json").read_text()).get("mix", {}).get("narration_lufs", -14)
+            got = loudness(HERE / assets[p["a"]["id"]]["local"])
+            if got is not None and got < want - 1:
+                warnings.append(f"{s['seg']}: real-voice clip {p['a']['id']} is {want - got:.1f} dB quieter than the "
+                                f"narration ({got:.1f} vs {want} LUFS); refetch it (sot_ ids are levelled automatically)")
+        if cat in ("real", "archival", "stock") and dur > 9:
             longest.append(f"{s['seg']} {s['kind']} {(p.get('a') or {}).get('id', '')} {dur:.1f}s")
         f0 = round(s["start"] * FPS)
         out_shots.append({"kind": s["kind"], "start": f0, "dur": max(1, round(s["end"] * FPS) - f0), "seg": s["seg"],
@@ -184,7 +254,7 @@ def main(ep: Path):
     for aid, sec in sorted(per_asset.items(), key=lambda x: -x[1])[:12]:
         lines.append(f"- {aid}: {sec:.1f}s · {assets[aid]['basis']}")
     if longest:
-        lines += ["", "## Footage shots over 6.5s (consider a cut)", ""] + [f"- {x}" for x in longest]
+        lines += ["", "## Footage shots over 9s (consider a cut)", ""] + [f"- {x}" for x in longest]
     if warnings:
         lines += ["", "## Warnings", ""] + [f"- {w}" for w in warnings]
     (ep / "edit-report.md").write_text("\n".join(lines) + "\n")

@@ -175,6 +175,14 @@ def fetch_archive(w, dest_dir):
                    "kind": "image" if name.lower().endswith((".jpg", ".png")) else "video"}
 
 
+def sot_loudnorm(w):
+    """Real-voice clips (ids starting sot_) are levelled to the narration: channel.json mix.sot_lufs."""
+    if not w["id"].startswith("sot_"):
+        return ""
+    lufs = json.loads((HERE / "channel.json").read_text()).get("mix", {}).get("sot_lufs", -14)
+    return f"loudnorm=I={lufs}:TP=-1.0:LRA=11"
+
+
 def fetch_tvnews(w, dest_dir):
     """An excerpt of a TV News Archive broadcast: "t": [start, end] in seconds into the item. The archive
     serves short excerpts of restricted broadcasts; we fetch a little either side, then cut exactly."""
@@ -191,7 +199,7 @@ def fetch_tvnews(w, dest_dir):
             download(f"https://archive.org/download/{w['ref']}/{w['ref']}.mp4?t={a}/{b}", raw)
             subprocess.run([shutil.which("ffmpeg") or "ffmpeg", "-v", "error", "-y", "-ss", f"{s - a:.2f}",
                             "-i", str(raw), "-t", f"{e - s:.2f}", *(["-vf", w["vf"]] if w.get("vf") else []),
-                            *(["-af", w["af"]] if w.get("af") else []), "-c:v", "libx264", "-crf", "18",
+                            *(["-af", w.get("af") or sot_loudnorm(w)] if (w.get("af") or sot_loudnorm(w)) else []), "-c:v", "libx264", "-crf", "18",
                             "-preset", "medium", "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart",
                             str(local)], check=True)
     m = re.match(r"([A-Z0-9]+?)W?_(\d{4})(\d{2})(\d{2})_\d+_(.+)", w["ref"])

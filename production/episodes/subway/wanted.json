@@ -295,8 +295,7 @@
   "archival": true,
   "use": "sot: $5 footlong jingle (as aired, Oct 2011)",
   "credit": "Subway TV ad, as aired Oct 2011 · TV News Archive",
-  "basis": "fair use: 7s excerpt of the brand's own ad, as aired, used to identify the campaign under discussion; commentary, transformed",
-  "af": "loudnorm=I=-18:TP=-1.5:LRA=11"
+  "basis": "fair use: 7s excerpt of the brand's own ad, as aired, used to identify the campaign under discussion; commentary, transformed"
  },
  {
   "id": "sot_deluca_2013",
@@ -308,8 +307,7 @@
   ],
   "use": "sot: Fred DeLuca on value",
   "credit": "CNBC, Squawk on the Street, 27 Feb 2013 · TV News Archive",
-  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
-  "af": "loudnorm=I=-18:TP=-1.5:LRA=11"
+  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
  },
  {
   "id": "news_deluca_death_2015",
@@ -334,8 +332,7 @@
   ],
   "use": "sot: Subway CEO on franchisees",
   "credit": "Fox Business, Mornings with Maria, 29 Apr 2020 · TV News Archive",
-  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
-  "af": "loudnorm=I=-18:TP=-1.5:LRA=11"
+  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
  },
  {
   "id": "sot_cbs_roark_2023",
@@ -348,8 +345,7 @@
   "use": "sot: Roark sale news",
   "credit": "CBS Evening News, 24 Aug 2023 · TV News Archive",
   "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
-  "vf": "crop=528:356:0:60,scale=640:356,setsar=1",
-  "af": "loudnorm=I=-18:TP=-1.5:LRA=11"
+  "vf": "crop=528:356:0:60,scale=640:356,setsar=1"
  },
  {
   "id": "sot_cancro_2014",
@@ -361,8 +357,7 @@
   ],
   "use": "sot: Cancro on his coach-banker",
   "credit": "Bloomberg TV, Taking Stock, 12 Jun 2014 · TV News Archive",
-  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
-  "af": "loudnorm=I=-18:TP=-1.5:LRA=11"
+  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
  },
  {
   "id": "sot_cancro_2021",
@@ -374,8 +369,7 @@
   ],
   "use": "sot: Cancro on per-store sales",
   "credit": "Fox Business, The Claman Countdown, 14 Oct 2021 · TV News Archive",
-  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
-  "af": "loudnorm=I=-18:TP=-1.5:LRA=11"
+  "basis": "fair use: short excerpt (under 10s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
  },
  {
   "id": "deluca_2013_cam",

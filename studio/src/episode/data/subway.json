@@ -683,7 +683,11 @@
     },
     "kb": "in",
     "treat": "ink",
-    "label": "Fred DeLuca"
+    "label": "Fred DeLuca",
+    "focus": [
+     0.5,
+     0.0
+    ]
    }
   },
   {
@@ -2216,7 +2220,11 @@
      "h": 2580
     },
     "kb": "in",
-    "label": "The founding families got paid"
+    "label": "The founding families got paid",
+    "focus": [
+     0.5,
+     0.0
+    ]
    }
   },
   {
