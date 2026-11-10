@@ -69,6 +69,7 @@ This writes the frame-exact shot list for Remotion and **`edit-report.md`**:
 ```
 cd ../studio && npx remotion bundle src/index.ts --out-dir build
 npx remotion render build Episode-<episode> ../production/episodes/<episode>/<episode>-roughcut.mp4
+# Prefer production/render.py: chapter-cached, size-targeted, fast presets (see its docstring).
 # Cloud sessions: Remotion can't download its own browser there, and headless-shell rejects the proxy's
 # certificate (brand fonts then fail to load). Add:
 #   --browser-executable=/opt/pw-browsers/chromium-1243/chrome-linux64/chrome --chrome-mode=chrome-for-testing

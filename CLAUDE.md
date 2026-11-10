@@ -9,7 +9,7 @@ If this is a fresh checkout, run `./setup.sh` first.
 2. **Voiceover**: `cd production && .venv/bin/python produce_voiceover.py ../<episode>-script.md <episode>`. This runs ElevenLabs takes, automatic pronunciation and pacing QA with retakes, speech trimming, the timeline and a preview MP3. Only changed lines are re-recorded.
 3. **Footage**: `fetch_assets.py search …`, list items in `episodes/<episode>/wanted.json`, then `fetch_assets.py fetch episodes/<episode>`. Every asset is logged in `assets.json` with its licence or fair-use basis.
 4. **Edit**: write `episodes/<episode>/edit.json` (the shots under each narration line, cutting on spoken phrases), then `build_shots.py episodes/<episode>`. Read `edit-report.md` to check the mix against the targets.
-5. **Render**: `cd studio && npx remotion bundle src/index.ts --out-dir build && npx remotion render build Episode-<episode> ../production/episodes/<episode>/<episode>-roughcut.mp4`. For a phone-friendly review copy, transcode to 720p with `npx remotion ffmpeg` (keep it under 30 MB for phone delivery, e.g. 540p at CRF 32). In cloud sessions add the Chromium flags in `production/README.md`.
+5. **Render**: `cd production && .venv/bin/python render.py <episode>` for the phone review copy (540p, under 30 MB, send it as is), or `--master` for the 1080p upload (under 400 MiB). It renders chapter by chapter and reuses unchanged chapters, so a small edit re-renders minutes, not the whole video. It stops any stray render first and uses fast x264 presets (YouTube re-encodes anyway). Don't run a separate transcode afterwards.
 
 `production/README.md` has the details of each tool.
 

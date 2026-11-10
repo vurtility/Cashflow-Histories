@@ -25,3 +25,4 @@ ryanair-script*.md
 business-doc-script.skill
 .DS_Store
 studio/build-thumbs/
+studio/render-cache/
