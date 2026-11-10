@@ -1186,5 +1186,31 @@
     "stock": false,
     "archival": false,
     "use": "sot: Cancro on per-store sales"
+  },
+  {
+    "id": "cancro_still_2024",
+    "from": "derived",
+    "ref": "jm_ad_2024 @ 11.5s",
+    "title": "NBC Nightly News With Lester Holt (KNTV, 2024-03-22)",
+    "page": "https://archive.org/details/KNTV_20240322_230000_NBC_Nightly_News_With_Lester_Holt#start/1462/end/1490",
+    "file_url": "KNTV_20240322_230000_NBC_Nightly_News_With_Lester_Holt.mp4?t=1462.0/1490.0",
+    "licence": "© broadcaster; TV News Archive",
+    "licence_url": "",
+    "author": "KNTV",
+    "basis": "fair use: single frame from the company's own ad, as aired, identifying its founder; commentary",
+    "credit": "Jersey Mike's TV ad, as aired Mar 2024 · TV News Archive",
+    "kind": "image",
+    "t": [
+      1462.0,
+      1490.0
+    ],
+    "local": "episodes/subway/assets/cancro_still_2024.png",
+    "w": 640,
+    "h": 356,
+    "fps": null,
+    "seconds": null,
+    "stock": false,
+    "archival": true,
+    "use": "thumbnail: Peter Cancro's face"
   }
 ]
