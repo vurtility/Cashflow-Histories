@@ -159,12 +159,25 @@ def fetch_commons_noapi(w, dest_dir):
         author = re.sub(r"\[\S+\s+([^\]]*)\]", r"\1", author)                     # [url name] → name
         author = re.sub(r"\{\{[^}]*\}\}", "", author).strip(" '|") or "unknown"
     lic = _licence_from_wikitext(text)
-    src = "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(name) + f"?width={w.get('width', 1920)}"
     is_svg = name.lower().endswith(".svg")
     ext = ".png" if is_svg or name.lower().endswith(".png") else ".jpg"
     local = dest_dir / f"{w['id']}{ext}"
+    base = "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(name)
+    src = base + f"?width={w.get('width', 1920)}"
     if not local.exists():
-        download(src, local)
+        # Only standard thumbnail widths are served to rate-limited clients, and never wider than the original.
+        for width in (w.get("width", 1920), 1280, 960, 640):
+            src = base + f"?width={width}"
+            try:
+                tmp = local.with_suffix(local.suffix + ".part")
+                with _open(src, 120, retries=2) as r, open(tmp, "wb") as fh:
+                    shutil.copyfileobj(r, fh)
+                tmp.rename(local)
+                break
+            except urllib.error.HTTPError:
+                continue
+        else:
+            raise RuntimeError(f"Commons served no thumbnail size for {name}")
     basis = w.get("basis") or (f"licence: {lic}" if any(k in lic.lower() for k in OPEN_LICENCES)
                                else f"CHECK: licence '{lic}'")
     credit = w.get("credit") or (f"Wikimedia Commons · {lic}" if lic.lower() in ("public domain", "cc0")
@@ -302,6 +315,7 @@ def cmd_fetch(ep: Path):
             if "credit" in w:
                 rec["credit"] = w["credit"]
             log[w["id"]] = rec
+            log_path.write_text(json.dumps(list(log.values()), indent=2, ensure_ascii=False))  # keep progress
             target = public / Path(rec["local"]).name
             if not target.exists():
                 shutil.copy2(HERE / rec["local"], target)
