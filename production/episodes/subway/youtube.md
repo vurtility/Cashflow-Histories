@@ -13,7 +13,7 @@ Subway ended 2025 with 729 fewer US restaurants: two gone every day. In the same
 
 The answer is in the deal Fred DeLuca struck in 1974, and it explains why Subway's corporate profits and its franchisees' livelihoods can move in opposite directions. Plus: the other 17-year-old who bought a sub shop, and why each Jersey Mike's is valued at roughly eight times as much as a Subway.
 
-0:00 Two a day
+0:00 Shrinking, but richer
 0:50 Thirty-two stores
 2:13 A Subway on every corner
 3:42 Five dollars
