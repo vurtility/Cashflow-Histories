@@ -1,0 +1,1430 @@
+{
+  "median_db": -14.7,
+  "spent_chars": 225,
+  "results": {
+    "s001": {
+      "heard": "In July 2024, State Farm stopped renewing the home insurance of about 1,600 households in Pacific Palisades.",
+      "accuracy": 0.95,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "sixteen",
+          "heard": "one thousand six"
+        }
+      ],
+      "pace": {
+        "syllables": 33,
+        "rate": 4.38,
+        "wpm": 143.2,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.878
+      },
+      "problems": [],
+      "score": 0.95,
+      "risky": [
+        "(digits in text)",
+        "July",
+        "Pacific Palisades",
+        "State Farm"
+      ],
+      "attempts": []
+    },
+    "s002": {
+      "heard": "Six months later, the palisades burned.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 11,
+        "rate": 4.04,
+        "wpm": 132.4,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.8,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Palisades"
+      ],
+      "attempts": []
+    },
+    "s003": {
+      "heard": "State Farm is worth $170 billion. Last year, it made $12.9 billion.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 3.75,
+        "wpm": 168.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.915
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Farm"
+      ],
+      "attempts": []
+    },
+    "s004": {
+      "heard": "And it still won't sell a new home insurance policy anywhere in California.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 5.31,
+        "wpm": 188.4,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -13.7,
+        "peak": 0.911
+      },
+      "problems": [],
+      "score": 1.0,
+      "attempts": [
+        {
+          "plan": "slower delivery (speed 0.88)",
+          "accuracy": 1.0,
+          "problems": [
+            "rushed: 5.42 syll/s vs episode 4.12"
+          ]
+        },
+        {
+          "plan": "new take",
+          "accuracy": 1.0,
+          "problems": [
+            "rushed: 5.39 syll/s vs episode 4.12"
+          ]
+        },
+        {
+          "plan": "slower + steadier",
+          "accuracy": 1.0,
+          "problems": []
+        }
+      ],
+      "risky": [
+        "California"
+      ],
+      "fixed_by": "slower + steadier"
+    },
+    "s006": {
+      "heard": "So why won't the richest home insurer in America ensure a house in California?",
+      "accuracy": 0.929,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "insure",
+          "heard": "ensure"
+        }
+      ],
+      "pace": {
+        "syllables": 24,
+        "rate": 5.06,
+        "wpm": 177.2,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -13.9,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 0.929,
+      "risky": [
+        "America",
+        "California"
+      ],
+      "attempts": []
+    },
+    "s007": {
+      "heard": "It's not because it can't afford the fires, that's the strange part.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 15,
+        "rate": 4.05,
+        "wpm": 194.6,
+        "lead_silence": 0.02,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -16.0,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s008": {
+      "heard": "State Farm started in 1922 in Bloomington, Illinois. A retired farmer named George Meckerly had an idea, cheap car insurance for farmers from a company owned by the people it insured.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 51,
+        "rate": 4.07,
+        "wpm": 148.3,
+        "lead_silence": 0.06,
+        "silences": [
+          0.4,
+          0.36,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.927
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Bloomington",
+        "Farm",
+        "George Mecherle",
+        "Illinois"
+      ],
+      "attempts": []
+    },
+    "s009": {
+      "heard": "That's still how it works. State Farm has no shareholders. It's a mutual owned by its customers.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 3.9,
+        "wpm": 165.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Farm"
+      ],
+      "attempts": []
+    },
+    "s010": {
+      "heard": "In 1971, it got a jingle. A young songwriter called Barry Manilow wrote the music. He was paid $500.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 3.71,
+        "wpm": 155.9,
+        "lead_silence": 0.02,
+        "silences": [
+          0.4,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.898
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Barry Manilow"
+      ],
+      "attempts": []
+    },
+    "s011": {
+      "heard": "Today, State Farm is the biggest home insurer in America. In California, it insured about one home in five.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 4.28,
+        "wpm": 152.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.928
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "America",
+        "California",
+        "State Farm"
+      ],
+      "attempts": []
+    },
+    "s012": {
+      "heard": "So in May 2023, when it stopped selling new home insurance in California, it wasn't a small company retreating. It was the biggest one.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 35,
+        "rate": 3.86,
+        "wpm": 158.9,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.909
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "California",
+        "May"
+      ],
+      "attempts": []
+    },
+    "s013": {
+      "heard": "The obvious answer is fire. California's wildfires have grown bigger and more destructive, and every burned house is a claim.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 33,
+        "rate": 4.02,
+        "wpm": 146.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.907
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s014": {
+      "heard": "State Farm says that over nine years in California, it paid out $1.26 for every dollar it collected. 26 cents lost on every premium dollar.",
+      "accuracy": 0.962,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "a",
+          "heard": "one"
+        }
+      ],
+      "pace": {
+        "syllables": 45,
+        "rate": 4.21,
+        "wpm": 151.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.919
+      },
+      "problems": [],
+      "score": 0.962,
+      "risky": [
+        "California",
+        "Farm"
+      ],
+      "attempts": []
+    },
+    "s015": {
+      "heard": "So, it raised prices and kept raising them. In March 2024, it said it would not renew 72,000 policies, including 30,000 homes and rentals.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 41,
+        "rate": 3.71,
+        "wpm": 141.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.923
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "March"
+      ],
+      "attempts": []
+    },
+    "s016": {
+      "heard": "and State Farm wasn't alone. At least seven of California's largest home insurers had paused or limited new policies.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 4.38,
+        "wpm": 156.2,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.884
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California's",
+        "State Farm"
+      ],
+      "attempts": []
+    },
+    "s017": {
+      "heard": "and the company had just reported a loss of $6.3 billion for 2023. On paper at least, the giant was bleeding.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 31,
+        "rate": 3.48,
+        "wpm": 161.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.46
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.968
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s019": {
+      "heard": "For the customers who stayed, the bills jumped.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 11,
+        "rate": 3.62,
+        "wpm": 157.9,
+        "lead_silence": 0.06,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.9,
+        "peak": 0.887
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s021": {
+      "heard": "But here's the problem with the obvious answer. The January 2025 fires were the worst in Los Angeles history, and State Farm expected about $7 billion of claims. That's around 4% of what State Farm is worth.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 57,
+        "rate": 4.03,
+        "wpm": 165.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4,
+          0.28,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.908
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "January",
+        "Los Angeles",
+        "State Farm"
+      ],
+      "attempts": []
+    },
+    "s022": {
+      "heard": "A company with 170 billion dollars can pay for fires, so why is it acting like it can't?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 4.76,
+        "wpm": 200.0,
+        "lead_silence": 0.02,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.911
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s023": {
+      "heard": "Because the state farm that sells your California home insurance isn't the state farm with $170 billion dollars.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 5.02,
+        "wpm": 197.5,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California",
+        "State Farm"
+      ],
+      "attempts": []
+    },
+    "s024": {
+      "heard": "It's a separate company, State Farm General. It has its own money, its own balance sheet, and its own losses. The parent can lend it money, but it doesn't have to pay its bills.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 45,
+        "rate": 4.17,
+        "wpm": 189.2,
+        "lead_silence": 0.06,
+        "silences": [
+          0.34,
+          0.34,
+          0.42,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.921
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "State Farm General"
+      ],
+      "attempts": []
+    },
+    "s025": {
+      "heard": "And State Farm's argument is that it shouldn't. The $170 billion belongs, in effect, to policyholders all over America. Why should a family in Ohio pay for wildfire losses in California?",
+      "accuracy": 1.0,
+      "issues": [
+        {
+          "type": "insert",
+          "expected": "",
+          "heard": "one"
+        }
+      ],
+      "pace": {
+        "syllables": 57,
+        "rate": 4.57,
+        "wpm": 158.7,
+        "lead_silence": 0.06,
+        "silences": [
+          0.32,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.933
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "America",
+        "California",
+        "Ohio",
+        "State Farm's"
+      ],
+      "attempts": []
+    },
+    "s026": {
+      "heard": "Here's why that matters, with simple numbers.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 11,
+        "rate": 4.17,
+        "wpm": 159.1,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.907
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s027": {
+      "heard": "Say the California company collects $100 in premiums and pays out $126 in claims. It loses $26.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 4.47,
+        "wpm": 158.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.938
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California"
+      ],
+      "attempts": []
+    },
+    "s028": {
+      "heard": "Those losses come out of its capital, the cushion regulators require. One analysis found its 2023 losses cut that cushion by about 40 percent.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 4.05,
+        "wpm": 149.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.904
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s029": {
+      "heard": "In March 2024, the ratings agency A&M Best downgraded State Farm General from A to B.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 3.04,
+        "wpm": 132.6,
+        "lead_silence": 0.02,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "AM",
+        "AM Best",
+        "March",
+        "State Farm General"
+      ],
+      "attempts": []
+    },
+    "s030": {
+      "heard": "The normal fix is to charge more, but in California, that needs the state's approval.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 4.09,
+        "wpm": 167.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.896
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California"
+      ],
+      "attempts": []
+    },
+    "s031": {
+      "heard": "Since 1988, under Proposition 103, insurers have had to justify every rate rise to the state based largely on past losses. They couldn't charge customers for re-insurance, the insurance that insurers buy for themselves.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 56,
+        "rate": 3.78,
+        "wpm": 137.8,
+        "lead_silence": 0.06,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.921
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Proposition"
+      ],
+      "attempts": []
+    },
+    "s032": {
+      "heard": "The man who wrote Proposition 103, Harvey Rosenfield, says that's exactly the point. Reinsurance is a cost customers shouldn't carry.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 3.53,
+        "wpm": 132.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.902
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Harvey Rosenfield",
+        "Proposition"
+      ],
+      "attempts": []
+    },
+    "s034": {
+      "heard": "Consumer advocates also point out that by some industry data, State Farm's California losses were lower than the industry average and that it had been profitable there in recent years.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 52,
+        "rate": 4.87,
+        "wpm": 168.5,
+        "lead_silence": 0.08,
+        "silences": [
+          0.34,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.907
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "State Farm's California"
+      ],
+      "attempts": []
+    },
+    "s035": {
+      "heard": "Insurers say the opposite. That prices set from the past can't cover the risk coming next. So, if State Farm General couldn't charge what it thought the risk was, it did the only thing left. It sold less.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 48,
+        "rate": 3.72,
+        "wpm": 176.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.28,
+          0.32,
+          0.26,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.891
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "State Farm General"
+      ],
+      "attempts": []
+    },
+    "s036": {
+      "heard": "And here's the part almost nobody knows. Across the whole country, State Farm loses money on home insurance. $3.6 billion in 2024. $3.1 billion in 2025.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 43,
+        "rate": 3.26,
+        "wpm": 141.1,
+        "lead_silence": 0.06,
+        "silences": [
+          0.34,
+          0.36,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.909
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "State Farm"
+      ],
+      "attempts": []
+    },
+    "s037": {
+      "heard": "Its profits come from car insurance and from investing the premiums it holds.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 19,
+        "rate": 4.34,
+        "wpm": 178.1,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.933
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s038": {
+      "heard": "The good neighbor makes its money on your car, not your house.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 15,
+        "rate": 4.26,
+        "wpm": 204.5,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.872
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s039": {
+      "heard": "Which brings us back to Pacific Palisades.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 12,
+        "rate": 4.88,
+        "wpm": 170.7,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.91
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Pacific Palisades"
+      ],
+      "attempts": []
+    },
+    "s040": {
+      "heard": "When State Farm decided which California policies to drop, Pacific Palisades was hit hardest. In its main zip code, around 7 in 10 of its home policies were set for non-renewal.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 51,
+        "rate": 4.49,
+        "wpm": 163.7,
+        "lead_silence": 0.08,
+        "silences": [
+          0.26,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.919
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California",
+        "Pacific Palisades",
+        "State Farm",
+        "ZIP"
+      ],
+      "attempts": []
+    },
+    "s041": {
+      "heard": "On the 7th of January 2025, the Palisades and Eaton fires began.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 20,
+        "rate": 3.79,
+        "wpm": 136.4,
+        "lead_silence": 0.02,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.886
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Eaton",
+        "January",
+        "Palisades"
+      ],
+      "attempts": []
+    },
+    "s042": {
+      "heard": "Thousands of homes were destroyed. State Farm received more than 12,000 claims.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 19,
+        "rate": 3.33,
+        "wpm": 136.8,
+        "lead_silence": 0.02,
+        "silences": [
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.886
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Farm"
+      ],
+      "attempts": []
+    },
+    "s043": {
+      "heard": "After the fire, State Farm offered renewals to the people it had planned to drop, but not to those whose policies had already ended before the fire started.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 42,
+        "rate": 4.58,
+        "wpm": 183.0,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.896
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "State Farm"
+      ],
+      "attempts": []
+    },
+    "s044": {
+      "heard": "A month later, it asked for an emergency rate rise of 22%.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 21,
+        "rate": 4.86,
+        "wpm": 180.6,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.923
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s045": {
+      "heard": "The state approved 17, the first emergency rate rise of its kind in California.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 4.3,
+        "wpm": 150.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.924
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California"
+      ],
+      "attempts": []
+    },
+    "s046": {
+      "heard": "When nobody else will insure you in California, there's the FAIR plan, the Insurer of Last Resort. Its coverage is basic and expensive, and by the end of 2025, it had around 670,000 policies.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 59,
+        "rate": 4.13,
+        "wpm": 159.4,
+        "lead_silence": 0.06,
+        "silences": [
+          0.28,
+          0.32,
+          0.38,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.969
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "California",
+        "FAIR",
+        "FAIR Plan"
+      ],
+      "attempts": []
+    },
+    "s047": {
+      "heard": "The value of property it covers has more than tripled since 2022.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 15,
+        "rate": 3.54,
+        "wpm": 169.8,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.937
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s048": {
+      "heard": "After the fires, the fair plan needed a billion dollars from the insurance companies, and they're allowed to pass up to half of it onto their own customers.",
+      "accuracy": 0.926,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "on two",
+          "heard": "onto"
+        }
+      ],
+      "pace": {
+        "syllables": 42,
+        "rate": 5.07,
+        "wpm": 210.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 0.926,
+      "risky": [
+        "FAIR",
+        "FAIR Plan"
+      ],
+      "attempts": []
+    },
+    "s049": {
+      "heard": "So even if you never had a state farm policy, if you insure a home in California, you may be paying for the homes it stopped insuring.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 4.84,
+        "wpm": 201.0,
+        "lead_silence": 0.08,
+        "silences": [
+          0.3,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.915
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California",
+        "State Farm"
+      ],
+      "attempts": []
+    },
+    "s050": {
+      "heard": "The state's answer is a new deal.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 9,
+        "rate": 4.29,
+        "wpm": 200.0,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.87
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s052": {
+      "heard": "Insurers can now use wildfire models and charge for reinsurance. In return, they have to write more policies in the places they've been leaving.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 35,
+        "rate": 4.12,
+        "wpm": 169.4,
+        "lead_silence": 0.02,
+        "silences": [
+          0.4,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.911
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "use"
+      ],
+      "attempts": []
+    },
+    "s053": {
+      "heard": "Prices will rise. The question is whether the insurers come back.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 16,
+        "rate": 3.64,
+        "wpm": 150.0,
+        "lead_silence": 0.06,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.913
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s054": {
+      "heard": "So why won't a company worth $170 billion insure a house in California?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 28,
+        "rate": 5.09,
+        "wpm": 185.5,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -13.5,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California"
+      ],
+      "attempts": []
+    },
+    "s055": {
+      "heard": "Because the money was never on California's side of the wall, the company that insures California homes was built to stand on its own.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 38,
+        "rate": 4.85,
+        "wpm": 183.7,
+        "lead_silence": 0.06,
+        "silences": [
+          0.46
+        ]
+      },
+      "audio": {
+        "rms_db": -13.7,
+        "peak": 0.908
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California",
+        "California's"
+      ],
+      "attempts": []
+    },
+    "s056": {
+      "heard": "And for decades, California made it charge last decade's price for this decade's risk. When the fires came, the gap was too big for the small company, and the big one wasn't obliged to fill it.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 50,
+        "rate": 4.24,
+        "wpm": 183.1,
+        "lead_silence": 0.06,
+        "silences": [
+          0.46,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California"
+      ],
+      "attempts": []
+    },
+    "s057": {
+      "heard": "To be fair, when the fires came, State Farm paid more than $3.5 billion to its Los Angeles customers in the first four months alone.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 3.94,
+        "wpm": 185.5,
+        "lead_silence": 0.06,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.907
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Los Angeles",
+        "State Farm"
+      ],
+      "attempts": []
+    },
+    "s058": {
+      "heard": "Like a good neighbor, State Farm is there, just not always for your house.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 16,
+        "rate": 3.56,
+        "wpm": 186.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.44
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.96
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "State Farm"
+      ],
+      "attempts": []
+    },
+    "s059": {
+      "heard": "And this isn't only California, insurers have been pulling back from Florida and Louisiana too, wherever the risk is rising faster than the price.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 4.65,
+        "wpm": 171.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.909
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California",
+        "Florida",
+        "Louisiana"
+      ],
+      "attempts": []
+    },
+    "s060": {
+      "heard": "The question now is whether California's new rules bring the insurers back, or whether more homes end up in the last resort, and whether the same thing happens where you live.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 44,
+        "rate": 4.04,
+        "wpm": 171.0,
+        "lead_silence": 0.06,
+        "silences": [
+          0.32,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.0,
+        "peak": 0.921
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "California's",
+        "live"
+      ],
+      "attempts": []
+    },
+    "s061": {
+      "heard": "If you'll never hear that jingle the same way again, that's what this channel does. The economics nobody explains. One company at a time. Subscribe and you'll get the next one.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 44,
+        "rate": 4.09,
+        "wpm": 172.9,
+        "lead_silence": 0.02,
+        "silences": [
+          0.32,
+          0.26,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.9
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    }
+  }
+}

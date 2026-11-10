@@ -1,0 +1,1799 @@
+{
+ "fps": 30,
+ "durationInFrames": 15297,
+ "episode": "statefarm",
+ "print": "003",
+ "vo": [
+  {
+   "src": "statefarm/vo/s001.mp3",
+   "from": 0,
+   "trim": 0,
+   "len": 233
+  },
+  {
+   "src": "statefarm/vo/s002.mp3",
+   "from": 241,
+   "trim": 0,
+   "len": 88
+  },
+  {
+   "src": "statefarm/vo/s003.mp3",
+   "from": 350,
+   "trim": 0,
+   "len": 198
+  },
+  {
+   "src": "statefarm/vo/s004.mp3",
+   "from": 553,
+   "trim": 2,
+   "len": 131
+  },
+  {
+   "src": "statefarm/vo/s006.mp3",
+   "from": 991,
+   "trim": 0,
+   "len": 149
+  },
+  {
+   "src": "statefarm/vo/s007.mp3",
+   "from": 1152,
+   "trim": 0,
+   "len": 118
+  },
+  {
+   "src": "statefarm/vo/s008.mp3",
+   "from": 1290,
+   "trim": 1,
+   "len": 382
+  },
+  {
+   "src": "statefarm/vo/s009.mp3",
+   "from": 1678,
+   "trim": 0,
+   "len": 192
+  },
+  {
+   "src": "statefarm/vo/s010.mp3",
+   "from": 1875,
+   "trim": 0,
+   "len": 248
+  },
+  {
+   "src": "statefarm/vo/s011.mp3",
+   "from": 2128,
+   "trim": 0,
+   "len": 230
+  },
+  {
+   "src": "statefarm/vo/s012.mp3",
+   "from": 2364,
+   "trim": 0,
+   "len": 276
+  },
+  {
+   "src": "statefarm/vo/s013.mp3",
+   "from": 2661,
+   "trim": 0,
+   "len": 251
+  },
+  {
+   "src": "statefarm/vo/s014.mp3",
+   "from": 2917,
+   "trim": 0,
+   "len": 327
+  },
+  {
+   "src": "statefarm/vo/s015.mp3",
+   "from": 3250,
+   "trim": 0,
+   "len": 338
+  },
+  {
+   "src": "statefarm/vo/s016.mp3",
+   "from": 3593,
+   "trim": 0,
+   "len": 225
+  },
+  {
+   "src": "statefarm/vo/s017.mp3",
+   "from": 3824,
+   "trim": 1,
+   "len": 273
+  },
+  {
+   "src": "statefarm/vo/s019.mp3",
+   "from": 4282,
+   "trim": 1,
+   "len": 97
+  },
+  {
+   "src": "statefarm/vo/s021.mp3",
+   "from": 4633,
+   "trim": 1,
+   "len": 429
+  },
+  {
+   "src": "statefarm/vo/s022.mp3",
+   "from": 5068,
+   "trim": 0,
+   "len": 195
+  },
+  {
+   "src": "statefarm/vo/s023.mp3",
+   "from": 5283,
+   "trim": 1,
+   "len": 198
+  },
+  {
+   "src": "statefarm/vo/s024.mp3",
+   "from": 5486,
+   "trim": 1,
+   "len": 330
+  },
+  {
+   "src": "statefarm/vo/s025.mp3",
+   "from": 5821,
+   "trim": 1,
+   "len": 381
+  },
+  {
+   "src": "statefarm/vo/s026.mp3",
+   "from": 6213,
+   "trim": 0,
+   "len": 86
+  },
+  {
+   "src": "statefarm/vo/s027.mp3",
+   "from": 6304,
+   "trim": 0,
+   "len": 268
+  },
+  {
+   "src": "statefarm/vo/s028.mp3",
+   "from": 6578,
+   "trim": 0,
+   "len": 296
+  },
+  {
+   "src": "statefarm/vo/s029.mp3",
+   "from": 6878,
+   "trim": 0,
+   "len": 222
+  },
+  {
+   "src": "statefarm/vo/s030.mp3",
+   "from": 7106,
+   "trim": 1,
+   "len": 167
+  },
+  {
+   "src": "statefarm/vo/s031.mp3",
+   "from": 7279,
+   "trim": 1,
+   "len": 450
+  },
+  {
+   "src": "statefarm/vo/s032.mp3",
+   "from": 7734,
+   "trim": 1,
+   "len": 278
+  },
+  {
+   "src": "statefarm/vo/s034.mp3",
+   "from": 8381,
+   "trim": 2,
+   "len": 327
+  },
+  {
+   "src": "statefarm/vo/s035.mp3",
+   "from": 8713,
+   "trim": 0,
+   "len": 393
+  },
+  {
+   "src": "statefarm/vo/s036.mp3",
+   "from": 9112,
+   "trim": 1,
+   "len": 400
+  },
+  {
+   "src": "statefarm/vo/s037.mp3",
+   "from": 9518,
+   "trim": 1,
+   "len": 138
+  },
+  {
+   "src": "statefarm/vo/s038.mp3",
+   "from": 9661,
+   "trim": 1,
+   "len": 112
+  },
+  {
+   "src": "statefarm/vo/s039.mp3",
+   "from": 9794,
+   "trim": 1,
+   "len": 80
+  },
+  {
+   "src": "statefarm/vo/s040.mp3",
+   "from": 9878,
+   "trim": 2,
+   "len": 347
+  },
+  {
+   "src": "statefarm/vo/s041.mp3",
+   "from": 10231,
+   "trim": 0,
+   "len": 164
+  },
+  {
+   "src": "statefarm/vo/s042.mp3",
+   "from": 10401,
+   "trim": 0,
+   "len": 177
+  },
+  {
+   "src": "statefarm/vo/s043.mp3",
+   "from": 10583,
+   "trim": 0,
+   "len": 281
+  },
+  {
+   "src": "statefarm/vo/s044.mp3",
+   "from": 10870,
+   "trim": 0,
+   "len": 136
+  },
+  {
+   "src": "statefarm/vo/s045.mp3",
+   "from": 11011,
+   "trim": 0,
+   "len": 174
+  },
+  {
+   "src": "statefarm/vo/s046.mp3",
+   "from": 11205,
+   "trim": 1,
+   "len": 435
+  },
+  {
+   "src": "statefarm/vo/s047.mp3",
+   "from": 11646,
+   "trim": 0,
+   "len": 134
+  },
+  {
+   "src": "statefarm/vo/s048.mp3",
+   "from": 11785,
+   "trim": 0,
+   "len": 255
+  },
+  {
+   "src": "statefarm/vo/s049.mp3",
+   "from": 12045,
+   "trim": 2,
+   "len": 247
+  },
+  {
+   "src": "statefarm/vo/s050.mp3",
+   "from": 12301,
+   "trim": 0,
+   "len": 69
+  },
+  {
+   "src": "statefarm/vo/s052.mp3",
+   "from": 12684,
+   "trim": 0,
+   "len": 260
+  },
+  {
+   "src": "statefarm/vo/s053.mp3",
+   "from": 12950,
+   "trim": 1,
+   "len": 138
+  },
+  {
+   "src": "statefarm/vo/s054.mp3",
+   "from": 13109,
+   "trim": 0,
+   "len": 171
+  },
+  {
+   "src": "statefarm/vo/s055.mp3",
+   "from": 13292,
+   "trim": 1,
+   "len": 241
+  },
+  {
+   "src": "statefarm/vo/s056.mp3",
+   "from": 13538,
+   "trim": 1,
+   "len": 360
+  },
+  {
+   "src": "statefarm/vo/s057.mp3",
+   "from": 13903,
+   "trim": 1,
+   "len": 288
+  },
+  {
+   "src": "statefarm/vo/s058.mp3",
+   "from": 14196,
+   "trim": 1,
+   "len": 141
+  },
+  {
+   "src": "statefarm/vo/s059.mp3",
+   "from": 14342,
+   "trim": 1,
+   "len": 258
+  },
+  {
+   "src": "statefarm/vo/s060.mp3",
+   "from": 14605,
+   "trim": 1,
+   "len": 333
+  },
+  {
+   "src": "statefarm/vo/s061.mp3",
+   "from": 14943,
+   "trim": 0,
+   "len": 328
+  }
+ ],
+ "shots": [
+  {
+   "kind": "video",
+   "start": 0,
+   "dur": 241,
+   "seg": "s001",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_lara23",
+     "src": "statefarm/assets/tv_lara23.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 0.0,
+    "label": "California homes · July 2024"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 241,
+   "dur": 109,
+   "seg": "s002",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "palisades_destroyed",
+     "src": "statefarm/assets/palisades_destroyed.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in",
+    "label": "Pacific Palisades, January 2025"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 350,
+   "dur": 114,
+   "seg": "s003",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "sf_dunwoody",
+     "src": "statefarm/assets/sf_dunwoody.jpg",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in",
+    "label": "State Farm"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 464,
+   "dur": 89,
+   "seg": "s003",
+   "cat": "charts",
+   "p": {
+    "kicker": "State Farm, 2025",
+    "value": "$12.9B",
+    "sub": "profit · net worth $170B"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 553,
+   "dur": 134,
+   "seg": "s004",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_stopnew23",
+     "src": "statefarm/assets/tv_stopnew23.mp4",
+     "credit": "KTVU FOX 2, 30 May 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 0.5
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 687,
+   "dur": 304,
+   "seg": "s005",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_jingle_2011",
+     "src": "statefarm/assets/sot_jingle_2011.mp4",
+     "credit": "State Farm TV ad, as aired May 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 356
+    },
+    "name": "State Farm",
+    "role": "TV ad as aired · 2011",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "text",
+   "start": 991,
+   "dur": 161,
+   "seg": "s006",
+   "cat": "text",
+   "p": {
+    "text": "THE RICHEST HOME INSURER",
+    "sub": "won't insure a house in California"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1152,
+   "dur": 138,
+   "seg": "s007",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_nonrenew24",
+     "src": "statefarm/assets/tv_nonrenew24.mp4",
+     "credit": "NBC Bay Area, 21 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 18.0
+   }
+  },
+  {
+   "kind": "place",
+   "start": 1290,
+   "dur": 131,
+   "seg": "s008",
+   "cat": "text",
+   "p": {
+    "place": "BLOOMINGTON, ILLINOIS",
+    "year": "1922"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1421,
+   "dur": 257,
+   "seg": "s008",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "sf_bloomington",
+     "src": "statefarm/assets/sf_bloomington.jpg",
+     "credit": "A mcmurray · Wikimedia Commons · CC BY 2.5",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "in",
+    "label": "State Farm, Bloomington, Illinois"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1678,
+   "dur": 118,
+   "seg": "s009",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "tv_ad_2011",
+     "src": "statefarm/assets/tv_ad_2011.mp4",
+     "credit": "State Farm TV ad, as aired May 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 19.0,
+    "focus": [
+     0.5,
+     0.2
+    ]
+   }
+  },
+  {
+   "kind": "text",
+   "start": 1796,
+   "dur": 79,
+   "seg": "s009",
+   "cat": "text",
+   "p": {
+    "text": "A MUTUAL",
+    "sub": "owned by its policyholders, not shareholders"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1875,
+   "dur": 253,
+   "seg": "s010",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "manilow",
+     "src": "statefarm/assets/manilow.jpg",
+     "credit": "Matt Becker · Wikimedia Commons · CC BY 3.0",
+     "kind": "image",
+     "w": 1280,
+     "h": 1332
+    },
+    "kb": "in",
+    "label": "Barry Manilow · paid $500 for the jingle",
+    "focus": [
+     0.5,
+     0.2
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2128,
+   "dur": 125,
+   "seg": "s011",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_loss24",
+     "src": "statefarm/assets/tv_loss24.mp4",
+     "credit": "ABC7 News, 22 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 6.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2253,
+   "dur": 111,
+   "seg": "s011",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_lara23",
+     "src": "statefarm/assets/tv_lara23.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 4.0,
+    "label": "California: about 1 home in 5 insured by State Farm"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2364,
+   "dur": 158,
+   "seg": "s012",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_cw23",
+     "src": "statefarm/assets/tv_cw23.mp4",
+     "credit": "KPIX CBS News Bay Area, 29 May 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2522,
+   "dur": 139,
+   "seg": "s012",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_cw23",
+     "src": "statefarm/assets/tv_cw23.mp4",
+     "credit": "KPIX CBS News Bay Area, 29 May 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 11.5,
+    "label": "State Farm statement, May 2023"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2661,
+   "dur": 191,
+   "seg": "s013",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_nonrenew24",
+     "src": "statefarm/assets/tv_nonrenew24.mp4",
+     "credit": "NBC Bay Area, 21 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 29.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2852,
+   "dur": 65,
+   "seg": "s013",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_nonrenew24",
+     "src": "statefarm/assets/tv_nonrenew24.mp4",
+     "credit": "NBC Bay Area, 21 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 34.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 2917,
+   "dur": 333,
+   "seg": "s014",
+   "cat": "charts",
+   "p": {
+    "kicker": "State Farm, California, 9 years",
+    "value": "$1.26",
+    "sub": "paid out for every $1 collected (company figure)"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3250,
+   "dur": 343,
+   "seg": "s015",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_loss24",
+     "src": "statefarm/assets/tv_loss24.mp4",
+     "credit": "ABC7 News, 22 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3593,
+   "dur": 231,
+   "seg": "s016",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_stopnew23",
+     "src": "statefarm/assets/tv_stopnew23.mp4",
+     "credit": "KTVU FOX 2, 30 May 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 32.0,
+    "label": "At least 7 of the largest insurers paused or limited new policies"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3824,
+   "dur": 182,
+   "seg": "s017",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_homeowner24",
+     "src": "statefarm/assets/tv_homeowner24.mp4",
+     "credit": "KPIX CBS News Bay Area, 29 Aug 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 4006,
+   "dur": 94,
+   "seg": "s017",
+   "cat": "charts",
+   "p": {
+    "kicker": "State Farm, 2023",
+    "value": "−$6.3B",
+    "sub": "net loss"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 4100,
+   "dur": 182,
+   "seg": "s018",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_bach_2024",
+     "src": "statefarm/assets/sot_bach_2024.mp4",
+     "credit": "NBC Bay Area, 21 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "name": "Amy Bach",
+    "role": "United Policyholders · NBC Bay Area, Mar 2024",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4282,
+   "dur": 100,
+   "seg": "s019",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_homeowner24",
+     "src": "statefarm/assets/tv_homeowner24.mp4",
+     "credit": "KPIX CBS News Bay Area, 29 Aug 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 4382,
+   "dur": 251,
+   "seg": "s020",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_homeowner_2024",
+     "src": "statefarm/assets/sot_homeowner_2024.mp4",
+     "credit": "KPIX CBS News Bay Area, 29 Aug 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "Santa Rosa homeowner",
+    "role": "KPIX CBS News Bay Area · Aug 2024",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 4633,
+   "dur": 228,
+   "seg": "s021",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "palisades_ucla",
+     "src": "statefarm/assets/palisades_ucla.jpg",
+     "credit": "BulkyOS · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1270
+    },
+    "kb": "in",
+    "label": "Palisades fire, January 2025"
+   }
+  },
+  {
+   "kind": "bars",
+   "start": 4861,
+   "dur": 207,
+   "seg": "s021",
+   "cat": "charts",
+   "p": {
+    "title": "State Farm",
+    "rows": [
+     {
+      "n": "Net worth",
+      "v": 170,
+      "label": "$170B"
+     },
+     {
+      "n": "LA fire claims (est.)",
+      "v": 7,
+      "label": "~$7B",
+      "hero": true
+     }
+    ],
+    "src": "State Farm, 2025 · ~4% of net worth"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 5068,
+   "dur": 215,
+   "seg": "s022",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "eaton_home",
+     "src": "statefarm/assets/eaton_home.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 960,
+     "h": 720
+    },
+    "kb": "in",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "vs",
+   "start": 5283,
+   "dur": 203,
+   "seg": "s023",
+   "cat": "real",
+   "p": {
+    "left_a": {
+     "id": "sf_dunwoody",
+     "src": "statefarm/assets/sf_dunwoody.jpg",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "right_a": {
+     "id": "sf_office",
+     "src": "statefarm/assets/sf_office.jpg",
+     "credit": "Harrison Keely · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "left": "$170B STATE FARM",
+    "right": "YOUR CALIFORNIA INSURER"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 5486,
+   "dur": 220,
+   "seg": "s024",
+   "cat": "docs",
+   "p": {
+    "title": "State Farm General Insurance Company",
+    "sub": "a separate company",
+    "lines": [
+     "Its own capital",
+     "Its own balance sheet",
+     "Its own losses"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 5706,
+   "dur": 115,
+   "seg": "s024",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "sf_dunwoody",
+     "src": "statefarm/assets/sf_dunwoody.jpg",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out",
+    "label": "State Farm Mutual, the parent"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5821,
+   "dur": 256,
+   "seg": "s025",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "tv_ad_2011",
+     "src": "statefarm/assets/tv_ad_2011.mp4",
+     "credit": "State Farm TV ad, as aired May 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6077,
+   "dur": 136,
+   "seg": "s025",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_lara23",
+     "src": "statefarm/assets/tv_lara23.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 18.0
+   }
+  },
+  {
+   "kind": "text",
+   "start": 6213,
+   "dur": 91,
+   "seg": "s026",
+   "cat": "text",
+   "p": {
+    "text": "SIMPLIFIED EXAMPLE",
+    "sub": "round numbers"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 6304,
+   "dur": 274,
+   "seg": "s027",
+   "cat": "charts",
+   "p": {
+    "title": "The California company",
+    "rows": [
+     {
+      "n": "Premiums in",
+      "v": 100,
+      "label": "$100"
+     },
+     {
+      "n": "Claims out",
+      "v": 126,
+      "label": "$126",
+      "hero": true
+     }
+    ],
+    "src": "Simplified example · loss: $26"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 6578,
+   "dur": 300,
+   "seg": "s028",
+   "cat": "charts",
+   "p": {
+    "kicker": "State Farm General, 2023",
+    "value": "−40%",
+    "sub": "its capital cushion (one analysis)"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 6878,
+   "dur": 228,
+   "seg": "s029",
+   "cat": "docs",
+   "p": {
+    "title": "AM Best downgrades State Farm General",
+    "sub": "March 2024",
+    "lines": [
+     "Financial strength rating: A → B"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7106,
+   "dur": 173,
+   "seg": "s030",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_cw23",
+     "src": "statefarm/assets/tv_cw23.mp4",
+     "credit": "KPIX CBS News Bay Area, 29 May 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 2.0,
+    "label": "Sacramento"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 7279,
+   "dur": 289,
+   "seg": "s031",
+   "cat": "docs",
+   "p": {
+    "title": "Proposition 103",
+    "sub": "California, 1988",
+    "lines": [
+     "Rate rises need the state's approval",
+     "Based largely on past losses"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7568,
+   "dur": 166,
+   "seg": "s031",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_lara23",
+     "src": "statefarm/assets/tv_lara23.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 18.0,
+    "label": "Reinsurance: insurance for insurers"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 7734,
+   "dur": 282,
+   "seg": "s032",
+   "cat": "text",
+   "p": {
+    "text": "HARVEY ROSENFIELD",
+    "sub": "wrote Proposition 103"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 8016,
+   "dur": 365,
+   "seg": "s033",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_rosenfield_2023",
+     "src": "statefarm/assets/sot_rosenfield_2023.mp4",
+     "credit": "KTVU FOX 2, 12 Jul 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "name": "Harvey Rosenfield",
+    "role": "Author, Proposition 103 · KTVU FOX 2, Jul 2023",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8381,
+   "dur": 332,
+   "seg": "s034",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_stopnew23",
+     "src": "statefarm/assets/tv_stopnew23.mp4",
+     "credit": "KTVU FOX 2, 30 May 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 28.94,
+    "label": "Consumer advocates: State Farm's California losses lower than average"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8713,
+   "dur": 304,
+   "seg": "s035",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_stopnew23",
+     "src": "statefarm/assets/tv_stopnew23.mp4",
+     "credit": "KTVU FOX 2, 30 May 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9017,
+   "dur": 95,
+   "seg": "s035",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_loss24",
+     "src": "statefarm/assets/tv_loss24.mp4",
+     "credit": "ABC7 News, 22 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 8.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9112,
+   "dur": 222,
+   "seg": "s036",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_homeowner24",
+     "src": "statefarm/assets/tv_homeowner24.mp4",
+     "credit": "KPIX CBS News Bay Area, 29 Aug 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 9334,
+   "dur": 184,
+   "seg": "s036",
+   "cat": "charts",
+   "p": {
+    "title": "State Farm home insurance, US",
+    "rows": [
+     {
+      "n": "2024",
+      "v": 3.6,
+      "label": "−$3.6B",
+      "hero": true
+     },
+     {
+      "n": "2025",
+      "v": 3.1,
+      "label": "−$3.1B"
+     }
+    ],
+    "src": "State Farm annual reports · underwriting loss"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9518,
+   "dur": 143,
+   "seg": "s037",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_loss24",
+     "src": "statefarm/assets/tv_loss24.mp4",
+     "credit": "ABC7 News, 22 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 17.23
+   }
+  },
+  {
+   "kind": "text",
+   "start": 9661,
+   "dur": 133,
+   "seg": "s038",
+   "cat": "text",
+   "p": {
+    "text": "YOUR CAR, NOT YOUR HOUSE."
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 9794,
+   "dur": 84,
+   "seg": "s039",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "palisades_drive",
+     "src": "statefarm/assets/palisades_drive.jpg",
+     "credit": "Ariam23 · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1280,
+     "h": 1218
+    },
+    "kb": "in",
+    "label": "Pacific Palisades"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 9878,
+   "dur": 185,
+   "seg": "s040",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "palisades_destroyed",
+     "src": "statefarm/assets/palisades_destroyed.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 10063,
+   "dur": 168,
+   "seg": "s040",
+   "cat": "charts",
+   "p": {
+    "kicker": "ZIP 90272, Pacific Palisades",
+    "value": "~7 in 10",
+    "sub": "State Farm home policies set for non-renewal"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 10231,
+   "dur": 170,
+   "seg": "s041",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "palisades_fire",
+     "src": "statefarm/assets/palisades_fire.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1280,
+     "h": 854
+    },
+    "kb": "in",
+    "label": "7 January 2025"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 10401,
+   "dur": 77,
+   "seg": "s042",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "usfs_taskforce",
+     "src": "statefarm/assets/usfs_taskforce.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1280,
+     "h": 960
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 10478,
+   "dur": 105,
+   "seg": "s042",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "eaton_altadena",
+     "src": "statefarm/assets/eaton_altadena.jpg",
+     "credit": "Grigory Heaton · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in",
+    "label": "12,000+ State Farm claims"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 10583,
+   "dur": 287,
+   "seg": "s043",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "eaton_home",
+     "src": "statefarm/assets/eaton_home.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 960,
+     "h": 720
+    },
+    "kb": "out",
+    "label": "Renewals offered, but not for policies already ended"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 10870,
+   "dur": 141,
+   "seg": "s044",
+   "cat": "charts",
+   "p": {
+    "kicker": "State Farm asks, Feb 2025",
+    "value": "+22%",
+    "sub": "emergency rate rise"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 11011,
+   "dur": 194,
+   "seg": "s045",
+   "cat": "charts",
+   "p": {
+    "kicker": "Approved from June 2025",
+    "value": "+17%",
+    "sub": "first emergency rate rise of its kind"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 11205,
+   "dur": 287,
+   "seg": "s046",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_lara23",
+     "src": "statefarm/assets/tv_lara23.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 11492,
+   "dur": 154,
+   "seg": "s046",
+   "cat": "charts",
+   "p": {
+    "kicker": "California FAIR Plan, end of 2025",
+    "value": "~670,000",
+    "sub": "policies"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 11646,
+   "dur": 139,
+   "seg": "s047",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_lara23",
+     "src": "statefarm/assets/tv_lara23.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 6.0,
+    "label": "FAIR Plan exposure: $724B, up 230% since 2022"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 11785,
+   "dur": 260,
+   "seg": "s048",
+   "cat": "docs",
+   "p": {
+    "title": "FAIR Plan: $1 billion assessment on insurers",
+    "sub": "February 2025",
+    "lines": [
+     "Up to half can be passed on to their customers"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12045,
+   "dur": 256,
+   "seg": "s049",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_stopnew23",
+     "src": "statefarm/assets/tv_stopnew23.mp4",
+     "credit": "KTVU FOX 2, 30 May 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 31.5
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 12301,
+   "dur": 73,
+   "seg": "s050",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "lara_photo",
+     "src": "statefarm/assets/lara_photo.jpg",
+     "credit": "Gage Skidmore from Peoria, AZ, United States of America · Wikimedia Commons · CC BY-SA 2.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in",
+    "label": "Ricardo Lara, Insurance Commissioner",
+    "focus": [
+     0.5,
+     0.3
+    ]
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 12374,
+   "dur": 310,
+   "seg": "s051",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_lara_2023",
+     "src": "statefarm/assets/sot_lara_2023.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "name": "Ricardo Lara",
+    "role": "California Insurance Commissioner · NBC, Sep 2023",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12684,
+   "dur": 137,
+   "seg": "s052",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_lara23",
+     "src": "statefarm/assets/tv_lara23.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 15.5
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12821,
+   "dur": 129,
+   "seg": "s052",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_lara23",
+     "src": "statefarm/assets/tv_lara23.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12950,
+   "dur": 159,
+   "seg": "s053",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_stopnew23",
+     "src": "statefarm/assets/tv_stopnew23.mp4",
+     "credit": "KTVU FOX 2, 30 May 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 8.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 13109,
+   "dur": 182,
+   "seg": "s054",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "palisades_destroyed",
+     "src": "statefarm/assets/palisades_destroyed.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "vs",
+   "start": 13292,
+   "dur": 246,
+   "seg": "s055",
+   "cat": "real",
+   "p": {
+    "left_a": {
+     "id": "sf_dunwoody",
+     "src": "statefarm/assets/sf_dunwoody.jpg",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "right_a": {
+     "id": "sf_office",
+     "src": "statefarm/assets/sf_office.jpg",
+     "credit": "Harrison Keely · Wikimedia Commons · CC BY 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "left": "STATE FARM MUTUAL",
+    "right": "STATE FARM GENERAL"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 13538,
+   "dur": 176,
+   "seg": "s056",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "palisades_ucla",
+     "src": "statefarm/assets/palisades_ucla.jpg",
+     "credit": "BulkyOS · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1270
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 13714,
+   "dur": 189,
+   "seg": "s056",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_nonrenew24",
+     "src": "statefarm/assets/tv_nonrenew24.mp4",
+     "credit": "NBC Bay Area, 21 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 52.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 13903,
+   "dur": 117,
+   "seg": "s057",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_homeowner24",
+     "src": "statefarm/assets/tv_homeowner24.mp4",
+     "credit": "KPIX CBS News Bay Area, 29 Aug 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 14020,
+   "dur": 176,
+   "seg": "s057",
+   "cat": "charts",
+   "p": {
+    "kicker": "Paid to LA fire customers",
+    "value": "$3.5B+",
+    "sub": "by May 2025"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 14196,
+   "dur": 146,
+   "seg": "s058",
+   "cat": "archival",
+   "p": {
+    "a": {
+     "id": "tv_ad_2011",
+     "src": "statefarm/assets/tv_ad_2011.mp4",
+     "credit": "State Farm TV ad, as aired May 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 22.0,
+    "vol": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 14342,
+   "dur": 263,
+   "seg": "s059",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_lara23b",
+     "src": "statefarm/assets/tv_lara23b.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 2.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 14605,
+   "dur": 261,
+   "seg": "s060",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_lara23",
+     "src": "statefarm/assets/tv_lara23.mp4",
+     "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 358
+    },
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 14866,
+   "dur": 77,
+   "seg": "s060",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_stopnew23",
+     "src": "statefarm/assets/tv_stopnew23.mp4",
+     "credit": "KTVU FOX 2, 30 May 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 36.0
+   }
+  },
+  {
+   "kind": "end",
+   "start": 14943,
+   "dur": 324,
+   "seg": "s061",
+   "cat": "text",
+   "p": {}
+  }
+ ],
+ "chapters": [
+  {
+   "name": "COLD OPEN",
+   "from": 0
+  },
+  {
+   "name": "1. A FARMER'S IDEA",
+   "from": 1290
+  },
+  {
+   "name": "2. THE OBVIOUS ANSWER",
+   "from": 2661
+  },
+  {
+   "name": "3. THE COMPANY INSIDE THE COMPANY",
+   "from": 5283
+  },
+  {
+   "name": "4. JANUARY 7TH",
+   "from": 9794
+  },
+  {
+   "name": "5. THE LAST RESORT",
+   "from": 11205
+  },
+  {
+   "name": "VERDICT",
+   "from": 13109
+  }
+ ]
+}

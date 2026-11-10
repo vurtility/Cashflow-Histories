@@ -23,9 +23,9 @@ const Photo: React.FC<P> = ({a, treat, kb, label, dur, print, focus}) => (
   </FootageFrame>
 );
 
-const Video: React.FC<P> = ({a, from, label, vol = 0.08, treat, print, dur}) => (
+const Video: React.FC<P> = ({a, from, label, vol = 0.08, treat, print, dur, focus}) => (
   <FootageFrame label={label} credit={a?.credit} print={print}>
-    <Plate treat={treat} kb="none" dur={dur}>
+    <Plate treat={treat} kb="none" dur={dur} focus={focus}>
       {(st) => <OffthreadVideo src={staticFile(a.src)} startFrom={Math.round(from * 30)} volume={vol} style={{...st, transform: 'scale(1.02)'}} />}
     </Plate>
   </FootageFrame>

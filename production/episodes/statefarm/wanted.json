@@ -9,7 +9,8 @@
   ],
   "credit": "State Farm TV ad, as aired May 2011 · TV News Archive",
   "basis": "fair use: brief excerpt of the company's own TV ad, as aired, to show the slogan under discussion; commentary, transformed",
-  "archival": true
+  "archival": true,
+  "vf": "crop=640:356:0:62,setsar=1"
  },
  {
   "id": "sot_homeowner_2024",
@@ -31,7 +32,8 @@
    184.9
   ],
   "credit": "NBC Bay Area, 21 Mar 2024 · TV News Archive",
-  "basis": "fair use: short excerpt (under 12s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+  "basis": "fair use: short excerpt (under 12s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "vf": "crop=528:358:0:61,scale=640:358,setsar=1"
  },
  {
   "id": "sot_rosenfield_2023",
@@ -42,7 +44,8 @@
    2880.4
   ],
   "credit": "KTVU FOX 2, 12 Jul 2023 · TV News Archive",
-  "basis": "fair use: short excerpt (under 12s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+  "basis": "fair use: short excerpt (under 12s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "vf": "crop=528:358:0:61,scale=640:358,setsar=1"
  },
  {
   "id": "sot_lara_2023",
@@ -53,7 +56,8 @@
    829.2
   ],
   "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
-  "basis": "fair use: short excerpt (under 12s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast"
+  "basis": "fair use: short excerpt (under 12s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "vf": "crop=528:358:0:61,scale=640:358,setsar=1"
  },
  {
   "id": "tv_ad_2011",
@@ -76,7 +80,8 @@
    216
   ],
   "credit": "NBC Bay Area, 21 Mar 2024 · TV News Archive",
-  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen"
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen",
+  "vf": "crop=528:358:0:61,scale=640:358,setsar=1"
  },
  {
   "id": "tv_stopnew23",
@@ -109,7 +114,8 @@
    1887
   ],
   "credit": "ABC7 News, 22 Mar 2024 · TV News Archive",
-  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen"
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen",
+  "vf": "crop=528:358:0:61,scale=640:358,setsar=1"
  },
  {
   "id": "tv_lara23",
@@ -120,7 +126,8 @@
    818
   ],
   "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
-  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen"
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen",
+  "vf": "crop=528:358:0:61,scale=640:358,setsar=1"
  },
  {
   "id": "tv_lara23b",
@@ -131,7 +138,8 @@
    870
   ],
   "credit": "NBC Nightly News, 22 Sep 2023 · TV News Archive",
-  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen"
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the insurance business; transformed by narration and analysis, credited on screen",
+  "vf": "crop=528:358:0:61,scale=640:358,setsar=1"
  },
  {
   "id": "tv_homeowner24",
@@ -182,7 +190,9 @@
  {
   "id": "sf_bloomington",
   "from": "commons",
-  "ref": "File:Bloomington Il State Farm Bldg1.JPG"
+  "ref": "File:Bloomington Il State Farm Bldg1.JPG",
+  "credit": "A mcmurray · Wikimedia Commons · CC BY 2.5",
+  "basis": "licence: CC BY 2.5"
  },
  {
   "id": "sf_office",
@@ -202,7 +212,9 @@
  {
   "id": "manilow",
   "from": "commons",
-  "ref": "File:BarryManilow.jpg"
+  "ref": "File:BarryManilow.jpg",
+  "credit": "Matt Becker · Wikimedia Commons · CC BY 3.0",
+  "basis": "licence: CC BY 3.0"
  },
  {
   "id": "lara_photo",

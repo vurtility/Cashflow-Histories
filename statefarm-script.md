@@ -111,6 +111,9 @@ So it raised prices, and kept raising them. In March 2024, it said it would not 
 `[GFX: logos of California's largest insurers, stamped "PAUSED" or "LIMITED"]`
 And State Farm wasn't alone. At least seven of California's largest home insurers had paused or limited new policies.
 
+`[BROLL: State Farm office exterior. Caption: "2023: State Farm net loss $6.3B"]`
+And the company had just reported a loss of six point three billion dollars for 2023. On paper, at least, the giant was bleeding.
+
 `[SOT 5.8s: Amy Bach, United Policyholders — "Very frustrating. They just got a 20% rate increase. It just got it." | NBC Bay Area, 21 Mar 2024]`
 
 `[BROLL: Santa Rosa street, homeowner]`
@@ -235,6 +238,9 @@ Because the money was never on California's side of the wall. The company that i
 `[GFX: "Priced by the past" vs "Risk from the future", the gap shaded]`
 And for decades, California made it charge last decade's price for this decade's risk. When the fires came, the gap was too big for the small company, and the big one wasn't obliged to fill it.
 
+`[GFX: "Paid to LA fire customers: $3.5B+ by May 2025"]`
+To be fair, when the fires came, State Farm paid. More than three and a half billion dollars to its Los Angeles customers in the first four months alone.
+
 `[BROLL: jingle ad again, muted]`
 Like a good neighbor, State Farm is there. Just not always for your house.
 
@@ -307,6 +313,8 @@ If you'll never hear that jingle the same way again, that's what this channel do
 | 22% emergency request (Feb 2025); 17% approved from 1 June 2025; first of its kind | ✅ | ABC7; InsuranceNewsNet | — |
 | FAIR Plan ~668,609 policies end-2025; exposure +230% since Dec 2022 to $724B | ⚠️ | Insurance press citing FAIR Plan data | Rounded |
 | $1B FAIR Plan assessment, Feb 2025; insurers may recoup up to 50% from policyholders | ✅ | California DOI; InsuranceNewsNet | — |
+| State Farm net loss $6.3B for 2023 | ✅ | State Farm 2023 results; ABC7, 22 Mar 2024 (clip) | — |
+| Paid >$3.5B to LA fire customers by May 2025 | ✅ | State Farm via ABC7 / InsuranceNewsNet ($3.51B as of 12 May 2025) | — |
 | At least seven of California's largest insurers paused or limited new policies (2024) | ✅ | NBC Bay Area, 21 Mar 2024 (clip transcript) | — |
 | Parent's argument: policyholders outside California shouldn't pay for California risk | ✅ ⚠️ | SFG surplus-note filing as reported; State Farm statements | Paraphrased as the company's argument |
 | CFA: State Farm's California losses lower than industry average; profitable in recent years | ⚠️ | Doug Heller, Consumer Federation of America, quoted in press (2024–25) | Labelled paraphrase |

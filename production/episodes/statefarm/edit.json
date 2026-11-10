@@ -1,0 +1,657 @@
+{
+ "s001": [
+  {
+   "k": "video",
+   "a": "tv_lara23",
+   "from": 0,
+   "label": "California homes · July 2024"
+  }
+ ],
+ "s002": [
+  {
+   "k": "photo",
+   "a": "palisades_destroyed",
+   "kb": "in",
+   "label": "Pacific Palisades, January 2025"
+  }
+ ],
+ "s003": [
+  {
+   "k": "photo",
+   "a": "sf_dunwoody",
+   "kb": "in",
+   "label": "State Farm"
+  },
+  {
+   "at": "Last year",
+   "k": "stat",
+   "kicker": "State Farm, 2025",
+   "value": "$12.9B",
+   "sub": "profit · net worth $170B"
+  }
+ ],
+ "s004": [
+  {
+   "k": "video",
+   "a": "tv_stopnew23",
+   "from": 0.5
+  }
+ ],
+ "s005": [
+  {
+   "k": "sot",
+   "a": "sot_jingle_2011",
+   "name": "State Farm",
+   "role": "TV ad as aired · 2011"
+  }
+ ],
+ "s006": [
+  {
+   "k": "text",
+   "text": "THE RICHEST HOME INSURER",
+   "sub": "won't insure a house in California"
+  }
+ ],
+ "s007": [
+  {
+   "k": "video",
+   "a": "tv_nonrenew24",
+   "from": 18
+  }
+ ],
+ "s008": [
+  {
+   "k": "place",
+   "place": "BLOOMINGTON, ILLINOIS",
+   "year": "1922"
+  },
+  {
+   "at": "A retired farmer",
+   "k": "photo",
+   "a": "sf_bloomington",
+   "kb": "in",
+   "label": "State Farm, Bloomington, Illinois"
+  }
+ ],
+ "s009": [
+  {
+   "k": "video",
+   "a": "tv_ad_2011",
+   "from": 19,
+   "focus": [
+    0.5,
+    0.2
+   ]
+  },
+  {
+   "at": "It's a mutual",
+   "k": "text",
+   "text": "A MUTUAL",
+   "sub": "owned by its policyholders, not shareholders"
+  }
+ ],
+ "s010": [
+  {
+   "k": "photo",
+   "a": "manilow",
+   "kb": "in",
+   "label": "Barry Manilow · paid $500 for the jingle",
+   "focus": [
+    0.5,
+    0.2
+   ]
+  }
+ ],
+ "s011": [
+  {
+   "k": "video",
+   "a": "tv_loss24",
+   "from": 6
+  },
+  {
+   "at": "In California",
+   "k": "video",
+   "a": "tv_lara23",
+   "from": 4,
+   "label": "California: about 1 home in 5 insured by State Farm"
+  }
+ ],
+ "s012": [
+  {
+   "k": "video",
+   "a": "tv_cw23",
+   "from": 0
+  },
+  {
+   "at": "it wasn't a small",
+   "k": "video",
+   "a": "tv_cw23",
+   "from": 11.5,
+   "label": "State Farm statement, May 2023"
+  }
+ ],
+ "s013": [
+  {
+   "k": "video",
+   "a": "tv_nonrenew24",
+   "from": 29
+  },
+  {
+   "at": "every burned house",
+   "k": "video",
+   "a": "tv_nonrenew24",
+   "from": 34
+  }
+ ],
+ "s014": [
+  {
+   "k": "stat",
+   "kicker": "State Farm, California, 9 years",
+   "value": "$1.26",
+   "sub": "paid out for every $1 collected (company figure)"
+  }
+ ],
+ "s015": [
+  {
+   "k": "video",
+   "a": "tv_loss24",
+   "from": 0
+  }
+ ],
+ "s016": [
+  {
+   "k": "video",
+   "a": "tv_stopnew23",
+   "from": 32,
+   "label": "At least 7 of the largest insurers paused or limited new policies"
+  }
+ ],
+ "s017": [
+  {
+   "k": "video",
+   "a": "tv_homeowner24",
+   "from": 4
+  },
+  {
+   "at": "On paper",
+   "k": "stat",
+   "kicker": "State Farm, 2023",
+   "value": "−$6.3B",
+   "sub": "net loss"
+  }
+ ],
+ "s018": [
+  {
+   "k": "sot",
+   "a": "sot_bach_2024",
+   "name": "Amy Bach",
+   "role": "United Policyholders · NBC Bay Area, Mar 2024"
+  }
+ ],
+ "s019": [
+  {
+   "k": "video",
+   "a": "tv_homeowner24",
+   "from": 12
+  }
+ ],
+ "s020": [
+  {
+   "k": "sot",
+   "a": "sot_homeowner_2024",
+   "name": "Santa Rosa homeowner",
+   "role": "KPIX CBS News Bay Area · Aug 2024"
+  }
+ ],
+ "s021": [
+  {
+   "k": "photo",
+   "a": "palisades_ucla",
+   "kb": "in",
+   "label": "Palisades fire, January 2025"
+  },
+  {
+   "at": "State Farm expected",
+   "k": "bars",
+   "title": "State Farm",
+   "rows": [
+    {
+     "n": "Net worth",
+     "v": 170,
+     "label": "$170B"
+    },
+    {
+     "n": "LA fire claims (est.)",
+     "v": 7,
+     "label": "~$7B",
+     "hero": true
+    }
+   ],
+   "src": "State Farm, 2025 · ~4% of net worth"
+  }
+ ],
+ "s022": [
+  {
+   "k": "photo",
+   "a": "eaton_home",
+   "kb": "in",
+   "treat": "ink"
+  }
+ ],
+ "s023": [
+  {
+   "k": "vs",
+   "left_a": "sf_dunwoody",
+   "right_a": "sf_office",
+   "left": "$170B STATE FARM",
+   "right": "YOUR CALIFORNIA INSURER"
+  }
+ ],
+ "s024": [
+  {
+   "k": "doc",
+   "title": "State Farm General Insurance Company",
+   "sub": "a separate company",
+   "lines": [
+    "Its own capital",
+    "Its own balance sheet",
+    "Its own losses"
+   ],
+   "hi": 0
+  },
+  {
+   "at": "The parent can lend",
+   "k": "photo",
+   "a": "sf_dunwoody",
+   "kb": "out",
+   "label": "State Farm Mutual, the parent"
+  }
+ ],
+ "s025": [
+  {
+   "k": "video",
+   "a": "tv_ad_2011",
+   "from": 20
+  },
+  {
+   "at": "Why should a family",
+   "k": "video",
+   "a": "tv_lara23",
+   "from": 18
+  }
+ ],
+ "s026": [
+  {
+   "k": "text",
+   "text": "SIMPLIFIED EXAMPLE",
+   "sub": "round numbers"
+  }
+ ],
+ "s027": [
+  {
+   "k": "cols",
+   "title": "The California company",
+   "rows": [
+    {
+     "n": "Premiums in",
+     "v": 100,
+     "label": "$100"
+    },
+    {
+     "n": "Claims out",
+     "v": 126,
+     "label": "$126",
+     "hero": true
+    }
+   ],
+   "src": "Simplified example · loss: $26"
+  }
+ ],
+ "s028": [
+  {
+   "k": "stat",
+   "kicker": "State Farm General, 2023",
+   "value": "−40%",
+   "sub": "its capital cushion (one analysis)"
+  }
+ ],
+ "s029": [
+  {
+   "k": "doc",
+   "title": "AM Best downgrades State Farm General",
+   "sub": "March 2024",
+   "lines": [
+    "Financial strength rating: A → B"
+   ],
+   "hi": 0
+  }
+ ],
+ "s030": [
+  {
+   "k": "video",
+   "a": "tv_cw23",
+   "from": 2,
+   "label": "Sacramento"
+  }
+ ],
+ "s031": [
+  {
+   "k": "doc",
+   "title": "Proposition 103",
+   "sub": "California, 1988",
+   "lines": [
+    "Rate rises need the state's approval",
+    "Based largely on past losses"
+   ],
+   "hi": 0
+  },
+  {
+   "at": "They couldn't charge",
+   "k": "video",
+   "a": "tv_lara23",
+   "from": 18,
+   "label": "Reinsurance: insurance for insurers"
+  }
+ ],
+ "s032": [
+  {
+   "k": "text",
+   "text": "HARVEY ROSENFIELD",
+   "sub": "wrote Proposition 103"
+  }
+ ],
+ "s033": [
+  {
+   "k": "sot",
+   "a": "sot_rosenfield_2023",
+   "name": "Harvey Rosenfield",
+   "role": "Author, Proposition 103 · KTVU FOX 2, Jul 2023"
+  }
+ ],
+ "s034": [
+  {
+   "k": "video",
+   "a": "tv_stopnew23",
+   "from": 34,
+   "label": "Consumer advocates: State Farm's California losses lower than average"
+  }
+ ],
+ "s035": [
+  {
+   "k": "video",
+   "a": "tv_stopnew23",
+   "from": 4
+  },
+  {
+   "at": "it did the only thing",
+   "k": "video",
+   "a": "tv_loss24",
+   "from": 8
+  }
+ ],
+ "s036": [
+  {
+   "k": "video",
+   "a": "tv_homeowner24",
+   "from": 0
+  },
+  {
+   "at": "Three point six",
+   "k": "cols",
+   "title": "State Farm home insurance, US",
+   "rows": [
+    {
+     "n": "2024",
+     "v": 3.6,
+     "label": "−$3.6B",
+     "hero": true
+    },
+    {
+     "n": "2025",
+     "v": 3.1,
+     "label": "−$3.1B"
+    }
+   ],
+   "src": "State Farm annual reports · underwriting loss"
+  }
+ ],
+ "s037": [
+  {
+   "k": "video",
+   "a": "tv_loss24",
+   "from": 20
+  }
+ ],
+ "s038": [
+  {
+   "k": "text",
+   "text": "YOUR CAR, NOT YOUR HOUSE."
+  }
+ ],
+ "s039": [
+  {
+   "k": "photo",
+   "a": "palisades_drive",
+   "kb": "in",
+   "label": "Pacific Palisades"
+  }
+ ],
+ "s040": [
+  {
+   "k": "photo",
+   "a": "palisades_destroyed",
+   "kb": "out",
+   "treat": "ink"
+  },
+  {
+   "at": "In its main ZIP",
+   "k": "stat",
+   "kicker": "ZIP 90272, Pacific Palisades",
+   "value": "~7 in 10",
+   "sub": "State Farm home policies set for non-renewal"
+  }
+ ],
+ "s041": [
+  {
+   "k": "photo",
+   "a": "palisades_fire",
+   "kb": "in",
+   "label": "7 January 2025"
+  }
+ ],
+ "s042": [
+  {
+   "k": "photo",
+   "a": "usfs_taskforce",
+   "kb": "in"
+  },
+  {
+   "at": "State Farm received",
+   "k": "photo",
+   "a": "eaton_altadena",
+   "kb": "in",
+   "label": "12,000+ State Farm claims"
+  }
+ ],
+ "s043": [
+  {
+   "k": "photo",
+   "a": "eaton_home",
+   "kb": "out",
+   "label": "Renewals offered, but not for policies already ended"
+  }
+ ],
+ "s044": [
+  {
+   "k": "stat",
+   "kicker": "State Farm asks, Feb 2025",
+   "value": "+22%",
+   "sub": "emergency rate rise"
+  }
+ ],
+ "s045": [
+  {
+   "k": "stat",
+   "kicker": "Approved from June 2025",
+   "value": "+17%",
+   "sub": "first emergency rate rise of its kind"
+  }
+ ],
+ "s046": [
+  {
+   "k": "video",
+   "a": "tv_lara23",
+   "from": 0
+  },
+  {
+   "at": "by the end of 2025",
+   "k": "stat",
+   "kicker": "California FAIR Plan, end of 2025",
+   "value": "~670,000",
+   "sub": "policies"
+  }
+ ],
+ "s047": [
+  {
+   "k": "video",
+   "a": "tv_lara23",
+   "from": 6,
+   "label": "FAIR Plan exposure: $724B, up 230% since 2022"
+  }
+ ],
+ "s048": [
+  {
+   "k": "doc",
+   "title": "FAIR Plan: $1 billion assessment on insurers",
+   "sub": "February 2025",
+   "lines": [
+    "Up to half can be passed on to their customers"
+   ],
+   "hi": 0
+  }
+ ],
+ "s049": [
+  {
+   "k": "video",
+   "a": "tv_stopnew23",
+   "from": 36
+  }
+ ],
+ "s050": [
+  {
+   "k": "photo",
+   "a": "lara_photo",
+   "kb": "in",
+   "label": "Ricardo Lara, Insurance Commissioner",
+   "focus": [
+    0.5,
+    0.3
+   ]
+  }
+ ],
+ "s051": [
+  {
+   "k": "sot",
+   "a": "sot_lara_2023",
+   "name": "Ricardo Lara",
+   "role": "California Insurance Commissioner · NBC, Sep 2023"
+  }
+ ],
+ "s052": [
+  {
+   "k": "video",
+   "a": "tv_lara23",
+   "from": 15.5
+  },
+  {
+   "at": "In return",
+   "k": "video",
+   "a": "tv_lara23",
+   "from": 4
+  }
+ ],
+ "s053": [
+  {
+   "k": "video",
+   "a": "tv_stopnew23",
+   "from": 8
+  }
+ ],
+ "s054": [
+  {
+   "k": "photo",
+   "a": "palisades_destroyed",
+   "kb": "in",
+   "treat": "ink"
+  }
+ ],
+ "s055": [
+  {
+   "k": "vs",
+   "left_a": "sf_dunwoody",
+   "right_a": "sf_office",
+   "left": "STATE FARM MUTUAL",
+   "right": "STATE FARM GENERAL"
+  }
+ ],
+ "s056": [
+  {
+   "k": "photo",
+   "a": "palisades_ucla",
+   "kb": "out"
+  },
+  {
+   "at": "When the fires came",
+   "k": "video",
+   "a": "tv_nonrenew24",
+   "from": 52
+  }
+ ],
+ "s057": [
+  {
+   "k": "video",
+   "a": "tv_homeowner24",
+   "from": 4
+  },
+  {
+   "at": "More than three",
+   "k": "stat",
+   "kicker": "Paid to LA fire customers",
+   "value": "$3.5B+",
+   "sub": "by May 2025"
+  }
+ ],
+ "s058": [
+  {
+   "k": "video",
+   "a": "tv_ad_2011",
+   "from": 22,
+   "vol": 0
+  }
+ ],
+ "s059": [
+  {
+   "k": "video",
+   "a": "tv_lara23b",
+   "from": 2
+  }
+ ],
+ "s060": [
+  {
+   "k": "video",
+   "a": "tv_lara23",
+   "from": 0
+  },
+  {
+   "at": "whether the same",
+   "k": "video",
+   "a": "tv_stopnew23",
+   "from": 36
+  }
+ ],
+ "s061": [
+  {
+   "k": "end"
+  }
+ ]
+}

@@ -130,9 +130,12 @@ def cmd_search(terms):
 def _licence_from_wikitext(text):
     """Licence name from a Commons file page's licence templates, e.g. {{cc-by-sa-2.0}} → CC BY-SA 2.0."""
     t = text.lower()
-    m = re.search(r"\{\{(?:self\|)?(cc-(?:by(?:-sa)?|zero)(?:-[\d.]+)?)", t)
-    if m:
-        code = m.group(1)
+    # Licence templates, including multi-licence {{self|GFDL|cc-by-sa-3.0-migrated|cc-by-2.5}}: prefer the most
+    # permissive (CC0, then CC BY, then CC BY-SA).
+    codes = re.findall(r"(?<![\w-])(cc-(?:by(?:-sa)?|zero)(?:-[\d.]+)?)(?!-migrated)", t)
+    codes.sort(key=lambda c: 0 if c == "cc-zero" else (2 if "-sa" in c else 1))
+    if codes:
+        code = codes[0]
         if code == "cc-zero":
             return "CC0"
         parts = code.split("-")[1:]  # ["by", "sa", "2.0"]
