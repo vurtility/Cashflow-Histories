@@ -1,0 +1,377 @@
+[
+  {
+    "id": "s001",
+    "chapter": "COLD OPEN",
+    "cue": "[BROLL: Amex Platinum card ad]",
+    "text": "In 2025, American Express raised the yearly fee on its Platinum card to eight hundred and ninety-five dollars."
+  },
+  {
+    "id": "s002",
+    "chapter": "COLD OPEN",
+    "cue": "[GFX: \"New Platinum sign-ups: 2× the rate before the fee rise\"]",
+    "text": "And new sign-ups doubled."
+  },
+  {
+    "id": "s003",
+    "chapter": "COLD OPEN",
+    "cue": "[GFX: \"2025: rewards and perks $24.5B · profit $10.8B\"]",
+    "text": "That same year, Amex handed its customers twenty-four and a half billion dollars in rewards and perks. And it still made a profit of ten point eight billion."
+  },
+  {
+    "id": "s004",
+    "chapter": "COLD OPEN",
+    "cue": "[VISUAL: title card]",
+    "text": "So if Amex is giving that much away, who is actually paying for it?"
+  },
+  {
+    "id": "s005",
+    "chapter": "COLD OPEN",
+    "cue": "[PHOTO: 1960s oil storage tanks]",
+    "text": "The answer is hiding in a story about a tank of salad oil.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s006",
+    "chapter": "1. THE EXPRESS COMPANY",
+    "cue": "[PHOTO: Henry Wells / William Fargo]",
+    "text": "American Express started in 1850, in Buffalo, New York, as a company that delivered parcels and cash. Two of its founders were Henry Wells and William Fargo, who later started a company of their own: Wells Fargo."
+  },
+  {
+    "id": "s007",
+    "chapter": "1. THE EXPRESS COMPANY",
+    "cue": "[PHOTO: early American Express traveler's cheque]",
+    "text": "In 1891, it invented the traveler's cheque, so Americans abroad could carry money that couldn't be stolen."
+  },
+  {
+    "id": "s008",
+    "chapter": "1. THE EXPRESS COMPANY",
+    "cue": "[PHOTO: 1958 American Express card]",
+    "text": "And in 1958, it launched a card. Not a credit card: a charge card. You had to pay off the whole balance every month."
+  },
+  {
+    "id": "s009",
+    "chapter": "1. THE EXPRESS COMPANY",
+    "cue": "[GFX: \"No balance → no interest. So how does it make money?\"]",
+    "text": "Which raised a question. If customers pay in full and pay no interest, where does the money come from?",
+    "pause_after": 0.6
+  },
+  {
+    "id": "s010",
+    "chapter": "2. SALAD OIL",
+    "cue": "[BROLL: 1960s New Jersey industrial tanks]",
+    "text": "In 1963, a New Jersey trader called Tino De Angelis borrowed heavily against his stocks of soybean oil, stored in giant tanks."
+  },
+  {
+    "id": "s011",
+    "chapter": "2. SALAD OIL",
+    "cue": "[GFX: tank cross-section: \"water\" with a thin layer of \"oil\" on top]",
+    "text": "The tanks were mostly full of water, with a layer of oil floating on top. When inspectors dipped a measuring stick in, they found oil."
+  },
+  {
+    "id": "s012",
+    "chapter": "2. SALAD OIL",
+    "cue": "[DOC: American Express Warehousing certified the receipts]",
+    "text": "And the company that had certified those tanks was a small American Express subsidiary."
+  },
+  {
+    "id": "s013",
+    "chapter": "2. SALAD OIL",
+    "cue": "[GFX: \"Losses: ~$180 million\" · \"Amex stock: −40%\"]",
+    "text": "When the fraud collapsed in November 1963, the banks that had lent against the oil had lost around a hundred and eighty million dollars. Amex's stock fell about forty percent."
+  },
+  {
+    "id": "s014",
+    "chapter": "2. SALAD OIL",
+    "cue": "[DOC: Howard Clark, Amex president: the company is \"morally bound\"]",
+    "text": "Amex didn't have to pay. Its president, Howard Clark, decided it would anyway. It offered sixty million dollars to the people who had been fooled."
+  },
+  {
+    "id": "s015",
+    "chapter": "2. SALAD OIL",
+    "cue": "[PHOTO: Warren Buffett, young]",
+    "text": "In Omaha, a young investor called Warren Buffett went to restaurants and shops to see if anyone had stopped using their American Express cards."
+  },
+  {
+    "id": "s016",
+    "chapter": "2. SALAD OIL",
+    "cue": "",
+    "text": "Nobody had.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "s017",
+    "chapter": "2. SALAD OIL",
+    "cue": "[GFX: \"Buffett Partnership: ~40% of its money into Amex\"]",
+    "text": "So he put about forty percent of his partnership's money into American Express. Within two years, the stock had more than doubled."
+  },
+  {
+    "id": "s018",
+    "chapter": "2. SALAD OIL",
+    "cue": "",
+    "text": "Fast Money panelist, CNBC — \"Please remember, Amex was the fintech of its day. It was revolutionary when Buffett and Co. started buying into that.\" | CNBC Fast Money Halftime Report, 29 Apr 2022",
+    "pause_after": 0.8,
+    "type": "sot",
+    "duration": 7.1
+  },
+  {
+    "id": "s019",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "[BROLL: card payment at a shop]",
+    "text": "Here's what Buffett saw. Every time you pay with an Amex card, the shop pays American Express a slice of the bill."
+  },
+  {
+    "id": "s020",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "[GFX: \"2025: $1.67 trillion spent on Amex cards → $37.4 billion to Amex\"]",
+    "text": "In 2025, people spent one point six seven trillion dollars on Amex cards. The shops paid Amex thirty-seven point four billion dollars for it. That's Amex's biggest source of revenue, by far."
+  },
+  {
+    "id": "s021",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "[GFX: \"$100 dinner → $2.24 to Amex\"]",
+    "text": "On a hundred-dollar dinner, about two dollars and twenty-four cents goes to Amex."
+  },
+  {
+    "id": "s022",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "[GFX: Visa/Mastercard: network + banks · Amex: network AND bank]",
+    "text": "Visa and Mastercard are networks: they run the pipes, and banks issue the cards and take most of the fee. Amex is both. It issues the card and runs the network, so it keeps the whole thing."
+  },
+  {
+    "id": "s023",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "[GFX: \"Average Amex card member spends $25,453 a year\"]",
+    "text": "And Amex's customers are the ones every shop wants. The average Amex card member spends over twenty-five thousand dollars a year on the card."
+  },
+  {
+    "id": "s024",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "[BROLL: Boston restaurants, 1991]",
+    "text": "Shops have fought back. In 1991, restaurants in Boston revolted against Amex's fees and stopped taking the card. The press called it the Boston Fee Party."
+  },
+  {
+    "id": "s025",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "[BROLL: Bloomberg, Nov 2015]",
+    "text": "In 2015, San Francisco sued."
+  },
+  {
+    "id": "s026",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "",
+    "text": "Bloomberg anchor — \"The city is suing Amex for allegedly stifling competition with excessive fees of 3% per swipe, which is higher than what Visa and MasterCard charge.\" | Bloomberg West, 19 Nov 2015",
+    "type": "sot",
+    "duration": 9.2
+  },
+  {
+    "id": "s027",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "[DOC: Supreme Court, 25 June 2018: Ohio v. American Express, 5–4]",
+    "text": "And when states took Amex to court for banning shops from steering customers to cheaper cards, the Supreme Court sided with Amex, five votes to four."
+  },
+  {
+    "id": "s028",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "",
+    "text": "Diana Olick, CNBC — \"That's right, a big win for American Express in this case. The Supreme Court affirmed a lower court's decision that American Express was not violating any antitrust rules.\" | CNBC Squawk on the Street, 25 Jun 2018",
+    "type": "sot",
+    "duration": 9.4
+  },
+  {
+    "id": "s029",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "[VISUAL: beat]",
+    "text": "So Amex charges shops more than anyone. But here's the strange part.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "s030",
+    "chapter": "3. WHAT BUFFETT SAW",
+    "cue": "",
+    "text": "It gives most of it away.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s031",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[GFX: bar: \"Shops paid Amex: $37.4B\"]",
+    "text": "In 2025, shops paid Amex thirty-seven point four billion dollars."
+  },
+  {
+    "id": "s032",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[GFX: bar: \"Rewards: $18.4B\"]",
+    "text": "Amex spent eighteen point four billion on rewards: points, cash back, airline miles."
+  },
+  {
+    "id": "s033",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[GFX: bar: \"Perks: $6.1B\"]",
+    "text": "And six point one billion more on perks: airport lounges, hotel credits, restaurant credits."
+  },
+  {
+    "id": "s034",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[GFX: \"≈ 65% handed straight back\"]",
+    "text": "About two-thirds of what the shops paid, handed straight back to the cardholders."
+  },
+  {
+    "id": "s035",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[BROLL: Amex rewards ad]",
+    "text": "Why give it away? Amex's own adverts told you."
+  },
+  {
+    "id": "s036",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "",
+    "text": "American Express TV ad — \"Membership rewards points from American Express. They're a social currency with endless possibilities.\" | American Express ad as aired, June 2011",
+    "type": "sot",
+    "duration": 5.9
+  },
+  {
+    "id": "s037",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "",
+    "text": "The rewards are the reason people reach for the Amex card first. More spending means more fees from shops. And more spending is what makes shops afraid to refuse the card."
+  },
+  {
+    "id": "s038",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[GFX: \"Net card fees, 2025: $10.0 billion (record)\"]",
+    "text": "Then comes the second trick. Amex charges the customers too. In 2025, card fees brought in a record ten billion dollars, up eighteen percent in a year."
+  },
+  {
+    "id": "s039",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[GFX: Platinum fee: \"$695 → $895\"]",
+    "text": "When Amex raised the Platinum fee by two hundred dollars, sign-ups doubled, and existing members didn't leave."
+  },
+  {
+    "id": "s040",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[BROLL: CNBC, March 2017]",
+    "text": "It's a pattern. In 2017, it did the same thing."
+  },
+  {
+    "id": "s041",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "",
+    "text": "CNBC reporter — \"for the first time in more than a decade, American Express is upping its annual fee by 100 bucks to $550 for the platinum card, making it now the highest annual fee for a credit card in this platinum category.\" | CNBC Power Lunch, 2 Mar 2017",
+    "type": "sot",
+    "duration": 12.2
+  },
+  {
+    "id": "s042",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "",
+    "text": "Eight years later, it's eight hundred and ninety-five."
+  },
+  {
+    "id": "s043",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[VISUAL: \"Simplified example\"]",
+    "text": "Think about what that means for a Platinum member who spends twenty-five thousand dollars a year."
+  },
+  {
+    "id": "s044",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[GFX: \"$25,000 spent × 2.24% = $560 from shops\"]",
+    "text": "The shops pay Amex about five hundred and sixty dollars for that spending."
+  },
+  {
+    "id": "s045",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[GFX: \"+ $895 fee from the member\"]",
+    "text": "The member pays Amex eight hundred and ninety-five dollars to belong."
+  },
+  {
+    "id": "s046",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[GFX: \"= ~$1,455 in · rewards and perks out\"]",
+    "text": "That's over fourteen hundred dollars coming in, before the member gets a single point. The rewards are paid for by the shop, and by the member themselves.",
+    "pause_after": 0.6
+  },
+  {
+    "id": "s047",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[BROLL: checkout line, cash payment]",
+    "text": "And the shop doesn't really pay either. Card fees are built into the price of everything it sells. To everyone. Including the person behind you, paying cash."
+  },
+  {
+    "id": "s048",
+    "chapter": "4. THE GIVEAWAY",
+    "cue": "[DOC: Federal Reserve, 2023: \"Who Pays For Your Rewards?\"]",
+    "text": "In 2023, economists at the Federal Reserve estimated that card rewards move around fifteen billion dollars a year from poorer and less savvy cardholders to richer ones.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s049",
+    "chapter": "5. BUFFETT'S RETURN",
+    "cue": "[PHOTO: Warren Buffett]",
+    "text": "Warren Buffett never really left. In the nineteen-nineties, Berkshire Hathaway bought into American Express again, for about one point three billion dollars in total."
+  },
+  {
+    "id": "s050",
+    "chapter": "5. BUFFETT'S RETURN",
+    "cue": "[GFX: \"Berkshire's Amex stake: cost $1.3B → worth ~$48B (Oct 2026)\"]",
+    "text": "Today Berkshire owns about twenty-two percent of the company. That stake is worth around forty-eight billion dollars."
+  },
+  {
+    "id": "s051",
+    "chapter": "5. BUFFETT'S RETURN",
+    "cue": "[GFX: \"Dividends: ~$479M a year · 37% of the original cost, every year\"]",
+    "text": "And it pays Berkshire around four hundred and seventy-nine million dollars a year in dividends. More than a third of what it cost. Every year."
+  },
+  {
+    "id": "s052",
+    "chapter": "5. BUFFETT'S RETURN",
+    "cue": "[BROLL: Costco]",
+    "text": "But the machine has a weakness. It only works while shops believe they can't afford to refuse the card. In 2016, Costco decided it could."
+  },
+  {
+    "id": "s053",
+    "chapter": "5. BUFFETT'S RETURN",
+    "cue": "",
+    "text": "ABC7 News anchor — \"Costco is officially switching credit card providers from Amex to Citibank Visa. It ends its nearly 20-year relationship with American Express. So if you're gonna be shopping at Costco today, your Amex card will not work.\" | ABC7 News (KGO), 20 Jun 2016",
+    "type": "sot",
+    "duration": 12.0
+  },
+  {
+    "id": "s054",
+    "chapter": "5. BUFFETT'S RETURN",
+    "cue": "[GFX: \"Chase Sapphire Reserve: $795 (2025)\"]",
+    "text": "And the formula is no longer a secret. Chase raised its own premium card's fee to seven hundred and ninety-five dollars in 2025, and filled it with perks. Every bank now wants the customers Amex has.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s055",
+    "chapter": "VERDICT",
+    "cue": "[VISUAL: title card]",
+    "text": "So who is actually paying for twenty-four and a half billion dollars of rewards?"
+  },
+  {
+    "id": "s056",
+    "chapter": "VERDICT",
+    "cue": "[GFX: the money loop: shop → Amex → member → shop prices]",
+    "text": "The shop pays Amex on every swipe. Amex hands most of it back as points and perks, so you'll swipe again. Then you pay Amex eight hundred and ninety-five dollars for the privilege. And the shop puts its costs into its prices, for everyone."
+  },
+  {
+    "id": "s057",
+    "chapter": "VERDICT",
+    "cue": "[PHOTO: Buffett]",
+    "text": "Buffett saw it in 1964, in the middle of a scandal: people kept paying with the card even when the company looked broken."
+  },
+  {
+    "id": "s058",
+    "chapter": "VERDICT",
+    "cue": "[BROLL: card tapped at checkout]",
+    "text": "That's what American Express really sells. Not credit. A habit. And the bill for it is shared by everyone in the queue."
+  },
+  {
+    "id": "s059",
+    "chapter": "VERDICT",
+    "cue": "[END CARD]",
+    "text": "If you'll never look at your card's rewards the same way again, that's what this channel does: the economics nobody explains, one company at a time. Subscribe, and you'll get the next one."
+  }
+]
