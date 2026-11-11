@@ -80,18 +80,22 @@ In 2012, a young man in Phoenix called Ernie Garcia started a company to skip al
 `[BROLL: Nashville vending tower, 2015]`
 In 2015, in Nashville, Carvana opened the thing that made it famous: a five-storey glass tower that hands you your car when you drop in a coin.
 
-[SOT_VENDING]
+`[SOT 12.2s: KTVU FOX 2 news, Nov 2015 — "You'll see a five-story car vending machine in Nashville. The customer that has put a large coin in the machine, it selects the buyer's car out of the glass tower, that car then delivered to the ground floor." | KTVU FOX 2, 12 Nov 2015]`
 
 `[BROLL: CNBC, 2017: IPO day]`
 In April 2017, Carvana went public on the New York Stock Exchange.
 
-[SOT_IPO]
+`[BROLL: CNBC, July 2017: Ernie Garcia interview]`
+Three months later, Garcia was asked on CNBC whether falling used-car prices were a risk.
+
+`[SOT 5.1s: Ernie Garcia, Carvana CEO — "I don't think the macro factors are really gonna play in too heavily in what we're doing, just because we're growing so fast" | CNBC Power Lunch, 6 Jul 2017]`
+◆ **P3 PLANTED** (irony: the macro)
 
 `[GFX: "Retail cars sold: 2017 → 2021"]`
 Then the pandemic shut the car dealerships. People who wouldn't set foot on a lot bought cars on their phones instead, and Carvana's sales more than doubled.
 
 `[GFX: Carvana stock, 2017 → Aug 2021, peak]`
-By August 2021, the stock had risen more than twenty-fold since the IPO.
+For a while, he was right. By August 2021, the stock had risen more than twenty-fold since the IPO.
 
 `[PHOTO: Ernest Garcia II]`
 One person sold more than anyone. The founder's father, Ernest Garcia the Second, the company's largest shareholder, sold more than three point six billion dollars of Carvana stock.
@@ -109,9 +113,10 @@ In 2022, interest rates jumped, and used-car prices started to fall. For a compa
 ◆ **P2 PLANTED** (Carvana lends)
 
 `[DOC: May 2022: "Carvana lays off 2,500" · "Carvana buys ADESA for $2.2 billion"]`
-In May 2022, Carvana laid off twenty-five hundred people, by email. On the same day, it agreed to buy a car-auction business for two point two billion dollars, paid for with debt.
+In May 2022, Carvana laid off twenty-five hundred people, over Zoom. On the same day, it agreed to buy a car-auction business for two point two billion dollars, paid for with debt.
 
-[SOT_LAYOFFS]
+`[SOT 10.0s: Ernie Garcia, Carvana CEO — "And then I think '22 came and we were positioned for another huge year of growth, and car prices went up and interest rates went up and it got more expensive for our customers, and we were overextended." | CNBC Mad Money, 19 Jul 2023]`
+◆ P3 PAID
 
 `[GFX: "2022 net loss: $2.9B"]`
 That year, Carvana lost two point nine billion dollars.
@@ -120,9 +125,9 @@ That year, Carvana lost two point nine billion dollars.
 In December, an analyst warned that a restructuring could leave the shares worthless. The stock fell forty-five percent in one day.
 
 `[BROLL: TV news, Dec 2022]`
-Its biggest bondholders, led by Apollo and Pimco, teamed up to negotiate what they'd get if it went under.
+Its biggest bondholders teamed up, to negotiate what they'd get if it went under.
 
-[SOT_BRINK]
+`[SOT 12.6s: CNBC reporter, Closing Bell — "Look, this report of Apollo as well as PIMCO getting together and saying, look, let's work together in case we see this go into a bankruptcy, which would be a Chapter 11. It would be a prepackaged bankruptcy, most likely." | CNBC Closing Bell, 7 Dec 2022]`
 
 `[GFX: stock chart: "−99%"]`
 From the peak, ninety-nine percent of Carvana's value was gone.
@@ -141,7 +146,7 @@ In July 2023, Carvana and its bondholders made a deal. They swapped old debt for
 `[BROLL: Bloomberg, July 2023: Carvana stock up]`
 Carvana cut costs everywhere. And it started making money on every car it sold.
 
-[SOT_CRAMER]
+
 
 `[GFX: "2025: 596,641 cars · $20.3B revenue · $1.9B net income"]`
 By 2025, Carvana sold almost six hundred thousand cars, and reported record revenue of twenty billion dollars, and one point nine billion of profit. About a third of that profit was a one-off tax gain, but the business underneath was real.
@@ -219,7 +224,11 @@ Then he bought a struggling used-car chain called Ugly Duckling, later renamed D
 At a dealer like that, the car isn't really the product. The loan is.
 
 `[PHOTO: Ernie Garcia III]`
-His son grew up inside that business. Carvana's first money came from DriveTime. And to this day, a DriveTime company called Bridgecrest collects the payments on many of Carvana's loans.
+His son grew up inside that business. In 2014, he explained where Carvana came from.
+
+`[SOT 10.6s: Ernie Garcia, Carvana founder — "So, DriveTime is the seventh largest retailer of used cars in the nation, selling about 100,000 cars this year, give or take. At DriveTime, got a lot of exposure to the finance process, to the retail process." | Bloomberg, 14 Jul 2014]`
+
+Carvana's first money came from DriveTime. And to this day, a DriveTime company called Bridgecrest collects the payments on many of Carvana's loans.
 ◆ **L2 CLOSED** — payoff: what the son learned from the father: the money is in the loan
 
 Carvana took the oldest trick in the used-car business, and put it inside a glass tower.
@@ -228,8 +237,13 @@ Carvana took the oldest trick in the used-car business, and put it inside a glas
 
 ### 6. THE SHORT SELLER
 
+`[BROLL: CNBC Mad Money, 2023]`
+Not everyone believes the comeback. Even in 2023, as the stock soared, Jim Cramer split Carvana in two.
+
+`[SOT 4.9s: Jim Cramer, CNBC — "There's two things. There's two Carvanas. There's Carvana, the company, which I think is incredibly overvalued" | CNBC Mad Money, 15 Jun 2023]`
+
 `[DOC: Hindenburg Research, 2 Jan 2025: "Carvana: A Father-Son Accounting Grift for the Ages"]`
-Not everyone believes the comeback. On the second of January 2025, the short seller Hindenburg Research published a report on Carvana. Its title: "A father-son accounting grift for the ages."
+Then, on the second of January 2025, the short seller Hindenburg Research published a report on Carvana. Its title: "A father-son accounting grift for the ages."
 
 `[GFX: Hindenburg's claims: "$800M of loans sold to a buyer it says is linked to the Garcias" · "extensions keeping delinquencies low"]`
 Hindenburg alleged that eight hundred million dollars of Carvana's loans had been sold to a buyer it believed was connected to the Garcia family, and that loan extensions were hiding how many borrowers had fallen behind.
