@@ -1,0 +1,292 @@
+[
+ {
+  "id": "sot_fintech_2022",
+  "from": "tvnews",
+  "ref": "CNBC_20220429_160000_Fast_Money_Halftime_Report",
+  "t": [
+   647.1,
+   654.3
+  ],
+  "credit": "CNBC Fast Money Halftime Report, 29 Apr 2022 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news report or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "a13",
+  "rel": [
+   7.1,
+   14.3
+  ]
+ },
+ {
+  "id": "sot_sf_2015",
+  "from": "tvnews",
+  "ref": "BLOOMBERG_20151120_040000_Bloomberg_West",
+  "t": [
+   2485.2,
+   2494.4
+  ],
+  "credit": "Bloomberg West, 19 Nov 2015 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news report or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "a07",
+  "rel": [
+   15.2,
+   24.4
+  ]
+ },
+ {
+  "id": "sot_supreme_2018",
+  "from": "tvnews",
+  "ref": "CNBC_20180625_130000_Squawk_on_the_Street",
+  "t": [
+   4438.85,
+   4448.3
+  ],
+  "credit": "CNBC Squawk on the Street, 25 Jun 2018 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news report or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "a06",
+  "rel": [
+   8.85,
+   18.3
+  ]
+ },
+ {
+  "id": "sot_rewardsad_2011",
+  "from": "tvnews",
+  "ref": "KTVU_20110613_140000_Mornings_on_2",
+  "t": [
+   7183.75,
+   7189.7
+  ],
+  "credit": "American Express ad as aired, June 2011 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news report or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "a11",
+  "rel": [
+   23.75,
+   29.7
+  ]
+ },
+ {
+  "id": "sot_fee_2017",
+  "from": "tvnews",
+  "ref": "CNBC_20170302_180000_Power_Lunch",
+  "t": [
+   1553.2,
+   1565.4
+  ],
+  "credit": "CNBC Power Lunch, 2 Mar 2017 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news report or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "a01",
+  "rel": [
+   3.2,
+   15.4
+  ]
+ },
+ {
+  "id": "sot_costco_2016",
+  "from": "tvnews",
+  "ref": "KGO_20160620_180000_ABC7_News_1100AM",
+  "t": [
+   1106.05,
+   1118.3
+  ],
+  "credit": "ABC7 News (KGO), 20 Jun 2016 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news report or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "a09",
+  "rel": [
+   6.05,
+   18.3
+  ]
+ },
+ {
+  "id": "tv_perks17",
+  "from": "tvnews",
+  "ref": "CNBC_20170302_180000_Power_Lunch",
+  "t": [
+   1550,
+   1610
+  ],
+  "credit": "CNBC Power Lunch, 2 Mar 2017 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen",
+  "cand": "a01",
+  "rel": [
+   0,
+   60
+  ]
+ },
+ {
+  "id": "tv_squeri21",
+  "from": "tvnews",
+  "ref": "CNBC_20211124_200000_Closing_Bell",
+  "t": [
+   840,
+   950
+  ],
+  "credit": "CNBC Closing Bell, 24 Nov 2021 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen",
+  "cand": "a03",
+  "rel": [
+   0,
+   110
+  ]
+ },
+ {
+  "id": "tv_chenault13",
+  "from": "tvnews",
+  "ref": "KPIX_20131010_003000_CBS_Evening_News_With_Scott_Pelley",
+  "t": [
+   865,
+   960
+  ],
+  "credit": "CBS Evening News, 9 Oct 2013 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen",
+  "cand": "a05",
+  "rel": [
+   0,
+   95
+  ]
+ },
+ {
+  "id": "tv_supreme18",
+  "from": "tvnews",
+  "ref": "CNBC_20180625_130000_Squawk_on_the_Street",
+  "t": [
+   4430,
+   4500
+  ],
+  "credit": "CNBC Squawk on the Street, 25 Jun 2018 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen",
+  "cand": "a06",
+  "rel": [
+   0,
+   70
+  ]
+ },
+ {
+  "id": "tv_costco16",
+  "from": "tvnews",
+  "ref": "KGO_20160620_180000_ABC7_News_1100AM",
+  "t": [
+   1100,
+   1140
+  ],
+  "credit": "ABC7 News (KGO), 20 Jun 2016 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen",
+  "cand": "a09",
+  "rel": [
+   0,
+   40
+  ]
+ },
+ {
+  "id": "tv_ad11",
+  "from": "tvnews",
+  "ref": "KTVU_20110613_140000_Mornings_on_2",
+  "t": [
+   7160,
+   7192
+  ],
+  "credit": "American Express ad as aired, June 2011 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen",
+  "cand": "a11",
+  "rel": [
+   0,
+   32
+  ]
+ },
+ {
+  "id": "tv_platad17",
+  "from": "tvnews",
+  "ref": "WJLA_20170906_033500_Jimmy_Kimmel_Live",
+  "t": [
+   660,
+   692
+  ],
+  "credit": "American Express Platinum ad as aired, Sep 2017 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen",
+  "cand": "a12",
+  "rel": [
+   0,
+   32
+  ]
+ },
+ {
+  "id": "tv_berkshire17",
+  "from": "tvnews",
+  "ref": "BLOOMBERG_20170519_163000_Bloomberg_Markets_Americas",
+  "t": [
+   805,
+   850
+  ],
+  "credit": "Bloomberg Markets, 19 May 2017 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen",
+  "cand": "a15",
+  "rel": [
+   0,
+   45
+  ]
+ },
+ {
+  "id": "tv_fastmoney22",
+  "from": "tvnews",
+  "ref": "CNBC_20220429_160000_Fast_Money_Halftime_Report",
+  "t": [
+   640,
+   700
+  ],
+  "credit": "CNBC Fast Money Halftime Report, 29 Apr 2022 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen",
+  "cand": "a13",
+  "rel": [
+   0,
+   60
+  ]
+ },
+ {
+  "id": "buffett",
+  "from": "commons",
+  "ref": "File:Warren Buffett at the 2015 SelectUSA Investment Summit.jpg"
+ },
+ {
+  "id": "buffett_ku",
+  "from": "commons",
+  "ref": "File:Warren Buffett KU Visit.jpg"
+ },
+ {
+  "id": "logo_amex",
+  "from": "commons",
+  "ref": "File:American Express logo.png"
+ },
+ {
+  "id": "centurion",
+  "from": "commons",
+  "ref": "File:American Express Centurion Card front.jpg"
+ },
+ {
+  "id": "cheque",
+  "from": "commons",
+  "ref": "File:American Express Traveler Cheque, with denomination 20 US-Dollars.jpg"
+ },
+ {
+  "id": "costco",
+  "from": "commons",
+  "ref": "File:Costco Neihu Warehouse 20140928.jpg"
+ },
+ {
+  "id": "tanks",
+  "from": "commons",
+  "ref": "File:Bayonne tank farm from BB jeh.jpg"
+ },
+ {
+  "id": "fargo_mansion",
+  "from": "commons",
+  "ref": "File:Wiliam G. Fargo Mansion.jpg"
+ },
+ {
+  "id": "henry_wells",
+  "from": "commons",
+  "ref": "File:Henry Wells 120535.JPG"
+ },
+ {
+  "id": "amex_tower",
+  "from": "commons",
+  "ref": "File:Brookfield Place New York August 2017 003.jpg"
+ }
+]

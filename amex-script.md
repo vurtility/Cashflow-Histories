@@ -25,7 +25,16 @@
 | 9 | **Unresolved future** | Can Amex keep raising fees on both sides while rivals copy the formula? |
 
 ### Real-voice clip bank
-(Filled from transcribed TV News Archive excerpts.)
+Exact words transcribed from TV News Archive excerpts (word-timed). Times are seconds into each archive item.
+
+| Who | Words (verified) | Source | Length | Where |
+|---|---|---|---|---|
+| CNBC Fast Money panelist | "Please remember, Amex was the fintech of its day. It was revolutionary when Buffett and Co. started buying into that." | CNBC_20220429_160000_Fast_Money_Halftime_Report @ 647.1–654.3 | 7.1s | Ch 2 |
+| Bloomberg anchor | "The city is suing Amex for allegedly stifling competition with excessive fees of 3% per swipe, which is higher than what Visa and MasterCard charge." | BLOOMBERG_20151120_040000_Bloomberg_West @ 2485.2–2494.4 | 9.2s | Ch 3 |
+| Diana Olick, CNBC | "That's right, a big win for American Express in this case. The Supreme Court affirmed a lower court's decision that American Express was not violating any antitrust rules." | CNBC_20180625_130000_Squawk_on_the_Street @ 4438.85–4448.3 | 9.4s | Ch 3 |
+| American Express TV ad | "Membership rewards points from American Express. They're a social currency with endless possibilities." | KTVU_20110613_140000_Mornings_on_2 @ 7183.75–7189.7 | 5.9s | Ch 4 |
+| CNBC reporter | "for the first time in more than a decade, American Express is upping its annual fee by 100 bucks to $550 for the platinum card, making it now the highest annual fee for a credit card in this platinum category." | CNBC_20170302_180000_Power_Lunch @ 1553.2–1565.4 | 12.2s | Ch 4 |
+| ABC7 News anchor | "Costco is officially switching credit card providers from Amex to Citibank Visa. It ends its nearly 20-year relationship with American Express. So if you're gonna be shopping at Costco today, your Amex card will not work." | KGO_20160620_180000_ABC7_News_1100AM @ 1106.05–1118.3 | 12.2s | Ch 5 |
 
 ---
 
@@ -106,6 +115,8 @@ Nobody had.
 
 `[GFX: "Buffett Partnership: ~40% of its money into Amex"]`
 So he put about forty percent of his partnership's money into American Express. Within two years, the stock had more than doubled.
+
+`[SOT 7.1s: Fast Money panelist, CNBC — "Please remember, Amex was the fintech of its day. It was revolutionary when Buffett and Co. started buying into that." | CNBC Fast Money Halftime Report, 29 Apr 2022]`
 ◆ **CLIFFHANGER #1** (what did he see?)
 [PAUSE 0.8]
 
@@ -130,12 +141,15 @@ And Amex's customers are the ones every shop wants. The average Amex card member
 `[BROLL: Boston restaurants, 1991]`
 Shops have fought back. In 1991, restaurants in Boston revolted against Amex's fees and stopped taking the card. The press called it the Boston Fee Party.
 
-[SOT_COSTCO]
+`[BROLL: Bloomberg, Nov 2015]`
+In 2015, San Francisco sued.
+
+`[SOT 9.2s: Bloomberg anchor — "The city is suing Amex for allegedly stifling competition with excessive fees of 3% per swipe, which is higher than what Visa and MasterCard charge." | Bloomberg West, 19 Nov 2015]`
 
 `[DOC: Supreme Court, 25 June 2018: Ohio v. American Express, 5–4]`
 And when states took Amex to court for banning shops from steering customers to cheaper cards, the Supreme Court sided with Amex, five votes to four.
 
-[SOT_SUPREME]
+`[SOT 9.4s: Diana Olick, CNBC — "That's right, a big win for American Express in this case. The Supreme Court affirmed a lower court's decision that American Express was not violating any antitrust rules." | CNBC Squawk on the Street, 25 Jun 2018]`
 
 `[VISUAL: beat]`
 So Amex charges shops more than anyone. But here's the strange part.
@@ -160,7 +174,11 @@ About two-thirds of what the shops paid, handed straight back to the cardholders
 ◆ **MIDPOINT REVEAL (part 1)**
 
 `[BROLL: Amex rewards ad]`
-Why give it away? Because the rewards are the reason people reach for the Amex card first. More spending means more fees from shops. And more spending is what makes shops afraid to refuse the card.
+Why give it away? Amex's own adverts told you.
+
+`[SOT 5.9s: American Express TV ad — "Membership rewards points from American Express. They're a social currency with endless possibilities." | American Express ad as aired, June 2011]`
+
+The rewards are the reason people reach for the Amex card first. More spending means more fees from shops. And more spending is what makes shops afraid to refuse the card.
 
 `[GFX: "Net card fees, 2025: $10.0 billion (record)"]`
 Then comes the second trick. Amex charges the customers too. In 2025, card fees brought in a record ten billion dollars, up eighteen percent in a year.
@@ -168,7 +186,12 @@ Then comes the second trick. Amex charges the customers too. In 2025, card fees 
 `[GFX: Platinum fee: "$695 → $895"]`
 When Amex raised the Platinum fee by two hundred dollars, sign-ups doubled, and existing members didn't leave.
 
-[SOT_FEE]
+`[BROLL: CNBC, March 2017]`
+It's a pattern. In 2017, it did the same thing.
+
+`[SOT 12.2s: CNBC reporter — "for the first time in more than a decade, American Express is upping its annual fee by 100 bucks to $550 for the platinum card, making it now the highest annual fee for a credit card in this platinum category." | CNBC Power Lunch, 2 Mar 2017]`
+
+Eight years later, it's eight hundred and ninety-five.
 
 `[VISUAL: "Simplified example"]`
 Think about what that means for a Platinum member who spends twenty-five thousand dollars a year.
@@ -205,7 +228,9 @@ And it pays Berkshire around four hundred and seventy-nine million dollars a yea
 ◆ P1 PAID
 
 `[BROLL: Costco]`
-But the machine has a weakness. It only works while shops believe they can't afford to refuse the card. In 2016, Costco decided it could. After sixteen years, it switched to Visa.
+But the machine has a weakness. It only works while shops believe they can't afford to refuse the card. In 2016, Costco decided it could.
+
+`[SOT 12.0s: ABC7 News anchor — "Costco is officially switching credit card providers from Amex to Citibank Visa. It ends its nearly 20-year relationship with American Express. So if you're gonna be shopping at Costco today, your Amex card will not work." | ABC7 News (KGO), 20 Jun 2016]`
 
 `[GFX: "Chase Sapphire Reserve: $795 (2025)"]`
 And the formula is no longer a secret. Chase raised its own premium card's fee to seven hundred and ninety-five dollars in 2025, and filled it with perks. Every bank now wants the customers Amex has.
