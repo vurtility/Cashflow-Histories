@@ -25,7 +25,16 @@
 | 9 | **Unresolved future** | Garcia's target is 3 million cars a year at a 13.5% margin within 5–10 years. Does the loan machine keep working through a downturn in subprime auto? |
 
 ### Real-voice clip bank
-(Filled from transcribed TV News Archive excerpts; see wanted.json.)
+Exact words transcribed from the TV News Archive excerpts (word-timed with Whisper). Times are seconds into each archive item.
+
+| Who | Words (verified) | Source | Length | Where |
+|---|---|---|---|---|
+| KTVU FOX 2 anchor | "You'll see a five-story car vending machine in Nashville. The customer that has put a large coin in the machine, it selects the buyer's car out of the glass tower, that car then delivered to the ground floor." | KTVU_20151112_150000_KTVU_Mornings_on_2_at_7am @ 5298.5–5310.7 | 12.2s | Ch 1 |
+| Ernie Garcia, CNBC 2017 | "I don't think the macro factors are really gonna play in too heavily in what we're doing, just because we're growing so fast" | CNBC_20170706_170000_Power_Lunch @ 2490.65–2495.75 | 5.1s | Ch 1 (irony plant) |
+| Ernie Garcia, CNBC 2023 | "And then I think '22 came and we were positioned for another huge year of growth, and car prices went up and interest rates went up and it got more expensive for our customers, and we were overextended." | CNBC_20230719_220000_Mad_Money @ 1663.55–1673.6 | 10.0s | Ch 2 (payoff) |
+| CNBC reporter | "Look, this report of Apollo as well as PIMCO getting together and saying, look, let's work together in case we see this go into a bankruptcy, which would be a Chapter 11. It would be a prepackaged bankruptcy, most likely." | CNBC_20221207_200000_Closing_Bell @ 3305.45–3318.15 | 12.7s | Ch 2 |
+| Ernie Garcia, Bloomberg 2014 | "So, DriveTime is the seventh largest retailer of used cars in the nation, selling about 100,000 cars this year, give or take. At DriveTime, got a lot of exposure to the finance process, to the retail process." | BLOOMBERG_20140714_210000_Taking_Stock_With_Pimm_Fox @ 3221.05–3231.7 | 10.6s | Ch 5 (picture: Garcia, CNBC 2017, held) |
+| Jim Cramer | "There's two things. There's two Carvanas. There's Carvana, the company, which I think is incredibly overvalued" | CNBC_20230615_220000_Mad_Money @ 3104.55–3109.5 | 4.9s | Ch 6 |
 
 ---
 
