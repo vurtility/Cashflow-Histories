@@ -1,0 +1,828 @@
+{
+ "s001": [
+  {
+   "k": "video",
+   "a": "tv_vend15",
+   "from": 32
+  },
+  {
+   "at": "A glass tower",
+   "k": "video",
+   "a": "tv_vend15",
+   "from": 14
+  }
+ ],
+ "s002": [
+  {
+   "k": "video",
+   "a": "tv_garcia24",
+   "from": 36,
+   "label": "Carvana stock"
+  },
+  {
+   "at": "Sixteen months",
+   "k": "video",
+   "a": "tv_crash22",
+   "from": 8
+  }
+ ],
+ "s003": [
+  {
+   "k": "video",
+   "a": "tv_bk22",
+   "from": 44
+  },
+  {
+   "at": "Analysts warned",
+   "k": "video",
+   "a": "tv_cash22",
+   "from": 16
+  }
+ ],
+ "s004": [
+  {
+   "k": "photo",
+   "a": "nyse",
+   "kb": "in",
+   "label": "S&P 500 · 22 December 2025"
+  },
+  {
+   "at": "Last year",
+   "k": "stat",
+   "kicker": "Carvana, 2025",
+   "value": "$1.9B",
+   "sub": "reported profit"
+  }
+ ],
+ "s005": [
+  {
+   "k": "photo",
+   "a": "vend_dallas",
+   "kb": "in",
+   "treat": "ink"
+  }
+ ],
+ "s006": [
+  {
+   "k": "video",
+   "a": "tv_vend15",
+   "from": 20
+  },
+  {
+   "at": "It's something",
+   "k": "video",
+   "a": "tv_garcia17",
+   "from": 46,
+   "label": "Ernie Garcia, founder"
+  }
+ ],
+ "s007": [
+  {
+   "k": "text",
+   "text": "A COURTROOM."
+  }
+ ],
+ "s008": [
+  {
+   "k": "photo",
+   "a": "used_lot",
+   "kb": "in",
+   "focus": [
+    0.5,
+    0.6
+   ]
+  }
+ ],
+ "s009": [
+  {
+   "k": "video",
+   "a": "tv_garcia17",
+   "from": 60
+  },
+  {
+   "at": "You'd pick",
+   "k": "video",
+   "a": "tv_layoff22",
+   "from": 12
+  },
+  {
+   "at": "Don't like it",
+   "k": "video",
+   "a": "tv_layoff22",
+   "from": 20
+  }
+ ],
+ "s010": [
+  {
+   "k": "place",
+   "place": "NASHVILLE",
+   "year": "2015"
+  },
+  {
+   "at": "a five-storey",
+   "k": "video",
+   "a": "tv_vend15",
+   "from": 12
+  }
+ ],
+ "s011": [
+  {
+   "k": "sot",
+   "a": "sot_vending_2015",
+   "name": "KTVU FOX 2",
+   "role": "News report · Nov 2015"
+  }
+ ],
+ "s012": [
+  {
+   "k": "video",
+   "a": "tv_ipo17",
+   "from": 12,
+   "label": "New York Stock Exchange · April 2017"
+  }
+ ],
+ "s013": [
+  {
+   "k": "video",
+   "a": "tv_garcia17",
+   "from": 14
+  }
+ ],
+ "s014": [
+  {
+   "k": "sot",
+   "a": "sot_garcia_macro_2017",
+   "name": "Ernie Garcia",
+   "role": "Carvana CEO · CNBC, Jul 2017"
+  }
+ ],
+ "s015": [
+  {
+   "k": "video",
+   "a": "tv_vend22",
+   "from": 16
+  },
+  {
+   "at": "and Carvana's sales",
+   "k": "cols",
+   "title": "Carvana: cars sold",
+   "rows": [
+    {
+     "n": "2019",
+     "v": 177549,
+     "label": "178K"
+    },
+    {
+     "n": "2021",
+     "v": 425237,
+     "label": "425K",
+     "hero": true
+    }
+   ],
+   "src": "Carvana 10-K filings"
+  }
+ ],
+ "s016": [
+  {
+   "k": "video",
+   "a": "tv_garcia24",
+   "from": 36
+  },
+  {
+   "at": "By August 2021",
+   "k": "stat",
+   "kicker": "Carvana stock, IPO → Aug 2021",
+   "value": "20×+",
+   "sub": "peak, August 2021"
+  }
+ ],
+ "s017": [
+  {
+   "k": "video",
+   "a": "tv_vend22",
+   "from": 24
+  },
+  {
+   "at": "sold more than three",
+   "k": "stat",
+   "kicker": "Ernest Garcia II, 2020–21",
+   "value": "$3.6B+",
+   "sub": "of Carvana stock sold"
+  }
+ ],
+ "s018": [
+  {
+   "k": "video",
+   "a": "tv_crash22",
+   "from": 30
+  }
+ ],
+ "s019": [
+  {
+   "k": "video",
+   "a": "tv_fox23",
+   "from": 16
+  },
+  {
+   "at": "For a company that lent",
+   "k": "video",
+   "a": "tv_layoff22",
+   "from": 20
+  }
+ ],
+ "s020": [
+  {
+   "k": "video",
+   "a": "tv_layoff22",
+   "from": 14
+  },
+  {
+   "at": "On the same day",
+   "k": "video",
+   "a": "tv_layoff22",
+   "from": 30
+  }
+ ],
+ "s021": [
+  {
+   "k": "sot",
+   "a": "sot_garcia_22_2023",
+   "name": "Ernie Garcia",
+   "role": "Carvana CEO · CNBC, Jul 2023"
+  }
+ ],
+ "s022": [
+  {
+   "k": "stat",
+   "kicker": "Carvana, 2022",
+   "value": "−$2.9B",
+   "sub": "net loss"
+  }
+ ],
+ "s023": [
+  {
+   "k": "doc",
+   "title": "Carvana falls by a record 45%",
+   "sub": "Fortune, 7 December 2022",
+   "lines": [
+    "A restructuring 'could leave the equity worthless'"
+   ],
+   "hi": 0
+  }
+ ],
+ "s024": [
+  {
+   "k": "video",
+   "a": "tv_bk22",
+   "from": 16
+  }
+ ],
+ "s025": [
+  {
+   "k": "sot",
+   "a": "sot_creditors_2022",
+   "name": "CNBC",
+   "role": "Closing Bell · 7 Dec 2022"
+  }
+ ],
+ "s026": [
+  {
+   "k": "video",
+   "a": "tv_crash22",
+   "from": 36
+  }
+ ],
+ "s027": [
+  {
+   "k": "video",
+   "a": "tv_vend15",
+   "from": 22
+  }
+ ],
+ "s028": [
+  {
+   "k": "photo",
+   "a": "vend_jax",
+   "kb": "in",
+   "treat": "ink"
+  }
+ ],
+ "s029": [
+  {
+   "k": "doc",
+   "title": "Carvana announces agreement with noteholders",
+   "sub": "19 July 2023",
+   "lines": [
+    "Reducing total debt by over $1.2 billion",
+    "Extending maturities"
+   ],
+   "hi": 0
+  },
+  {
+   "at": "due years later",
+   "k": "video",
+   "a": "tv_madmoney23",
+   "from": 0,
+   "label": "CNBC Mad Money, July 2023"
+  }
+ ],
+ "s030": [
+  {
+   "k": "video",
+   "a": "tv_garcia17",
+   "from": 62
+  }
+ ],
+ "s031": [
+  {
+   "k": "video",
+   "a": "tv_vend22",
+   "from": 28
+  },
+  {
+   "at": "and reported record",
+   "k": "stat",
+   "kicker": "Carvana, 2025",
+   "value": "596,641",
+   "sub": "cars sold · $20.3B revenue · $1.9B profit"
+  }
+ ],
+ "s032": [
+  {
+   "k": "photo",
+   "a": "nyse",
+   "kb": "out",
+   "label": "Joined the S&P 500 · 22 Dec 2025"
+  },
+  {
+   "at": "From its low",
+   "k": "video",
+   "a": "tv_garcia24b",
+   "from": 52
+  }
+ ],
+ "s033": [
+  {
+   "k": "photo",
+   "a": "carmax",
+   "kb": "in",
+   "label": "CarMax · shares down ~50% in 2025"
+  }
+ ],
+ "s034": [
+  {
+   "k": "video",
+   "a": "tv_garcia24b",
+   "from": 10
+  }
+ ],
+ "s035": [
+  {
+   "k": "photo",
+   "a": "vend_tempe",
+   "kb": "in",
+   "focus": [
+    0.5,
+    0.35
+   ]
+  }
+ ],
+ "s036": [
+  {
+   "k": "text",
+   "text": "ONE CAR",
+   "sub": "Carvana's average, 2025 · from its annual report"
+  }
+ ],
+ "s037": [
+  {
+   "k": "cols",
+   "title": "Profit per car, 2025",
+   "rows": [
+    {
+     "n": "The car",
+     "v": 3315,
+     "label": "$3,315"
+    }
+   ],
+   "src": "Carvana 2025 annual report · gross profit per retail unit"
+  }
+ ],
+ "s038": [
+  {
+   "k": "cols",
+   "title": "Profit per car, 2025",
+   "rows": [
+    {
+     "n": "The car",
+     "v": 3315,
+     "label": "$3,315"
+    },
+    {
+     "n": "Wholesale",
+     "v": 806,
+     "label": "$806"
+    }
+   ],
+   "src": "Carvana 2025 annual report · gross profit per retail unit"
+  }
+ ],
+ "s039": [
+  {
+   "k": "cols",
+   "title": "Profit per car, 2025",
+   "rows": [
+    {
+     "n": "The car",
+     "v": 3315,
+     "label": "$3,315"
+    },
+    {
+     "n": "Wholesale",
+     "v": 806,
+     "label": "$806"
+    },
+    {
+     "n": "Everything else",
+     "v": 2905,
+     "label": "$2,905",
+     "hero": true
+    }
+   ],
+   "src": "Carvana 2025 annual report · gross profit per retail unit"
+  }
+ ],
+ "s040": [
+  {
+   "k": "text",
+   "text": "ALMOST AS MUCH AS THE CAR."
+  }
+ ],
+ "s041": [
+  {
+   "k": "video",
+   "a": "tv_layoff22",
+   "from": 24
+  },
+  {
+   "at": "And above all",
+   "k": "text",
+   "text": "THE LOAN."
+  }
+ ],
+ "s042": [
+  {
+   "k": "text",
+   "text": "SIMPLIFIED EXAMPLE",
+   "sub": "round numbers"
+  }
+ ],
+ "s043": [
+  {
+   "k": "stat",
+   "kicker": "You borrow",
+   "value": "$20,000",
+   "sub": "at 14%, over six years (example)"
+  }
+ ],
+ "s044": [
+  {
+   "k": "video",
+   "a": "tv_layoff22",
+   "from": 16
+  },
+  {
+   "at": "who pay more",
+   "k": "stat",
+   "kicker": "Investors pay",
+   "value": "$21,000",
+   "sub": "for your payments (example)"
+  }
+ ],
+ "s045": [
+  {
+   "k": "stat",
+   "kicker": "Carvana's profit, day one",
+   "value": "+$1,000",
+   "sub": "the risk goes with the loan (example)"
+  }
+ ],
+ "s046": [
+  {
+   "k": "cols",
+   "title": "Carvana, first nine months of 2025",
+   "rows": [
+    {
+     "n": "Lent",
+     "v": 9.18,
+     "label": "$9.2B"
+    },
+    {
+     "n": "Gain on selling loans",
+     "v": 0.878,
+     "label": "$878M",
+     "hero": true
+    }
+   ],
+   "src": "Carvana Q3 2025 10-Q · ~10¢ per $1 lent"
+  }
+ ],
+ "s047": [
+  {
+   "k": "video",
+   "a": "tv_garcia17",
+   "from": 66
+  },
+  {
+   "at": "Carvana says",
+   "k": "video",
+   "a": "tv_garcia17",
+   "from": 88
+  }
+ ],
+ "s048": [
+  {
+   "k": "video",
+   "a": "tv_crash22",
+   "from": 12
+  },
+  {
+   "at": "and investors would",
+   "k": "video",
+   "a": "tv_cash22",
+   "from": 28
+  }
+ ],
+ "s049": [
+  {
+   "k": "video",
+   "a": "tv_garcia24",
+   "from": 40
+  },
+  {
+   "at": "every car became",
+   "k": "video",
+   "a": "tv_vend22",
+   "from": 20
+  }
+ ],
+ "s050": [
+  {
+   "k": "video",
+   "a": "tv_garcia17",
+   "from": 48,
+   "label": "Ernie Garcia"
+  }
+ ],
+ "s051": [
+  {
+   "k": "doc",
+   "title": "Lincoln S&L Figure Pleads Guilty to Fraud",
+   "sub": "Los Angeles Times, 31 October 1990",
+   "lines": [
+    "Ernest Garcia II admits helping the thrift hide its ownership of risky Arizona desert land"
+   ],
+   "hi": 0
+  },
+  {
+   "at": "He got three years",
+   "k": "text",
+   "text": "THREE YEARS' PROBATION",
+   "sub": "Ernest Garcia II, 1990"
+  }
+ ],
+ "s052": [
+  {
+   "k": "photo",
+   "a": "used_lot",
+   "kb": "out",
+   "treat": "ink"
+  },
+  {
+   "at": "It sold cars",
+   "k": "text",
+   "text": "BUY HERE, PAY HERE",
+   "sub": "DriveTime (formerly Ugly Duckling)"
+  }
+ ],
+ "s053": [
+  {
+   "k": "text",
+   "text": "THE CAR IS HOW YOU GET THE LOAN."
+  }
+ ],
+ "s054": [
+  {
+   "k": "video",
+   "a": "tv_garcia17",
+   "from": 90
+  }
+ ],
+ "s055": [
+  {
+   "k": "sot",
+   "a": "sot_drivetime_2014",
+   "pic": "sot_garcia_macro_2017",
+   "picAt": 2.0,
+   "name": "Ernie Garcia",
+   "role": "Carvana founder · Bloomberg, Jul 2014"
+  }
+ ],
+ "s056": [
+  {
+   "k": "video",
+   "a": "tv_vend22",
+   "from": 32
+  },
+  {
+   "at": "And to this day",
+   "k": "doc",
+   "title": "Bridgecrest",
+   "sub": "a DriveTime company",
+   "lines": [
+    "Services many of Carvana's loans"
+   ],
+   "hi": 0
+  }
+ ],
+ "s057": [
+  {
+   "k": "video",
+   "a": "tv_vend15",
+   "from": 16
+  }
+ ],
+ "s058": [
+  {
+   "k": "video",
+   "a": "tv_madmoney23",
+   "from": 30
+  }
+ ],
+ "s059": [
+  {
+   "k": "sot",
+   "a": "sot_cramer_2023",
+   "name": "Jim Cramer",
+   "role": "CNBC Mad Money · Jun 2023",
+   "pic": "tv_spruce19",
+   "picAt": 3
+  }
+ ],
+ "s060": [
+  {
+   "k": "logo",
+   "a": "logo_hindenburg",
+   "sub": "Short seller · 2 January 2025"
+  },
+  {
+   "at": "Its title",
+   "k": "quote",
+   "text": "A father-son accounting grift for the ages",
+   "by": "Hindenburg Research on Carvana, 2 Jan 2025",
+   "style": "clip"
+  }
+ ],
+ "s061": [
+  {
+   "k": "video",
+   "a": "tv_spruce19",
+   "from": 12,
+   "label": "Short sellers have questioned Carvana's loans since 2019"
+  }
+ ],
+ "s062": [
+  {
+   "k": "quote",
+   "text": "intentionally misleading and inaccurate",
+   "by": "Carvana, responding to Hindenburg, 2 Jan 2025",
+   "style": "clip"
+  }
+ ],
+ "s063": [
+  {
+   "k": "doc",
+   "title": "Hindenburg Research is shutting down",
+   "sub": "15 January 2025",
+   "lines": [
+    "Founder Nate Anderson: the work had become 'all-encompassing'"
+   ],
+   "hi": 0
+  },
+  {
+   "at": "Carvana's stock kept",
+   "k": "video",
+   "a": "tv_garcia24b",
+   "from": 56
+  }
+ ],
+ "s064": [
+  {
+   "k": "video",
+   "a": "tv_cash22",
+   "from": 20
+  },
+  {
+   "at": "And in 2026",
+   "k": "stat",
+   "kicker": "Carvana, 2026",
+   "value": "−$200",
+   "sub": "per car, from rising rates and fuel"
+  }
+ ],
+ "s065": [
+  {
+   "k": "photo",
+   "a": "vend_night",
+   "kb": "in",
+   "focus": [
+    0.5,
+    0.3
+   ]
+  }
+ ],
+ "s066": [
+  {
+   "k": "cols",
+   "title": "Profit per car, 2025",
+   "rows": [
+    {
+     "n": "The car",
+     "v": 3315,
+     "label": "$3,315"
+    },
+    {
+     "n": "Wholesale",
+     "v": 806,
+     "label": "$806"
+    },
+    {
+     "n": "Everything else",
+     "v": 2905,
+     "label": "$2,905",
+     "hero": true
+    }
+   ],
+   "src": "Carvana 2025 annual report"
+  },
+  {
+   "at": "It writes the loan",
+   "k": "video",
+   "a": "tv_layoff22",
+   "from": 20
+  }
+ ],
+ "s067": [
+  {
+   "k": "video",
+   "a": "tv_garcia24",
+   "from": 44
+  },
+  {
+   "at": "When money gets expensive",
+   "k": "video",
+   "a": "tv_crash22",
+   "from": 20
+  }
+ ],
+ "s068": [
+  {
+   "k": "video",
+   "a": "tv_garcia24b",
+   "from": 12,
+   "label": "Ernie Garcia, CEO"
+  },
+  {
+   "at": "That's five times",
+   "k": "stat",
+   "kicker": "Garcia's goal, 5–10 years",
+   "value": "3M",
+   "sub": "cars a year · 5× 2025"
+  }
+ ],
+ "s069": [
+  {
+   "k": "video",
+   "a": "tv_vend15",
+   "from": 32
+  }
+ ],
+ "s070": [
+  {
+   "k": "video",
+   "a": "tv_vend15",
+   "from": 14
+  },
+  {
+   "at": "And it only works",
+   "k": "video",
+   "a": "tv_vend22",
+   "from": 16
+  }
+ ],
+ "s071": [
+  {
+   "k": "end"
+  }
+ ]
+}

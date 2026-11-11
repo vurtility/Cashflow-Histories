@@ -1,0 +1,1602 @@
+{
+  "median_db": -14.9,
+  "spent_chars": 0,
+  "results": {
+    "s001": {
+      "heard": "You put a giant coin in a slot, a glass tower spins, and the car comes out.",
+      "accuracy": 0.938,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "a",
+          "heard": "the"
+        }
+      ],
+      "pace": {
+        "syllables": 19,
+        "rate": 3.49,
+        "wpm": 187.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 0.938,
+      "risky": [],
+      "attempts": []
+    },
+    "s002": {
+      "heard": "In 2021, the company behind it was one of the hottest stocks in America. Sixteen months later, it had lost 99% of its value.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 3.91,
+        "wpm": 158.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.923
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "America"
+      ],
+      "attempts": []
+    },
+    "s003": {
+      "heard": "Its lenders were preparing for bankruptcy. Analysts warned the shares could end up worthless.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 4.2,
+        "wpm": 146.9,
+        "lead_silence": 0.02,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.92
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s004": {
+      "heard": "Three years later, Carvana joined the S&P 500. Last year, it reported almost $2 billion of profit.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 3.44,
+        "wpm": 137.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.969
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Carvana"
+      ],
+      "attempts": []
+    },
+    "s005": {
+      "heard": "So how does a company that lost 99% of its value end up among the 500 biggest in America?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 33,
+        "rate": 5.0,
+        "wpm": 190.9,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.947
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "America"
+      ],
+      "attempts": []
+    },
+    "s006": {
+      "heard": "The answer isn't the vending machine, it's something the founder learned from his father.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 4.58,
+        "wpm": 175.0,
+        "lead_silence": 0.02,
+        "silences": [
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.88
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s007": {
+      "heard": "and his father learned it in a courtroom.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 11,
+        "rate": 4.82,
+        "wpm": 210.5,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.856
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s008": {
+      "heard": "Buying a used car has always been the part of adult life people dread. The haggling, the hours at the desk, the man who has to check with his manager.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 3.78,
+        "wpm": 184.0,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.984
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s009": {
+      "heard": "In 2012, a young man in Phoenix called Ernie Garcia started a company to skip all of it. You'd pick a car on your phone, get a loan in minutes, and have it delivered. Don't like it? Send it back within seven days.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 55,
+        "rate": 4.17,
+        "wpm": 195.5,
+        "lead_silence": 0.06,
+        "silences": [
+          0.34,
+          0.36,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.927
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Ernie Garcia",
+        "Phoenix"
+      ],
+      "attempts": []
+    },
+    "s010": {
+      "heard": "In 2015, in Nashville, Carvana opened the thing that made it famous, a five-story glass tower that hands you your car when you drop in a coin.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 3.92,
+        "wpm": 171.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.28,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Carvana",
+        "Nashville"
+      ],
+      "attempts": []
+    },
+    "s012": {
+      "heard": "In April 2017, Carvana went public on the New York Stock Exchange.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 16,
+        "rate": 3.4,
+        "wpm": 153.2,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.901
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "April",
+        "Carvana",
+        "New York Stock Exchange"
+      ],
+      "attempts": []
+    },
+    "s013": {
+      "heard": "Three months later, Garcia was asked on CNBC whether falling used car prices were a risk.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 3.76,
+        "wpm": 147.1,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.893
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "CNBC",
+        "Garcia"
+      ],
+      "attempts": []
+    },
+    "s015": {
+      "heard": "Then, the pandemic shut the car dealerships, people who wouldn't set foot on a lot bought cars on their phones instead, and Carvana's sales more than doubled.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 38,
+        "rate": 3.89,
+        "wpm": 165.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.98
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Carvana's"
+      ],
+      "attempts": []
+    },
+    "s016": {
+      "heard": "For a while, he was right. By August 2021, the stock had risen more than 20-fold since the IPO.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 3.35,
+        "wpm": 159.2,
+        "lead_silence": 0.04,
+        "silences": [
+          0.34,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -13.9,
+        "peak": 0.909
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "August",
+        "IPO"
+      ],
+      "attempts": []
+    },
+    "s017": {
+      "heard": "One person sold more than anyone. The founder's father, Ernest Garcia II, the company's largest shareholder, sold more than $3.6 billion of carvana stock.",
+      "accuracy": 0.926,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "the second",
+          "heard": "ii"
+        }
+      ],
+      "pace": {
+        "syllables": 45,
+        "rate": 3.92,
+        "wpm": 146.3,
+        "lead_silence": 0.06,
+        "silences": [
+          0.36,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.917
+      },
+      "problems": [],
+      "score": 0.926,
+      "risky": [
+        "Carvana",
+        "Ernest Garcia",
+        "Second"
+      ],
+      "attempts": []
+    },
+    "s018": {
+      "heard": "He stopped selling a few days after the stock hit its all-time high.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 17,
+        "rate": 4.45,
+        "wpm": 204.2,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.918
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s019": {
+      "heard": "In 2022, interest rates jumped and used car prices started to fall. For a company that had bought hundreds of thousands of cars at peak prices, that was bad. For a company that lent its customers the money to buy them, it was worse.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 60,
+        "rate": 3.91,
+        "wpm": 168.2,
+        "lead_silence": 0.02,
+        "silences": [
+          0.36,
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.919
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s020": {
+      "heard": "In May 2022, Carvana laid off 2,500 people over Zoom. On the Sing Day, it agreed to buy a car auction business for $2.2 billion, paid for with debt.",
+      "accuracy": 0.943,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "twenty",
+          "heard": "two thousand"
+        },
+        {
+          "type": "replace",
+          "expected": "same",
+          "heard": "sing"
+        }
+      ],
+      "pace": {
+        "syllables": 45,
+        "rate": 3.38,
+        "wpm": 144.4,
+        "lead_silence": 0.06,
+        "silences": [
+          0.34,
+          0.4,
+          0.28,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.911
+      },
+      "problems": [],
+      "score": 0.943,
+      "risky": [
+        "(digits in text)",
+        "Carvana",
+        "May",
+        "Zoom"
+      ],
+      "attempts": []
+    },
+    "s022": {
+      "heard": "That year, Carvana lost $2.9 billion.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 13,
+        "rate": 3.35,
+        "wpm": 139.2,
+        "lead_silence": 0.0,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Carvana"
+      ],
+      "attempts": []
+    },
+    "s023": {
+      "heard": "In December, an analyst warned that a restructuring could leave the shares worthless. The stock fell 45% in one day.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 34,
+        "rate": 4.09,
+        "wpm": 151.4,
+        "lead_silence": 0.06,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.888
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "December"
+      ],
+      "attempts": []
+    },
+    "s024": {
+      "heard": "Its biggest bond holders teamed up to negotiate what they'd get if it went under.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 21,
+        "rate": 4.65,
+        "wpm": 185.8,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.942
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s026": {
+      "heard": "From the peak, 99% of Carvana's value was gone.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 16,
+        "rate": 3.76,
+        "wpm": 140.8,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.898
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Carvana's"
+      ],
+      "attempts": []
+    },
+    "s027": {
+      "heard": "The obvious story is that it grew too fast, bought too much, and borrowed to do it. All true.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 3.64,
+        "wpm": 180.4,
+        "lead_silence": 0.06,
+        "silences": [
+          0.44
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.918
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s028": {
+      "heard": "But that story can't explain what happened next.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 12,
+        "rate": 4.44,
+        "wpm": 177.8,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.882
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s029": {
+      "heard": "In July 2023, Carvana and its bondholders made a deal. They swapped old debt for new, $1.2 billion less of it, due years later, and partly paid in more bonds instead of cash.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 46,
+        "rate": 3.49,
+        "wpm": 163.9,
+        "lead_silence": 0.08,
+        "silences": [
+          0.26,
+          0.34,
+          0.28,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.914
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Carvana",
+        "July"
+      ],
+      "attempts": []
+    },
+    "s030": {
+      "heard": "Carvana cut costs everywhere, and it started making money on every car it sold.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 4.53,
+        "wpm": 158.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.91
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s031": {
+      "heard": "By 2025, Carvana sold almost 600,000 cars and reported record revenue of $20 billion and $1.9 billion of profit. About a third of that profit was a one-off tax gain, but the business underneath was real.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 61,
+        "rate": 3.74,
+        "wpm": 150.9,
+        "lead_silence": 0.04,
+        "silences": [
+          0.42,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.901
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Carvana",
+        "record"
+      ],
+      "attempts": []
+    },
+    "s032": {
+      "heard": "In December 2025, it joined the S&P 500. From its low, the stock had risen more than 10,000%.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 2.91,
+        "wpm": 138.0,
+        "lead_silence": 0.04,
+        "silences": [
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.915
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "December"
+      ],
+      "attempts": []
+    },
+    "s033": {
+      "heard": "Meanwhile, Carmax, the giant of used cars for 30 years, saw its shares have in 2025 and its chief executive left.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 29,
+        "rate": 3.25,
+        "wpm": 141.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.917
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "CarMax"
+      ],
+      "attempts": []
+    },
+    "s034": {
+      "heard": "So, what did Carvana find that Carmax didn't?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 11,
+        "rate": 3.5,
+        "wpm": 152.9,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.915
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "CarMax",
+        "Carvana"
+      ],
+      "attempts": []
+    },
+    "s035": {
+      "heard": "To see it, you have to look at a single car.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 12,
+        "rate": 4.69,
+        "wpm": 257.8,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.7,
+        "peak": 0.87
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s036": {
+      "heard": "Here's what Carvana made on the average car it sold in 2025 from its own annual report.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 3.99,
+        "wpm": 177.1,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Carvana"
+      ],
+      "attempts": []
+    },
+    "s037": {
+      "heard": "On the car itself, the gap between what it paid and what you paid, $3,315.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 3.8,
+        "wpm": 177.5,
+        "lead_silence": 0.06,
+        "silences": [
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.908
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s038": {
+      "heard": "From selling on the cars it doesn't want, about 800.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 14,
+        "rate": 3.89,
+        "wpm": 183.3,
+        "lead_silence": 0.06,
+        "silences": [
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.872
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s039": {
+      "heard": "And from everything else, $2,905.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 17,
+        "rate": 4.11,
+        "wpm": 159.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.896
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s040": {
+      "heard": "Almost as much as the car.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 7,
+        "rate": 4.27,
+        "wpm": 219.5,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.897
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s041": {
+      "heard": "Everything else is mostly paperwork, the warranty, the gap insurance, and above all, the loan.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 3.7,
+        "wpm": 128.2,
+        "lead_silence": 0.08,
+        "silences": [
+          0.3,
+          0.26,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.925
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Everything"
+      ],
+      "attempts": []
+    },
+    "s042": {
+      "heard": "Here's how a loan becomes profit on day one. Simple Numbers",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 17,
+        "rate": 3.92,
+        "wpm": 152.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.48
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.92
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s043": {
+      "heard": "Say you borrowed $20,000 from Carvana to buy the car at 14% over six years.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 4.31,
+        "wpm": 172.5,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.921
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Carvana"
+      ],
+      "attempts": []
+    },
+    "s044": {
+      "heard": "Carvada doesn't keep your loan, it bundles it with thousands of others and sells them to banks and investors who pay more than $20,000 for the right to collect your payments, say $21,000.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 50,
+        "rate": 4.2,
+        "wpm": 181.5,
+        "lead_silence": 0.08,
+        "silences": [
+          0.32,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.925
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s045": {
+      "heard": "That's a thousand dollars of profit for Carvana, booked the day you drive away. Your payments, and the risk that you stop making them, now belong to someone else.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 40,
+        "rate": 4.14,
+        "wpm": 180.1,
+        "lead_silence": 0.06,
+        "silences": [
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Carvana"
+      ],
+      "attempts": []
+    },
+    "s046": {
+      "heard": "In the first nine months of 2025, Carvana lent $9.2 billion and made $878 million from selling loans, almost 10 cents on every dollar it lent.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 44,
+        "rate": 3.67,
+        "wpm": 160.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.908
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Carvana"
+      ],
+      "attempts": []
+    },
+    "s047": {
+      "heard": "To be fair, every car dealer makes money on finance. Carvana says it's simply making the whole purchase easy, and that it sells most loans to unrelated buyers.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 44,
+        "rate": 4.49,
+        "wpm": 171.4,
+        "lead_silence": 0.08,
+        "silences": [
+          0.38,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.92
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s048": {
+      "heard": "But this is why 2022 nearly killed it. When rates jumped, the loans it was writing were suddenly worth less, and investors would only buy them at a bigger discount.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 41,
+        "rate": 4.0,
+        "wpm": 175.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.92
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s049": {
+      "heard": "And this is why it came back. Once Carvana could sell its loans at a profit again, every car became a two-part sale. The car and the money.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 38,
+        "rate": 4.17,
+        "wpm": 184.2,
+        "lead_silence": 0.08,
+        "silences": [
+          0.4,
+          0.28,
+          0.32,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.897
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Carvana"
+      ],
+      "attempts": []
+    },
+    "s050": {
+      "heard": "Which brings us back to the founder's father.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 10,
+        "rate": 4.42,
+        "wpm": 212.4,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.86
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s051": {
+      "heard": "In 1990, Ernest Garcia II, then a real estate developer in Tucson, pleaded guilty to bank fraud. He had helped Lincoln Savings, the bank run by Charles Keating at the center of the savings and loan scandal, hide its ownership of risky desert land from regulators. He got three years probation.",
+      "accuracy": 0.962,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "the second",
+          "heard": "ii"
+        }
+      ],
+      "pace": {
+        "syllables": 77,
+        "rate": 4.04,
+        "wpm": 163.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.3,
+          0.34,
+          0.28,
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.939
+      },
+      "problems": [],
+      "score": 0.962,
+      "risky": [
+        "(digits in text)",
+        "Charles Keating",
+        "Ernest Garcia",
+        "Lincoln Savings",
+        "Second",
+        "Tucson",
+        "desert"
+      ],
+      "attempts": []
+    },
+    "s052": {
+      "heard": "Then, he bought a struggling used car chain called Ugly Duckling, later renamed Drivetime. It sold cars to people with bad credit and lent them the money itself. Buy here, pay here.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 46,
+        "rate": 3.78,
+        "wpm": 152.7,
+        "lead_silence": 0.02,
+        "silences": [
+          0.3,
+          0.42,
+          0.4,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.94
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Buy",
+        "DriveTime",
+        "Ugly Duckling"
+      ],
+      "attempts": []
+    },
+    "s053": {
+      "heard": "At a dealer like that, the car isn't really the product, the loan is.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 17,
+        "rate": 3.88,
+        "wpm": 191.8,
+        "lead_silence": 0.08,
+        "silences": [
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.928
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s054": {
+      "heard": "His son grew up inside that business. In 2014, he explained where Carvana came from.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 21,
+        "rate": 3.45,
+        "wpm": 148.0,
+        "lead_silence": 0.06,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.901
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Carvana"
+      ],
+      "attempts": []
+    },
+    "s056": {
+      "heard": "Carvana's first money came from DriveTime, and to this day, a DriveTime company called Bridgecrest collects the payments on many of Carvana's loans.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 40,
+        "rate": 4.57,
+        "wpm": 157.5,
+        "lead_silence": 0.08,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.933
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Bridgecrest",
+        "Carvana's",
+        "DriveTime"
+      ],
+      "attempts": []
+    },
+    "s057": {
+      "heard": "Carvana took the oldest trick in the used car business and put it inside a glass tower.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 25,
+        "rate": 4.94,
+        "wpm": 189.7,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.9
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s058": {
+      "heard": "Not everyone believes the comeback. Even in 2023, as the stock soared, Jim Cramer split Carvana in two.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 28,
+        "rate": 3.48,
+        "wpm": 134.3,
+        "lead_silence": 0.02,
+        "silences": [
+          0.34,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Carvana",
+        "Jim Cramer"
+      ],
+      "attempts": []
+    },
+    "s060": {
+      "heard": "Then, on the 2nd of January 2025, the short seller Hindenburg Research published a report on Carvana. Its title? A father-son accounting grift for the ages.",
+      "accuracy": 0.966,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "second",
+          "heard": "two nd"
+        }
+      ],
+      "pace": {
+        "syllables": 43,
+        "rate": 3.77,
+        "wpm": 136.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.904
+      },
+      "problems": [],
+      "score": 0.966,
+      "risky": [
+        "(digits in text)",
+        "Carvana",
+        "Hindenburg Research",
+        "January"
+      ],
+      "attempts": []
+    },
+    "s061": {
+      "heard": "Hindenburg alleged that $800 million dollars of Carvana's loans had been sold to a buyer it believed was connected to the Garcia family, and that loan extensions were hiding how many borrowers had fallen behind.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 60,
+        "rate": 4.76,
+        "wpm": 171.4,
+        "lead_silence": 0.08,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.904
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Carvana's",
+        "Garcia"
+      ],
+      "attempts": []
+    },
+    "s062": {
+      "heard": "Carvana said the report was intentionally misleading and inaccurate and that its loan buyer was unrelated.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 31,
+        "rate": 4.74,
+        "wpm": 146.8,
+        "lead_silence": 0.08,
+        "silences": [
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.897
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s063": {
+      "heard": "13 days later, Hindenburg announced it was shutting down. Its founder said the work had become all-consuming. Carvana's stock kept rising.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 36,
+        "rate": 3.82,
+        "wpm": 133.8,
+        "lead_silence": 0.06,
+        "silences": [
+          0.4,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.9
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Hindenburg"
+      ],
+      "attempts": []
+    },
+    "s064": {
+      "heard": "But the question Hindenburg asked didn't go away. In 2025, a subprime car lender called Tricolor collapsed, and late payments on subprime car loans hit record highs. And in 2026, rising interest rates cut about $200 from Carvana's profit on every car.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 69,
+        "rate": 3.77,
+        "wpm": 144.3,
+        "lead_silence": 0.1,
+        "silences": [
+          0.36,
+          0.34,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.915
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Carvana's",
+        "Hindenburg",
+        "Tricolor",
+        "record"
+      ],
+      "attempts": []
+    },
+    "s065": {
+      "heard": "So how does a company that lost 99% of its value end up in the S&P 500?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 4.15,
+        "wpm": 194.9,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.923
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s066": {
+      "heard": "Because Carvana was never really selling cars, it was selling loans, with a car attached. It writes the loan when you drive away, books the profit that day, and sells the risk to someone else.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 48,
+        "rate": 4.15,
+        "wpm": 181.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26,
+          0.36,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.902
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Carvana"
+      ],
+      "attempts": []
+    },
+    "s067": {
+      "heard": "When money is cheap and borrowers pay, that machine prints profit. When money gets expensive, it almost kills the company. Carvana has now ridden it both ways.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 41,
+        "rate": 3.82,
+        "wpm": 151.1,
+        "lead_silence": 0.06,
+        "silences": [
+          0.26,
+          0.38,
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.952
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s068": {
+      "heard": "Ernie Garcia's goal is 3 million cars a year, within 5 to 10 years. That's 5 times what Carvana sold in 2025.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 3.08,
+        "wpm": 150.3,
+        "lead_silence": 0.08,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.893
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Carvana",
+        "Garcia's"
+      ],
+      "attempts": []
+    },
+    "s069": {
+      "heard": "You put a coin in, and a car comes out.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 11,
+        "rate": 4.62,
+        "wpm": 252.1,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.5,
+        "peak": 0.882
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s070": {
+      "heard": "But the real machine is the loan, and it only works as long as millions of people keep making their payments.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 4.3,
+        "wpm": 200.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.883
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s071": {
+      "heard": "If you'll never look at a car loan the same way again, that's what this channel does. The economics nobody explains, one company at a time. Subscribe and you'll get the next one.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 45,
+        "rate": 4.18,
+        "wpm": 184.0,
+        "lead_silence": 0.02,
+        "silences": [
+          0.28,
+          0.3,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.908
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    }
+  }
+}

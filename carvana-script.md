@@ -280,7 +280,7 @@ Because Carvana was never really selling cars. It was selling loans, with a car 
 When money is cheap and borrowers pay, that machine prints profit. When money gets expensive, it almost kills the company. Carvana has now ridden it both ways.
 
 `[PHOTO: Ernie Garcia III]`
-Ernie Garcia's goal is three million cars a year, within five to ten years. That's five times what Carvana sold in 2025, and almost all of them on loans.
+Ernie Garcia's goal is three million cars a year, within five to ten years. That's five times what Carvana sold in 2025.
 
 `[BROLL: the coin drops; the tower spins]`
 You put a coin in, and a car comes out.

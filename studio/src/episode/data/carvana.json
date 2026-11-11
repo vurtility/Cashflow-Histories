@@ -1,0 +1,2201 @@
+{
+ "fps": 30,
+ "durationInFrames": 18103,
+ "episode": "carvana",
+ "print": "004",
+ "vo": [
+  {
+   "src": "carvana/vo/s001.mp3",
+   "from": 0,
+   "trim": 0,
+   "len": 170
+  },
+  {
+   "src": "carvana/vo/s002.mp3",
+   "from": 176,
+   "trim": 1,
+   "len": 290
+  },
+  {
+   "src": "carvana/vo/s003.mp3",
+   "from": 471,
+   "trim": 0,
+   "len": 177
+  },
+  {
+   "src": "carvana/vo/s004.mp3",
+   "from": 654,
+   "trim": 1,
+   "len": 241
+  },
+  {
+   "src": "carvana/vo/s005.mp3",
+   "from": 900,
+   "trim": 0,
+   "len": 205
+  },
+  {
+   "src": "carvana/vo/s006.mp3",
+   "from": 1116,
+   "trim": 0,
+   "len": 150
+  },
+  {
+   "src": "carvana/vo/s007.mp3",
+   "from": 1274,
+   "trim": 0,
+   "len": 74
+  },
+  {
+   "src": "carvana/vo/s008.mp3",
+   "from": 1369,
+   "trim": 0,
+   "len": 300
+  },
+  {
+   "src": "carvana/vo/s009.mp3",
+   "from": 1674,
+   "trim": 1,
+   "len": 402
+  },
+  {
+   "src": "carvana/vo/s010.mp3",
+   "from": 2082,
+   "trim": 1,
+   "len": 289
+  },
+  {
+   "src": "carvana/vo/s012.mp3",
+   "from": 2748,
+   "trim": 0,
+   "len": 147
+  },
+  {
+   "src": "carvana/vo/s013.mp3",
+   "from": 2900,
+   "trim": 0,
+   "len": 189
+  },
+  {
+   "src": "carvana/vo/s015.mp3",
+   "from": 3254,
+   "trim": 0,
+   "len": 299
+  },
+  {
+   "src": "carvana/vo/s016.mp3",
+   "from": 3559,
+   "trim": 0,
+   "len": 221
+  },
+  {
+   "src": "carvana/vo/s017.mp3",
+   "from": 3785,
+   "trim": 1,
+   "len": 351
+  },
+  {
+   "src": "carvana/vo/s018.mp3",
+   "from": 4141,
+   "trim": 1,
+   "len": 121
+  },
+  {
+   "src": "carvana/vo/s019.mp3",
+   "from": 4282,
+   "trim": 0,
+   "len": 466
+  },
+  {
+   "src": "carvana/vo/s020.mp3",
+   "from": 4754,
+   "trim": 1,
+   "len": 392
+  },
+  {
+   "src": "carvana/vo/s022.mp3",
+   "from": 5458,
+   "trim": 0,
+   "len": 122
+  },
+  {
+   "src": "carvana/vo/s023.mp3",
+   "from": 5585,
+   "trim": 1,
+   "len": 256
+  },
+  {
+   "src": "carvana/vo/s024.mp3",
+   "from": 5846,
+   "trim": 0,
+   "len": 142
+  },
+  {
+   "src": "carvana/vo/s026.mp3",
+   "from": 6377,
+   "trim": 2,
+   "len": 134
+  },
+  {
+   "src": "carvana/vo/s027.mp3",
+   "from": 6516,
+   "trim": 1,
+   "len": 195
+  },
+  {
+   "src": "carvana/vo/s028.mp3",
+   "from": 6719,
+   "trim": 2,
+   "len": 87
+  },
+  {
+   "src": "carvana/vo/s029.mp3",
+   "from": 6826,
+   "trim": 2,
+   "len": 402
+  },
+  {
+   "src": "carvana/vo/s030.mp3",
+   "from": 7234,
+   "trim": 1,
+   "len": 165
+  },
+  {
+   "src": "carvana/vo/s031.mp3",
+   "from": 7404,
+   "trim": 1,
+   "len": 495
+  },
+  {
+   "src": "carvana/vo/s032.mp3",
+   "from": 7904,
+   "trim": 0,
+   "len": 254
+  },
+  {
+   "src": "carvana/vo/s033.mp3",
+   "from": 8164,
+   "trim": 0,
+   "len": 274
+  },
+  {
+   "src": "carvana/vo/s034.mp3",
+   "from": 8443,
+   "trim": 2,
+   "len": 100
+  },
+  {
+   "src": "carvana/vo/s035.mp3",
+   "from": 8554,
+   "trim": 0,
+   "len": 83
+  },
+  {
+   "src": "carvana/vo/s036.mp3",
+   "from": 8658,
+   "trim": 0,
+   "len": 179
+  },
+  {
+   "src": "carvana/vo/s037.mp3",
+   "from": 8842,
+   "trim": 1,
+   "len": 219
+  },
+  {
+   "src": "carvana/vo/s038.mp3",
+   "from": 9067,
+   "trim": 2,
+   "len": 113
+  },
+  {
+   "src": "carvana/vo/s039.mp3",
+   "from": 9186,
+   "trim": 0,
+   "len": 131
+  },
+  {
+   "src": "carvana/vo/s040.mp3",
+   "from": 9325,
+   "trim": 0,
+   "len": 55
+  },
+  {
+   "src": "carvana/vo/s041.mp3",
+   "from": 9386,
+   "trim": 2,
+   "len": 216
+  },
+  {
+   "src": "carvana/vo/s042.mp3",
+   "from": 9607,
+   "trim": 0,
+   "len": 136
+  },
+  {
+   "src": "carvana/vo/s043.mp3",
+   "from": 9749,
+   "trim": 0,
+   "len": 194
+  },
+  {
+   "src": "carvana/vo/s044.mp3",
+   "from": 9949,
+   "trim": 2,
+   "len": 361
+  },
+  {
+   "src": "carvana/vo/s045.mp3",
+   "from": 10316,
+   "trim": 2,
+   "len": 296
+  },
+  {
+   "src": "carvana/vo/s046.mp3",
+   "from": 10616,
+   "trim": 1,
+   "len": 365
+  },
+  {
+   "src": "carvana/vo/s047.mp3",
+   "from": 10987,
+   "trim": 2,
+   "len": 300
+  },
+  {
+   "src": "carvana/vo/s048.mp3",
+   "from": 11296,
+   "trim": 0,
+   "len": 314
+  },
+  {
+   "src": "carvana/vo/s049.mp3",
+   "from": 11614,
+   "trim": 2,
+   "len": 280
+  },
+  {
+   "src": "carvana/vo/s050.mp3",
+   "from": 11915,
+   "trim": 2,
+   "len": 74
+  },
+  {
+   "src": "carvana/vo/s051.mp3",
+   "from": 12009,
+   "trim": 1,
+   "len": 578
+  },
+  {
+   "src": "carvana/vo/s052.mp3",
+   "from": 12593,
+   "trim": 0,
+   "len": 371
+  },
+  {
+   "src": "carvana/vo/s053.mp3",
+   "from": 12970,
+   "trim": 2,
+   "len": 138
+  },
+  {
+   "src": "carvana/vo/s054.mp3",
+   "from": 13113,
+   "trim": 1,
+   "len": 189
+  },
+  {
+   "src": "carvana/vo/s056.mp3",
+   "from": 13631,
+   "trim": 2,
+   "len": 269
+  },
+  {
+   "src": "carvana/vo/s057.mp3",
+   "from": 13905,
+   "trim": 2,
+   "len": 158
+  },
+  {
+   "src": "carvana/vo/s058.mp3",
+   "from": 14084,
+   "trim": 0,
+   "len": 248
+  },
+  {
+   "src": "carvana/vo/s060.mp3",
+   "from": 14490,
+   "trim": 0,
+   "len": 348
+  },
+  {
+   "src": "carvana/vo/s061.mp3",
+   "from": 14844,
+   "trim": 2,
+   "len": 384
+  },
+  {
+   "src": "carvana/vo/s062.mp3",
+   "from": 15233,
+   "trim": 2,
+   "len": 202
+  },
+  {
+   "src": "carvana/vo/s063.mp3",
+   "from": 15441,
+   "trim": 2,
+   "len": 288
+  },
+  {
+   "src": "carvana/vo/s064.mp3",
+   "from": 15734,
+   "trim": 2,
+   "len": 555
+  },
+  {
+   "src": "carvana/vo/s065.mp3",
+   "from": 16310,
+   "trim": 0,
+   "len": 172
+  },
+  {
+   "src": "carvana/vo/s066.mp3",
+   "from": 16494,
+   "trim": 0,
+   "len": 353
+  },
+  {
+   "src": "carvana/vo/s067.mp3",
+   "from": 16852,
+   "trim": 1,
+   "len": 327
+  },
+  {
+   "src": "carvana/vo/s068.mp3",
+   "from": 17185,
+   "trim": 2,
+   "len": 270
+  },
+  {
+   "src": "carvana/vo/s069.mp3",
+   "from": 17461,
+   "trim": 1,
+   "len": 78
+  },
+  {
+   "src": "carvana/vo/s070.mp3",
+   "from": 17547,
+   "trim": 0,
+   "len": 195
+  },
+  {
+   "src": "carvana/vo/s071.mp3",
+   "from": 17747,
+   "trim": 0,
+   "len": 329
+  }
+ ],
+ "shots": [
+  {
+   "kind": "video",
+   "start": 0,
+   "dur": 73,
+   "seg": "s001",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend15",
+     "src": "carvana/assets/tv_vend15.mp4",
+     "credit": "KTVU FOX 2, 12 Nov 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 32.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 73,
+   "dur": 103,
+   "seg": "s001",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend15",
+     "src": "carvana/assets/tv_vend15.mp4",
+     "credit": "KTVU FOX 2, 12 Nov 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 14.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 176,
+   "dur": 163,
+   "seg": "s002",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia24",
+     "src": "carvana/assets/tv_garcia24.mp4",
+     "credit": "CNBC, 2 May 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 36.0,
+    "label": "Carvana stock"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 339,
+   "dur": 132,
+   "seg": "s002",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_crash22",
+     "src": "carvana/assets/tv_crash22.mp4",
+     "credit": "CNBC Closing Bell, 7 Dec 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 8.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 471,
+   "dur": 84,
+   "seg": "s003",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_bk22",
+     "src": "carvana/assets/tv_bk22.mp4",
+     "credit": "CNBC Power Lunch, 8 Dec 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 44.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 555,
+   "dur": 99,
+   "seg": "s003",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_cash22",
+     "src": "carvana/assets/tv_cash22.mp4",
+     "credit": "Fox Business, 21 Nov 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 654,
+   "dur": 124,
+   "seg": "s004",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "nyse",
+     "src": "carvana/assets/nyse.jpg",
+     "credit": "颐园居 · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in",
+    "label": "S&P 500 · 22 December 2025"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 778,
+   "dur": 122,
+   "seg": "s004",
+   "cat": "charts",
+   "p": {
+    "kicker": "Carvana, 2025",
+    "value": "$1.9B",
+    "sub": "reported profit"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 900,
+   "dur": 216,
+   "seg": "s005",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "vend_dallas",
+     "src": "carvana/assets/vend_dallas.jpg",
+     "credit": "Tony Webster from Minneapolis, Minnesota, United States · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1285
+    },
+    "kb": "in",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1116,
+   "dur": 73,
+   "seg": "s006",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend15",
+     "src": "carvana/assets/tv_vend15.mp4",
+     "credit": "KTVU FOX 2, 12 Nov 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1189,
+   "dur": 85,
+   "seg": "s006",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia17",
+     "src": "carvana/assets/tv_garcia17.mp4",
+     "credit": "CNBC Power Lunch, 6 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 46.0,
+    "label": "Ernie Garcia, founder"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 1274,
+   "dur": 95,
+   "seg": "s007",
+   "cat": "text",
+   "p": {
+    "text": "A COURTROOM."
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1369,
+   "dur": 305,
+   "seg": "s008",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "used_lot",
+     "src": "carvana/assets/used_lot.jpg",
+     "credit": "Atwngirl · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2880
+    },
+    "kb": "in",
+    "focus": [
+     0.5,
+     0.6
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1674,
+   "dur": 191,
+   "seg": "s009",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia17",
+     "src": "carvana/assets/tv_garcia17.mp4",
+     "credit": "CNBC Power Lunch, 6 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 60.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1865,
+   "dur": 125,
+   "seg": "s009",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_layoff22",
+     "src": "carvana/assets/tv_layoff22.mp4",
+     "credit": "CBS Morning News (KPIX), 11 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1990,
+   "dur": 92,
+   "seg": "s009",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_layoff22",
+     "src": "carvana/assets/tv_layoff22.mp4",
+     "credit": "CBS Morning News (KPIX), 11 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "place",
+   "start": 2082,
+   "dur": 156,
+   "seg": "s010",
+   "cat": "text",
+   "p": {
+    "place": "NASHVILLE",
+    "year": "2015"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2238,
+   "dur": 137,
+   "seg": "s010",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend15",
+     "src": "carvana/assets/tv_vend15.mp4",
+     "credit": "KTVU FOX 2, 12 Nov 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 2375,
+   "dur": 373,
+   "seg": "s011",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_vending_2015",
+     "src": "carvana/assets/sot_vending_2015.mp4",
+     "credit": "KTVU FOX 2, 12 Nov 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "KTVU FOX 2",
+    "role": "News report · Nov 2015",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2748,
+   "dur": 152,
+   "seg": "s012",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_ipo17",
+     "src": "carvana/assets/tv_ipo17.mp4",
+     "credit": "Bloomberg, 28 Apr 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 12.0,
+    "label": "New York Stock Exchange · April 2017"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2900,
+   "dur": 194,
+   "seg": "s013",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia17",
+     "src": "carvana/assets/tv_garcia17.mp4",
+     "credit": "CNBC Power Lunch, 6 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 14.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 3094,
+   "dur": 160,
+   "seg": "s014",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_garcia_macro_2017",
+     "src": "carvana/assets/sot_garcia_macro_2017.mp4",
+     "credit": "CNBC Power Lunch, 6 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "Ernie Garcia",
+    "role": "Carvana CEO · CNBC, Jul 2017",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3254,
+   "dur": 223,
+   "seg": "s015",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend22",
+     "src": "carvana/assets/tv_vend22.mp4",
+     "credit": "ABC7 News, 4 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 3477,
+   "dur": 82,
+   "seg": "s015",
+   "cat": "charts",
+   "p": {
+    "title": "Carvana: cars sold",
+    "rows": [
+     {
+      "n": "2019",
+      "v": 177549,
+      "label": "178K"
+     },
+     {
+      "n": "2021",
+      "v": 425237,
+      "label": "425K",
+      "hero": true
+     }
+    ],
+    "src": "Carvana 10-K filings"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3559,
+   "dur": 62,
+   "seg": "s016",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia24",
+     "src": "carvana/assets/tv_garcia24.mp4",
+     "credit": "CNBC, 2 May 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 36.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 3621,
+   "dur": 164,
+   "seg": "s016",
+   "cat": "charts",
+   "p": {
+    "kicker": "Carvana stock, IPO → Aug 2021",
+    "value": "20×+",
+    "sub": "peak, August 2021"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3785,
+   "dur": 230,
+   "seg": "s017",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend22",
+     "src": "carvana/assets/tv_vend22.mp4",
+     "credit": "ABC7 News, 4 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 24.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 4015,
+   "dur": 126,
+   "seg": "s017",
+   "cat": "charts",
+   "p": {
+    "kicker": "Ernest Garcia II, 2020–21",
+    "value": "$3.6B+",
+    "sub": "of Carvana stock sold"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4141,
+   "dur": 141,
+   "seg": "s018",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_crash22",
+     "src": "carvana/assets/tv_crash22.mp4",
+     "credit": "CNBC Closing Bell, 7 Dec 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 30.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4282,
+   "dur": 341,
+   "seg": "s019",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_fox23",
+     "src": "carvana/assets/tv_fox23.mp4",
+     "credit": "Fox Business, 24 Feb 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4623,
+   "dur": 131,
+   "seg": "s019",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_layoff22",
+     "src": "carvana/assets/tv_layoff22.mp4",
+     "credit": "CBS Morning News (KPIX), 11 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4754,
+   "dur": 188,
+   "seg": "s020",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_layoff22",
+     "src": "carvana/assets/tv_layoff22.mp4",
+     "credit": "CBS Morning News (KPIX), 11 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 14.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4942,
+   "dur": 208,
+   "seg": "s020",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_layoff22",
+     "src": "carvana/assets/tv_layoff22.mp4",
+     "credit": "CBS Morning News (KPIX), 11 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 30.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 5150,
+   "dur": 308,
+   "seg": "s021",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_garcia_22_2023",
+     "src": "carvana/assets/sot_garcia_22_2023.mp4",
+     "credit": "CNBC Mad Money, 19 Jul 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "Ernie Garcia",
+    "role": "Carvana CEO · CNBC, Jul 2023",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 5458,
+   "dur": 127,
+   "seg": "s022",
+   "cat": "charts",
+   "p": {
+    "kicker": "Carvana, 2022",
+    "value": "−$2.9B",
+    "sub": "net loss"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 5585,
+   "dur": 261,
+   "seg": "s023",
+   "cat": "docs",
+   "p": {
+    "title": "Carvana falls by a record 45%",
+    "sub": "Fortune, 7 December 2022",
+    "lines": [
+     "A restructuring 'could leave the equity worthless'"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5846,
+   "dur": 146,
+   "seg": "s024",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_bk22",
+     "src": "carvana/assets/tv_bk22.mp4",
+     "credit": "CNBC Power Lunch, 8 Dec 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 5992,
+   "dur": 385,
+   "seg": "s025",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_creditors_2022",
+     "src": "carvana/assets/sot_creditors_2022.mp4",
+     "credit": "CNBC Closing Bell, 7 Dec 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "CNBC",
+    "role": "Closing Bell · 7 Dec 2022",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6377,
+   "dur": 139,
+   "seg": "s026",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_crash22",
+     "src": "carvana/assets/tv_crash22.mp4",
+     "credit": "CNBC Closing Bell, 7 Dec 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 36.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6516,
+   "dur": 203,
+   "seg": "s027",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend15",
+     "src": "carvana/assets/tv_vend15.mp4",
+     "credit": "KTVU FOX 2, 12 Nov 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 22.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 6719,
+   "dur": 107,
+   "seg": "s028",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "vend_jax",
+     "src": "carvana/assets/vend_jax.jpg",
+     "credit": "Michael Rivera · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 6826,
+   "dur": 282,
+   "seg": "s029",
+   "cat": "docs",
+   "p": {
+    "title": "Carvana announces agreement with noteholders",
+    "sub": "19 July 2023",
+    "lines": [
+     "Reducing total debt by over $1.2 billion",
+     "Extending maturities"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7108,
+   "dur": 126,
+   "seg": "s029",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_madmoney23",
+     "src": "carvana/assets/tv_madmoney23.mp4",
+     "credit": "CNBC Mad Money, 19 Jul 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 0.0,
+    "label": "CNBC Mad Money, July 2023"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7234,
+   "dur": 170,
+   "seg": "s030",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia17",
+     "src": "carvana/assets/tv_garcia17.mp4",
+     "credit": "CNBC Power Lunch, 6 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 62.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7404,
+   "dur": 131,
+   "seg": "s031",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend22",
+     "src": "carvana/assets/tv_vend22.mp4",
+     "credit": "ABC7 News, 4 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 28.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 7535,
+   "dur": 369,
+   "seg": "s031",
+   "cat": "charts",
+   "p": {
+    "kicker": "Carvana, 2025",
+    "value": "596,641",
+    "sub": "cars sold · $20.3B revenue · $1.9B profit"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 7904,
+   "dur": 135,
+   "seg": "s032",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "nyse",
+     "src": "carvana/assets/nyse.jpg",
+     "credit": "颐园居 · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out",
+    "label": "Joined the S&P 500 · 22 Dec 2025"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8039,
+   "dur": 125,
+   "seg": "s032",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia24b",
+     "src": "carvana/assets/tv_garcia24b.mp4",
+     "credit": "CNBC Power Lunch, 5 Jun 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 52.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 8164,
+   "dur": 279,
+   "seg": "s033",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "carmax",
+     "src": "carvana/assets/carmax.jpg",
+     "credit": "deathpallie325 · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1080
+    },
+    "kb": "in",
+    "label": "CarMax · shares down ~50% in 2025"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8443,
+   "dur": 111,
+   "seg": "s034",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia24b",
+     "src": "carvana/assets/tv_garcia24b.mp4",
+     "credit": "CNBC Power Lunch, 5 Jun 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 10.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 8554,
+   "dur": 104,
+   "seg": "s035",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "vend_tempe",
+     "src": "carvana/assets/vend_tempe.jpg",
+     "credit": "Elephanthunter · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2559
+    },
+    "kb": "in",
+    "focus": [
+     0.5,
+     0.35
+    ]
+   }
+  },
+  {
+   "kind": "text",
+   "start": 8658,
+   "dur": 185,
+   "seg": "s036",
+   "cat": "text",
+   "p": {
+    "text": "ONE CAR",
+    "sub": "Carvana's average, 2025 · from its annual report"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 8842,
+   "dur": 225,
+   "seg": "s037",
+   "cat": "charts",
+   "p": {
+    "title": "Profit per car, 2025",
+    "rows": [
+     {
+      "n": "The car",
+      "v": 3315,
+      "label": "$3,315"
+     }
+    ],
+    "src": "Carvana 2025 annual report · gross profit per retail unit"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 9067,
+   "dur": 119,
+   "seg": "s038",
+   "cat": "charts",
+   "p": {
+    "title": "Profit per car, 2025",
+    "rows": [
+     {
+      "n": "The car",
+      "v": 3315,
+      "label": "$3,315"
+     },
+     {
+      "n": "Wholesale",
+      "v": 806,
+      "label": "$806"
+     }
+    ],
+    "src": "Carvana 2025 annual report · gross profit per retail unit"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 9186,
+   "dur": 139,
+   "seg": "s039",
+   "cat": "charts",
+   "p": {
+    "title": "Profit per car, 2025",
+    "rows": [
+     {
+      "n": "The car",
+      "v": 3315,
+      "label": "$3,315"
+     },
+     {
+      "n": "Wholesale",
+      "v": 806,
+      "label": "$806"
+     },
+     {
+      "n": "Everything else",
+      "v": 2905,
+      "label": "$2,905",
+      "hero": true
+     }
+    ],
+    "src": "Carvana 2025 annual report · gross profit per retail unit"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 9325,
+   "dur": 60,
+   "seg": "s040",
+   "cat": "text",
+   "p": {
+    "text": "ALMOST AS MUCH AS THE CAR."
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9386,
+   "dur": 158,
+   "seg": "s041",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_layoff22",
+     "src": "carvana/assets/tv_layoff22.mp4",
+     "credit": "CBS Morning News (KPIX), 11 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 24.0
+   }
+  },
+  {
+   "kind": "text",
+   "start": 9544,
+   "dur": 63,
+   "seg": "s041",
+   "cat": "text",
+   "p": {
+    "text": "THE LOAN."
+   }
+  },
+  {
+   "kind": "text",
+   "start": 9607,
+   "dur": 142,
+   "seg": "s042",
+   "cat": "text",
+   "p": {
+    "text": "SIMPLIFIED EXAMPLE",
+    "sub": "round numbers"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 9749,
+   "dur": 200,
+   "seg": "s043",
+   "cat": "charts",
+   "p": {
+    "kicker": "You borrow",
+    "value": "$20,000",
+    "sub": "at 14%, over six years (example)"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9949,
+   "dur": 189,
+   "seg": "s044",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_layoff22",
+     "src": "carvana/assets/tv_layoff22.mp4",
+     "credit": "CBS Morning News (KPIX), 11 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 10138,
+   "dur": 178,
+   "seg": "s044",
+   "cat": "charts",
+   "p": {
+    "kicker": "Investors pay",
+    "value": "$21,000",
+    "sub": "for your payments (example)"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 10316,
+   "dur": 300,
+   "seg": "s045",
+   "cat": "charts",
+   "p": {
+    "kicker": "Carvana's profit, day one",
+    "value": "+$1,000",
+    "sub": "the risk goes with the loan (example)"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 10616,
+   "dur": 371,
+   "seg": "s046",
+   "cat": "charts",
+   "p": {
+    "title": "Carvana, first nine months of 2025",
+    "rows": [
+     {
+      "n": "Lent",
+      "v": 9.18,
+      "label": "$9.2B"
+     },
+     {
+      "n": "Gain on selling loans",
+      "v": 0.878,
+      "label": "$878M",
+      "hero": true
+     }
+    ],
+    "src": "Carvana Q3 2025 10-Q · ~10¢ per $1 lent"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 10987,
+   "dur": 111,
+   "seg": "s047",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia17",
+     "src": "carvana/assets/tv_garcia17.mp4",
+     "credit": "CNBC Power Lunch, 6 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 66.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 11098,
+   "dur": 198,
+   "seg": "s047",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia17",
+     "src": "carvana/assets/tv_garcia17.mp4",
+     "credit": "CNBC Power Lunch, 6 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 88.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 11296,
+   "dur": 222,
+   "seg": "s048",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_crash22",
+     "src": "carvana/assets/tv_crash22.mp4",
+     "credit": "CNBC Closing Bell, 7 Dec 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 11518,
+   "dur": 96,
+   "seg": "s048",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_cash22",
+     "src": "carvana/assets/tv_cash22.mp4",
+     "credit": "Fox Business, 21 Nov 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 28.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 11614,
+   "dur": 157,
+   "seg": "s049",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia24",
+     "src": "carvana/assets/tv_garcia24.mp4",
+     "credit": "CNBC, 2 May 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 40.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 11771,
+   "dur": 144,
+   "seg": "s049",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend22",
+     "src": "carvana/assets/tv_vend22.mp4",
+     "credit": "ABC7 News, 4 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 11915,
+   "dur": 94,
+   "seg": "s050",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia17",
+     "src": "carvana/assets/tv_garcia17.mp4",
+     "credit": "CNBC Power Lunch, 6 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 48.0,
+    "label": "Ernie Garcia"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 12009,
+   "dur": 520,
+   "seg": "s051",
+   "cat": "docs",
+   "p": {
+    "title": "Lincoln S&L Figure Pleads Guilty to Fraud",
+    "sub": "Los Angeles Times, 31 October 1990",
+    "lines": [
+     "Ernest Garcia II admits helping the thrift hide its ownership of risky Arizona desert land"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "text",
+   "start": 12529,
+   "dur": 64,
+   "seg": "s051",
+   "cat": "text",
+   "p": {
+    "text": "THREE YEARS' PROBATION",
+    "sub": "Ernest Garcia II, 1990"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 12593,
+   "dur": 189,
+   "seg": "s052",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "used_lot",
+     "src": "carvana/assets/used_lot.jpg",
+     "credit": "Atwngirl · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2880
+    },
+    "kb": "out",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 12782,
+   "dur": 188,
+   "seg": "s052",
+   "cat": "text",
+   "p": {
+    "text": "BUY HERE, PAY HERE",
+    "sub": "DriveTime (formerly Ugly Duckling)"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 12970,
+   "dur": 143,
+   "seg": "s053",
+   "cat": "text",
+   "p": {
+    "text": "THE CAR IS HOW YOU GET THE LOAN."
+   }
+  },
+  {
+   "kind": "video",
+   "start": 13113,
+   "dur": 192,
+   "seg": "s054",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia17",
+     "src": "carvana/assets/tv_garcia17.mp4",
+     "credit": "CNBC Power Lunch, 6 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 90.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 13305,
+   "dur": 326,
+   "seg": "s055",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_drivetime_2014",
+     "src": "carvana/assets/sot_drivetime_2014.mp4",
+     "credit": "Bloomberg, 14 Jul 2014 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "pic": {
+     "id": "sot_garcia_macro_2017",
+     "src": "carvana/assets/sot_garcia_macro_2017.mp4",
+     "credit": "CNBC Power Lunch, 6 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "picAt": 2.0,
+    "name": "Ernie Garcia",
+    "role": "Carvana founder · Bloomberg, Jul 2014",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 13631,
+   "dur": 85,
+   "seg": "s056",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend22",
+     "src": "carvana/assets/tv_vend22.mp4",
+     "credit": "ABC7 News, 4 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 32.0
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 13716,
+   "dur": 189,
+   "seg": "s056",
+   "cat": "docs",
+   "p": {
+    "title": "Bridgecrest",
+    "sub": "a DriveTime company",
+    "lines": [
+     "Services many of Carvana's loans"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 13905,
+   "dur": 179,
+   "seg": "s057",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend15",
+     "src": "carvana/assets/tv_vend15.mp4",
+     "credit": "KTVU FOX 2, 12 Nov 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 14084,
+   "dur": 251,
+   "seg": "s058",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_madmoney23",
+     "src": "carvana/assets/tv_madmoney23.mp4",
+     "credit": "CNBC Mad Money, 19 Jul 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 30.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 14336,
+   "dur": 154,
+   "seg": "s059",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_cramer_2023",
+     "src": "carvana/assets/sot_cramer_2023.mp4",
+     "credit": "CNBC Mad Money, 15 Jun 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "Jim Cramer",
+    "role": "CNBC Mad Money · Jun 2023",
+    "pic": {
+     "id": "tv_spruce19",
+     "src": "carvana/assets/tv_spruce19.mp4",
+     "credit": "CNBC Mad Money, 14 Mar 2019 · TV News Archive",
+     "kind": "video",
+     "w": 858,
+     "h": 480
+    },
+    "picAt": 3,
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "logo",
+   "start": 14490,
+   "dur": 231,
+   "seg": "s060",
+   "cat": "docs",
+   "p": {
+    "a": {
+     "id": "logo_hindenburg",
+     "src": "carvana/assets/logo_hindenburg.png",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 400
+    },
+    "sub": "Short seller · 2 January 2025"
+   }
+  },
+  {
+   "kind": "quote",
+   "start": 14721,
+   "dur": 123,
+   "seg": "s060",
+   "cat": "docs",
+   "p": {
+    "text": "A father-son accounting grift for the ages",
+    "by": "Hindenburg Research on Carvana, 2 Jan 2025",
+    "style": "clip"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 14844,
+   "dur": 389,
+   "seg": "s061",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_spruce19",
+     "src": "carvana/assets/tv_spruce19.mp4",
+     "credit": "CNBC Mad Money, 14 Mar 2019 · TV News Archive",
+     "kind": "video",
+     "w": 858,
+     "h": 480
+    },
+    "from": 12.0,
+    "label": "Short sellers have questioned Carvana's loans since 2019"
+   }
+  },
+  {
+   "kind": "quote",
+   "start": 15233,
+   "dur": 208,
+   "seg": "s062",
+   "cat": "docs",
+   "p": {
+    "text": "intentionally misleading and inaccurate",
+    "by": "Carvana, responding to Hindenburg, 2 Jan 2025",
+    "style": "clip"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 15441,
+   "dur": 224,
+   "seg": "s063",
+   "cat": "docs",
+   "p": {
+    "title": "Hindenburg Research is shutting down",
+    "sub": "15 January 2025",
+    "lines": [
+     "Founder Nate Anderson: the work had become 'all-encompassing'"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 15665,
+   "dur": 69,
+   "seg": "s063",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia24b",
+     "src": "carvana/assets/tv_garcia24b.mp4",
+     "credit": "CNBC Power Lunch, 5 Jun 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 56.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 15734,
+   "dur": 351,
+   "seg": "s064",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_cash22",
+     "src": "carvana/assets/tv_cash22.mp4",
+     "credit": "Fox Business, 21 Nov 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 16085,
+   "dur": 225,
+   "seg": "s064",
+   "cat": "charts",
+   "p": {
+    "kicker": "Carvana, 2026",
+    "value": "−$200",
+    "sub": "per car, from rising rates and fuel"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 16310,
+   "dur": 184,
+   "seg": "s065",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "vend_night",
+     "src": "carvana/assets/vend_night.jpg",
+     "credit": "zombieite · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2560
+    },
+    "kb": "in",
+    "focus": [
+     0.5,
+     0.3
+    ]
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 16494,
+   "dur": 178,
+   "seg": "s066",
+   "cat": "charts",
+   "p": {
+    "title": "Profit per car, 2025",
+    "rows": [
+     {
+      "n": "The car",
+      "v": 3315,
+      "label": "$3,315"
+     },
+     {
+      "n": "Wholesale",
+      "v": 806,
+      "label": "$806"
+     },
+     {
+      "n": "Everything else",
+      "v": 2905,
+      "label": "$2,905",
+      "hero": true
+     }
+    ],
+    "src": "Carvana 2025 annual report"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 16672,
+   "dur": 180,
+   "seg": "s066",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_layoff22",
+     "src": "carvana/assets/tv_layoff22.mp4",
+     "credit": "CBS Morning News (KPIX), 11 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 16852,
+   "dur": 147,
+   "seg": "s067",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia24",
+     "src": "carvana/assets/tv_garcia24.mp4",
+     "credit": "CNBC, 2 May 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 44.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 16999,
+   "dur": 186,
+   "seg": "s067",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_crash22",
+     "src": "carvana/assets/tv_crash22.mp4",
+     "credit": "CNBC Closing Bell, 7 Dec 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 17185,
+   "dur": 164,
+   "seg": "s068",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_garcia24b",
+     "src": "carvana/assets/tv_garcia24b.mp4",
+     "credit": "CNBC Power Lunch, 5 Jun 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 12.0,
+    "label": "Ernie Garcia, CEO"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 17349,
+   "dur": 112,
+   "seg": "s068",
+   "cat": "charts",
+   "p": {
+    "kicker": "Garcia's goal, 5–10 years",
+    "value": "3M",
+    "sub": "cars a year · 5× 2025"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 17461,
+   "dur": 86,
+   "seg": "s069",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend15",
+     "src": "carvana/assets/tv_vend15.mp4",
+     "credit": "KTVU FOX 2, 12 Nov 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 32.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 17547,
+   "dur": 73,
+   "seg": "s070",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend15",
+     "src": "carvana/assets/tv_vend15.mp4",
+     "credit": "KTVU FOX 2, 12 Nov 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 14.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 17620,
+   "dur": 127,
+   "seg": "s070",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_vend22",
+     "src": "carvana/assets/tv_vend22.mp4",
+     "credit": "ABC7 News, 4 May 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "end",
+   "start": 17747,
+   "dur": 326,
+   "seg": "s071",
+   "cat": "text",
+   "p": {}
+  }
+ ],
+ "chapters": [
+  {
+   "name": "COLD OPEN",
+   "from": 0
+  },
+  {
+   "name": "1. THE COIN",
+   "from": 1369
+  },
+  {
+   "name": "2. NINETY-NINE PERCENT",
+   "from": 4282
+  },
+  {
+   "name": "3. THE COMEBACK",
+   "from": 6826
+  },
+  {
+   "name": "4. ONE CAR",
+   "from": 8658
+  },
+  {
+   "name": "5. THE FATHER'S BUSINESS",
+   "from": 12009
+  },
+  {
+   "name": "6. THE SHORT SELLER",
+   "from": 14084
+  },
+  {
+   "name": "VERDICT",
+   "from": 16310
+  }
+ ]
+}
