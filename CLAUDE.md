@@ -56,3 +56,8 @@ If this is a fresh checkout, run `./setup.sh` first.
   - Thumbnails, `youtube.md` and `upload/carvana-youtube-details.txt` done and in the Drive "Claude" folder.
   - The TV News Archive downloads slowly (~5 min per clip): fetch candidates once into `episodes/cvcand` (gitignored), transcribe, then cut the final clips from them.
   - Check before publishing: the CarMax 2025 figures and the date the CEO left; the Garcia II "stopped selling days after the peak" wording (Bloomberg).
+- Episode 5, **American Express** ("Why People Pay $895 for a Credit Card"):
+  - Script: `amex-script.md`. Voiceover: `production/episodes/amex/` (7.9 min; 52/53 QA, the flag is the checker hearing "$2.24" as digits). 6 real-voice clips (CNBC Fast Money 2022, Bloomberg SF lawsuit 2015, CNBC Supreme Court 2018, 2011 Amex ad, CNBC Platinum fee 2017, ABC7 Costco 2016).
+  - Edit v1: real footage 55%, charts 18%. Master: `render.py amex --master` (not in git).
+  - Thumbnails, `youtube.md` and `upload/amex-youtube-details.txt` done and in the Drive "Claude" folder.
+  - Commons pitfalls: the file "Henry Wells 120535.JPG" is not the Amex founder; the Centurion card photo shows a real cardholder's name, so crop it (thumbnails do) or don't use it.
