@@ -1,0 +1,452 @@
+[
+  {
+    "id": "s001",
+    "chapter": "COLD OPEN",
+    "cue": "[BROLL: Carvana vending tower, a coin dropped in the slot]",
+    "text": "You put a giant coin in a slot. A glass tower spins. And a car comes out."
+  },
+  {
+    "id": "s002",
+    "chapter": "COLD OPEN",
+    "cue": "[GFX: Carvana stock, Aug 2021 → Dec 2022: \"−99%\"]",
+    "text": "In 2021, the company behind it was one of the hottest stocks in America. Sixteen months later, it had lost ninety-nine percent of its value."
+  },
+  {
+    "id": "s003",
+    "chapter": "COLD OPEN",
+    "cue": "[BROLL: TV news, Dec 2022: \"Carvana… bankruptcy\"]",
+    "text": "Its lenders were preparing for bankruptcy. Analysts warned the shares could end up worthless."
+  },
+  {
+    "id": "s004",
+    "chapter": "COLD OPEN",
+    "cue": "[GFX: \"S&P 500 · 22 December 2025\"]",
+    "text": "Three years later, Carvana joined the S&P 500. Last year, it reported almost two billion dollars of profit."
+  },
+  {
+    "id": "s005",
+    "chapter": "COLD OPEN",
+    "cue": "",
+    "text": "So how does a company that lost ninety-nine percent of its value end up among the five hundred biggest in America?"
+  },
+  {
+    "id": "s006",
+    "chapter": "COLD OPEN",
+    "cue": "[PHOTO: Carvana tower at night]",
+    "text": "The answer isn't the vending machine. It's something the founder learned from his father.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "s007",
+    "chapter": "COLD OPEN",
+    "cue": "",
+    "text": "And his father learned it in a courtroom.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s008",
+    "chapter": "1. THE COIN",
+    "cue": "[PHOTO: used car lot]",
+    "text": "Buying a used car has always been the part of adult life people dread. The haggling, the hours at the desk, the man who has to \"check with his manager\"."
+  },
+  {
+    "id": "s009",
+    "chapter": "1. THE COIN",
+    "cue": "[BROLL: Carvana website, 2014]",
+    "text": "In 2012, a young man in Phoenix called Ernie Garcia started a company to skip all of it. You'd pick a car on your phone, get a loan in minutes, and have it delivered. Don't like it? Send it back within seven days."
+  },
+  {
+    "id": "s010",
+    "chapter": "1. THE COIN",
+    "cue": "[BROLL: Nashville vending tower, 2015]",
+    "text": "In 2015, in Nashville, Carvana opened the thing that made it famous: a five-storey glass tower that hands you your car when you drop in a coin."
+  },
+  {
+    "id": "s011",
+    "chapter": "1. THE COIN",
+    "cue": "",
+    "text": "KTVU FOX 2 news, Nov 2015 — \"You'll see a five-story car vending machine in Nashville. The customer that has put a large coin in the machine, it selects the buyer's car out of the glass tower, that car then delivered to the ground floor.\" | KTVU FOX 2, 12 Nov 2015",
+    "type": "sot",
+    "duration": 12.2
+  },
+  {
+    "id": "s012",
+    "chapter": "1. THE COIN",
+    "cue": "[BROLL: CNBC, 2017: IPO day]",
+    "text": "In April 2017, Carvana went public on the New York Stock Exchange."
+  },
+  {
+    "id": "s013",
+    "chapter": "1. THE COIN",
+    "cue": "[BROLL: CNBC, July 2017: Ernie Garcia interview]",
+    "text": "Three months later, Garcia was asked on CNBC whether falling used-car prices were a risk."
+  },
+  {
+    "id": "s014",
+    "chapter": "1. THE COIN",
+    "cue": "",
+    "text": "Ernie Garcia, Carvana CEO — \"I don't think the macro factors are really gonna play in too heavily in what we're doing, just because we're growing so fast\" | CNBC Power Lunch, 6 Jul 2017",
+    "type": "sot",
+    "duration": 5.1
+  },
+  {
+    "id": "s015",
+    "chapter": "1. THE COIN",
+    "cue": "[GFX: \"Retail cars sold: 2017 → 2021\"]",
+    "text": "Then the pandemic shut the car dealerships. People who wouldn't set foot on a lot bought cars on their phones instead, and Carvana's sales more than doubled."
+  },
+  {
+    "id": "s016",
+    "chapter": "1. THE COIN",
+    "cue": "[GFX: Carvana stock, 2017 → Aug 2021, peak]",
+    "text": "For a while, he was right. By August 2021, the stock had risen more than twenty-fold since the IPO."
+  },
+  {
+    "id": "s017",
+    "chapter": "1. THE COIN",
+    "cue": "[PHOTO: Ernest Garcia II]",
+    "text": "One person sold more than anyone. The founder's father, Ernest Garcia the Second, the company's largest shareholder, sold more than three point six billion dollars of Carvana stock."
+  },
+  {
+    "id": "s018",
+    "chapter": "1. THE COIN",
+    "cue": "[DOC: Bloomberg: he stopped selling days after the all-time high]",
+    "text": "He stopped selling a few days after the stock hit its all-time high.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s019",
+    "chapter": "2. NINETY-NINE PERCENT",
+    "cue": "[GFX: US interest rates, 2022]",
+    "text": "In 2022, interest rates jumped, and used-car prices started to fall. For a company that had bought hundreds of thousands of cars at peak prices, that was bad. For a company that lent its customers the money to buy them, it was worse."
+  },
+  {
+    "id": "s020",
+    "chapter": "2. NINETY-NINE PERCENT",
+    "cue": "[DOC: May 2022: \"Carvana lays off 2,500\" · \"Carvana buys ADESA for $2.2 billion\"]",
+    "text": "In May 2022, Carvana laid off twenty-five hundred people, over Zoom. On the same day, it agreed to buy a car-auction business for two point two billion dollars, paid for with debt."
+  },
+  {
+    "id": "s021",
+    "chapter": "2. NINETY-NINE PERCENT",
+    "cue": "",
+    "text": "Ernie Garcia, Carvana CEO — \"And then I think '22 came and we were positioned for another huge year of growth, and car prices went up and interest rates went up and it got more expensive for our customers, and we were overextended.\" | CNBC Mad Money, 19 Jul 2023",
+    "type": "sot",
+    "duration": 10.0
+  },
+  {
+    "id": "s022",
+    "chapter": "2. NINETY-NINE PERCENT",
+    "cue": "[GFX: \"2022 net loss: $2.9B\"]",
+    "text": "That year, Carvana lost two point nine billion dollars."
+  },
+  {
+    "id": "s023",
+    "chapter": "2. NINETY-NINE PERCENT",
+    "cue": "[DOC: Fortune, 7 Dec 2022: \"Carvana falls by a record 45%… a restructure 'could leave the equity worthless'\"]",
+    "text": "In December, an analyst warned that a restructuring could leave the shares worthless. The stock fell forty-five percent in one day."
+  },
+  {
+    "id": "s024",
+    "chapter": "2. NINETY-NINE PERCENT",
+    "cue": "[BROLL: TV news, Dec 2022]",
+    "text": "Its biggest bondholders teamed up, to negotiate what they'd get if it went under."
+  },
+  {
+    "id": "s025",
+    "chapter": "2. NINETY-NINE PERCENT",
+    "cue": "",
+    "text": "CNBC reporter, Closing Bell — \"Look, this report of Apollo as well as PIMCO getting together and saying, look, let's work together in case we see this go into a bankruptcy, which would be a Chapter 11. It would be a prepackaged bankruptcy, most likely.\" | CNBC Closing Bell, 7 Dec 2022",
+    "type": "sot",
+    "duration": 12.6
+  },
+  {
+    "id": "s026",
+    "chapter": "2. NINETY-NINE PERCENT",
+    "cue": "[GFX: stock chart: \"−99%\"]",
+    "text": "From the peak, ninety-nine percent of Carvana's value was gone."
+  },
+  {
+    "id": "s027",
+    "chapter": "2. NINETY-NINE PERCENT",
+    "cue": "",
+    "text": "The obvious story is that it grew too fast, bought too much, and borrowed to do it. All true.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "s028",
+    "chapter": "2. NINETY-NINE PERCENT",
+    "cue": "",
+    "text": "But that story can't explain what happened next.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s029",
+    "chapter": "3. THE COMEBACK",
+    "cue": "[DOC: July 2023: \"Carvana announces agreement with noteholders… reducing total debt by over $1.2 billion\"]",
+    "text": "In July 2023, Carvana and its bondholders made a deal. They swapped old debt for new: one point two billion dollars less of it, due years later, and partly paid in more bonds instead of cash."
+  },
+  {
+    "id": "s030",
+    "chapter": "3. THE COMEBACK",
+    "cue": "[BROLL: Bloomberg, July 2023: Carvana stock up]",
+    "text": "Carvana cut costs everywhere. And it started making money on every car it sold."
+  },
+  {
+    "id": "s031",
+    "chapter": "3. THE COMEBACK",
+    "cue": "[GFX: \"2025: 596,641 cars · $20.3B revenue · $1.9B net income\"]",
+    "text": "By 2025, Carvana sold almost six hundred thousand cars, and reported record revenue of twenty billion dollars, and one point nine billion of profit. About a third of that profit was a one-off tax gain, but the business underneath was real."
+  },
+  {
+    "id": "s032",
+    "chapter": "3. THE COMEBACK",
+    "cue": "[DOC: \"Carvana to join S&P 500, effective 22 December 2025\"]",
+    "text": "In December 2025, it joined the S&P 500. From its low, the stock had risen more than ten-thousand percent."
+  },
+  {
+    "id": "s033",
+    "chapter": "3. THE COMEBACK",
+    "cue": "[GFX: CarMax vs Carvana]",
+    "text": "Meanwhile, CarMax, the giant of used cars for thirty years, saw its shares halve in 2025, and its chief executive left."
+  },
+  {
+    "id": "s034",
+    "chapter": "3. THE COMEBACK",
+    "cue": "",
+    "text": "So what did Carvana find that CarMax didn't?"
+  },
+  {
+    "id": "s035",
+    "chapter": "3. THE COMEBACK",
+    "cue": "",
+    "text": "To see it, you have to look at a single car.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s036",
+    "chapter": "4. ONE CAR",
+    "cue": "[VISUAL: \"Carvana, 2025: one average car\"]",
+    "text": "Here's what Carvana made on the average car it sold in 2025, from its own annual report."
+  },
+  {
+    "id": "s037",
+    "chapter": "4. ONE CAR",
+    "cue": "[GFX: stack: \"The car itself: $3,315\"]",
+    "text": "On the car itself, the gap between what it paid and what you paid: three thousand three hundred and fifteen dollars."
+  },
+  {
+    "id": "s038",
+    "chapter": "4. ONE CAR",
+    "cue": "[GFX: stack adds \"Wholesale: $806\"]",
+    "text": "From selling on the cars it doesn't want: about eight hundred."
+  },
+  {
+    "id": "s039",
+    "chapter": "4. ONE CAR",
+    "cue": "[GFX: stack adds \"Everything else: $2,905\"]",
+    "text": "And from everything else: two thousand nine hundred and five dollars.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "s040",
+    "chapter": "4. ONE CAR",
+    "cue": "",
+    "text": "Almost as much as the car."
+  },
+  {
+    "id": "s041",
+    "chapter": "4. ONE CAR",
+    "cue": "[GFX: \"Everything else = the loan · the warranty · the gap cover\"]",
+    "text": "\"Everything else\" is mostly paperwork. The warranty. The gap insurance. And above all, the loan."
+  },
+  {
+    "id": "s042",
+    "chapter": "4. ONE CAR",
+    "cue": "[VISUAL: \"Simplified example: round numbers\"]",
+    "text": "Here's how a loan becomes profit on day one. Simple numbers."
+  },
+  {
+    "id": "s043",
+    "chapter": "4. ONE CAR",
+    "cue": "[GFX: step 1: \"You borrow $20,000 at 14%\"]",
+    "text": "Say you borrow twenty thousand dollars from Carvana to buy the car, at fourteen percent, over six years."
+  },
+  {
+    "id": "s044",
+    "chapter": "4. ONE CAR",
+    "cue": "[GFX: step 2: \"Investors pay $21,000 for your payments\"]",
+    "text": "Carvana doesn't keep your loan. It bundles it with thousands of others and sells them to banks and investors, who pay more than twenty thousand dollars for the right to collect your payments. Say, twenty-one thousand."
+  },
+  {
+    "id": "s045",
+    "chapter": "4. ONE CAR",
+    "cue": "[GFX: step 3: \"+$1,000 profit · the day you drive away\"]",
+    "text": "That's a thousand dollars of profit for Carvana, booked the day you drive away. Your payments, and the risk that you stop making them, now belong to someone else."
+  },
+  {
+    "id": "s046",
+    "chapter": "4. ONE CAR",
+    "cue": "[GFX: \"First nine months of 2025: $9.2B lent · $878M gain on selling loans\"]",
+    "text": "In the first nine months of 2025, Carvana lent nine point two billion dollars, and made eight hundred and seventy-eight million from selling loans. Almost ten cents on every dollar it lent."
+  },
+  {
+    "id": "s047",
+    "chapter": "4. ONE CAR",
+    "cue": "[BROLL: Carvana delivery]",
+    "text": "To be fair, every car dealer makes money on finance. Carvana says it's simply making the whole purchase easy, and that it sells most loans to unrelated buyers.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "s048",
+    "chapter": "4. ONE CAR",
+    "cue": "",
+    "text": "But this is why 2022 nearly killed it. When rates jumped, the loans it was writing were suddenly worth less, and investors would only buy them at a bigger discount."
+  },
+  {
+    "id": "s049",
+    "chapter": "4. ONE CAR",
+    "cue": "[GFX: \"2023 →\": the loan machine restarts]",
+    "text": "And this is why it came back. Once Carvana could sell its loans at a profit again, every car became a two-part sale: the car, and the money.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s050",
+    "chapter": "4. ONE CAR",
+    "cue": "[PHOTO: Ernest Garcia II]",
+    "text": "Which brings us back to the founder's father."
+  },
+  {
+    "id": "s051",
+    "chapter": "5. THE FATHER'S BUSINESS",
+    "cue": "[DOC: LA Times, 31 Oct 1990: \"Lincoln S&L Figure Pleads Guilty to Fraud\"]",
+    "text": "In 1990, Ernest Garcia the Second, then a real estate developer in Tucson, pleaded guilty to bank fraud. He had helped Lincoln Savings, the bank run by Charles Keating at the centre of the savings and loan scandal, hide its ownership of risky desert land from regulators. He got three years' probation."
+  },
+  {
+    "id": "s052",
+    "chapter": "5. THE FATHER'S BUSINESS",
+    "cue": "[BROLL: DriveTime dealership]",
+    "text": "Then he bought a struggling used-car chain called Ugly Duckling, later renamed DriveTime. It sold cars to people with bad credit, and lent them the money itself. \"Buy here, pay here.\""
+  },
+  {
+    "id": "s053",
+    "chapter": "5. THE FATHER'S BUSINESS",
+    "cue": "[GFX: \"DriveTime: the car is how you get the loan\"]",
+    "text": "At a dealer like that, the car isn't really the product. The loan is."
+  },
+  {
+    "id": "s054",
+    "chapter": "5. THE FATHER'S BUSINESS",
+    "cue": "[PHOTO: Ernie Garcia III]",
+    "text": "His son grew up inside that business. In 2014, he explained where Carvana came from."
+  },
+  {
+    "id": "s055",
+    "chapter": "5. THE FATHER'S BUSINESS",
+    "cue": "",
+    "text": "Ernie Garcia, Carvana founder — \"So, DriveTime is the seventh largest retailer of used cars in the nation, selling about 100,000 cars this year, give or take. At DriveTime, got a lot of exposure to the finance process, to the retail process.\" | Bloomberg, 14 Jul 2014",
+    "type": "sot",
+    "duration": 10.6
+  },
+  {
+    "id": "s056",
+    "chapter": "5. THE FATHER'S BUSINESS",
+    "cue": "",
+    "text": "Carvana's first money came from DriveTime. And to this day, a DriveTime company called Bridgecrest collects the payments on many of Carvana's loans."
+  },
+  {
+    "id": "s057",
+    "chapter": "5. THE FATHER'S BUSINESS",
+    "cue": "",
+    "text": "Carvana took the oldest trick in the used-car business, and put it inside a glass tower.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s058",
+    "chapter": "6. THE SHORT SELLER",
+    "cue": "[BROLL: CNBC Mad Money, 2023]",
+    "text": "Not everyone believes the comeback. Even in 2023, as the stock soared, Jim Cramer split Carvana in two."
+  },
+  {
+    "id": "s059",
+    "chapter": "6. THE SHORT SELLER",
+    "cue": "",
+    "text": "Jim Cramer, CNBC — \"There's two things. There's two Carvanas. There's Carvana, the company, which I think is incredibly overvalued\" | CNBC Mad Money, 15 Jun 2023",
+    "type": "sot",
+    "duration": 4.9
+  },
+  {
+    "id": "s060",
+    "chapter": "6. THE SHORT SELLER",
+    "cue": "[DOC: Hindenburg Research, 2 Jan 2025: \"Carvana: A Father-Son Accounting Grift for the Ages\"]",
+    "text": "Then, on the second of January 2025, the short seller Hindenburg Research published a report on Carvana. Its title: \"A father-son accounting grift for the ages.\""
+  },
+  {
+    "id": "s061",
+    "chapter": "6. THE SHORT SELLER",
+    "cue": "[GFX: Hindenburg's claims: \"$800M of loans sold to a buyer it says is linked to the Garcias\" · \"extensions keeping delinquencies low\"]",
+    "text": "Hindenburg alleged that eight hundred million dollars of Carvana's loans had been sold to a buyer it believed was connected to the Garcia family, and that loan extensions were hiding how many borrowers had fallen behind."
+  },
+  {
+    "id": "s062",
+    "chapter": "6. THE SHORT SELLER",
+    "cue": "[QUOTE: Carvana, 2 Jan 2025 — \"intentionally misleading and inaccurate\"]",
+    "text": "Carvana said the report was \"intentionally misleading and inaccurate\", and that its loan buyer was unrelated."
+  },
+  {
+    "id": "s063",
+    "chapter": "6. THE SHORT SELLER",
+    "cue": "[DOC: 15 Jan 2025: \"Hindenburg Research is shutting down\"]",
+    "text": "Thirteen days later, Hindenburg announced it was shutting down. Its founder said the work had become all-consuming. Carvana's stock kept rising."
+  },
+  {
+    "id": "s064",
+    "chapter": "6. THE SHORT SELLER",
+    "cue": "[BROLL: subprime auto news, 2025]",
+    "text": "But the question Hindenburg asked didn't go away. In 2025, a subprime car lender called Tricolor collapsed, and late payments on subprime car loans hit record highs. And in 2026, rising interest rates cut about two hundred dollars from Carvana's profit on every car.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s065",
+    "chapter": "VERDICT",
+    "cue": "[VISUAL: title card]",
+    "text": "So how does a company that lost ninety-nine percent of its value end up in the S&P 500?"
+  },
+  {
+    "id": "s066",
+    "chapter": "VERDICT",
+    "cue": "[GFX: the per-car stack again]",
+    "text": "Because Carvana was never really selling cars. It was selling loans, with a car attached. It writes the loan when you drive away, books the profit that day, and sells the risk to someone else."
+  },
+  {
+    "id": "s067",
+    "chapter": "VERDICT",
+    "cue": "[GFX: \"Cheap money: 2021 ↑ · Expensive money: 2022 ↓ · Loans selling again: 2023– ↑\"]",
+    "text": "When money is cheap and borrowers pay, that machine prints profit. When money gets expensive, it almost kills the company. Carvana has now ridden it both ways."
+  },
+  {
+    "id": "s068",
+    "chapter": "VERDICT",
+    "cue": "[PHOTO: Ernie Garcia III]",
+    "text": "Ernie Garcia's goal is three million cars a year, within five to ten years. That's five times what Carvana sold in 2025, and almost all of them on loans."
+  },
+  {
+    "id": "s069",
+    "chapter": "VERDICT",
+    "cue": "[BROLL: the coin drops; the tower spins]",
+    "text": "You put a coin in, and a car comes out.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "s070",
+    "chapter": "VERDICT",
+    "cue": "",
+    "text": "But the real machine is the loan. And it only works as long as millions of people keep making their payments."
+  },
+  {
+    "id": "s071",
+    "chapter": "VERDICT",
+    "cue": "[END CARD]",
+    "text": "If you'll never look at a car loan the same way again, that's what this channel does: the economics nobody explains, one company at a time. Subscribe, and you'll get the next one."
+  }
+]
