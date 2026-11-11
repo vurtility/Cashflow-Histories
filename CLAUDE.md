@@ -50,3 +50,9 @@ If this is a fresh checkout, run `./setup.sh` first.
   - Edit v1: real footage 58%, charts 14%. Master: `render.py statefarm --master` (not in git).
   - Thumbnails, `youtube.md` and `upload/statefarm-youtube-details.txt` done; thumbnails and the details file are in the owner's Drive "Claude" folder. The owner saves the master to Drive from chat.
   - Open ⚠️ fact-check items: Palisades 69% ZIP figure, the ~40% capital analysis, the $1.26 company figure, the FAIR Plan rounding.
+- Episode 4, **Carvana** ("Carvana Isn't a Car Company"):
+  - Script: `carvana-script.md`. Voiceover: `production/episodes/carvana/` (10.1 min, 65/65 QA). 6 real-voice clips (KTVU 2015 vending machine, Garcia CNBC 2017/2023 and Bloomberg 2014, CNBC creditors report 2022, Cramer 2023).
+  - Edit v1: real footage 55%, charts 17%. Master: `render.py carvana --master` (not in git).
+  - Thumbnails, `youtube.md` and `upload/carvana-youtube-details.txt` done and in the Drive "Claude" folder.
+  - The TV News Archive downloads slowly (~5 min per clip): fetch candidates once into `episodes/cvcand` (gitignored), transcribe, then cut the final clips from them.
+  - Check before publishing: the CarMax 2025 figures and the date the CEO left; the Garcia II "stopped selling days after the peak" wording (Bloomberg).
