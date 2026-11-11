@@ -1,0 +1,1325 @@
+{
+  "median_db": -14.8,
+  "spent_chars": 162,
+  "results": {
+    "s001": {
+      "heard": "In 2025, American Express raised the yearly fee on its Platinum card to $895.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 4.17,
+        "wpm": 150.0,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.888
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "American Express",
+        "Platinum"
+      ],
+      "attempts": []
+    },
+    "s002": {
+      "heard": "and new sign-ups doubled.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 6,
+        "rate": 3.37,
+        "wpm": 134.8,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.933
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s003": {
+      "heard": "That same year, Amex handed its customers $24.5 billion in rewards and perks, and it still made a profit of $10.8 billion.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 4.16,
+        "wpm": 179.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.916
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Amex"
+      ],
+      "attempts": []
+    },
+    "s004": {
+      "heard": "So if Amex is giving that much away, who is actually paying for it?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 19,
+        "rate": 4.38,
+        "wpm": 193.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.904
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Amex"
+      ],
+      "attempts": []
+    },
+    "s005": {
+      "heard": "The answer is hiding in a story about a tank of salad oil.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 18,
+        "rate": 4.97,
+        "wpm": 215.5,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s006": {
+      "heard": "American Express started in 1850 in Buffalo, New York as a company that delivered parcels and cash. Two of its founders were Henry Wells and William Fargo, who later started a company of their own, Wells Fargo.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 58,
+        "rate": 4.25,
+        "wpm": 162.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.28,
+          0.32,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.915
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Buffalo",
+        "Express",
+        "Henry Wells",
+        "New York",
+        "Wells Fargo",
+        "William Fargo"
+      ],
+      "attempts": []
+    },
+    "s007": {
+      "heard": "In 1891, it invented the Traveler's Check, so Americans abroad could carry money that couldn't be stolen.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 3.99,
+        "wpm": 150.9,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Americans"
+      ],
+      "attempts": []
+    },
+    "s008": {
+      "heard": "And in 1958, it launched a card, not a credit card, a charge card. You had to pay off the whole balance every month.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 29,
+        "rate": 3.42,
+        "wpm": 169.8,
+        "lead_silence": 0.02,
+        "silences": [
+          0.4,
+          0.34,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.894
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s009": {
+      "heard": "Which raised a question, if customers pay in full and pay no interest, where does the money come from?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 4.23,
+        "wpm": 185.7,
+        "lead_silence": 0.06,
+        "silences": [
+          0.4,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -16.3,
+        "peak": 0.843
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s010": {
+      "heard": "In 1963, a New Jersey trader called Tino De Angelis borrowed heavily against his stocks of soybean oil, stored in giant tanks.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 34,
+        "rate": 3.74,
+        "wpm": 145.1,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.916
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "New Jersey",
+        "Tino De Angelis"
+      ],
+      "attempts": []
+    },
+    "s011": {
+      "heard": "The tanks were mostly full of water, with a layer of oil floating on top. When inspectors dipped a measuring stick in, they found oil.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 33,
+        "rate": 4.08,
+        "wpm": 185.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.913
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s012": {
+      "heard": "And the company that had certified those tanks was a small American Express subsidiary.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 25,
+        "rate": 5.0,
+        "wpm": 168.0,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.918
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "American Express"
+      ],
+      "attempts": []
+    },
+    "s013": {
+      "heard": "When the fraud collapsed in November 1963, the banks that had lent against the oil had lost around $180 million. Amex's stock fell about 40%.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 43,
+        "rate": 3.82,
+        "wpm": 159.9,
+        "lead_silence": 0.06,
+        "silences": [
+          0.32,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.902
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "November"
+      ],
+      "attempts": []
+    },
+    "s014": {
+      "heard": "Amex didn't have to pay. Its president, Howard Clark, decided it would anyway. It offered $60 million to the people who had been fooled.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 40,
+        "rate": 4.35,
+        "wpm": 163.0,
+        "lead_silence": 0.08,
+        "silences": [
+          0.32,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.898
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Howard Clark"
+      ],
+      "attempts": []
+    },
+    "s015": {
+      "heard": "In Omaha, a young investor called Warren Buffett went to restaurants and shops to see if anyone had stopped using their American Express cards.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 40,
+        "rate": 4.9,
+        "wpm": 176.5,
+        "lead_silence": 0.06,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.89
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "American Express",
+        "Omaha",
+        "Warren Buffett"
+      ],
+      "attempts": []
+    },
+    "s016": {
+      "heard": "Nobody had.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 4,
+        "rate": 4.44,
+        "wpm": 133.3,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.7,
+        "peak": 0.896
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s017": {
+      "heard": "So he put about 40% of his partnership's money into American Express. Within two years, the stock had more than doubled.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 35,
+        "rate": 4.53,
+        "wpm": 171.0,
+        "lead_silence": 0.02,
+        "silences": [
+          0.46
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.913
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "American Express"
+      ],
+      "attempts": []
+    },
+    "s019": {
+      "heard": "Here's what Buffett saw. Every time you pay with an Amex card, the shop pays American Express a slice of the bill.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 31,
+        "rate": 4.48,
+        "wpm": 190.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.44,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.895
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "American Express",
+        "Amex",
+        "Buffett"
+      ],
+      "attempts": []
+    },
+    "s020": {
+      "heard": "In 2025, people spent $1.67 trillion on Amex cards. The shops paid Amex $37.4 billion for it. That's Amex's biggest source of revenue, by far.",
+      "accuracy": 0.939,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "point six",
+          "heard": "sixty"
+        }
+      ],
+      "pace": {
+        "syllables": 45,
+        "rate": 3.42,
+        "wpm": 146.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.28,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.965
+      },
+      "problems": [],
+      "score": 0.939,
+      "risky": [
+        "(digits in text)",
+        "Amex",
+        "Amex's"
+      ],
+      "attempts": []
+    },
+    "s021": {
+      "heard": "On a $100 dinner, about $2.24 goes to Amex.",
+      "accuracy": 0.917,
+      "issues": [
+        {
+          "type": "insert",
+          "expected": "",
+          "heard": "a"
+        },
+        {
+          "type": "delete",
+          "expected": "cents",
+          "heard": ""
+        }
+      ],
+      "pace": {
+        "syllables": 22,
+        "rate": 4.8,
+        "wpm": 170.3,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.913
+      },
+      "problems": [
+        "accuracy 92%"
+      ],
+      "score": 0.917,
+      "risky": [
+        "Amex"
+      ],
+      "attempts": [
+        {
+          "plan": "new take",
+          "accuracy": 0.917,
+          "problems": [
+            "accuracy 92%"
+          ]
+        },
+        {
+          "plan": "steadier delivery",
+          "accuracy": 0.917,
+          "problems": [
+            "accuracy 92%"
+          ]
+        }
+      ]
+    },
+    "s022": {
+      "heard": "Visa and MasterCard are networks. They run the pipes, and banks issue the cards and take most of the fee. Amex is both. It issues the card and runs the network, so it keeps the whole thing.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 46,
+        "rate": 3.65,
+        "wpm": 176.2,
+        "lead_silence": 0.02,
+        "silences": [
+          0.32,
+          0.44,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.969
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Mastercard"
+      ],
+      "attempts": []
+    },
+    "s023": {
+      "heard": "And Amex's customers are the ones every shop wants. The average Amex card member spends over $25,000 a year on the card.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 4.72,
+        "wpm": 174.3,
+        "lead_silence": 0.02,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.906
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Amex",
+        "Amex's"
+      ],
+      "attempts": []
+    },
+    "s024": {
+      "heard": "Shops have fought back. In 1991, restaurants in Boston revolted against Amex's fees and stopped taking the card. The press called it the Boston Fee Party.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 3.41,
+        "wpm": 143.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.38,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.973
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Amex's",
+        "Boston",
+        "Boston Fee Party"
+      ],
+      "attempts": []
+    },
+    "s025": {
+      "heard": "In 2015, San Francisco sued.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 6,
+        "rate": 2.04,
+        "wpm": 102.0,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.8,
+        "peak": 0.895
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "San Francisco"
+      ],
+      "attempts": []
+    },
+    "s027": {
+      "heard": "And when states took Amex to court for banning shops from steering customers to cheaper cards, the Supreme Court sided with Amex, five votes to four.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 4.1,
+        "wpm": 172.9,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.937
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Amex",
+        "Supreme Court"
+      ],
+      "attempts": []
+    },
+    "s029": {
+      "heard": "So Amex charges shops more than anyone, but here's the strange part.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 16,
+        "rate": 3.56,
+        "wpm": 160.0,
+        "lead_silence": 0.04,
+        "silences": [
+          0.46
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.9
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Amex"
+      ],
+      "attempts": []
+    },
+    "s030": {
+      "heard": "It gives most of it away.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 8,
+        "rate": 5.33,
+        "wpm": 240.0,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.909
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s031": {
+      "heard": "In 2025, shops paid Amex $37.4 billion.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 15,
+        "rate": 2.83,
+        "wpm": 113.2,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.88
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Amex"
+      ],
+      "attempts": []
+    },
+    "s032": {
+      "heard": "Amex spent $18.4 billion on rewards, points, cashback, airline miles.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 19,
+        "rate": 3.2,
+        "wpm": 131.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s033": {
+      "heard": "and 6.1 billion more on perks. Airport lounges, hotel credits, restaurant credits.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 3.55,
+        "wpm": 135.5,
+        "lead_silence": 0.02,
+        "silences": [
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.894
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s034": {
+      "heard": "About two-thirds of what the shops paid, handed straight back to the card holders.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 18,
+        "rate": 4.07,
+        "wpm": 176.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.898
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s035": {
+      "heard": "Why give it away? Amex's own adverts told you.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 12,
+        "rate": 3.73,
+        "wpm": 167.7,
+        "lead_silence": 0.06,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.89
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s037": {
+      "heard": "The rewards are the reason people reach for the Amex card first. More spending means more fees from shops, and more spending is what makes shops afraid to refuse the card.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 40,
+        "rate": 3.9,
+        "wpm": 181.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.919
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Amex",
+        "refuse"
+      ],
+      "attempts": []
+    },
+    "s038": {
+      "heard": "Then comes the second trick. Amex charges the customers too. In 2025, card fees brought in a record $10 billion, up 18% in a year.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 3.3,
+        "wpm": 144.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.38,
+          0.42,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.895
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "record"
+      ],
+      "attempts": []
+    },
+    "s039": {
+      "heard": "When Amex raised the platinum fee by $200, signups doubled, and existing members didn't leave.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 28,
+        "rate": 4.26,
+        "wpm": 155.0,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Amex",
+        "Platinum"
+      ],
+      "attempts": []
+    },
+    "s040": {
+      "heard": "It's a pattern. In 2017, it did the same thing.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 10,
+        "rate": 2.66,
+        "wpm": 159.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.7,
+        "peak": 0.908
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s042": {
+      "heard": "Eight years later, it's 895.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 13,
+        "rate": 4.19,
+        "wpm": 154.8,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.865
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s043": {
+      "heard": "Think about what that means for a platinum member who spends $25,000 a year.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 4.62,
+        "wpm": 184.6,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.885
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Platinum"
+      ],
+      "attempts": []
+    },
+    "s044": {
+      "heard": "The shops pay Amex about $560 for that spending.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 19,
+        "rate": 4.7,
+        "wpm": 193.1,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.915
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Amex"
+      ],
+      "attempts": []
+    },
+    "s045": {
+      "heard": "The member pays Amex $895 to belong.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 19,
+        "rate": 5.25,
+        "wpm": 182.3,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.906
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Amex"
+      ],
+      "attempts": []
+    },
+    "s046": {
+      "heard": "That's over $1,400 coming in before the member gets a single point. The rewards are paid for by the shop and by the member themselves.",
+      "accuracy": 0.96,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "fourteen",
+          "heard": "one thousand four"
+        }
+      ],
+      "pace": {
+        "syllables": 39,
+        "rate": 4.3,
+        "wpm": 178.8,
+        "lead_silence": 0.1,
+        "silences": [
+          0.28,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 0.96,
+      "risky": [],
+      "attempts": []
+    },
+    "s047": {
+      "heard": "And the shop doesn't really pay either. Card fees are built into the price of everything it sells, to everyone, including the person behind you, paying cash.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 4.04,
+        "wpm": 167.7,
+        "lead_silence": 0.08,
+        "silences": [
+          0.36,
+          0.3,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.897
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s048": {
+      "heard": "In 2023, economists at the Federal Reserve estimated that card rewards move around $15 billion a year from poorer and less savvy cardholders to richer ones.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 46,
+        "rate": 4.04,
+        "wpm": 142.4,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.902
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Federal Reserve"
+      ],
+      "attempts": []
+    },
+    "s049": {
+      "heard": "Warren Buffett never really left. In the 1990s, Berkshire Hathaway bought into American Express again for about $1.3 billion in total.",
+      "accuracy": 0.958,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "nineties",
+          "heard": "ninety s"
+        }
+      ],
+      "pace": {
+        "syllables": 46,
+        "rate": 4.49,
+        "wpm": 140.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.922
+      },
+      "problems": [],
+      "score": 0.958,
+      "risky": [
+        "American Express",
+        "Berkshire Hathaway",
+        "Buffett"
+      ],
+      "attempts": []
+    },
+    "s050": {
+      "heard": "Today, Berkshire owns about 22% of the company. That stake is worth around $48 billion.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 29,
+        "rate": 4.17,
+        "wpm": 146.6,
+        "lead_silence": 0.1,
+        "silences": [
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.885
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Berkshire"
+      ],
+      "attempts": []
+    },
+    "s051": {
+      "heard": "And it pays Berkshire around $479 million a year in dividends, more than a third of what it costs, every year.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 4.31,
+        "wpm": 174.8,
+        "lead_silence": 0.08,
+        "silences": [
+          0.32,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.918
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Berkshire"
+      ],
+      "attempts": []
+    },
+    "s052": {
+      "heard": "But the machine has a weakness. It only works while shops believe they can't afford to refuse the card. In 2016, Costco decided it could.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 34,
+        "rate": 3.56,
+        "wpm": 156.9,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32,
+          0.28,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.918
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Costco",
+        "refuse"
+      ],
+      "attempts": []
+    },
+    "s054": {
+      "heard": "And the formula is no longer a secret. Chase raised its own premium cards fee to $795 in 2025 and filled it with perks. Every bank now wants the customers Amex has.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 53,
+        "rate": 4.04,
+        "wpm": 164.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4,
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.908
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Amex"
+      ],
+      "attempts": []
+    },
+    "s055": {
+      "heard": "So who is actually paying for $24.5 billion of rewards?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 21,
+        "rate": 4.3,
+        "wpm": 172.1,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.883
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s056": {
+      "heard": "The shop pays Amex on every swipe. Amex hands most of it back as points and perks, so you'll swipe again. Then you pay Amex $895 for the privilege, and the shop puts its costs into its prices for everyone.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 61,
+        "rate": 4.28,
+        "wpm": 185.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.3,
+          0.3,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.957
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Amex"
+      ],
+      "attempts": []
+    },
+    "s057": {
+      "heard": "Buffett saw it in 1964, in the middle of a scandal. People kept paying with the card, even when the company looked broken.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 31,
+        "rate": 3.98,
+        "wpm": 177.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.896
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s058": {
+      "heard": "That's what American Express really sells, not credit, a habit, and the bill for it is shared by everyone in the queue.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 4.11,
+        "wpm": 169.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26,
+          0.34,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.912
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "American Express"
+      ],
+      "attempts": []
+    },
+    "s059": {
+      "heard": "If you'll never look at your card's rewards the same way again, that's what this channel does. The economics nobody explains. One company at a time. Subscribe and you'll get the next one.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 46,
+        "rate": 4.21,
+        "wpm": 181.3,
+        "lead_silence": 0.02,
+        "silences": [
+          0.28,
+          0.28,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.936
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    }
+  }
+}

@@ -1,0 +1,663 @@
+{
+ "s001": [
+  {
+   "k": "video",
+   "a": "tv_platad17",
+   "from": 4,
+   "label": "American Express Platinum"
+  },
+  {
+   "at": "eight hundred",
+   "k": "stat",
+   "kicker": "Amex Platinum, yearly fee",
+   "value": "$895",
+   "sub": "up from $695 (2025)"
+  }
+ ],
+ "s002": [
+  {
+   "k": "video",
+   "a": "tv_platad17",
+   "from": 18,
+   "label": "New Platinum sign-ups: doubled"
+  }
+ ],
+ "s003": [
+  {
+   "k": "video",
+   "a": "tv_ad11",
+   "from": 6
+  },
+  {
+   "at": "And it still",
+   "k": "cols",
+   "title": "American Express, 2025",
+   "rows": [
+    {
+     "n": "Rewards and perks",
+     "v": 24.5,
+     "label": "$24.5B",
+     "hero": true
+    },
+    {
+     "n": "Profit",
+     "v": 10.8,
+     "label": "$10.8B"
+    }
+   ],
+   "src": "American Express 2025 10-K"
+  }
+ ],
+ "s004": [
+  {
+   "k": "photo",
+   "a": "centurion",
+   "kb": "in"
+  }
+ ],
+ "s005": [
+  {
+   "k": "photo",
+   "a": "tanks",
+   "kb": "in",
+   "treat": "ink",
+   "label": "Bayonne, New Jersey"
+  }
+ ],
+ "s006": [
+  {
+   "k": "place",
+   "place": "BUFFALO, NEW YORK",
+   "year": "1850"
+  },
+  {
+   "at": "Two of its founders",
+   "k": "photo",
+   "a": "fargo_mansion",
+   "kb": "in",
+   "label": "William Fargo's mansion, Buffalo"
+  }
+ ],
+ "s007": [
+  {
+   "k": "photo",
+   "a": "cheque",
+   "kb": "in",
+   "label": "American Express Travelers Cheque",
+   "focus": [
+    0.15,
+    0.38
+   ]
+  }
+ ],
+ "s008": [
+  {
+   "k": "photo",
+   "a": "logo_amex",
+   "kb": "in"
+  },
+  {
+   "at": "Not a credit card",
+   "k": "text",
+   "text": "A CHARGE CARD.",
+   "sub": "pay the whole balance, every month"
+  }
+ ],
+ "s009": [
+  {
+   "k": "video",
+   "a": "tv_ad11",
+   "from": 20,
+   "label": "No interest. So where's the money?"
+  }
+ ],
+ "s010": [
+  {
+   "k": "photo",
+   "a": "tanks",
+   "kb": "out",
+   "label": "Bayonne, New Jersey"
+  }
+ ],
+ "s011": [
+  {
+   "k": "photo",
+   "a": "tanks",
+   "kb": "in",
+   "treat": "ink",
+   "label": "The tanks: mostly water, a layer of oil on top"
+  }
+ ],
+ "s012": [
+  {
+   "k": "doc",
+   "title": "American Express Warehousing Ltd.",
+   "sub": "1963",
+   "lines": [
+    "Certified the receipts for the oil"
+   ],
+   "hi": 0
+  }
+ ],
+ "s013": [
+  {
+   "k": "photo",
+   "a": "tanks",
+   "kb": "out",
+   "label": "~$180 million lost"
+  },
+  {
+   "at": "Amex's stock fell",
+   "k": "stat",
+   "kicker": "American Express stock",
+   "value": "−40%",
+   "sub": "Oct 1963 → Jan 1964"
+  }
+ ],
+ "s014": [
+  {
+   "k": "quote",
+   "text": "morally bound",
+   "by": "Howard Clark, American Express president, Nov 1963",
+   "style": "clip"
+  },
+  {
+   "at": "It offered",
+   "k": "photo",
+   "a": "amex_tower",
+   "kb": "in",
+   "label": "Amex offered $60 million"
+  }
+ ],
+ "s015": [
+  {
+   "k": "photo",
+   "a": "buffett",
+   "kb": "in",
+   "label": "Warren Buffett",
+   "focus": [
+    0.5,
+    0.3
+   ]
+  }
+ ],
+ "s016": [
+  {
+   "k": "photo",
+   "a": "buffett",
+   "kb": "in",
+   "focus": [
+    0.5,
+    0.3
+   ]
+  }
+ ],
+ "s017": [
+  {
+   "k": "video",
+   "a": "tv_berkshire17",
+   "from": 9,
+   "label": "~40% of his partnership's money"
+  }
+ ],
+ "s018": [
+  {
+   "k": "sot",
+   "a": "sot_fintech_2022",
+   "name": "CNBC",
+   "role": "Fast Money · Apr 2022"
+  }
+ ],
+ "s019": [
+  {
+   "k": "video",
+   "a": "tv_ad11",
+   "from": 14
+  }
+ ],
+ "s020": [
+  {
+   "k": "video",
+   "a": "tv_ad11",
+   "from": 22
+  },
+  {
+   "at": "The shops paid",
+   "k": "cols",
+   "title": "American Express, 2025",
+   "rows": [
+    {
+     "n": "Spent on Amex cards",
+     "v": 1669.8,
+     "label": "$1.67T"
+    },
+    {
+     "n": "Paid by shops to Amex",
+     "v": 37.4,
+     "label": "$37.4B",
+     "hero": true
+    }
+   ],
+   "src": "American Express 2025 10-K · ~2.24%"
+  }
+ ],
+ "s021": [
+  {
+   "k": "stat",
+   "kicker": "On a $100 dinner",
+   "value": "$2.24",
+   "sub": "goes to Amex (2025 average)"
+  }
+ ],
+ "s022": [
+  {
+   "k": "vs",
+   "left_a": "logo_amex",
+   "right_a": "amex_tower",
+   "left": "THE NETWORK",
+   "right": "AND THE BANK"
+  }
+ ],
+ "s023": [
+  {
+   "k": "video",
+   "a": "tv_perks17",
+   "from": 4
+  },
+  {
+   "at": "The average",
+   "k": "stat",
+   "kicker": "Average Amex card member, 2025",
+   "value": "$25,453",
+   "sub": "spent on the card in a year"
+  }
+ ],
+ "s024": [
+  {
+   "k": "text",
+   "text": "THE BOSTON FEE PARTY",
+   "sub": "restaurants vs American Express, 1991"
+  }
+ ],
+ "s025": [
+  {
+   "k": "video",
+   "a": "tv_costco16",
+   "from": 4
+  }
+ ],
+ "s026": [
+  {
+   "k": "sot",
+   "a": "sot_sf_2015",
+   "name": "Bloomberg",
+   "role": "Bloomberg West · Nov 2015"
+  }
+ ],
+ "s027": [
+  {
+   "k": "doc",
+   "title": "Ohio v. American Express",
+   "sub": "US Supreme Court, 25 June 2018",
+   "lines": [
+    "Amex's anti-steering rules upheld, 5–4"
+   ],
+   "hi": 0
+  }
+ ],
+ "s028": [
+  {
+   "k": "sot",
+   "a": "sot_supreme_2018",
+   "name": "Diana Olick",
+   "role": "CNBC · Jun 2018"
+  }
+ ],
+ "s029": [
+  {
+   "k": "video",
+   "a": "tv_perks17",
+   "from": 20
+  }
+ ],
+ "s030": [
+  {
+   "k": "text",
+   "text": "IT GIVES MOST OF IT AWAY."
+  }
+ ],
+ "s031": [
+  {
+   "k": "cols",
+   "title": "American Express, 2025",
+   "rows": [
+    {
+     "n": "Shops paid",
+     "v": 37.4,
+     "label": "$37.4B"
+    }
+   ],
+   "src": "American Express 2025 10-K"
+  }
+ ],
+ "s032": [
+  {
+   "k": "cols",
+   "title": "American Express, 2025",
+   "rows": [
+    {
+     "n": "Shops paid",
+     "v": 37.4,
+     "label": "$37.4B"
+    },
+    {
+     "n": "Rewards",
+     "v": 18.4,
+     "label": "$18.4B",
+     "hero": true
+    }
+   ],
+   "src": "American Express 2025 10-K"
+  }
+ ],
+ "s033": [
+  {
+   "k": "cols",
+   "title": "American Express, 2025",
+   "rows": [
+    {
+     "n": "Shops paid",
+     "v": 37.4,
+     "label": "$37.4B"
+    },
+    {
+     "n": "Rewards",
+     "v": 18.4,
+     "label": "$18.4B",
+     "hero": true
+    },
+    {
+     "n": "Perks",
+     "v": 6.1,
+     "label": "$6.1B",
+     "hero": true
+    }
+   ],
+   "src": "American Express 2025 10-K"
+  }
+ ],
+ "s034": [
+  {
+   "k": "stat",
+   "kicker": "Handed back to cardholders",
+   "value": "~65%",
+   "sub": "$24.5B of $37.4B"
+  }
+ ],
+ "s035": [
+  {
+   "k": "video",
+   "a": "tv_ad11",
+   "from": 2
+  }
+ ],
+ "s036": [
+  {
+   "k": "sot",
+   "a": "sot_rewardsad_2011",
+   "name": "American Express",
+   "role": "TV ad as aired · 2011"
+  }
+ ],
+ "s037": [
+  {
+   "k": "video",
+   "a": "tv_platad17",
+   "from": 8
+  },
+  {
+   "at": "More spending means",
+   "k": "video",
+   "a": "tv_costco16",
+   "from": 8
+  }
+ ],
+ "s038": [
+  {
+   "k": "video",
+   "a": "tv_squeri21",
+   "from": 26,
+   "label": "Stephen Squeri, CEO"
+  },
+  {
+   "at": "In 2025, card fees",
+   "k": "stat",
+   "kicker": "Card fees, 2025",
+   "value": "$10.0B",
+   "sub": "a record · up 18%"
+  }
+ ],
+ "s039": [
+  {
+   "k": "video",
+   "a": "tv_perks17",
+   "from": 8
+  }
+ ],
+ "s040": [
+  {
+   "k": "video",
+   "a": "tv_perks17",
+   "from": 30
+  }
+ ],
+ "s041": [
+  {
+   "k": "sot",
+   "a": "sot_fee_2017",
+   "name": "CNBC",
+   "role": "Power Lunch · Mar 2017"
+  }
+ ],
+ "s042": [
+  {
+   "k": "cols",
+   "title": "Platinum's yearly fee",
+   "rows": [
+    {
+     "n": "2017",
+     "v": 550,
+     "label": "$550"
+    },
+    {
+     "n": "2025",
+     "v": 895,
+     "label": "$895",
+     "hero": true
+    }
+   ],
+   "src": "American Express"
+  }
+ ],
+ "s043": [
+  {
+   "k": "video",
+   "a": "tv_platad17",
+   "from": 22,
+   "label": "Simplified example: a member spending $25,000 a year"
+  }
+ ],
+ "s044": [
+  {
+   "k": "stat",
+   "kicker": "From the shops",
+   "value": "$560",
+   "sub": "$25,000 × 2.24% (example)"
+  }
+ ],
+ "s045": [
+  {
+   "k": "video",
+   "a": "tv_perks17",
+   "from": 40,
+   "label": "+ $895 yearly fee"
+  }
+ ],
+ "s046": [
+  {
+   "k": "stat",
+   "kicker": "Coming in, before a single point",
+   "value": "$1,455",
+   "sub": "example"
+  }
+ ],
+ "s047": [
+  {
+   "k": "video",
+   "a": "tv_costco16",
+   "from": 12
+  }
+ ],
+ "s048": [
+  {
+   "k": "doc",
+   "title": "Who Pays For Your Rewards?",
+   "sub": "Federal Reserve working paper, 2023",
+   "lines": [
+    "≈ $15 billion a year",
+    "from poorer and less savvy cardholders to richer ones"
+   ],
+   "hi": 0
+  }
+ ],
+ "s049": [
+  {
+   "k": "video",
+   "a": "tv_berkshire17",
+   "from": 11,
+   "label": "Warren Buffett"
+  }
+ ],
+ "s050": [
+  {
+   "k": "video",
+   "a": "tv_berkshire17",
+   "from": 24
+  },
+  {
+   "at": "That stake is worth",
+   "k": "cols",
+   "title": "Berkshire's Amex stake",
+   "rows": [
+    {
+     "n": "Cost",
+     "v": 1.3,
+     "label": "$1.3B"
+    },
+    {
+     "n": "Worth (Oct 2026)",
+     "v": 48,
+     "label": "~$48B",
+     "hero": true
+    }
+   ],
+   "src": "Berkshire 13F; Motley Fool, Oct 2026"
+  }
+ ],
+ "s051": [
+  {
+   "k": "stat",
+   "kicker": "Dividends to Berkshire",
+   "value": "$479M",
+   "sub": "a year · 37% of the original cost"
+  }
+ ],
+ "s052": [
+  {
+   "k": "photo",
+   "a": "costco",
+   "kb": "in"
+  }
+ ],
+ "s053": [
+  {
+   "k": "sot",
+   "a": "sot_costco_2016",
+   "name": "ABC7 News",
+   "role": "KGO · Jun 2016"
+  }
+ ],
+ "s054": [
+  {
+   "k": "video",
+   "a": "tv_perks17",
+   "from": 24
+  },
+  {
+   "at": "Every bank now",
+   "k": "video",
+   "a": "tv_fastmoney22",
+   "from": 20
+  }
+ ],
+ "s055": [
+  {
+   "k": "photo",
+   "a": "centurion",
+   "kb": "out",
+   "treat": "ink"
+  }
+ ],
+ "s056": [
+  {
+   "k": "video",
+   "a": "tv_costco16",
+   "from": 4,
+   "focus": [
+    0.1,
+    0.3
+   ]
+  },
+  {
+   "at": "Amex hands most",
+   "k": "video",
+   "a": "tv_ad11",
+   "from": 10
+  },
+  {
+   "at": "And the shop puts",
+   "k": "video",
+   "a": "tv_costco16",
+   "from": 12
+  }
+ ],
+ "s057": [
+  {
+   "k": "photo",
+   "a": "buffett_ku",
+   "kb": "in",
+   "focus": [
+    0.5,
+    0.3
+   ]
+  }
+ ],
+ "s058": [
+  {
+   "k": "video",
+   "a": "tv_platad17",
+   "from": 14
+  },
+  {
+   "at": "And the bill",
+   "k": "video",
+   "a": "tv_costco16",
+   "from": 8
+  }
+ ],
+ "s059": [
+  {
+   "k": "end"
+  }
+ ]
+}

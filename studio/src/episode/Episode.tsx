@@ -7,8 +7,9 @@ import subway from './data/subway.json';
 import airlines from './data/airlines.json';
 import statefarm from './data/statefarm.json';
 import carvana from './data/carvana.json';
+import amex from './data/amex.json';
 
-export const EPISODES: Record<string, any> = {subway, airlines, statefarm, carvana};
+export const EPISODES: Record<string, any> = {subway, airlines, statefarm, carvana, amex};
 
 const ChapterStamp: React.FC<{name: string; n: number}> = ({name, n}) => {
   const f = useCurrentFrame();

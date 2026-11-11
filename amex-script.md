@@ -76,7 +76,7 @@ The answer is hiding in a story about a tank of salad oil.
 
 ### 1. THE EXPRESS COMPANY
 
-`[PHOTO: Henry Wells / William Fargo]`
+`[PHOTO: William Fargo's mansion, Buffalo]`
 American Express started in 1850, in Buffalo, New York, as a company that delivered parcels and cash. Two of its founders were Henry Wells and William Fargo, who later started a company of their own: Wells Fargo.
 
 `[PHOTO: early American Express traveler's cheque]`

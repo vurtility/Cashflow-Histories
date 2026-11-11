@@ -1,0 +1,1663 @@
+{
+ "fps": 30,
+ "durationInFrames": 14202,
+ "episode": "amex",
+ "print": "005",
+ "vo": [
+  {
+   "src": "amex/vo/s001.mp3",
+   "from": 0,
+   "trim": 0,
+   "len": 222
+  },
+  {
+   "src": "amex/vo/s002.mp3",
+   "from": 231,
+   "trim": 1,
+   "len": 59
+  },
+  {
+   "src": "amex/vo/s003.mp3",
+   "from": 299,
+   "trim": 1,
+   "len": 286
+  },
+  {
+   "src": "amex/vo/s004.mp3",
+   "from": 591,
+   "trim": 0,
+   "len": 136
+  },
+  {
+   "src": "amex/vo/s005.mp3",
+   "from": 738,
+   "trim": 0,
+   "len": 115
+  },
+  {
+   "src": "amex/vo/s006.mp3",
+   "from": 874,
+   "trim": 0,
+   "len": 416
+  },
+  {
+   "src": "amex/vo/s007.mp3",
+   "from": 1294,
+   "trim": 1,
+   "len": 207
+  },
+  {
+   "src": "amex/vo/s008.mp3",
+   "from": 1507,
+   "trim": 0,
+   "len": 260
+  },
+  {
+   "src": "amex/vo/s009.mp3",
+   "from": 1773,
+   "trim": 1,
+   "len": 189
+  },
+  {
+   "src": "amex/vo/s010.mp3",
+   "from": 1976,
+   "trim": 1,
+   "len": 279
+  },
+  {
+   "src": "amex/vo/s011.mp3",
+   "from": 2260,
+   "trim": 0,
+   "len": 249
+  },
+  {
+   "src": "amex/vo/s012.mp3",
+   "from": 2514,
+   "trim": 1,
+   "len": 156
+  },
+  {
+   "src": "amex/vo/s013.mp3",
+   "from": 2675,
+   "trim": 1,
+   "len": 344
+  },
+  {
+   "src": "amex/vo/s014.mp3",
+   "from": 3025,
+   "trim": 2,
+   "len": 282
+  },
+  {
+   "src": "amex/vo/s015.mp3",
+   "from": 3313,
+   "trim": 1,
+   "len": 251
+  },
+  {
+   "src": "amex/vo/s016.mp3",
+   "from": 3572,
+   "trim": 0,
+   "len": 33
+  },
+  {
+   "src": "amex/vo/s017.mp3",
+   "from": 3614,
+   "trim": 0,
+   "len": 237
+  },
+  {
+   "src": "amex/vo/s019.mp3",
+   "from": 4075,
+   "trim": 1,
+   "len": 213
+  },
+  {
+   "src": "amex/vo/s020.mp3",
+   "from": 4294,
+   "trim": 0,
+   "len": 400
+  },
+  {
+   "src": "amex/vo/s021.mp3",
+   "from": 4699,
+   "trim": 0,
+   "len": 144
+  },
+  {
+   "src": "amex/vo/s022.mp3",
+   "from": 4848,
+   "trim": 0,
+   "len": 383
+  },
+  {
+   "src": "amex/vo/s023.mp3",
+   "from": 5237,
+   "trim": 0,
+   "len": 254
+  },
+  {
+   "src": "amex/vo/s024.mp3",
+   "from": 5496,
+   "trim": 1,
+   "len": 332
+  },
+  {
+   "src": "amex/vo/s025.mp3",
+   "from": 5836,
+   "trim": 2,
+   "len": 94
+  },
+  {
+   "src": "amex/vo/s027.mp3",
+   "from": 6218,
+   "trim": 0,
+   "len": 277
+  },
+  {
+   "src": "amex/vo/s029.mp3",
+   "from": 6788,
+   "trim": 0,
+   "len": 140
+  },
+  {
+   "src": "amex/vo/s030.mp3",
+   "from": 6937,
+   "trim": 1,
+   "len": 51
+  },
+  {
+   "src": "amex/vo/s031.mp3",
+   "from": 7008,
+   "trim": 1,
+   "len": 165
+  },
+  {
+   "src": "amex/vo/s032.mp3",
+   "from": 7178,
+   "trim": 0,
+   "len": 184
+  },
+  {
+   "src": "amex/vo/s033.mp3",
+   "from": 7368,
+   "trim": 0,
+   "len": 192
+  },
+  {
+   "src": "amex/vo/s034.mp3",
+   "from": 7566,
+   "trim": 0,
+   "len": 139
+  },
+  {
+   "src": "amex/vo/s035.mp3",
+   "from": 7710,
+   "trim": 1,
+   "len": 103
+  },
+  {
+   "src": "amex/vo/s037.mp3",
+   "from": 8001,
+   "trim": 0,
+   "len": 312
+  },
+  {
+   "src": "amex/vo/s038.mp3",
+   "from": 8319,
+   "trim": 1,
+   "len": 342
+  },
+  {
+   "src": "amex/vo/s039.mp3",
+   "from": 8667,
+   "trim": 0,
+   "len": 204
+  },
+  {
+   "src": "amex/vo/s040.mp3",
+   "from": 8876,
+   "trim": 1,
+   "len": 118
+  },
+  {
+   "src": "amex/vo/s042.mp3",
+   "from": 9371,
+   "trim": 0,
+   "len": 99
+  },
+  {
+   "src": "amex/vo/s043.mp3",
+   "from": 9476,
+   "trim": 0,
+   "len": 163
+  },
+  {
+   "src": "amex/vo/s044.mp3",
+   "from": 9644,
+   "trim": 1,
+   "len": 126
+  },
+  {
+   "src": "amex/vo/s045.mp3",
+   "from": 9775,
+   "trim": 2,
+   "len": 114
+  },
+  {
+   "src": "amex/vo/s046.mp3",
+   "from": 9895,
+   "trim": 2,
+   "len": 279
+  },
+  {
+   "src": "amex/vo/s047.mp3",
+   "from": 10188,
+   "trim": 2,
+   "len": 296
+  },
+  {
+   "src": "amex/vo/s048.mp3",
+   "from": 10489,
+   "trim": 1,
+   "len": 347
+  },
+  {
+   "src": "amex/vo/s049.mp3",
+   "from": 10857,
+   "trim": 1,
+   "len": 314
+  },
+  {
+   "src": "amex/vo/s050.mp3",
+   "from": 11176,
+   "trim": 2,
+   "len": 216
+  },
+  {
+   "src": "amex/vo/s051.mp3",
+   "from": 11397,
+   "trim": 2,
+   "len": 264
+  },
+  {
+   "src": "amex/vo/s052.mp3",
+   "from": 11666,
+   "trim": 0,
+   "len": 293
+  },
+  {
+   "src": "amex/vo/s054.mp3",
+   "from": 12330,
+   "trim": 1,
+   "len": 399
+  },
+  {
+   "src": "amex/vo/s055.mp3",
+   "from": 12750,
+   "trim": 0,
+   "len": 153
+  },
+  {
+   "src": "amex/vo/s056.mp3",
+   "from": 12914,
+   "trim": 0,
+   "len": 432
+  },
+  {
+   "src": "amex/vo/s057.mp3",
+   "from": 13352,
+   "trim": 0,
+   "len": 240
+  },
+  {
+   "src": "amex/vo/s058.mp3",
+   "from": 13598,
+   "trim": 0,
+   "len": 240
+  },
+  {
+   "src": "amex/vo/s059.mp3",
+   "from": 13843,
+   "trim": 0,
+   "len": 332
+  }
+ ],
+ "shots": [
+  {
+   "kind": "video",
+   "start": 0,
+   "dur": 161,
+   "seg": "s001",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_platad17",
+     "src": "amex/assets/tv_platad17.mp4",
+     "credit": "American Express Platinum ad as aired, Sep 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 4.0,
+    "label": "American Express Platinum"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 161,
+   "dur": 70,
+   "seg": "s001",
+   "cat": "charts",
+   "p": {
+    "kicker": "Amex Platinum, yearly fee",
+    "value": "$895",
+    "sub": "up from $695 (2025)"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 231,
+   "dur": 68,
+   "seg": "s002",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_platad17",
+     "src": "amex/assets/tv_platad17.mp4",
+     "credit": "American Express Platinum ad as aired, Sep 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 18.0,
+    "label": "New Platinum sign-ups: doubled"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 299,
+   "dur": 197,
+   "seg": "s003",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_ad11",
+     "src": "amex/assets/tv_ad11.mp4",
+     "credit": "American Express ad as aired, June 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 6.0
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 496,
+   "dur": 95,
+   "seg": "s003",
+   "cat": "charts",
+   "p": {
+    "title": "American Express, 2025",
+    "rows": [
+     {
+      "n": "Rewards and perks",
+      "v": 24.5,
+      "label": "$24.5B",
+      "hero": true
+     },
+     {
+      "n": "Profit",
+      "v": 10.8,
+      "label": "$10.8B"
+     }
+    ],
+    "src": "American Express 2025 10-K"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 591,
+   "dur": 147,
+   "seg": "s004",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "centurion",
+     "src": "amex/assets/centurion.jpg",
+     "credit": "Clemson from San Francisco, USA · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 1600,
+     "h": 1200
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 738,
+   "dur": 136,
+   "seg": "s005",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tanks",
+     "src": "amex/assets/tanks.jpg",
+     "credit": "Jim.henderson · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in",
+    "treat": "ink",
+    "label": "Bayonne, New Jersey"
+   }
+  },
+  {
+   "kind": "place",
+   "start": 874,
+   "dur": 212,
+   "seg": "s006",
+   "cat": "text",
+   "p": {
+    "place": "BUFFALO, NEW YORK",
+    "year": "1850"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1086,
+   "dur": 208,
+   "seg": "s006",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "fargo_mansion",
+     "src": "amex/assets/fargo_mansion.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 960,
+     "h": 574
+    },
+    "kb": "in",
+    "label": "William Fargo's mansion, Buffalo"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1294,
+   "dur": 213,
+   "seg": "s007",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "cheque",
+     "src": "amex/assets/cheque.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1280,
+     "h": 558
+    },
+    "kb": "in",
+    "label": "American Express Travelers Cheque",
+    "focus": [
+     0.15,
+     0.38
+    ]
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1507,
+   "dur": 94,
+   "seg": "s008",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "logo_amex",
+     "src": "amex/assets/logo_amex.png",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 522,
+     "h": 381
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 1601,
+   "dur": 172,
+   "seg": "s008",
+   "cat": "text",
+   "p": {
+    "text": "A CHARGE CARD.",
+    "sub": "pay the whole balance, every month"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1773,
+   "dur": 203,
+   "seg": "s009",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_ad11",
+     "src": "amex/assets/tv_ad11.mp4",
+     "credit": "American Express ad as aired, June 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 20.0,
+    "label": "No interest. So where's the money?"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1976,
+   "dur": 284,
+   "seg": "s010",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tanks",
+     "src": "amex/assets/tanks.jpg",
+     "credit": "Jim.henderson · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out",
+    "label": "Bayonne, New Jersey"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 2260,
+   "dur": 254,
+   "seg": "s011",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tanks",
+     "src": "amex/assets/tanks.jpg",
+     "credit": "Jim.henderson · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in",
+    "treat": "ink",
+    "label": "The tanks: mostly water, a layer of oil on top"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 2514,
+   "dur": 161,
+   "seg": "s012",
+   "cat": "docs",
+   "p": {
+    "title": "American Express Warehousing Ltd.",
+    "sub": "1963",
+    "lines": [
+     "Certified the receipts for the oil"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 2675,
+   "dur": 265,
+   "seg": "s013",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tanks",
+     "src": "amex/assets/tanks.jpg",
+     "credit": "Jim.henderson · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out",
+    "label": "~$180 million lost"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 2940,
+   "dur": 85,
+   "seg": "s013",
+   "cat": "charts",
+   "p": {
+    "kicker": "American Express stock",
+    "value": "−40%",
+    "sub": "Oct 1963 → Jan 1964"
+   }
+  },
+  {
+   "kind": "quote",
+   "start": 3025,
+   "dur": 169,
+   "seg": "s014",
+   "cat": "docs",
+   "p": {
+    "text": "morally bound",
+    "by": "Howard Clark, American Express president, Nov 1963",
+    "style": "clip"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 3194,
+   "dur": 119,
+   "seg": "s014",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "amex_tower",
+     "src": "amex/assets/amex_tower.jpg",
+     "credit": "King of Hearts · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1282
+    },
+    "kb": "in",
+    "label": "Amex offered $60 million"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 3313,
+   "dur": 301,
+   "seg": "s015",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "buffett",
+     "src": "amex/assets/buffett.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1281,
+     "h": 1090
+    },
+    "kb": "in",
+    "label": "Warren Buffett",
+    "focus": [
+     0.5,
+     0.3
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3614,
+   "dur": 240,
+   "seg": "s017",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_berkshire17",
+     "src": "amex/assets/tv_berkshire17.mp4",
+     "credit": "Bloomberg Markets, 19 May 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 9.0,
+    "label": "~40% of his partnership's money"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 3854,
+   "dur": 221,
+   "seg": "s018",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_fintech_2022",
+     "src": "amex/assets/sot_fintech_2022.mp4",
+     "credit": "CNBC Fast Money Halftime Report, 29 Apr 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "CNBC",
+    "role": "Fast Money · Apr 2022",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4075,
+   "dur": 219,
+   "seg": "s019",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_ad11",
+     "src": "amex/assets/tv_ad11.mp4",
+     "credit": "American Express ad as aired, June 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 14.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4294,
+   "dur": 176,
+   "seg": "s020",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_ad11",
+     "src": "amex/assets/tv_ad11.mp4",
+     "credit": "American Express ad as aired, June 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 22.0
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 4470,
+   "dur": 229,
+   "seg": "s020",
+   "cat": "charts",
+   "p": {
+    "title": "American Express, 2025",
+    "rows": [
+     {
+      "n": "Spent on Amex cards",
+      "v": 1669.8,
+      "label": "$1.67T"
+     },
+     {
+      "n": "Paid by shops to Amex",
+      "v": 37.4,
+      "label": "$37.4B",
+      "hero": true
+     }
+    ],
+    "src": "American Express 2025 10-K · ~2.24%"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 4699,
+   "dur": 149,
+   "seg": "s021",
+   "cat": "charts",
+   "p": {
+    "kicker": "On a $100 dinner",
+    "value": "$2.24",
+    "sub": "goes to Amex (2025 average)"
+   }
+  },
+  {
+   "kind": "vs",
+   "start": 4848,
+   "dur": 389,
+   "seg": "s022",
+   "cat": "real",
+   "p": {
+    "left_a": {
+     "id": "logo_amex",
+     "src": "amex/assets/logo_amex.png",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 522,
+     "h": 381
+    },
+    "right_a": {
+     "id": "amex_tower",
+     "src": "amex/assets/amex_tower.jpg",
+     "credit": "King of Hearts · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1282
+    },
+    "left": "THE NETWORK",
+    "right": "AND THE BANK"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5237,
+   "dur": 108,
+   "seg": "s023",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_perks17",
+     "src": "amex/assets/tv_perks17.mp4",
+     "credit": "CNBC Power Lunch, 2 Mar 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 5345,
+   "dur": 151,
+   "seg": "s023",
+   "cat": "charts",
+   "p": {
+    "kicker": "Average Amex card member, 2025",
+    "value": "$25,453",
+    "sub": "spent on the card in a year"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 5496,
+   "dur": 340,
+   "seg": "s024",
+   "cat": "text",
+   "p": {
+    "text": "THE BOSTON FEE PARTY",
+    "sub": "restaurants vs American Express, 1991"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5836,
+   "dur": 98,
+   "seg": "s025",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_costco16",
+     "src": "amex/assets/tv_costco16.mp4",
+     "credit": "ABC7 News (KGO), 20 Jun 2016 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 5934,
+   "dur": 284,
+   "seg": "s026",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_sf_2015",
+     "src": "amex/assets/sot_sf_2015.mp4",
+     "credit": "Bloomberg West, 19 Nov 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "Bloomberg",
+    "role": "Bloomberg West · Nov 2015",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 6218,
+   "dur": 281,
+   "seg": "s027",
+   "cat": "docs",
+   "p": {
+    "title": "Ohio v. American Express",
+    "sub": "US Supreme Court, 25 June 2018",
+    "lines": [
+     "Amex's anti-steering rules upheld, 5–4"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 6499,
+   "dur": 289,
+   "seg": "s028",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_supreme_2018",
+     "src": "amex/assets/sot_supreme_2018.mp4",
+     "credit": "CNBC Squawk on the Street, 25 Jun 2018 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "Diana Olick",
+    "role": "CNBC · Jun 2018",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6788,
+   "dur": 149,
+   "seg": "s029",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_perks17",
+     "src": "amex/assets/tv_perks17.mp4",
+     "credit": "CNBC Power Lunch, 2 Mar 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "text",
+   "start": 6937,
+   "dur": 71,
+   "seg": "s030",
+   "cat": "text",
+   "p": {
+    "text": "IT GIVES MOST OF IT AWAY."
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 7008,
+   "dur": 170,
+   "seg": "s031",
+   "cat": "charts",
+   "p": {
+    "title": "American Express, 2025",
+    "rows": [
+     {
+      "n": "Shops paid",
+      "v": 37.4,
+      "label": "$37.4B"
+     }
+    ],
+    "src": "American Express 2025 10-K"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 7178,
+   "dur": 190,
+   "seg": "s032",
+   "cat": "charts",
+   "p": {
+    "title": "American Express, 2025",
+    "rows": [
+     {
+      "n": "Shops paid",
+      "v": 37.4,
+      "label": "$37.4B"
+     },
+     {
+      "n": "Rewards",
+      "v": 18.4,
+      "label": "$18.4B",
+      "hero": true
+     }
+    ],
+    "src": "American Express 2025 10-K"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 7368,
+   "dur": 198,
+   "seg": "s033",
+   "cat": "charts",
+   "p": {
+    "title": "American Express, 2025",
+    "rows": [
+     {
+      "n": "Shops paid",
+      "v": 37.4,
+      "label": "$37.4B"
+     },
+     {
+      "n": "Rewards",
+      "v": 18.4,
+      "label": "$18.4B",
+      "hero": true
+     },
+     {
+      "n": "Perks",
+      "v": 6.1,
+      "label": "$6.1B",
+      "hero": true
+     }
+    ],
+    "src": "American Express 2025 10-K"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 7566,
+   "dur": 144,
+   "seg": "s034",
+   "cat": "charts",
+   "p": {
+    "kicker": "Handed back to cardholders",
+    "value": "~65%",
+    "sub": "$24.5B of $37.4B"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7710,
+   "dur": 107,
+   "seg": "s035",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_ad11",
+     "src": "amex/assets/tv_ad11.mp4",
+     "credit": "American Express ad as aired, June 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 2.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 7817,
+   "dur": 184,
+   "seg": "s036",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_rewardsad_2011",
+     "src": "amex/assets/sot_rewardsad_2011.mp4",
+     "credit": "American Express ad as aired, June 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "name": "American Express",
+    "role": "TV ad as aired · 2011",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8001,
+   "dur": 122,
+   "seg": "s037",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_platad17",
+     "src": "amex/assets/tv_platad17.mp4",
+     "credit": "American Express Platinum ad as aired, Sep 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 8.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8123,
+   "dur": 196,
+   "seg": "s037",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_costco16",
+     "src": "amex/assets/tv_costco16.mp4",
+     "credit": "ABC7 News (KGO), 20 Jun 2016 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 8.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8319,
+   "dur": 133,
+   "seg": "s038",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_squeri21",
+     "src": "amex/assets/tv_squeri21.mp4",
+     "credit": "CNBC Closing Bell, 24 Nov 2021 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 26.0,
+    "label": "Stephen Squeri, CEO"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 8452,
+   "dur": 215,
+   "seg": "s038",
+   "cat": "charts",
+   "p": {
+    "kicker": "Card fees, 2025",
+    "value": "$10.0B",
+    "sub": "a record · up 18%"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8667,
+   "dur": 209,
+   "seg": "s039",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_perks17",
+     "src": "amex/assets/tv_perks17.mp4",
+     "credit": "CNBC Power Lunch, 2 Mar 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 8.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8876,
+   "dur": 122,
+   "seg": "s040",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_perks17",
+     "src": "amex/assets/tv_perks17.mp4",
+     "credit": "CNBC Power Lunch, 2 Mar 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 30.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 8998,
+   "dur": 373,
+   "seg": "s041",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_fee_2017",
+     "src": "amex/assets/sot_fee_2017.mp4",
+     "credit": "CNBC Power Lunch, 2 Mar 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "CNBC",
+    "role": "Power Lunch · Mar 2017",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 9371,
+   "dur": 105,
+   "seg": "s042",
+   "cat": "charts",
+   "p": {
+    "title": "Platinum's yearly fee",
+    "rows": [
+     {
+      "n": "2017",
+      "v": 550,
+      "label": "$550"
+     },
+     {
+      "n": "2025",
+      "v": 895,
+      "label": "$895",
+      "hero": true
+     }
+    ],
+    "src": "American Express"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9476,
+   "dur": 168,
+   "seg": "s043",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_platad17",
+     "src": "amex/assets/tv_platad17.mp4",
+     "credit": "American Express Platinum ad as aired, Sep 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 22.0,
+    "label": "Simplified example: a member spending $25,000 a year"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 9644,
+   "dur": 131,
+   "seg": "s044",
+   "cat": "charts",
+   "p": {
+    "kicker": "From the shops",
+    "value": "$560",
+    "sub": "$25,000 × 2.24% (example)"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9775,
+   "dur": 120,
+   "seg": "s045",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_perks17",
+     "src": "amex/assets/tv_perks17.mp4",
+     "credit": "CNBC Power Lunch, 2 Mar 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 40.0,
+    "label": "+ $895 yearly fee"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 9895,
+   "dur": 293,
+   "seg": "s046",
+   "cat": "charts",
+   "p": {
+    "kicker": "Coming in, before a single point",
+    "value": "$1,455",
+    "sub": "example"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 10188,
+   "dur": 301,
+   "seg": "s047",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_costco16",
+     "src": "amex/assets/tv_costco16.mp4",
+     "credit": "ABC7 News (KGO), 20 Jun 2016 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 10489,
+   "dur": 368,
+   "seg": "s048",
+   "cat": "docs",
+   "p": {
+    "title": "Who Pays For Your Rewards?",
+    "sub": "Federal Reserve working paper, 2023",
+    "lines": [
+     "≈ $15 billion a year",
+     "from poorer and less savvy cardholders to richer ones"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 10857,
+   "dur": 319,
+   "seg": "s049",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_berkshire17",
+     "src": "amex/assets/tv_berkshire17.mp4",
+     "credit": "Bloomberg Markets, 19 May 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 11.0,
+    "label": "Warren Buffett"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 11176,
+   "dur": 119,
+   "seg": "s050",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_berkshire17",
+     "src": "amex/assets/tv_berkshire17.mp4",
+     "credit": "Bloomberg Markets, 19 May 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 24.0
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 11295,
+   "dur": 102,
+   "seg": "s050",
+   "cat": "charts",
+   "p": {
+    "title": "Berkshire's Amex stake",
+    "rows": [
+     {
+      "n": "Cost",
+      "v": 1.3,
+      "label": "$1.3B"
+     },
+     {
+      "n": "Worth (Oct 2026)",
+      "v": 48,
+      "label": "~$48B",
+      "hero": true
+     }
+    ],
+    "src": "Berkshire 13F; Motley Fool, Oct 2026"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 11397,
+   "dur": 269,
+   "seg": "s051",
+   "cat": "charts",
+   "p": {
+    "kicker": "Dividends to Berkshire",
+    "value": "$479M",
+    "sub": "a year · 37% of the original cost"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 11666,
+   "dur": 297,
+   "seg": "s052",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "costco",
+     "src": "amex/assets/costco.jpg",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1272
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 11963,
+   "dur": 367,
+   "seg": "s053",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_costco_2016",
+     "src": "amex/assets/sot_costco_2016.mp4",
+     "credit": "ABC7 News (KGO), 20 Jun 2016 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "ABC7 News",
+    "role": "KGO · Jun 2016",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12330,
+   "dur": 309,
+   "seg": "s054",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_perks17",
+     "src": "amex/assets/tv_perks17.mp4",
+     "credit": "CNBC Power Lunch, 2 Mar 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 24.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12639,
+   "dur": 111,
+   "seg": "s054",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_fastmoney22",
+     "src": "amex/assets/tv_fastmoney22.mp4",
+     "credit": "CNBC Fast Money Halftime Report, 29 Apr 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 12750,
+   "dur": 164,
+   "seg": "s055",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "centurion",
+     "src": "amex/assets/centurion.jpg",
+     "credit": "Clemson from San Francisco, USA · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 1600,
+     "h": 1200
+    },
+    "kb": "out",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12914,
+   "dur": 84,
+   "seg": "s056",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_costco16",
+     "src": "amex/assets/tv_costco16.mp4",
+     "credit": "ABC7 News (KGO), 20 Jun 2016 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 4.0,
+    "focus": [
+     0.1,
+     0.3
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "start": 12998,
+   "dur": 239,
+   "seg": "s056",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_ad11",
+     "src": "amex/assets/tv_ad11.mp4",
+     "credit": "American Express ad as aired, June 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 10.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 13237,
+   "dur": 115,
+   "seg": "s056",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_costco16",
+     "src": "amex/assets/tv_costco16.mp4",
+     "credit": "ABC7 News (KGO), 20 Jun 2016 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 13352,
+   "dur": 246,
+   "seg": "s057",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "buffett_ku",
+     "src": "amex/assets/buffett_ku.jpg",
+     "credit": "Mark Hirschey · Wikimedia Commons · CC BY-SA 2.0",
+     "kind": "image",
+     "w": 1395,
+     "h": 1700
+    },
+    "kb": "in",
+    "focus": [
+     0.5,
+     0.3
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "start": 13598,
+   "dur": 148,
+   "seg": "s058",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_platad17",
+     "src": "amex/assets/tv_platad17.mp4",
+     "credit": "American Express Platinum ad as aired, Sep 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 14.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 13746,
+   "dur": 97,
+   "seg": "s058",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_costco16",
+     "src": "amex/assets/tv_costco16.mp4",
+     "credit": "ABC7 News (KGO), 20 Jun 2016 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 8.0
+   }
+  },
+  {
+   "kind": "end",
+   "start": 13843,
+   "dur": 329,
+   "seg": "s059",
+   "cat": "text",
+   "p": {}
+  }
+ ],
+ "chapters": [
+  {
+   "name": "COLD OPEN",
+   "from": 0
+  },
+  {
+   "name": "1. THE EXPRESS COMPANY",
+   "from": 874
+  },
+  {
+   "name": "2. SALAD OIL",
+   "from": 1976
+  },
+  {
+   "name": "3. WHAT BUFFETT SAW",
+   "from": 4075
+  },
+  {
+   "name": "4. THE GIVEAWAY",
+   "from": 7008
+  },
+  {
+   "name": "5. BUFFETT'S RETURN",
+   "from": 10857
+  },
+  {
+   "name": "VERDICT",
+   "from": 12750
+  }
+ ]
+}
