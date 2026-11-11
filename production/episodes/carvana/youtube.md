@@ -1,0 +1,43 @@
+# Carvana: YouTube upload text
+
+## Title
+Carvana Isn't a Car Company
+
+Alternates for the title test:
+- How Carvana Came Back From the Dead
+- The Car Company That Should Be Dead
+
+## Thumbnails (Test & Compare)
+`upload/carvana-thumbnail-1.jpg` (Not a Car Company?), `-2.jpg` (−99%, Then S&P 500?), `-3.jpg` ($2,905, Not the Car)
+
+## Description
+
+In 2022, Carvana lost 99% of its value and its lenders were preparing for bankruptcy. Three years later it joined the S&P 500 and reported almost $2 billion of profit.
+
+It wasn't the car vending machines that brought it back. On every car it sells, Carvana makes almost as much from the paperwork as from the car itself, and the founder learned that business from his father.
+
+0:00 From −99% to the S&P 500
+0:45 The coin
+2:22 Ninety-nine percent
+3:47 The comeback
+4:48 One car
+6:40 The father's business
+7:49 The short seller
+9:03 Verdict
+
+SOURCES
+Carvana 10-K filings, annual reports and quarterly results (2019–2026) · Carvana noteholder agreement (July 2023) · S&P Dow Jones Indices (Dec 2025) · Los Angeles Times (31 Oct 1990) · Forbes · Fortune · Bloomberg · The Wall Street Journal · Hindenburg Research (2 Jan 2025) and Carvana's response · Fitch · Motor1 · Jalopnik · AutoRemarketing. The $20,000 loan is a simplified example with round numbers. Hindenburg's claims are allegations that Carvana denies. 2025 profit includes a ~$685M one-off tax item.
+
+FOOTAGE
+News excerpts from CNBC, Bloomberg, Fox Business, KTVU FOX 2, ABC7 News and CBS (KPIX), via the Internet Archive's TV News Archive. Short excerpts used for commentary and criticism under fair use. Logos identify the companies discussed; this video is not affiliated with or endorsed by Carvana, DriveTime, CarMax or Hindenburg Research.
+
+PHOTOS (Wikimedia Commons)
+Atwngirl (CC BY-SA 4.0) · deathpallie325 (CC BY-SA 4.0) · Elephanthunter (CC BY-SA 4.0) · Michael Rivera (CC BY-SA 4.0) · Tony Webster (CC BY 2.0) · zombieite (CC BY 2.0) · 颐园居 (CC BY-SA 4.0) · plus public-domain logos. Photos were recoloured and cropped. Licences: creativecommons.org/licenses
+
+#Carvana #UsedCars #CarLoans
+
+## Tags
+carvana, carvana stock, carvana comeback, carvana bankruptcy, how carvana makes money, car vending machine, ernie garcia, drivetime, used car loans, subprime auto loans, hindenburg carvana, business documentary
+
+## Category
+Education · Made for kids: No

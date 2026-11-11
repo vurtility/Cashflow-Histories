@@ -367,9 +367,46 @@ const DroppedBurned: React.FC<{a: string}> = ({a}) => (
   </Sheet>
 );
 
+
+// ---- Episode 4 (Carvana) ----
+// X: the crash, and the question.
+const MinusHow: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.yellow}>
+    <Photo src={`${a}/vend_dallas.jpg`} pos="40% 20%" style={{left: 560, top: 0, width: 720, height: H}} />
+    <div style={{position: 'absolute', left: 546, top: 0, width: 20, height: H, background: INK.ink}} />
+    <div style={{position: 'absolute', left: 40, top: 70, fontFamily: type, fontWeight: 700, fontSize: 40, color: INK.ink}}>2021 → 2022</div>
+    <div style={{position: 'absolute', left: 36, top: 150}}><Num size={190}>−99%</Num></div>
+    <Stamp style={{left: 40, top: 440, fontSize: 84, transform: 'rotate(-5deg)'}}>THEN S&amp;P 500?</Stamp>
+  </Sheet>
+);
+
+// Y: the tower, and the claim as a question.
+const NotACar: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.ink}>
+    <Photo src={`${a}/vend_jax.jpg`} pos="50% 30%" zoom={1.25} origin="50% 25%" style={{inset: 0}} />
+    <AbsoluteFill style={{background: 'linear-gradient(90deg, rgba(22,33,62,0.7) 0%, rgba(22,33,62,0.15) 55%, rgba(22,33,62,0) 100%)'}} />
+    <div style={{position: 'absolute', left: 46, bottom: 60, display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 10}}>
+      {['NOT A CAR', 'COMPANY?'].map((w) => (
+        <div key={w} style={{background: INK.yellow, color: INK.ink, fontFamily: slab, fontSize: 118, lineHeight: 1, padding: '14px 26px 4px', whiteSpace: 'nowrap', boxShadow: `10px 8px 0 ${INK.pink}`}}>{w}</div>
+      ))}
+    </div>
+  </Sheet>
+);
+
+// Z: the per-car number that isn't the car.
+const RealMoney: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.paper}>
+    <Photo src={`${a}/vend_night.jpg`} ink pos="50% 25%" style={{left: 0, top: 0, width: 560, height: H}} />
+    <div style={{position: 'absolute', left: 560, top: 0, width: 20, height: H, background: INK.ink}} />
+    <div style={{position: 'absolute', left: 630, top: 90, fontFamily: type, fontWeight: 700, fontSize: 40, color: INK.ink}}>Carvana, per car:</div>
+    <div style={{position: 'absolute', left: 620, top: 175}}><Num size={150}>$2,905</Num></div>
+    <Stamp style={{left: 615, top: 450, fontSize: 68, transform: 'rotate(-4deg)'}}>NOT THE CAR</Stamp>
+  </Sheet>
+);
+
 export const Thumb: React.FC<{ep: string; v: string}> = ({ep, v}) => {
   const a = `${ep}/assets`;
-  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine, p: WhySpiritDied, q: FromACard, r: OneDied, s: GoodNeighbor, t: StillNo, u: DroppedBurned};
+  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine, p: WhySpiritDied, q: FromACard, r: OneDied, s: GoodNeighbor, t: StillNo, u: DroppedBurned, x: MinusHow, y: NotACar, z: RealMoney};
   const C = V[v] ?? ClosedRicher;
   return <C a={a} />;
 };
