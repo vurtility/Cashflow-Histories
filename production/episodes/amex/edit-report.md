@@ -16,18 +16,18 @@
 
 ## Most-used sources (seconds on screen)
 
+- tv_perks17: 38.8s · fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen
 - tv_ad11: 38.0s · fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen
-- tv_perks17: 33.9s · fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen
 - tanks: 31.3s · licence: CC BY-SA 4.0
 - tv_costco16: 29.7s · fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen
+- tv_platad17: 27.7s · fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen
 - tv_berkshire17: 22.6s · fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen
-- tv_platad17: 22.3s · fair use: a few seconds of news b-roll at a time, used to illustrate commentary on American Express's business; transformed by narration and analysis, credited on screen
 - amex_tower: 16.9s · licence: CC BY-SA 4.0
 - logo_amex: 16.1s · licence: CC0
 - sot_fee_2017: 12.4s · fair use: short excerpt (under 13s) of a news report or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast
 - sot_costco_2016: 12.2s · fair use: short excerpt (under 13s) of a news report or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast
-- centurion: 10.4s · licence: CC BY 2.0
 - buffett: 10.0s · licence: Public domain
+- costco: 9.9s · licence: CC0
 
 ## Footage shots over 9s (consider a cut)
 

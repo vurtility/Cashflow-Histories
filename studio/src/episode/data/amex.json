@@ -417,21 +417,21 @@
    }
   },
   {
-   "kind": "photo",
+   "kind": "video",
    "start": 591,
    "dur": 147,
    "seg": "s004",
    "cat": "real",
    "p": {
     "a": {
-     "id": "centurion",
-     "src": "amex/assets/centurion.jpg",
-     "credit": "Clemson from San Francisco, USA · Wikimedia Commons · CC BY 2.0",
-     "kind": "image",
-     "w": 1600,
-     "h": 1200
+     "id": "tv_perks17",
+     "src": "amex/assets/tv_perks17.mp4",
+     "credit": "CNBC Power Lunch, 2 Mar 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
     },
-    "kb": "in"
+    "from": 6.0
    }
   },
   {
@@ -1487,22 +1487,21 @@
    }
   },
   {
-   "kind": "photo",
+   "kind": "video",
    "start": 12750,
    "dur": 164,
    "seg": "s055",
    "cat": "real",
    "p": {
     "a": {
-     "id": "centurion",
-     "src": "amex/assets/centurion.jpg",
-     "credit": "Clemson from San Francisco, USA · Wikimedia Commons · CC BY 2.0",
-     "kind": "image",
-     "w": 1600,
-     "h": 1200
+     "id": "tv_platad17",
+     "src": "amex/assets/tv_platad17.mp4",
+     "credit": "American Express Platinum ad as aired, Sep 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
     },
-    "kb": "out",
-    "treat": "ink"
+    "from": 10.0
    }
   },
   {
