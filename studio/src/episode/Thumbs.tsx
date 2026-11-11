@@ -404,9 +404,52 @@ const RealMoney: React.FC<{a: string}> = ({a}) => (
   </Sheet>
 );
 
+// ---- Episode 5 (American Express) ----
+const AmexLogo: React.FC<{a: string; w?: number; style?: React.CSSProperties}> = ({a, w = 200, style}) => (
+  <div style={{position: 'absolute', background: INK.paper, padding: 12, boxShadow: `10px 8px 0 ${INK.ink}`, ...style}}>
+    <Img src={staticFile(`${a}/logo_amex.png`)} style={{width: w, height: w * 0.73, objectFit: 'contain', display: 'block'}} />
+  </div>
+);
+
+// M: the fee, and the question.
+const FeeWhy: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.yellow}>
+    <Photo src={`${a}/centurion.jpg`} pos="50% 50%" zoom={1.9} origin="62% 22%" style={{left: 600, top: 0, width: 680, height: H}} />
+    <div style={{position: 'absolute', left: 586, top: 0, width: 20, height: H, background: INK.ink}} />
+    <AmexLogo a={a} w={170} style={{left: 46, top: 40}} />
+    <div style={{position: 'absolute', left: 40, top: 250}}><Num size={190}>$895</Num></div>
+    <Stamp style={{left: 70, top: 480, fontSize: 110, transform: 'rotate(-5deg)'}}>WHY?</Stamp>
+  </Sheet>
+);
+
+// N: who pays, at the till.
+const WhoPaysAmex: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.ink}>
+    <Photo src={`${a}/amex_tower.jpg`} pos="50% 40%" style={{inset: 0}} />
+    <AbsoluteFill style={{background: 'linear-gradient(90deg, rgba(22,33,62,0.75) 0%, rgba(22,33,62,0.2) 60%, rgba(22,33,62,0) 100%)'}} />
+    <AmexLogo a={a} w={180} style={{right: 46, top: 40}} />
+    <div style={{position: 'absolute', left: 46, bottom: 60, display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 10}}>
+      {['WHO PAYS', 'YOUR REWARDS?'].map((w) => (
+        <div key={w} style={{background: INK.yellow, color: INK.ink, fontFamily: slab, fontSize: 100, lineHeight: 1, padding: '14px 26px 4px', whiteSpace: 'nowrap', boxShadow: `10px 8px 0 ${INK.pink}`}}>{w}</div>
+      ))}
+    </div>
+  </Sheet>
+);
+
+// O: the giveaway number.
+const GivenAway: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.paper}>
+    <Photo src={`${a}/centurion.jpg`} ink pos="50% 50%" zoom={1.9} origin="62% 22%" style={{left: 0, top: 0, width: 540, height: H}} />
+    <div style={{position: 'absolute', left: 540, top: 0, width: 20, height: H, background: INK.ink}} />
+    <AmexLogo a={a} w={150} style={{left: 610, top: 46}} />
+    <div style={{position: 'absolute', left: 595, top: 250}}><Num size={145}>$24.5B</Num></div>
+    <Stamp style={{left: 605, top: 470, fontSize: 70, transform: 'rotate(-4deg)'}}>GIVEN AWAY</Stamp>
+  </Sheet>
+);
+
 export const Thumb: React.FC<{ep: string; v: string}> = ({ep, v}) => {
   const a = `${ep}/assets`;
-  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine, p: WhySpiritDied, q: FromACard, r: OneDied, s: GoodNeighbor, t: StillNo, u: DroppedBurned, x: MinusHow, y: NotACar, z: RealMoney};
+  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine, p: WhySpiritDied, q: FromACard, r: OneDied, s: GoodNeighbor, t: StillNo, u: DroppedBurned, x: MinusHow, y: NotACar, z: RealMoney, m: FeeWhy, n: WhoPaysAmex, o: GivenAway};
   const C = V[v] ?? ClosedRicher;
   return <C a={a} />;
 };
