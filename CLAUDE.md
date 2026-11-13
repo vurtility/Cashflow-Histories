@@ -61,3 +61,8 @@ If this is a fresh checkout, run `./setup.sh` first.
   - Edit v1: real footage 55%, charts 18%. Master: `render.py amex --master` (not in git).
   - Thumbnails, `youtube.md` and `upload/amex-youtube-details.txt` done and in the Drive "Claude" folder.
   - Commons pitfalls: the file "Henry Wells 120535.JPG" is not the Amex founder; the Centurion card photo shows a real cardholder's name, so crop it (thumbnails do) or don't use it.
+- Episode 6, **Timeshares** ("Why You Can't Give a Timeshare Away"): `timeshare-script.md`; 5.7 min, 6 real-voice clips (Siegel, Jackie Siegel, ABC 2012, KPIX buyer, NBC 20 cents, KPIX owner). Real footage 61%, charts 20%. Westgate is private, so the numbers come from Marriott Vacations, Hilton Grand Vacations, Travel + Leisure and ARDA.
+- Episode 7, **Progressive** ("Your Car Insurance Went Up. Progressive Made $11 Billion."): `progressive-script.md`; 5.8 min, 6 real-voice clips (Griffith ×3 on Bloomberg, CNBC 2024, NBC Today, Snapshot ad). Real footage 57%.
+- Episode 8, **Costco** ("Costco Doesn't Make Money Selling Groceries"): `costco-script.md`; 5.4 min, 6 real-voice clips (CBS, CNN, Jelinek CNBC, CNBC 2019, KTVU 2024, CNBC on Sinegal). Real footage 58%. The 14%/15% markup cap is labelled "as reported".
+- Episodes 6–8: thumbnails and details files are in the Drive "Claude" folder; masters via `render.py <ep> --master` (not in git).
+- Commons pitfalls: "West gate hotel Las Vegas…52072973852.jpg" is the monorail station, not the resort.
