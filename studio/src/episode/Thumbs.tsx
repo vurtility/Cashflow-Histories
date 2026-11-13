@@ -525,9 +525,43 @@ const FifteenX: React.FC<{a: string}> = ({a}) => (
   </Sheet>
 );
 
+// ---- Episode 8 (Costco) ----
+// G1: the hot dog price, as a question.
+const HotDog: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.yellow}>
+    <Photo src={`${a}/hotdog.jpg`} pos="50% 55%" style={{left: 600, top: 0, width: 680, height: H}} />
+    <div style={{position: 'absolute', left: 586, top: 0, width: 20, height: H, background: INK.ink}} />
+    <div style={{position: 'absolute', left: 46, top: 60, fontFamily: type, fontWeight: 700, fontSize: 36, color: INK.ink}}>Costco hot dog + soda</div>
+    <div style={{position: 'absolute', left: 40, top: 150}}><Num size={200}>$1.50</Num></div>
+    <Stamp style={{left: 60, top: 450, fontSize: 92, transform: 'rotate(-5deg)'}}>SINCE 1985?</Stamp>
+  </Sheet>
+);
+// G2: the storefront, and the claim.
+const NotGroceries: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.ink}>
+    <Photo src={`${a}/costco_ext.jpg`} pos="50% 40%" style={{inset: 0}} />
+    <AbsoluteFill style={{background: 'linear-gradient(0deg, rgba(22,33,62,0.8) 0%, rgba(22,33,62,0.1) 55%, rgba(22,33,62,0) 100%)'}} />
+    <div style={{position: 'absolute', left: 46, bottom: 60, display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 10}}>
+      {['IT’S NOT THE', 'GROCERIES'].map((w) => (
+        <div key={w} style={{background: INK.yellow, color: INK.ink, fontFamily: slab, fontSize: 112, lineHeight: 1, padding: '14px 26px 4px', whiteSpace: 'nowrap', boxShadow: `10px 8px 0 ${INK.pink}`}}>{w}</div>
+      ))}
+    </div>
+  </Sheet>
+);
+// G3: the fees.
+const CardMoney: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.paper}>
+    <Photo src={`${a}/costco_ext.jpg`} ink pos="40% 40%" style={{left: 0, top: 0, width: 540, height: H}} />
+    <div style={{position: 'absolute', left: 540, top: 0, width: 20, height: H, background: INK.ink}} />
+    <div style={{position: 'absolute', left: 610, top: 90, fontFamily: type, fontWeight: 700, fontSize: 40, color: INK.ink}}>Costco's fees, 2025:</div>
+    <div style={{position: 'absolute', left: 600, top: 170}}><Num size={190}>$5.3B</Num></div>
+    <Stamp style={{left: 615, top: 450, fontSize: 76, transform: 'rotate(-4deg)'}}>FOR A CARD</Stamp>
+  </Sheet>
+);
+
 export const Thumb: React.FC<{ep: string; v: string}> = ({ep, v}) => {
   const a = `${ep}/assets`;
-  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine, p: WhySpiritDied, q: FromACard, r: OneDied, s: GoodNeighbor, t: StillNo, u: DroppedBurned, x: MinusHow, y: NotACar, z: RealMoney, m: FeeWhy, n: WhoPaysAmex, o: GivenAway, e1: OneDollar, e2: HalfPitch, e3: WhoPaid, f1: FromYourBill, f2: WhySoExpensive, f3: FifteenX};
+  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine, p: WhySpiritDied, q: FromACard, r: OneDied, s: GoodNeighbor, t: StillNo, u: DroppedBurned, x: MinusHow, y: NotACar, z: RealMoney, m: FeeWhy, n: WhoPaysAmex, o: GivenAway, e1: OneDollar, e2: HalfPitch, e3: WhoPaid, f1: FromYourBill, f2: WhySoExpensive, f3: FifteenX, g1: HotDog, g2: NotGroceries, g3: CardMoney};
   const C = V[v] ?? ClosedRicher;
   return <C a={a} />;
 };
