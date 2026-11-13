@@ -1,0 +1,256 @@
+[
+ {
+  "id": "sot_siegel_2017",
+  "from": "tvnews",
+  "ref": "FBC_20170826_120000_Kennedy",
+  "t": [
+   112.98,
+   124.95
+  ],
+  "credit": "Fox Business, 26 Aug 2017 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "b02",
+  "rel": [
+   37.98,
+   49.95
+  ]
+ },
+ {
+  "id": "sot_jackie_2017",
+  "from": "tvnews",
+  "ref": "FBC_20170826_120000_Kennedy",
+  "t": [
+   177.86,
+   184.0
+  ],
+  "credit": "Fox Business, 26 Aug 2017 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "b02",
+  "rel": [
+   102.86,
+   109.0
+  ]
+ },
+ {
+  "id": "sot_waste_2012",
+  "from": "tvnews",
+  "ref": "KGO_20120716_140000_ABC_News_Good_Morning_America",
+  "t": [
+   4683.06,
+   4687.9
+  ],
+  "credit": "ABC Good Morning America, 16 Jul 2012 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "b08",
+  "rel": [
+   53.06,
+   57.9
+  ]
+ },
+ {
+  "id": "sot_pitch_2015",
+  "from": "tvnews",
+  "ref": "KPIX_20150425_060000_KPIX_5_News_at_11pm",
+  "t": [
+   724.06,
+   734.3
+  ],
+  "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "b03",
+  "rel": [
+   36.06,
+   46.3
+  ]
+ },
+ {
+  "id": "sot_20cents_2011",
+  "from": "tvnews",
+  "ref": "KNTV_20110523_140000_Today",
+  "t": [
+   2646.3,
+   2649.1
+  ],
+  "credit": "NBC Today, 23 May 2011 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "b05",
+  "rel": [
+   6.3,
+   9.1
+  ]
+ },
+ {
+  "id": "sot_50cents_2017",
+  "from": "tvnews",
+  "ref": "KPIX_20170709_143000_KPIX_5_News_Sun_Morn_Edition",
+  "t": [
+   1551.78,
+   1555.5
+  ],
+  "credit": "KPIX 5 News, 9 Jul 2017 · TV News Archive",
+  "basis": "fair use: short excerpt (under 13s) of a news interview/report, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "b04",
+  "rel": [
+   56.78,
+   60.5
+  ]
+ },
+ {
+  "id": "tv_siegel17",
+  "from": "tvnews",
+  "ref": "FBC_20170826_120000_Kennedy",
+  "t": [
+   75,
+   190
+  ],
+  "credit": "Fox Business, 26 Aug 2017 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the timeshare business; transformed by narration and analysis, credited on screen",
+  "cand": "b02",
+  "rel": [
+   0,
+   115
+  ]
+ },
+ {
+  "id": "tv_pitch15",
+  "from": "tvnews",
+  "ref": "KPIX_20150425_060000_KPIX_5_News_at_11pm",
+  "t": [
+   688,
+   800
+  ],
+  "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the timeshare business; transformed by narration and analysis, credited on screen",
+  "cand": "b03",
+  "rel": [
+   0,
+   112
+  ]
+ },
+ {
+  "id": "tv_exit17",
+  "from": "tvnews",
+  "ref": "KPIX_20170709_143000_KPIX_5_News_Sun_Morn_Edition",
+  "t": [
+   1495,
+   1575
+  ],
+  "credit": "KPIX 5 News, 9 Jul 2017 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the timeshare business; transformed by narration and analysis, credited on screen",
+  "cand": "b04",
+  "rel": [
+   0,
+   80
+  ]
+ },
+ {
+  "id": "tv_resale11",
+  "from": "tvnews",
+  "ref": "KNTV_20110523_140000_Today",
+  "t": [
+   2640,
+   2720
+  ],
+  "credit": "NBC Today, 23 May 2011 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the timeshare business; transformed by narration and analysis, credited on screen",
+  "cand": "b05",
+  "rel": [
+   0,
+   80
+  ]
+ },
+ {
+  "id": "tv_wyndham19",
+  "from": "tvnews",
+  "ref": "KGO_20190210_130000_ABC7_News_500AM",
+  "t": [
+   1520,
+   1600
+  ],
+  "credit": "ABC7 News (KGO), 10 Feb 2019 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the timeshare business; transformed by narration and analysis, credited on screen",
+  "cand": "b06",
+  "rel": [
+   0,
+   80
+  ]
+ },
+ {
+  "id": "tv_versailles13",
+  "from": "tvnews",
+  "ref": "WJLA_20131001_110000_ABC_News_Good_Morning_America",
+  "t": [
+   2560,
+   2660
+  ],
+  "credit": "ABC Good Morning America, 1 Oct 2013 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the timeshare business; transformed by narration and analysis, credited on screen",
+  "cand": "b07",
+  "rel": [
+   0,
+   100
+  ]
+ },
+ {
+  "id": "tv_versailles12",
+  "from": "tvnews",
+  "ref": "KGO_20120716_140000_ABC_News_Good_Morning_America",
+  "t": [
+   4630,
+   4720
+  ],
+  "credit": "ABC Good Morning America, 16 Jul 2012 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the timeshare business; transformed by narration and analysis, credited on screen",
+  "cand": "b08",
+  "rel": [
+   0,
+   90
+  ]
+ },
+ {
+  "id": "tv_mvw21",
+  "from": "tvnews",
+  "ref": "FBC_20210506_190000_The_Claman_Countdown",
+  "t": [
+   995,
+   1060
+  ],
+  "credit": "Fox Business, 6 May 2021 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll at a time, used to illustrate commentary on the timeshare business; transformed by narration and analysis, credited on screen",
+  "cand": "b09",
+  "rel": [
+   0,
+   65
+  ]
+ },
+ {
+  "id": "westgate_lv",
+  "from": "commons",
+  "ref": "File:West gate hotel Las Vegas Nevada 2022 - 52072973852.jpg"
+ },
+ {
+  "id": "mvc_orlando",
+  "from": "commons",
+  "ref": "File:Marriott’s Grande Vista - Orlando 10.jpg"
+ },
+ {
+  "id": "hgv_lv",
+  "from": "commons",
+  "ref": "File:Elara, Hilton Grand Vacations - Las Vegas 02.jpg"
+ },
+ {
+  "id": "logo_hgv",
+  "from": "commons",
+  "ref": "File:Hilton Grand Vacations logo.png"
+ },
+ {
+  "id": "mvc_pool",
+  "from": "commons",
+  "ref": "File:Marriott - Frenchman's Cove pool - USVI.jpg"
+ },
+ {
+  "id": "ts_office",
+  "from": "commons",
+  "ref": "File:Craigendarroch Timeshare Office - geograph.org.uk - 2284688.jpg"
+ }
+]
