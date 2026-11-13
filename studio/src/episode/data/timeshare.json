@@ -1,0 +1,1319 @@
+{
+ "fps": 30,
+ "durationInFrames": 10338,
+ "episode": "timeshare",
+ "print": "006",
+ "vo": [
+  {
+   "src": "timeshare/vo/s001.mp3",
+   "from": 0,
+   "trim": 0,
+   "len": 232
+  },
+  {
+   "src": "timeshare/vo/s002.mp3",
+   "from": 237,
+   "trim": 0,
+   "len": 301
+  },
+  {
+   "src": "timeshare/vo/s003.mp3",
+   "from": 543,
+   "trim": 0,
+   "len": 203
+  },
+  {
+   "src": "timeshare/vo/s004.mp3",
+   "from": 758,
+   "trim": 0,
+   "len": 125
+  },
+  {
+   "src": "timeshare/vo/s005.mp3",
+   "from": 903,
+   "trim": 0,
+   "len": 211
+  },
+  {
+   "src": "timeshare/vo/s007.mp3",
+   "from": 1485,
+   "trim": 0,
+   "len": 264
+  },
+  {
+   "src": "timeshare/vo/s008.mp3",
+   "from": 1754,
+   "trim": 0,
+   "len": 259
+  },
+  {
+   "src": "timeshare/vo/s010.mp3",
+   "from": 2207,
+   "trim": 1,
+   "len": 255
+  },
+  {
+   "src": "timeshare/vo/s012.mp3",
+   "from": 2618,
+   "trim": 0,
+   "len": 345
+  },
+  {
+   "src": "timeshare/vo/s013.mp3",
+   "from": 2968,
+   "trim": 0,
+   "len": 100
+  },
+  {
+   "src": "timeshare/vo/s014.mp3",
+   "from": 3077,
+   "trim": 0,
+   "len": 131
+  },
+  {
+   "src": "timeshare/vo/s015.mp3",
+   "from": 3229,
+   "trim": 0,
+   "len": 266
+  },
+  {
+   "src": "timeshare/vo/s016.mp3",
+   "from": 3501,
+   "trim": 0,
+   "len": 429
+  },
+  {
+   "src": "timeshare/vo/s017.mp3",
+   "from": 3935,
+   "trim": 0,
+   "len": 357
+  },
+  {
+   "src": "timeshare/vo/s019.mp3",
+   "from": 4610,
+   "trim": 0,
+   "len": 263
+  },
+  {
+   "src": "timeshare/vo/s020.mp3",
+   "from": 4893,
+   "trim": 2,
+   "len": 263
+  },
+  {
+   "src": "timeshare/vo/s021.mp3",
+   "from": 5162,
+   "trim": 1,
+   "len": 132
+  },
+  {
+   "src": "timeshare/vo/s022.mp3",
+   "from": 5302,
+   "trim": 2,
+   "len": 31
+  },
+  {
+   "src": "timeshare/vo/s023.mp3",
+   "from": 5342,
+   "trim": 0,
+   "len": 345
+  },
+  {
+   "src": "timeshare/vo/s024.mp3",
+   "from": 5693,
+   "trim": 2,
+   "len": 250
+  },
+  {
+   "src": "timeshare/vo/s026.mp3",
+   "from": 6038,
+   "trim": 0,
+   "len": 237
+  },
+  {
+   "src": "timeshare/vo/s027.mp3",
+   "from": 6281,
+   "trim": 0,
+   "len": 159
+  },
+  {
+   "src": "timeshare/vo/s028.mp3",
+   "from": 6448,
+   "trim": 2,
+   "len": 88
+  },
+  {
+   "src": "timeshare/vo/s029.mp3",
+   "from": 6542,
+   "trim": 0,
+   "len": 268
+  },
+  {
+   "src": "timeshare/vo/s030.mp3",
+   "from": 6816,
+   "trim": 0,
+   "len": 119
+  },
+  {
+   "src": "timeshare/vo/s031.mp3",
+   "from": 6941,
+   "trim": 0,
+   "len": 374
+  },
+  {
+   "src": "timeshare/vo/s032.mp3",
+   "from": 7323,
+   "trim": 2,
+   "len": 216
+  },
+  {
+   "src": "timeshare/vo/s033.mp3",
+   "from": 7559,
+   "trim": 0,
+   "len": 399
+  },
+  {
+   "src": "timeshare/vo/s034.mp3",
+   "from": 7964,
+   "trim": 1,
+   "len": 300
+  },
+  {
+   "src": "timeshare/vo/s035.mp3",
+   "from": 8269,
+   "trim": 0,
+   "len": 208
+  },
+  {
+   "src": "timeshare/vo/s037.mp3",
+   "from": 8599,
+   "trim": 1,
+   "len": 344
+  },
+  {
+   "src": "timeshare/vo/s038.mp3",
+   "from": 8962,
+   "trim": 2,
+   "len": 78
+  },
+  {
+   "src": "timeshare/vo/s039.mp3",
+   "from": 9052,
+   "trim": 0,
+   "len": 411
+  },
+  {
+   "src": "timeshare/vo/s040.mp3",
+   "from": 9468,
+   "trim": 0,
+   "len": 259
+  },
+  {
+   "src": "timeshare/vo/s041.mp3",
+   "from": 9732,
+   "trim": 0,
+   "len": 224
+  },
+  {
+   "src": "timeshare/vo/s042.mp3",
+   "from": 9962,
+   "trim": 0,
+   "len": 350
+  }
+ ],
+ "shots": [
+  {
+   "kind": "video",
+   "start": 0,
+   "dur": 128,
+   "seg": "s001",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_resale11",
+     "src": "timeshare/assets/tv_resale11.mp4",
+     "credit": "NBC Today, 23 May 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 48.0,
+    "label": "Timeshares listed at deep discounts"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 128,
+   "dur": 109,
+   "seg": "s001",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_resale11",
+     "src": "timeshare/assets/tv_resale11.mp4",
+     "credit": "NBC Today, 23 May 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 237,
+   "dur": 202,
+   "seg": "s002",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_mvw21",
+     "src": "timeshare/assets/tv_mvw21.mp4",
+     "credit": "Fox Business, 6 May 2021 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 2.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 439,
+   "dur": 104,
+   "seg": "s002",
+   "cat": "charts",
+   "p": {
+    "kicker": "New timeshares, 2025",
+    "value": "$24,740",
+    "sub": "average price · $10.7B in total"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 543,
+   "dur": 215,
+   "seg": "s003",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_resale11",
+     "src": "timeshare/assets/tv_resale11.mp4",
+     "credit": "NBC Today, 23 May 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 64.0,
+    "focus": [
+     0.0,
+     0.3
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "start": 758,
+   "dur": 145,
+   "seg": "s004",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_versailles13",
+     "src": "timeshare/assets/tv_versailles13.mp4",
+     "credit": "ABC Good Morning America, 1 Oct 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 72.0,
+    "label": "Versailles, Windermere, Florida"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 903,
+   "dur": 214,
+   "seg": "s005",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_siegel17",
+     "src": "timeshare/assets/tv_siegel17.mp4",
+     "credit": "Fox Business, 26 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 32.0,
+    "label": "Orlando, 1980"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 1117,
+   "dur": 368,
+   "seg": "s006",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_siegel_2017",
+     "src": "timeshare/assets/sot_siegel_2017.mp4",
+     "credit": "Fox Business, 26 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "pic": {
+     "id": "tv_siegel17",
+     "src": "timeshare/assets/tv_siegel17.mp4",
+     "credit": "Fox Business, 26 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "picAt": 40,
+    "name": "David Siegel",
+    "role": "Westgate founder · Fox Business, 2017",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1485,
+   "dur": 97,
+   "seg": "s007",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_siegel17",
+     "src": "timeshare/assets/tv_siegel17.mp4",
+     "credit": "Fox Business, 26 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 60.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1582,
+   "dur": 172,
+   "seg": "s007",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_siegel17",
+     "src": "timeshare/assets/tv_siegel17.mp4",
+     "credit": "Fox Business, 26 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 24.0,
+    "label": "Westgate Resorts"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1754,
+   "dur": 132,
+   "seg": "s008",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_siegel17",
+     "src": "timeshare/assets/tv_siegel17.mp4",
+     "credit": "Fox Business, 26 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 76.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1886,
+   "dur": 131,
+   "seg": "s008",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_versailles13",
+     "src": "timeshare/assets/tv_versailles13.mp4",
+     "credit": "ABC Good Morning America, 1 Oct 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 64.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 2017,
+   "dur": 190,
+   "seg": "s009",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_jackie_2017",
+     "src": "timeshare/assets/sot_jackie_2017.mp4",
+     "credit": "Fox Business, 26 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "Jackie Siegel",
+    "role": "Fox Business, 2017",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2207,
+   "dur": 116,
+   "seg": "s010",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_versailles13",
+     "src": "timeshare/assets/tv_versailles13.mp4",
+     "credit": "ABC Good Morning America, 1 Oct 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 10.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2323,
+   "dur": 143,
+   "seg": "s010",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_versailles12",
+     "src": "timeshare/assets/tv_versailles12.mp4",
+     "credit": "ABC Good Morning America, 16 Jul 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 80.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 2466,
+   "dur": 152,
+   "seg": "s011",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_waste_2012",
+     "src": "timeshare/assets/sot_waste_2012.mp4",
+     "credit": "ABC Good Morning America, 16 Jul 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "David Siegel",
+    "role": "ABC Good Morning America · Jul 2012",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 2618,
+   "dur": 350,
+   "seg": "s012",
+   "cat": "docs",
+   "p": {
+    "title": "Siegel emails 7,000 employees",
+    "sub": "October 2012",
+    "lines": [
+     "New taxes could force job cuts if Obama is re-elected"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2968,
+   "dur": 109,
+   "seg": "s013",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_versailles13",
+     "src": "timeshare/assets/tv_versailles13.mp4",
+     "credit": "ABC Good Morning America, 1 Oct 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 36.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3077,
+   "dur": 152,
+   "seg": "s014",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_versailles13",
+     "src": "timeshare/assets/tv_versailles13.mp4",
+     "credit": "ABC Good Morning America, 1 Oct 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 50.0,
+    "label": "David and Jackie Siegel",
+    "focus": [
+     0.15,
+     0.25
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3229,
+   "dur": 171,
+   "seg": "s015",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_pitch15",
+     "src": "timeshare/assets/tv_pitch15.mp4",
+     "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3400,
+   "dur": 101,
+   "seg": "s015",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_pitch15",
+     "src": "timeshare/assets/tv_pitch15.mp4",
+     "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 24.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 3501,
+   "dur": 271,
+   "seg": "s016",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "hgv_lv",
+     "src": "timeshare/assets/hgv_lv.jpg",
+     "credit": "Farragutful · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1441
+    },
+    "kb": "in",
+    "label": "Hilton Grand Vacations"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 3772,
+   "dur": 163,
+   "seg": "s016",
+   "cat": "charts",
+   "p": {
+    "kicker": "Hilton Grand Vacations, 2025",
+    "value": "$3,851",
+    "sub": "sold per tour, on average · 856,676 tours"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3935,
+   "dur": 173,
+   "seg": "s017",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_pitch15",
+     "src": "timeshare/assets/tv_pitch15.mp4",
+     "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 40.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4108,
+   "dur": 188,
+   "seg": "s017",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_pitch15",
+     "src": "timeshare/assets/tv_pitch15.mp4",
+     "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 28.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 4296,
+   "dur": 313,
+   "seg": "s018",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_pitch_2015",
+     "src": "timeshare/assets/sot_pitch_2015.mp4",
+     "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "Susie High",
+    "role": "Timeshare buyer · KPIX 5, Apr 2015",
+    "pic": {
+     "id": "tv_pitch15",
+     "src": "timeshare/assets/tv_pitch15.mp4",
+     "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "picAt": 44,
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4610,
+   "dur": 283,
+   "seg": "s019",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_pitch15",
+     "src": "timeshare/assets/tv_pitch15.mp4",
+     "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 76.0,
+    "label": "Florida: 10 days to cancel, by law"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 4893,
+   "dur": 78,
+   "seg": "s020",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "mvc_orlando",
+     "src": "timeshare/assets/mvc_orlando.jpg",
+     "credit": "Farragutful · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "in",
+    "label": "Marriott Vacation Club, Orlando"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 4971,
+   "dur": 191,
+   "seg": "s020",
+   "cat": "charts",
+   "p": {
+    "title": "Marriott Vacations, 2025",
+    "rows": [
+     {
+      "n": "Timeshares sold",
+      "v": 1800,
+      "label": "$1.8B"
+     }
+    ],
+    "src": "Marriott Vacations 2025 results"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 5162,
+   "dur": 180,
+   "seg": "s021",
+   "cat": "charts",
+   "p": {
+    "title": "Marriott Vacations, 2025",
+    "rows": [
+     {
+      "n": "Timeshares sold",
+      "v": 1800,
+      "label": "$1.8B"
+     },
+     {
+      "n": "Marketing and sales",
+      "v": 943,
+      "label": "$943M",
+      "hero": true
+     }
+    ],
+    "src": "Marriott Vacations 2025 annual report"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 5342,
+   "dur": 254,
+   "seg": "s023",
+   "cat": "charts",
+   "p": {
+    "kicker": "Of every $1 a buyer pays",
+    "value": "~52¢",
+    "sub": "pays to sell it to them"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5596,
+   "dur": 97,
+   "seg": "s023",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_pitch15",
+     "src": "timeshare/assets/tv_pitch15.mp4",
+     "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 104.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5693,
+   "dur": 165,
+   "seg": "s024",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_resale11",
+     "src": "timeshare/assets/tv_resale11.mp4",
+     "credit": "NBC Today, 23 May 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 24.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5858,
+   "dur": 89,
+   "seg": "s024",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_resale11",
+     "src": "timeshare/assets/tv_resale11.mp4",
+     "credit": "NBC Today, 23 May 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 48.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 5947,
+   "dur": 91,
+   "seg": "s025",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_20cents_2011",
+     "src": "timeshare/assets/sot_20cents_2011.mp4",
+     "credit": "NBC Today, 23 May 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "name": "World Property Channel",
+    "role": "NBC Today · May 2011",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6038,
+   "dur": 243,
+   "seg": "s026",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_pitch15",
+     "src": "timeshare/assets/tv_pitch15.mp4",
+     "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 76.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6281,
+   "dur": 168,
+   "seg": "s027",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_pitch15",
+     "src": "timeshare/assets/tv_pitch15.mp4",
+     "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 80.0,
+    "label": "Hilton Grand Vacations loans: 14.5% average interest"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 6448,
+   "dur": 94,
+   "seg": "s028",
+   "cat": "text",
+   "p": {
+    "text": "SIMPLIFIED EXAMPLE",
+    "sub": "an average timeshare"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 6542,
+   "dur": 274,
+   "seg": "s029",
+   "cat": "charts",
+   "p": {
+    "kicker": "$24,740 at 14.5% over 10 years",
+    "value": "$392",
+    "sub": "a month"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 6816,
+   "dur": 125,
+   "seg": "s030",
+   "cat": "charts",
+   "p": {
+    "kicker": "Total paid",
+    "value": "~$47,000",
+    "sub": "for a $24,740 timeshare"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6941,
+   "dur": 194,
+   "seg": "s031",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_wyndham19",
+     "src": "timeshare/assets/tv_wyndham19.mp4",
+     "credit": "ABC7 News (KGO), 10 Feb 2019 · TV News Archive",
+     "kind": "video",
+     "w": 858,
+     "h": 480
+    },
+    "from": 10.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 7135,
+   "dur": 188,
+   "seg": "s031",
+   "cat": "charts",
+   "p": {
+    "kicker": "Travel + Leisure, 2025",
+    "value": "20.7%",
+    "sub": "of sales set aside for loans it expects never to collect"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7323,
+   "dur": 236,
+   "seg": "s032",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_mvw21",
+     "src": "timeshare/assets/tv_mvw21.mp4",
+     "credit": "Fox Business, 6 May 2021 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 8.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7559,
+   "dur": 175,
+   "seg": "s033",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_exit17",
+     "src": "timeshare/assets/tv_exit17.mp4",
+     "credit": "KPIX 5 News, 9 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 7734,
+   "dur": 230,
+   "seg": "s033",
+   "cat": "charts",
+   "p": {
+    "title": "Average yearly maintenance fee",
+    "rows": [
+     {
+      "n": "2023",
+      "v": 1260,
+      "label": "$1,260"
+     },
+     {
+      "n": "2024",
+      "v": 1480,
+      "label": "$1,480"
+     },
+     {
+      "n": "2025",
+      "v": 1550,
+      "label": "$1,550",
+      "hero": true
+     }
+    ],
+    "src": "ARDA State of the Industry 2025, 2026"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 7964,
+   "dur": 305,
+   "seg": "s034",
+   "cat": "charts",
+   "p": {
+    "kicker": "Ten years: loan + fees",
+    "value": "~$62,500",
+    "sub": "for ten one-week holidays · ~$6,250 a week"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8269,
+   "dur": 211,
+   "seg": "s035",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_exit17",
+     "src": "timeshare/assets/tv_exit17.mp4",
+     "credit": "KPIX 5 News, 9 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 48.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 8480,
+   "dur": 119,
+   "seg": "s036",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_50cents_2017",
+     "src": "timeshare/assets/sot_50cents_2017.mp4",
+     "credit": "KPIX 5 News, 9 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "Gary",
+    "role": "Timeshare owner · KPIX 5, Jul 2017",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8599,
+   "dur": 234,
+   "seg": "s037",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_exit17",
+     "src": "timeshare/assets/tv_exit17.mp4",
+     "credit": "KPIX 5 News, 9 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 22.0,
+    "label": "California real estate commissioner"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8833,
+   "dur": 129,
+   "seg": "s037",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_exit17",
+     "src": "timeshare/assets/tv_exit17.mp4",
+     "credit": "KPIX 5 News, 9 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 32.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 8962,
+   "dur": 90,
+   "seg": "s038",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "mvc_pool",
+     "src": "timeshare/assets/mvc_pool.jpg",
+     "credit": "Crispas · Wikimedia Commons · CC BY-SA 3.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "in",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9052,
+   "dur": 170,
+   "seg": "s039",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_pitch15",
+     "src": "timeshare/assets/tv_pitch15.mp4",
+     "credit": "KPIX 5 News, 24 Apr 2015 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 44.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9222,
+   "dur": 113,
+   "seg": "s039",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_resale11",
+     "src": "timeshare/assets/tv_resale11.mp4",
+     "credit": "NBC Today, 23 May 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 68.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9335,
+   "dur": 133,
+   "seg": "s039",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_exit17",
+     "src": "timeshare/assets/tv_exit17.mp4",
+     "credit": "KPIX 5 News, 9 Jul 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9468,
+   "dur": 149,
+   "seg": "s040",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_versailles12",
+     "src": "timeshare/assets/tv_versailles12.mp4",
+     "credit": "ABC Good Morning America, 16 Jul 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 72.0,
+    "label": "Versailles"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9617,
+   "dur": 115,
+   "seg": "s040",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_versailles13",
+     "src": "timeshare/assets/tv_versailles13.mp4",
+     "credit": "ABC Good Morning America, 1 Oct 2013 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 76.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9732,
+   "dur": 126,
+   "seg": "s041",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_siegel17",
+     "src": "timeshare/assets/tv_siegel17.mp4",
+     "credit": "Fox Business, 26 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 44.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9858,
+   "dur": 104,
+   "seg": "s041",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_mvw21",
+     "src": "timeshare/assets/tv_mvw21.mp4",
+     "credit": "Fox Business, 6 May 2021 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "end",
+   "start": 9962,
+   "dur": 346,
+   "seg": "s042",
+   "cat": "text",
+   "p": {}
+  }
+ ],
+ "chapters": [
+  {
+   "name": "COLD OPEN",
+   "from": 0
+  },
+  {
+   "name": "1. THE ORANGE GROVE",
+   "from": 903
+  },
+  {
+   "name": "2. THE FREE GIFT",
+   "from": 3229
+  },
+  {
+   "name": "3. WHERE THE MONEY GOES",
+   "from": 4893
+  },
+  {
+   "name": "4. THE FEE THAT NEVER ENDS",
+   "from": 7559
+  },
+  {
+   "name": "VERDICT",
+   "from": 8962
+  }
+ ]
+}

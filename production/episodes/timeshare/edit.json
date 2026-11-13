@@ -1,0 +1,480 @@
+{
+ "s001": [
+  {
+   "k": "video",
+   "a": "tv_resale11",
+   "from": 48,
+   "label": "Timeshares listed at deep discounts"
+  },
+  {
+   "at": "Some owners",
+   "k": "video",
+   "a": "tv_resale11",
+   "from": 20
+  }
+ ],
+ "s002": [
+  {
+   "k": "video",
+   "a": "tv_mvw21",
+   "from": 2
+  },
+  {
+   "at": "at an average",
+   "k": "stat",
+   "kicker": "New timeshares, 2025",
+   "value": "$24,740",
+   "sub": "average price · $10.7B in total"
+  }
+ ],
+ "s003": [
+  {
+   "k": "video",
+   "a": "tv_resale11",
+   "from": 64,
+   "focus": [
+    0.0,
+    0.3
+   ]
+  }
+ ],
+ "s004": [
+  {
+   "k": "video",
+   "a": "tv_versailles13",
+   "from": 72,
+   "label": "Versailles, Windermere, Florida"
+  }
+ ],
+ "s005": [
+  {
+   "k": "video",
+   "a": "tv_siegel17",
+   "from": 32,
+   "label": "Orlando, 1980"
+  }
+ ],
+ "s006": [
+  {
+   "k": "sot",
+   "a": "sot_siegel_2017",
+   "pic": "tv_siegel17",
+   "picAt": 40,
+   "name": "David Siegel",
+   "role": "Westgate founder · Fox Business, 2017"
+  }
+ ],
+ "s007": [
+  {
+   "k": "video",
+   "a": "tv_siegel17",
+   "from": 60
+  },
+  {
+   "at": "That became Westgate",
+   "k": "video",
+   "a": "tv_siegel17",
+   "from": 24,
+   "label": "Westgate Resorts"
+  }
+ ],
+ "s008": [
+  {
+   "k": "video",
+   "a": "tv_siegel17",
+   "from": 76
+  },
+  {
+   "at": "Ninety thousand",
+   "k": "video",
+   "a": "tv_versailles13",
+   "from": 64
+  }
+ ],
+ "s009": [
+  {
+   "k": "sot",
+   "a": "sot_jackie_2017",
+   "name": "Jackie Siegel",
+   "role": "Fox Business, 2017"
+  }
+ ],
+ "s010": [
+  {
+   "k": "video",
+   "a": "tv_versailles13",
+   "from": 10
+  },
+  {
+   "at": "Credit dried up",
+   "k": "video",
+   "a": "tv_versailles12",
+   "from": 80
+  }
+ ],
+ "s011": [
+  {
+   "k": "sot",
+   "a": "sot_waste_2012",
+   "name": "David Siegel",
+   "role": "ABC Good Morning America · Jul 2012"
+  }
+ ],
+ "s012": [
+  {
+   "k": "doc",
+   "title": "Siegel emails 7,000 employees",
+   "sub": "October 2012",
+   "lines": [
+    "New taxes could force job cuts if Obama is re-elected"
+   ],
+   "hi": 0
+  }
+ ],
+ "s013": [
+  {
+   "k": "video",
+   "a": "tv_versailles13",
+   "from": 36
+  }
+ ],
+ "s014": [
+  {
+   "k": "video",
+   "a": "tv_versailles13",
+   "from": 50,
+   "label": "David and Jackie Siegel",
+   "focus": [
+    0.15,
+    0.25
+   ]
+  }
+ ],
+ "s015": [
+  {
+   "k": "video",
+   "a": "tv_pitch15",
+   "from": 20
+  },
+  {
+   "at": "All you have to do",
+   "k": "video",
+   "a": "tv_pitch15",
+   "from": 24
+  }
+ ],
+ "s016": [
+  {
+   "k": "photo",
+   "a": "hgv_lv",
+   "kb": "in",
+   "label": "Hilton Grand Vacations"
+  },
+  {
+   "at": "On average",
+   "k": "stat",
+   "kicker": "Hilton Grand Vacations, 2025",
+   "value": "$3,851",
+   "sub": "sold per tour, on average · 856,676 tours"
+  }
+ ],
+ "s017": [
+  {
+   "k": "video",
+   "a": "tv_pitch15",
+   "from": 40
+  },
+  {
+   "at": "In 2015",
+   "k": "video",
+   "a": "tv_pitch15",
+   "from": 28
+  }
+ ],
+ "s018": [
+  {
+   "k": "sot",
+   "a": "sot_pitch_2015",
+   "name": "Susie High",
+   "role": "Timeshare buyer · KPIX 5, Apr 2015",
+   "pic": "tv_pitch15",
+   "picAt": 44
+  }
+ ],
+ "s019": [
+  {
+   "k": "video",
+   "a": "tv_pitch15",
+   "from": 76,
+   "label": "Florida: 10 days to cancel, by law"
+  }
+ ],
+ "s020": [
+  {
+   "k": "photo",
+   "a": "mvc_orlando",
+   "kb": "in",
+   "label": "Marriott Vacation Club, Orlando"
+  },
+  {
+   "at": "In 2025",
+   "k": "cols",
+   "title": "Marriott Vacations, 2025",
+   "rows": [
+    {
+     "n": "Timeshares sold",
+     "v": 1800,
+     "label": "$1.8B"
+    }
+   ],
+   "src": "Marriott Vacations 2025 results"
+  }
+ ],
+ "s021": [
+  {
+   "k": "cols",
+   "title": "Marriott Vacations, 2025",
+   "rows": [
+    {
+     "n": "Timeshares sold",
+     "v": 1800,
+     "label": "$1.8B"
+    },
+    {
+     "n": "Marketing and sales",
+     "v": 943,
+     "label": "$943M",
+     "hero": true
+    }
+   ],
+   "src": "Marriott Vacations 2025 annual report"
+  }
+ ],
+ "s022": [
+  {
+   "k": "text",
+   "text": "ABOUT HALF."
+  }
+ ],
+ "s023": [
+  {
+   "k": "stat",
+   "kicker": "Of every $1 a buyer pays",
+   "value": "~52¢",
+   "sub": "pays to sell it to them"
+  },
+  {
+   "at": "Only what's left",
+   "k": "video",
+   "a": "tv_pitch15",
+   "from": 104
+  }
+ ],
+ "s024": [
+  {
+   "k": "video",
+   "a": "tv_resale11",
+   "from": 24
+  },
+  {
+   "at": "The next buyer",
+   "k": "video",
+   "a": "tv_resale11",
+   "from": 48
+  }
+ ],
+ "s025": [
+  {
+   "k": "sot",
+   "a": "sot_20cents_2011",
+   "name": "World Property Channel",
+   "role": "NBC Today · May 2011"
+  }
+ ],
+ "s026": [
+  {
+   "k": "video",
+   "a": "tv_pitch15",
+   "from": 76
+  }
+ ],
+ "s027": [
+  {
+   "k": "video",
+   "a": "tv_pitch15",
+   "from": 80,
+   "label": "Hilton Grand Vacations loans: 14.5% average interest"
+  }
+ ],
+ "s028": [
+  {
+   "k": "text",
+   "text": "SIMPLIFIED EXAMPLE",
+   "sub": "an average timeshare"
+  }
+ ],
+ "s029": [
+  {
+   "k": "stat",
+   "kicker": "$24,740 at 14.5% over 10 years",
+   "value": "$392",
+   "sub": "a month"
+  }
+ ],
+ "s030": [
+  {
+   "k": "stat",
+   "kicker": "Total paid",
+   "value": "~$47,000",
+   "sub": "for a $24,740 timeshare"
+  }
+ ],
+ "s031": [
+  {
+   "k": "video",
+   "a": "tv_wyndham19",
+   "from": 10
+  },
+  {
+   "at": "sets aside",
+   "k": "stat",
+   "kicker": "Travel + Leisure, 2025",
+   "value": "20.7%",
+   "sub": "of sales set aside for loans it expects never to collect"
+  }
+ ],
+ "s032": [
+  {
+   "k": "video",
+   "a": "tv_mvw21",
+   "from": 8
+  }
+ ],
+ "s033": [
+  {
+   "k": "video",
+   "a": "tv_exit17",
+   "from": 4
+  },
+  {
+   "at": "In 2023",
+   "k": "cols",
+   "title": "Average yearly maintenance fee",
+   "rows": [
+    {
+     "n": "2023",
+     "v": 1260,
+     "label": "$1,260"
+    },
+    {
+     "n": "2024",
+     "v": 1480,
+     "label": "$1,480"
+    },
+    {
+     "n": "2025",
+     "v": 1550,
+     "label": "$1,550",
+     "hero": true
+    }
+   ],
+   "src": "ARDA State of the Industry 2025, 2026"
+  }
+ ],
+ "s034": [
+  {
+   "k": "stat",
+   "kicker": "Ten years: loan + fees",
+   "value": "~$62,500",
+   "sub": "for ten one-week holidays · ~$6,250 a week"
+  }
+ ],
+ "s035": [
+  {
+   "k": "video",
+   "a": "tv_exit17",
+   "from": 48
+  }
+ ],
+ "s036": [
+  {
+   "k": "sot",
+   "a": "sot_50cents_2017",
+   "name": "Gary",
+   "role": "Timeshare owner · KPIX 5, Jul 2017"
+  }
+ ],
+ "s037": [
+  {
+   "k": "video",
+   "a": "tv_exit17",
+   "from": 22,
+   "label": "California real estate commissioner"
+  },
+  {
+   "at": "Regulators warn",
+   "k": "video",
+   "a": "tv_exit17",
+   "from": 32
+  }
+ ],
+ "s038": [
+  {
+   "k": "photo",
+   "a": "mvc_pool",
+   "kb": "in",
+   "treat": "ink"
+  }
+ ],
+ "s039": [
+  {
+   "k": "video",
+   "a": "tv_pitch15",
+   "from": 44
+  },
+  {
+   "at": "The company then",
+   "k": "video",
+   "a": "tv_resale11",
+   "from": 68
+  },
+  {
+   "at": "and charges you",
+   "k": "video",
+   "a": "tv_exit17",
+   "from": 12
+  }
+ ],
+ "s040": [
+  {
+   "k": "video",
+   "a": "tv_versailles12",
+   "from": 72,
+   "label": "Versailles"
+  },
+  {
+   "at": "The palace he started",
+   "k": "video",
+   "a": "tv_versailles13",
+   "from": 76
+  }
+ ],
+ "s041": [
+  {
+   "k": "video",
+   "a": "tv_siegel17",
+   "from": 44
+  },
+  {
+   "at": "the holiday isn't",
+   "k": "video",
+   "a": "tv_mvw21",
+   "from": 4
+  }
+ ],
+ "s042": [
+  {
+   "k": "end"
+  }
+ ]
+}

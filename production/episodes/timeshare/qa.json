@@ -1,0 +1,868 @@
+{
+  "median_db": -14.9,
+  "spent_chars": 0,
+  "results": {
+    "s001": {
+      "heard": "On the internet, you can find timeshares for sale for $1. Some owners will even pay the closing costs just to get rid of them.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 36,
+        "rate": 4.76,
+        "wpm": 206.3,
+        "lead_silence": 0.02,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.889
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s002": {
+      "heard": "And yet in 2025, Americans bought $10.7 billion of brand new timeshares, at an average of almost $25,000 each.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 3.97,
+        "wpm": 140.5,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.94
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Americans"
+      ],
+      "attempts": []
+    },
+    "s003": {
+      "heard": "So why would anyone pay $25,000 for something that's worth almost nothing the moment they sign?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 28,
+        "rate": 4.27,
+        "wpm": 164.6,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.912
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s004": {
+      "heard": "And how did one man selling them build the biggest house in America?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 18,
+        "rate": 4.57,
+        "wpm": 198.0,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -13.9,
+        "peak": 0.863
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "America"
+      ],
+      "attempts": []
+    },
+    "s005": {
+      "heard": "In 1980, David Siegel owned an orange grove near Orlando. One day, a man offered to buy part of it.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 3.95,
+        "wpm": 175.4,
+        "lead_silence": 0.02,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.904
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "David Siegel",
+        "Orlando"
+      ],
+      "attempts": []
+    },
+    "s007": {
+      "heard": "he built 16 villas at the back of the grove. That became Westgate Resorts, which grew into one of the biggest timeshare companies in the world.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 4.31,
+        "wpm": 181.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.876
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Westgate Resorts"
+      ],
+      "attempts": []
+    },
+    "s008": {
+      "heard": "In 2004, he and his wife Jackie started building a house, 90,000 square feet, modeled on the Palace of Versailles.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 3.55,
+        "wpm": 149.3,
+        "lead_silence": 0.02,
+        "silences": [
+          0.26,
+          0.34,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.886
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Jackie",
+        "Versailles"
+      ],
+      "attempts": []
+    },
+    "s010": {
+      "heard": "When the 2008 crash came, construction stopped, credit dried up, timeshare sales collapsed, and Westgate cut jobs.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 3.12,
+        "wpm": 122.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.38,
+          0.26,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -16.0,
+        "peak": 0.884
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Westgate"
+      ],
+      "attempts": []
+    },
+    "s012": {
+      "heard": "In 2012, Siegel emailed his 7,000 employees, warning that new taxes could force him to cut jobs if Barack Obama were reelected. The email went viral.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 41,
+        "rate": 3.63,
+        "wpm": 143.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.893
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Barack Obama",
+        "Siegel"
+      ],
+      "attempts": []
+    },
+    "s013": {
+      "heard": "Then the business came back, and so did the house.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 12,
+        "rate": 3.82,
+        "wpm": 191.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -16.2,
+        "peak": 0.881
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s014": {
+      "heard": "So, how does selling one week a year in Orlando pay for a palace?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 18,
+        "rate": 4.35,
+        "wpm": 202.9,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Orlando"
+      ],
+      "attempts": []
+    },
+    "s015": {
+      "heard": "It starts with a free gift, show tickets, a cheap hotel stay, a cruise. All you have to do is sit through a 90-minute presentation.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 34,
+        "rate": 3.91,
+        "wpm": 172.4,
+        "lead_silence": 0.02,
+        "silences": [
+          0.32,
+          0.28,
+          0.3,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.893
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "minute"
+      ],
+      "attempts": []
+    },
+    "s016": {
+      "heard": "The companies call it a tour, and they count them. In 2025, Hilton Grand Vacations ran over 850,000 of them. On average, every tour brought in $3,851 of sales.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 56,
+        "rate": 3.98,
+        "wpm": 166.2,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.912
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Hilton Grand Vacations"
+      ],
+      "attempts": []
+    },
+    "s017": {
+      "heard": "That's why the free gift is worth it, and why 90 minutes can turn into something else. In 2015, a couple on holiday in Mexico told a San Francisco TV station what happened to them.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 51,
+        "rate": 4.37,
+        "wpm": 180.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.28,
+          0.48
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.921
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Mexico",
+        "San Francisco TV",
+        "TV"
+      ],
+      "attempts": []
+    },
+    "s019": {
+      "heard": "It's why many U.S. states give timeshare buyers a few days to cancel, by law. In Florida, it's 10. Most people never use it.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 33,
+        "rate": 3.86,
+        "wpm": 168.2,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.877
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Florida",
+        "US",
+        "use"
+      ],
+      "attempts": []
+    },
+    "s020": {
+      "heard": "Here's what the company's own accounts show. In 2025, Marriott Vacations sold about $1.8 billion of timeshares.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 3.74,
+        "wpm": 140.2,
+        "lead_silence": 0.08,
+        "silences": [
+          0.46
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.937
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Marriott Vacations"
+      ],
+      "attempts": []
+    },
+    "s021": {
+      "heard": "It spent $943 million on marketing and selling them.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 19,
+        "rate": 4.52,
+        "wpm": 171.4,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s022": {
+      "heard": "About half.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 3,
+        "rate": 3.49,
+        "wpm": 139.5,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.913
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s023": {
+      "heard": "So of every dollar a buyer pays, about 50 cents pays for the free gifts, the tours, the sales floor, and the commissions. Only what's left pays for the holiday and the profit.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 45,
+        "rate": 3.98,
+        "wpm": 174.9,
+        "lead_silence": 0.04,
+        "silences": [
+          0.44
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s024": {
+      "heard": "Which is why you can't give it away. The day you sign, you're holding half a product. The next buyer won't pay for the free gift you got.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 31,
+        "rate": 3.83,
+        "wpm": 207.4,
+        "lead_silence": 0.08,
+        "silences": [
+          0.36,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.901
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s026": {
+      "heard": "But the sale is only the beginning. Most buyers don't pay $25,000 in cash. The company lends it to them.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 4.16,
+        "wpm": 171.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.922
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s027": {
+      "heard": "At Hilton Grand Vacations, those loans charge an average of 14.5 percent.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 4.31,
+        "wpm": 176.5,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.931
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Hilton Grand Vacations"
+      ],
+      "attempts": []
+    },
+    "s028": {
+      "heard": "Here's an average timeshare with simple numbers.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 14,
+        "rate": 5.04,
+        "wpm": 151.1,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.5,
+        "peak": 0.882
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s029": {
+      "heard": "$24,740, borrowed at 14.5% over 10 years, is about $392 a month.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 44,
+        "rate": 5.03,
+        "wpm": 178.5,
+        "lead_silence": 0.02,
+        "silences": [
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.906
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s030": {
+      "heard": "By the end, you've paid about $47,000.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 15,
+        "rate": 3.97,
+        "wpm": 142.9,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.902
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s031": {
+      "heard": "The companies know many buyers won't make it. Travel Plus Leisure, one of the biggest timeshare sellers, sets aside about 21 cents of every dollar it sells for loans it expects never to collect.",
+      "accuracy": 1.0,
+      "issues": [
+        {
+          "type": "insert",
+          "expected": "",
+          "heard": "plus"
+        }
+      ],
+      "pace": {
+        "syllables": 51,
+        "rate": 4.17,
+        "wpm": 166.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.898
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Leisure"
+      ],
+      "attempts": []
+    },
+    "s032": {
+      "heard": "And when a buyer stops paying, the company can take the week back and sell it again to the next family on a free trip.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 4.3,
+        "wpm": 214.9,
+        "lead_silence": 0.08,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.9
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s033": {
+      "heard": "Then there's the part that never ends. Every timeshare comes with a yearly maintenance fee. In 2023, the average was $1,260. By 2025, it was $1,550.",
+      "accuracy": 0.941,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "twelve",
+          "heard": "one thousand two"
+        },
+        {
+          "type": "replace",
+          "expected": "fifteen",
+          "heard": "one thousand five"
+        }
+      ],
+      "pace": {
+        "syllables": 49,
+        "rate": 3.75,
+        "wpm": 151.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.4,
+          0.32,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.917
+      },
+      "problems": [],
+      "score": 0.941,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s034": {
+      "heard": "Add 10 years of fees to the loan and our average buyer has paid around $62,000 for 10 weeks of holiday, about $6,000 a week.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 41,
+        "rate": 4.18,
+        "wpm": 177.2,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.927
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s035": {
+      "heard": "and the fee keeps coming after the loan is paid off. Owners who want out often can't find anyone to take it.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 4.01,
+        "wpm": 195.8,
+        "lead_silence": 0.02,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.953
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s037": {
+      "heard": "That desperation has created a second industry. Exit companies that promise to get owners out for an upfront fee. Regulators warn many of them take the money and do nothing.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 49,
+        "rate": 4.34,
+        "wpm": 159.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.44,
+          0.48
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s038": {
+      "heard": "So why can't you give a timeshare away?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 11,
+        "rate": 4.62,
+        "wpm": 201.7,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.874
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s039": {
+      "heard": "because you were never buying a holiday. About half of what you paid went on selling it to you. The company then lent you the rest at 14.5% and charges you a fee that rises every year for as long as you own it.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 62,
+        "rate": 4.6,
+        "wpm": 213.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.919
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s040": {
+      "heard": "David Siegel died in April 2025, aged 89. The palace he started in 2004 was nearly finished.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 3.09,
+        "wpm": 121.1,
+        "lead_silence": 0.04,
+        "silences": [
+          0.52
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.893
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "April",
+        "Siegel"
+      ],
+      "attempts": []
+    },
+    "s041": {
+      "heard": "He built it on a simple discovery from an orange grove in 1980. The holiday isn't the product, the sale is.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 29,
+        "rate": 3.99,
+        "wpm": 173.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.42,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.907
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s042": {
+      "heard": "If you'll never sit through a free presentation the same way again, that's what this channel does. The economics nobody explains, one company at a time. Subscribe and you'll get the next one.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 48,
+        "rate": 4.17,
+        "wpm": 172.2,
+        "lead_silence": 0.02,
+        "silences": [
+          0.32,
+          0.32,
+          0.26,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.942
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    }
+  }
+}

@@ -224,11 +224,6 @@
   ]
  },
  {
-  "id": "westgate_lv",
-  "from": "commons",
-  "ref": "File:West gate hotel Las Vegas Nevada 2022 - 52072973852.jpg"
- },
- {
   "id": "mvc_orlando",
   "from": "commons",
   "ref": "File:Marriott’s Grande Vista - Orlando 10.jpg"
@@ -247,10 +242,5 @@
   "id": "mvc_pool",
   "from": "commons",
   "ref": "File:Marriott - Frenchman's Cove pool - USVI.jpg"
- },
- {
-  "id": "ts_office",
-  "from": "commons",
-  "ref": "File:Craigendarroch Timeshare Office - geograph.org.uk - 2284688.jpg"
  }
 ]
