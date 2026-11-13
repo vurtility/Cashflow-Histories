@@ -1,0 +1,255 @@
+[
+ {
+  "id": "sot_brotman_2017",
+  "from": "tvnews",
+  "ref": "KPIX_20170802_110000_CBS_Morning_News",
+  "t": [
+   1025.9,
+   1033.6
+  ],
+  "credit": "CBS Morning News, 2 Aug 2017 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "k02",
+  "rel": [
+   5.9,
+   13.6
+  ]
+ },
+ {
+  "id": "sot_hotdog_2022",
+  "from": "tvnews",
+  "ref": "CNNW_20220728_000000_Anderson_Cooper_360",
+  "t": [
+   3231.66,
+   3239.8
+  ],
+  "credit": "CNN, 27 Jul 2022 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "k07",
+  "rel": [
+   31.66,
+   39.8
+  ]
+ },
+ {
+  "id": "sot_kirkland_2022",
+  "from": "tvnews",
+  "ref": "CNBC_20221219_140000_Squawk_on_the_Street",
+  "t": [
+   2402.3,
+   2417.3
+  ],
+  "credit": "CNBC Squawk on the Street, 19 Dec 2022 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "k05",
+  "rel": [
+   82.3,
+   97.3
+  ]
+ },
+ {
+  "id": "sot_fees_2019",
+  "from": "tvnews",
+  "ref": "CNBC_20190530_190000_Closing_Bell",
+  "t": [
+   5037.2,
+   5048.7
+  ],
+  "credit": "CNBC Closing Bell, 30 May 2019 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "k03",
+  "rel": [
+   2.2,
+   13.7
+  ]
+ },
+ {
+  "id": "sot_feerise_2024",
+  "from": "tvnews",
+  "ref": "KTVU_20240711_120000_KTVU_Mornings_on_2",
+  "t": [
+   7145.6,
+   7152.4
+  ],
+  "credit": "KTVU FOX 2, 11 Jul 2024 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "k04",
+  "rel": [
+   5.6,
+   12.4
+  ]
+ },
+ {
+  "id": "sot_stay_2020",
+  "from": "tvnews",
+  "ref": "CNBC_20200519_130000_Squawk_on_the_Street",
+  "t": [
+   294.04,
+   298.2
+  ],
+  "credit": "CNBC Squawk on the Street, 19 May 2020 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "k09",
+  "rel": [
+   39.04,
+   43.2
+  ]
+ },
+ {
+  "id": "tv_brotman17",
+  "from": "tvnews",
+  "ref": "KPIX_20170802_110000_CBS_Morning_News",
+  "t": [
+   1020,
+   1062
+  ],
+  "credit": "CBS Morning News, 2 Aug 2017 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on Costco's business; transformed by narration and analysis, credited on screen",
+  "cand": "k02",
+  "rel": [
+   0,
+   42
+  ]
+ },
+ {
+  "id": "tv_fees19",
+  "from": "tvnews",
+  "ref": "CNBC_20190530_190000_Closing_Bell",
+  "t": [
+   5035,
+   5060
+  ],
+  "credit": "CNBC Closing Bell, 30 May 2019 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on Costco's business; transformed by narration and analysis, credited on screen",
+  "cand": "k03",
+  "rel": [
+   0,
+   25
+  ]
+ },
+ {
+  "id": "tv_feerise24",
+  "from": "tvnews",
+  "ref": "KTVU_20240711_120000_KTVU_Mornings_on_2",
+  "t": [
+   7140,
+   7164
+  ],
+  "credit": "KTVU FOX 2, 11 Jul 2024 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on Costco's business; transformed by narration and analysis, credited on screen",
+  "cand": "k04",
+  "rel": [
+   0,
+   24
+  ]
+ },
+ {
+  "id": "tv_jelinek22",
+  "from": "tvnews",
+  "ref": "CNBC_20221219_140000_Squawk_on_the_Street",
+  "t": [
+   2320,
+   2440
+  ],
+  "credit": "CNBC Squawk on the Street, 19 Dec 2022 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on Costco's business; transformed by narration and analysis, credited on screen",
+  "cand": "k05",
+  "rel": [
+   0,
+   120
+  ]
+ },
+ {
+  "id": "tv_monopoly23",
+  "from": "tvnews",
+  "ref": "CNBC_20230926_090000_Worldwide_Exchange",
+  "t": [
+   2580,
+   2610
+  ],
+  "credit": "CNBC Worldwide Exchange, 26 Sep 2023 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on Costco's business; transformed by narration and analysis, credited on screen",
+  "cand": "k06",
+  "rel": [
+   0,
+   30
+  ]
+ },
+ {
+  "id": "tv_hotdog22",
+  "from": "tvnews",
+  "ref": "CNNW_20220728_000000_Anderson_Cooper_360",
+  "t": [
+   3200,
+   3262
+  ],
+  "credit": "CNN, 27 Jul 2022 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on Costco's business; transformed by narration and analysis, credited on screen",
+  "cand": "k07",
+  "rel": [
+   0,
+   62
+  ]
+ },
+ {
+  "id": "tv_sinegal20",
+  "from": "tvnews",
+  "ref": "CNBC_20200519_130000_Squawk_on_the_Street",
+  "t": [
+   255,
+   300
+  ],
+  "credit": "CNBC Squawk on the Street, 19 May 2020 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on Costco's business; transformed by narration and analysis, credited on screen",
+  "cand": "k09",
+  "rel": [
+   0,
+   45
+  ]
+ },
+ {
+  "id": "hotdog",
+  "from": "commons",
+  "ref": "File:$1.5 hot-dog combo at Costco Wholesale Queens, October 21 2023, New York.jpg"
+ },
+ {
+  "id": "pizza_hotdog",
+  "from": "commons",
+  "ref": "File:Costco Pizza and Hot Dog (52504855383).jpg"
+ },
+ {
+  "id": "chicken",
+  "from": "commons",
+  "ref": "File:Costco rotisserie chicken packaging.jpg"
+ },
+ {
+  "id": "chicken_oven",
+  "from": "commons",
+  "ref": "File:Costco Waterloo rotisserie chicken oven and salads.jpg"
+ },
+ {
+  "id": "kirkland",
+  "from": "commons",
+  "ref": "File:Costco 9821.jpg"
+ },
+ {
+  "id": "costco_ext",
+  "from": "commons",
+  "ref": "File:Costco Wholesale Club.jpg"
+ },
+ {
+  "id": "sinegal",
+  "from": "commons",
+  "ref": "File:James Sinegal (cropped).jpg"
+ },
+ {
+  "id": "card",
+  "from": "commons",
+  "ref": "File:Icelandic Costco membership card.jpg"
+ },
+ {
+  "id": "costco_aisle",
+  "from": "commons",
+  "ref": "File:Costco 9977.jpg"
+ }
+]

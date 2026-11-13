@@ -1,0 +1,214 @@
+[
+ {
+  "id": "sot_griffith_req",
+  "from": "tvnews",
+  "ref": "BLOOMBERG_20201007_010000_The_David_Rubenstein_Show_Peer_to_Peer_Conversations",
+  "t": [
+   115.04,
+   120.6
+  ],
+  "credit": "Bloomberg, The David Rubenstein Show, Oct 2020 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "p02",
+  "rel": [
+   60.04,
+   65.6
+  ]
+ },
+ {
+  "id": "sot_griffith_ads",
+  "from": "tvnews",
+  "ref": "BLOOMBERG_20201007_010000_The_David_Rubenstein_Show_Peer_to_Peer_Conversations",
+  "t": [
+   125.18,
+   131.9
+  ],
+  "credit": "Bloomberg, The David Rubenstein Show, Oct 2020 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "p02",
+  "rel": [
+   70.18,
+   76.9
+  ]
+ },
+ {
+  "id": "sot_griffith_flo",
+  "from": "tvnews",
+  "ref": "BLOOMBERG_20201007_010000_The_David_Rubenstein_Show_Peer_to_Peer_Conversations",
+  "t": [
+   147.88,
+   153.6
+  ],
+  "credit": "Bloomberg, The David Rubenstein Show, Oct 2020 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "p02",
+  "rel": [
+   92.88,
+   98.6
+  ]
+ },
+ {
+  "id": "sot_soaring_2024",
+  "from": "tvnews",
+  "ref": "CNBC_20240314_180000_Power_Lunch",
+  "t": [
+   2144.2,
+   2157.6
+  ],
+  "credit": "CNBC Power Lunch, 14 Mar 2024 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "p03",
+  "rel": [
+   24.2,
+   37.6
+  ]
+ },
+ {
+  "id": "sot_tracking_2024",
+  "from": "tvnews",
+  "ref": "KNTV_20241009_140000_Today",
+  "t": [
+   2195.9,
+   2203.9
+  ],
+  "credit": "NBC Today, 9 Oct 2024 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "p05",
+  "rel": [
+   15.9,
+   23.9
+  ]
+ },
+ {
+  "id": "sot_snapshot_ad",
+  "from": "tvnews",
+  "ref": "WRC_20120207_120000_Today",
+  "t": [
+   14320.0,
+   14323.6
+  ],
+  "credit": "Progressive Snapshot ad as aired, Feb 2012 · TV News Archive",
+  "basis": "fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast",
+  "cand": "p06",
+  "rel": [
+   30.0,
+   33.6
+  ]
+ },
+ {
+  "id": "tv_griffith23",
+  "from": "tvnews",
+  "ref": "CNBC_20231108_160000_Squawk_on_the_Street",
+  "t": [
+   2930,
+   2990
+  ],
+  "credit": "CNBC Squawk on the Street, 8 Nov 2023 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen",
+  "cand": "p01",
+  "rel": [
+   0,
+   60
+  ]
+ },
+ {
+  "id": "tv_rubenstein20",
+  "from": "tvnews",
+  "ref": "BLOOMBERG_20201007_010000_The_David_Rubenstein_Show_Peer_to_Peer_Conversations",
+  "t": [
+   55,
+   200
+  ],
+  "credit": "Bloomberg, The David Rubenstein Show, Oct 2020 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen",
+  "cand": "p02",
+  "rel": [
+   0,
+   145
+  ]
+ },
+ {
+  "id": "tv_analyst24",
+  "from": "tvnews",
+  "ref": "CNBC_20240314_180000_Power_Lunch",
+  "t": [
+   2120,
+   2200
+  ],
+  "credit": "CNBC Power Lunch, 14 Mar 2024 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen",
+  "cand": "p03",
+  "rel": [
+   0,
+   80
+  ]
+ },
+ {
+  "id": "tv_tracking24",
+  "from": "tvnews",
+  "ref": "KNTV_20241009_140000_Today",
+  "t": [
+   2180,
+   2215
+  ],
+  "credit": "NBC Today, 9 Oct 2024 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen",
+  "cand": "p05",
+  "rel": [
+   0,
+   35
+  ]
+ },
+ {
+  "id": "tv_snapshot12",
+  "from": "tvnews",
+  "ref": "WRC_20120207_120000_Today",
+  "t": [
+   14290,
+   14326
+  ],
+  "credit": "Progressive Snapshot ad as aired, Feb 2012 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen",
+  "cand": "p06",
+  "rel": [
+   0,
+   36
+  ]
+ },
+ {
+  "id": "tv_flo11",
+  "from": "tvnews",
+  "ref": "MSNBC_20110116_120000_Hardball_Weekend",
+  "t": [
+   1765,
+   1800
+  ],
+  "credit": "Progressive ad as aired, Jan 2011 · TV News Archive",
+  "basis": "fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen",
+  "cand": "p07",
+  "rel": [
+   0,
+   35
+  ]
+ },
+ {
+  "id": "bodyshop",
+  "from": "commons",
+  "ref": "File:Auto body shop.jpg"
+ },
+ {
+  "id": "bodyshop2",
+  "from": "commons",
+  "ref": "File:Auto body shop, Trevilians.jpg"
+ },
+ {
+  "id": "logo_progressive",
+  "from": "commons",
+  "ref": "File:Progressive Corporation logo.svg"
+ },
+ {
+  "id": "logo_progressive2",
+  "from": "commons",
+  "ref": "File:Progressive logo.svg"
+ }
+]
