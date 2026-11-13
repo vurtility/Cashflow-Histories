@@ -1,0 +1,41 @@
+# Timeshares: YouTube upload text
+
+## Title
+Why You Can't Give a Timeshare Away
+
+Alternates for the title test:
+- The Timeshare Trap: Where Your $25,000 Really Goes
+- How Timeshares Built the Biggest House in America
+
+## Thumbnails (Test & Compare)
+`upload/timeshare-thumbnail-1.jpg` ($1. No Takers?), `-2.jpg` (52¢ Is the Pitch), `-3.jpg` (Who Paid for This?)
+
+## Description
+
+You can find timeshares for sale for $1, yet Americans bought $10.7 billion of brand-new ones in 2025, at an average of $24,740 each. So why would anyone pay $25,000 for something that's worth almost nothing the moment they sign?
+
+The answer is in the timeshare companies' own accounts, and in the story of David Siegel, who turned an orange grove into Westgate Resorts and a 90,000-square-foot palace.
+
+0:00 Timeshares for $1
+0:30 The orange grove
+1:47 The free gift
+2:43 Where the money goes
+4:11 The fee that never ends
+4:58 Verdict
+
+SOURCES
+ARDA State of the Vacation Timeshare Industry (2025, 2026) · Marriott Vacations Worldwide 2025 annual report · Hilton Grand Vacations 2025 10-K and Q1 2026 10-Q · Travel + Leisure Co. 2025 results · Florida Statutes §721.10 · CNN Money, NBC, ABC News (2012) · local news reports on Siegel's death (2025). The $24,740 loan is a simplified example (14.5% over 10 years; fees held flat). The "52¢" is marketing and sales expense divided by contract sales at Marriott Vacations in 2025. Resale prices vary widely.
+
+FOOTAGE
+News excerpts from Fox Business, ABC News, KPIX CBS, NBC and ABC7 News (KGO), via the Internet Archive's TV News Archive. Short excerpts used for commentary and criticism under fair use. This video is not affiliated with or endorsed by Westgate Resorts, Marriott Vacations Worldwide, Hilton Grand Vacations or Travel + Leisure Co.
+
+PHOTOS (Wikimedia Commons)
+Crispas (CC BY-SA 3.0) · Farragutful (CC BY-SA 4.0). Photos were recoloured and cropped. Licences: creativecommons.org/licenses
+
+#Timeshare #RealEstate #Travel
+
+## Tags
+timeshare, timeshare exit, how to get out of a timeshare, timeshare presentation, why timeshares are bad, westgate resorts, david siegel, queen of versailles, timeshare maintenance fees, hilton grand vacations, marriott vacation club, business documentary
+
+## Category
+Education · Made for kids: No

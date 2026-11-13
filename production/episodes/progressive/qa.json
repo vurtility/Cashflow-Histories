@@ -1,0 +1,906 @@
+{
+  "median_db": -15.0,
+  "spent_chars": 230,
+  "results": {
+    "s001": {
+      "heard": "At the end of 2023, the price of car insurance in America was 20% higher than a year before, the biggest jump since 1976.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 33,
+        "rate": 3.44,
+        "wpm": 156.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "America"
+      ],
+      "attempts": []
+    },
+    "s002": {
+      "heard": "In 2022, Progressive made $722 million, in 2025 it made $11.3 billion, 15 times as much in three years.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 36,
+        "rate": 2.97,
+        "wpm": 123.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.32,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.894
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Progressive"
+      ],
+      "attempts": []
+    },
+    "s003": {
+      "heard": "In Florida, it made so much that the law now forces it to give nearly a billion dollars back.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 25,
+        "rate": 4.17,
+        "wpm": 190.0,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -13.8,
+        "peak": 0.921
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Florida"
+      ],
+      "attempts": []
+    },
+    "s004": {
+      "heard": "So, how does a car insurer make 15 times more money in 3 years? And what does it have to do with your bill?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 29,
+        "rate": 4.37,
+        "wpm": 216.9,
+        "lead_silence": 0.06,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.947
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s005": {
+      "heard": "Progressive started in Cleveland in 1937. In 1965, Peter Lewis, the founder's son, borrowed to buy control of it and built it on drivers other insurers turned away, priced by how risky they really were.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 53,
+        "rate": 3.81,
+        "wpm": 150.9,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Cleveland",
+        "Peter Lewis"
+      ],
+      "attempts": []
+    },
+    "s006": {
+      "heard": "Car insurance works like this. You pay a premium. The insurer pays claims at its own costs. Whatever's left is profit.",
+      "accuracy": 1.0,
+      "issues": [
+        {
+          "type": "insert",
+          "expected": "",
+          "heard": "at"
+        }
+      ],
+      "pace": {
+        "syllables": 29,
+        "rate": 3.8,
+        "wpm": 164.9,
+        "lead_silence": 0.08,
+        "silences": [
+          0.3,
+          0.28,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s007": {
+      "heard": "Progressive has one famous rule. Spend no more than 96 cents of every premium dollar. Keep 4 cents. Then, grow as fast as possible.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 37,
+        "rate": 3.74,
+        "wpm": 145.5,
+        "lead_silence": 0.08,
+        "silences": [
+          0.32,
+          0.38,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.918
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s009": {
+      "heard": "And because everyone has to buy it, the fight is over who you buy it from.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 20,
+        "rate": 4.67,
+        "wpm": 224.3,
+        "lead_silence": 0.06,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s010": {
+      "heard": "Then, after the pandemic, everything about fixing a car got more expensive.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 4.56,
+        "wpm": 149.4,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.913
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s011": {
+      "heard": "Modern bumpers are full of sensors and cameras. A minor bump that once meant a bit of paint now means new parts and a recalibration. Repair prices rose about 20% in a year.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 49,
+        "rate": 4.16,
+        "wpm": 173.2,
+        "lead_silence": 0.04,
+        "silences": [
+          0.34,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.926
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s012": {
+      "heard": "Used cars, which insurers pay out when a car is written off, cost far more than before. So did mechanics.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 3.72,
+        "wpm": 165.3,
+        "lead_silence": 0.06,
+        "silences": [
+          0.28,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.925
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s013": {
+      "heard": "Insurers' prices were set for the old costs. They started losing money. Progressive's profit fell to $722 million in 2022.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 39,
+        "rate": 4.18,
+        "wpm": 154.5,
+        "lead_silence": 0.06,
+        "silences": [
+          0.36,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.901
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s014": {
+      "heard": "So, they raised prices, fast. By the end of 2023, car insurance cost 20% more than a year earlier.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 3.13,
+        "wpm": 144.6,
+        "lead_silence": 0.12,
+        "silences": [
+          0.3,
+          0.42,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.95
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s016": {
+      "heard": "In March 2024, the prophets hadn't shown up yet.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 9,
+        "rate": 2.54,
+        "wpm": 152.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.883
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "March"
+      ],
+      "attempts": []
+    },
+    "s017": {
+      "heard": "They were about to.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 5,
+        "rate": 4.81,
+        "wpm": 230.8,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -13.8,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s018": {
+      "heard": "In 2023, Progressive made $3.9 billion. In 2024, 8.5. In 2025, 11.3.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 2.15,
+        "wpm": 111.3,
+        "lead_silence": 0.02,
+        "silences": [
+          0.3,
+          0.28,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.899
+      },
+      "problems": [
+        "dragging: 2.15 syll/s vs episode 3.85"
+      ],
+      "score": 0.95,
+      "risky": [
+        "(digits in text)",
+        "Progressive"
+      ],
+      "attempts": [
+        {
+          "plan": "faster delivery (speed 1.08)",
+          "accuracy": 1.0,
+          "problems": [
+            "dragging: 2.11 syll/s vs episode 3.85"
+          ]
+        },
+        {
+          "plan": "new take",
+          "accuracy": 1.0,
+          "problems": [
+            "dragging: 2.14 syll/s vs episode 3.85"
+          ]
+        }
+      ]
+    },
+    "s019": {
+      "heard": "Here's what happened with $1.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 10,
+        "rate": 4.35,
+        "wpm": 156.5,
+        "lead_silence": 0.06,
+        "silences": [
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.937
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s020": {
+      "heard": "In 2022, claims and costs ate almost every dollar Progressive collected.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 18,
+        "rate": 3.37,
+        "wpm": 123.6,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Progressive"
+      ],
+      "attempts": []
+    },
+    "s021": {
+      "heard": "Then, prices kept rising, while repair costs stopped racing ahead. In 2025, Progressive spent about 88 cents of every dollar. It kept 12.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 36,
+        "rate": 3.25,
+        "wpm": 124.8,
+        "lead_silence": 0.06,
+        "silences": [
+          0.26,
+          0.46,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.916
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Progressive"
+      ],
+      "attempts": []
+    },
+    "s022": {
+      "heard": "Its own target was 4 cents. It kept 3 times that.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 13,
+        "rate": 3.17,
+        "wpm": 161.0,
+        "lead_silence": 0.02,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -16.2,
+        "peak": 0.923
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s023": {
+      "heard": "On 83 billion dollars of premiums, that difference is billions.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 18,
+        "rate": 3.66,
+        "wpm": 122.0,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.891
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s024": {
+      "heard": "That's the part of your bill that wasn't about repairs. Prices went up to catch costs. Then, they stayed up after the costs calmed down.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 3.42,
+        "wpm": 171.2,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36,
+          0.32,
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.917
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s025": {
+      "heard": "So what do you do with a windfall like that? Progressive spent it on getting more of you.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 4.38,
+        "wpm": 215.1,
+        "lead_silence": 0.0,
+        "silences": [
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.0,
+        "peak": 0.891
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s026": {
+      "heard": "In the first 6 months of 2025 alone, it spent about $2.4 billion on advertising, the most in its history.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 31,
+        "rate": 3.75,
+        "wpm": 167.1,
+        "lead_silence": 0.02,
+        "silences": [
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.931
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s028": {
+      "heard": "Its most famous salesperson is Flo. In 2020, David Rubenstein asked whether Flo gets a cut of the business she brings in.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 3.89,
+        "wpm": 160.6,
+        "lead_silence": 0.08,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.927
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "David Rubenstein",
+        "Flo"
+      ],
+      "attempts": []
+    },
+    "s030": {
+      "heard": "It worked! While rivals were still raising prices to catch up, Progressive was ready to take their customers. Its policies grew 10% in a year to $38.6 million.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 46,
+        "rate": 3.92,
+        "wpm": 158.4,
+        "lead_silence": 0.06,
+        "silences": [
+          0.42,
+          0.4
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.924
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Progressive"
+      ],
+      "attempts": []
+    },
+    "s031": {
+      "heard": "And it picked the best of them. Its Snapshot app tracks how you drive and rewards careful drivers.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 4.04,
+        "wpm": 181.8,
+        "lead_silence": 0.06,
+        "silences": [
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.954
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Snapshot"
+      ],
+      "attempts": []
+    },
+    "s034": {
+      "heard": "If the careful drivers come to you, your claims fall. The riskier drivers end up with insurers who don't measure as closely.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 32,
+        "rate": 4.24,
+        "wpm": 175.1,
+        "lead_silence": 0.02,
+        "silences": [
+          0.3,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.894
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s035": {
+      "heard": "Florida has an unusual law. If a car insurer's underwriting profit over three years runs well above what it told regulators to expect, it has to give the excess back.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 47,
+        "rate": 4.34,
+        "wpm": 166.4,
+        "lead_silence": 0.08,
+        "silences": [
+          0.36,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.904
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s036": {
+      "heard": "For 2023 to 2025, Progressive crossed that line. It's returning around $950 million to about 2.7 million Florida drivers as credits.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 42,
+        "rate": 3.61,
+        "wpm": 139.4,
+        "lead_silence": 0.06,
+        "silences": [
+          0.28,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.897
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Florida",
+        "Progressive"
+      ],
+      "attempts": []
+    },
+    "s037": {
+      "heard": "About $300 each, on average.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 12,
+        "rate": 4.69,
+        "wpm": 164.1,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.884
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s038": {
+      "heard": "It's the clearest proof there is that prices ran ahead of costs.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 15,
+        "rate": 3.79,
+        "wpm": 181.8,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.0,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s039": {
+      "heard": "So how did progressive make 15 times more money in 3 years?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 17,
+        "rate": 4.29,
+        "wpm": 181.8,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.882
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Progressive"
+      ],
+      "attempts": []
+    },
+    "s040": {
+      "heard": "Your bill went up for a real reason. Cars got much more expensive to fix. Insurers chased those costs, and Progressive chased them first and hardest. Then the costs calmed down. The prices didn't. The gap became the biggest profit in the company's history.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 63,
+        "rate": 3.8,
+        "wpm": 159.4,
+        "lead_silence": 0.06,
+        "silences": [
+          0.38,
+          0.34,
+          0.34,
+          0.4,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Progressive"
+      ],
+      "attempts": []
+    },
+    "s041": {
+      "heard": "And instead of handing it back, outside Florida, it bought more customers with it.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 21,
+        "rate": 4.45,
+        "wpm": 178.0,
+        "lead_silence": 0.08,
+        "silences": [
+          0.26,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.889
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Florida"
+      ],
+      "attempts": []
+    },
+    "s042": {
+      "heard": "which means the cheapest insurer for you might be the one that's best at measuring you. And next time your renewal goes up, it's worth asking which of those two reasons you're paying for.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 43,
+        "rate": 4.29,
+        "wpm": 203.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.895
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s043": {
+      "heard": "If you'll never read your renewal letter the same way again, that's what this channel does. The economics nobody explains, one company at a time. Subscribe and you'll get the next one.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 47,
+        "rate": 4.28,
+        "wpm": 174.9,
+        "lead_silence": 0.02,
+        "silences": [
+          0.3,
+          0.3,
+          0.26,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.946
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "read"
+      ],
+      "attempts": []
+    }
+  }
+}

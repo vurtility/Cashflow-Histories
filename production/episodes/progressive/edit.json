@@ -1,0 +1,476 @@
+{
+ "s001": [
+  {
+   "k": "video",
+   "a": "tv_analyst24",
+   "from": 0,
+   "label": "Largest price rises in the US"
+  },
+  {
+   "at": "The biggest jump",
+   "k": "stat",
+   "kicker": "Car insurance prices, Dec 2023",
+   "value": "+20.3%",
+   "sub": "in a year · the biggest jump since 1976"
+  }
+ ],
+ "s002": [
+  {
+   "k": "photo",
+   "a": "logo_progressive",
+   "kb": "in"
+  },
+  {
+   "at": "In 2025",
+   "k": "cols",
+   "title": "Progressive net income",
+   "rows": [
+    {
+     "n": "2022",
+     "v": 722,
+     "label": "$722M"
+    },
+    {
+     "n": "2025",
+     "v": 11308,
+     "label": "$11.3B",
+     "hero": true
+    }
+   ],
+   "src": "Progressive annual reports"
+  }
+ ],
+ "s003": [
+  {
+   "k": "doc",
+   "title": "Progressive to return ~$950 million to Florida drivers",
+   "sub": "January 2026",
+   "lines": [
+    "Excess profits under Florida law"
+   ],
+   "hi": 0
+  }
+ ],
+ "s004": [
+  {
+   "k": "video",
+   "a": "tv_flo11",
+   "from": 4,
+   "focus": [
+    0.6,
+    0.12
+   ]
+  }
+ ],
+ "s005": [
+  {
+   "k": "photo",
+   "a": "pgr_office",
+   "kb": "in",
+   "label": "Progressive"
+  },
+  {
+   "at": "In 1965",
+   "k": "video",
+   "a": "tv_rubenstein20",
+   "from": 28
+  }
+ ],
+ "s006": [
+  {
+   "k": "video",
+   "a": "tv_snapshot12",
+   "from": 24
+  }
+ ],
+ "s007": [
+  {
+   "k": "stat",
+   "kicker": "Progressive's rule",
+   "value": "96¢",
+   "sub": "the most it spends of every $1 · keep 4¢, then grow"
+  }
+ ],
+ "s008": [
+  {
+   "k": "sot",
+   "a": "sot_griffith_req",
+   "name": "Tricia Griffith",
+   "role": "Progressive CEO · Bloomberg, Oct 2020"
+  }
+ ],
+ "s009": [
+  {
+   "k": "video",
+   "a": "tv_flo11",
+   "from": 12,
+   "focus": [
+    0.6,
+    0.12
+   ]
+  }
+ ],
+ "s010": [
+  {
+   "k": "photo",
+   "a": "bodyshop",
+   "kb": "in"
+  }
+ ],
+ "s011": [
+  {
+   "k": "photo",
+   "a": "bodyshop2",
+   "kb": "in"
+  },
+  {
+   "at": "Repair prices",
+   "k": "stat",
+   "kicker": "Car repair prices, June 2023",
+   "value": "+20%",
+   "sub": "in a year"
+  }
+ ],
+ "s012": [
+  {
+   "k": "video",
+   "a": "tv_analyst24",
+   "from": 12,
+   "label": "Andrew Kligerman, TD Cowen"
+  }
+ ],
+ "s013": [
+  {
+   "k": "video",
+   "a": "tv_analyst24",
+   "from": 44
+  },
+  {
+   "at": "Progressive's profit",
+   "k": "stat",
+   "kicker": "Progressive, 2022",
+   "value": "$722M",
+   "sub": "net income"
+  }
+ ],
+ "s014": [
+  {
+   "k": "video",
+   "a": "tv_analyst24",
+   "from": 2
+  }
+ ],
+ "s015": [
+  {
+   "k": "sot",
+   "a": "sot_soaring_2024",
+   "name": "CNBC",
+   "role": "Power Lunch · Mar 2024"
+  }
+ ],
+ "s016": [
+  {
+   "k": "video",
+   "a": "tv_analyst24",
+   "from": 68
+  }
+ ],
+ "s017": [
+  {
+   "k": "text",
+   "text": "THEY WERE ABOUT TO."
+  }
+ ],
+ "s018": [
+  {
+   "k": "cols",
+   "title": "Progressive net income",
+   "rows": [
+    {
+     "n": "2022",
+     "v": 722,
+     "label": "$722M"
+    },
+    {
+     "n": "2023",
+     "v": 3903,
+     "label": "$3.9B"
+    },
+    {
+     "n": "2024",
+     "v": 8480,
+     "label": "$8.5B"
+    },
+    {
+     "n": "2025",
+     "v": 11308,
+     "label": "$11.3B",
+     "hero": true
+    }
+   ],
+   "src": "Progressive annual reports"
+  }
+ ],
+ "s019": [
+  {
+   "k": "text",
+   "text": "ONE DOLLAR",
+   "sub": "simplified example"
+  }
+ ],
+ "s020": [
+  {
+   "k": "video",
+   "a": "tv_analyst24",
+   "from": 48,
+   "label": "2022: claims and costs ate almost every $1"
+  }
+ ],
+ "s021": [
+  {
+   "k": "video",
+   "a": "tv_griffith23",
+   "from": 24
+  },
+  {
+   "at": "In 2025",
+   "k": "stat",
+   "kicker": "2025",
+   "value": "12¢",
+   "sub": "kept, of every $1 · spent ~88¢"
+  }
+ ],
+ "s022": [
+  {
+   "k": "cols",
+   "title": "Kept per $1 of premium",
+   "rows": [
+    {
+     "n": "Target",
+     "v": 4,
+     "label": "4¢"
+    },
+    {
+     "n": "2025",
+     "v": 12,
+     "label": "12¢",
+     "hero": true
+    }
+   ],
+   "src": "Progressive · combined ratio ~88"
+  }
+ ],
+ "s023": [
+  {
+   "k": "video",
+   "a": "tv_griffith23",
+   "from": 40,
+   "label": "Net premiums written, 2025: $83.2B"
+  }
+ ],
+ "s024": [
+  {
+   "k": "photo",
+   "a": "bodyshop",
+   "kb": "out",
+   "treat": "ink"
+  }
+ ],
+ "s025": [
+  {
+   "k": "video",
+   "a": "tv_flo11",
+   "from": 16,
+   "focus": [
+    0.6,
+    0.12
+   ]
+  }
+ ],
+ "s026": [
+  {
+   "k": "video",
+   "a": "tv_snapshot12",
+   "from": 16
+  },
+  {
+   "at": "it spent about",
+   "k": "stat",
+   "kicker": "Progressive advertising, H1 2025",
+   "value": "~$2.4B",
+   "sub": "the most in its history"
+  }
+ ],
+ "s027": [
+  {
+   "k": "sot",
+   "a": "sot_griffith_ads",
+   "name": "Tricia Griffith",
+   "role": "Progressive CEO · Bloomberg, Oct 2020"
+  }
+ ],
+ "s028": [
+  {
+   "k": "video",
+   "a": "tv_flo11",
+   "from": 8,
+   "label": "Flo",
+   "focus": [
+    0.6,
+    0.12
+   ]
+  },
+  {
+   "at": "In 2020",
+   "k": "video",
+   "a": "tv_rubenstein20",
+   "from": 44,
+   "label": "David Rubenstein"
+  }
+ ],
+ "s029": [
+  {
+   "k": "sot",
+   "a": "sot_griffith_flo",
+   "name": "Tricia Griffith",
+   "role": "Progressive CEO · Bloomberg, Oct 2020"
+  }
+ ],
+ "s030": [
+  {
+   "k": "video",
+   "a": "tv_griffith23",
+   "from": 2,
+   "label": "Tricia Griffith, CEO"
+  },
+  {
+   "at": "Its policies grew",
+   "k": "stat",
+   "kicker": "Progressive policies in force, 2025",
+   "value": "38.6M",
+   "sub": "up 10% in a year"
+  }
+ ],
+ "s031": [
+  {
+   "k": "video",
+   "a": "tv_tracking24",
+   "from": 12
+  }
+ ],
+ "s032": [
+  {
+   "k": "sot",
+   "a": "sot_snapshot_ad",
+   "name": "Progressive",
+   "role": "Snapshot ad as aired · 2012"
+  }
+ ],
+ "s033": [
+  {
+   "k": "sot",
+   "a": "sot_tracking_2024",
+   "name": "NBC Today",
+   "role": "Oct 2024"
+  }
+ ],
+ "s034": [
+  {
+   "k": "video",
+   "a": "tv_tracking24",
+   "from": 20
+  },
+  {
+   "at": "The riskier drivers",
+   "k": "photo",
+   "a": "bodyshop2",
+   "kb": "out"
+  }
+ ],
+ "s035": [
+  {
+   "k": "photo",
+   "a": "pgr_office",
+   "kb": "out",
+   "label": "Florida's excess-profit law"
+  }
+ ],
+ "s036": [
+  {
+   "k": "doc",
+   "title": "Progressive to begin issuing credits related to Florida excess profits",
+   "sub": "Progressive, 14 January 2026",
+   "lines": [
+    "~$950 million · ~2.7 million policyholders"
+   ],
+   "hi": 0
+  }
+ ],
+ "s037": [
+  {
+   "k": "stat",
+   "kicker": "Florida refund",
+   "value": "~$300",
+   "sub": "per policyholder, on average"
+  }
+ ],
+ "s038": [
+  {
+   "k": "text",
+   "text": "PRICES RAN AHEAD OF COSTS."
+  }
+ ],
+ "s039": [
+  {
+   "k": "video",
+   "a": "tv_flo11",
+   "from": 20,
+   "focus": [
+    0.6,
+    0.12
+   ]
+  }
+ ],
+ "s040": [
+  {
+   "k": "photo",
+   "a": "bodyshop",
+   "kb": "in"
+  },
+  {
+   "at": "Then the costs",
+   "k": "video",
+   "a": "tv_griffith23",
+   "from": 44
+  }
+ ],
+ "s041": [
+  {
+   "k": "video",
+   "a": "tv_snapshot12",
+   "from": 20
+  }
+ ],
+ "s042": [
+  {
+   "k": "video",
+   "a": "tv_tracking24",
+   "from": 16
+  },
+  {
+   "at": "And next time",
+   "k": "video",
+   "a": "tv_flo11",
+   "from": 28,
+   "focus": [
+    0.6,
+    0.12
+   ]
+  }
+ ],
+ "s043": [
+  {
+   "k": "end"
+  }
+ ]
+}

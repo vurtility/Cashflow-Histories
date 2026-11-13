@@ -1,0 +1,1239 @@
+{
+ "fps": 30,
+ "durationInFrames": 10412,
+ "episode": "progressive",
+ "print": "007",
+ "vo": [
+  {
+   "src": "progressive/vo/s001.mp3",
+   "from": 0,
+   "trim": 2,
+   "len": 294
+  },
+  {
+   "src": "progressive/vo/s002.mp3",
+   "from": 299,
+   "trim": 1,
+   "len": 371
+  },
+  {
+   "src": "progressive/vo/s003.mp3",
+   "from": 676,
+   "trim": 0,
+   "len": 187
+  },
+  {
+   "src": "progressive/vo/s004.mp3",
+   "from": 868,
+   "trim": 1,
+   "len": 206
+  },
+  {
+   "src": "progressive/vo/s005.mp3",
+   "from": 1094,
+   "trim": 0,
+   "len": 424
+  },
+  {
+   "src": "progressive/vo/s006.mp3",
+   "from": 1524,
+   "trim": 2,
+   "len": 236
+  },
+  {
+   "src": "progressive/vo/s007.mp3",
+   "from": 1765,
+   "trim": 2,
+   "len": 303
+  },
+  {
+   "src": "progressive/vo/s009.mp3",
+   "from": 2248,
+   "trim": 1,
+   "len": 134
+  },
+  {
+   "src": "progressive/vo/s010.mp3",
+   "from": 2396,
+   "trim": 0,
+   "len": 152
+  },
+  {
+   "src": "progressive/vo/s011.mp3",
+   "from": 2553,
+   "trim": 0,
+   "len": 360
+  },
+  {
+   "src": "progressive/vo/s012.mp3",
+   "from": 2918,
+   "trim": 1,
+   "len": 224
+  },
+  {
+   "src": "progressive/vo/s013.mp3",
+   "from": 3147,
+   "trim": 1,
+   "len": 286
+  },
+  {
+   "src": "progressive/vo/s014.mp3",
+   "from": 3439,
+   "trim": 3,
+   "len": 255
+  },
+  {
+   "src": "progressive/vo/s016.mp3",
+   "from": 4107,
+   "trim": 0,
+   "len": 112
+  },
+  {
+   "src": "progressive/vo/s017.mp3",
+   "from": 4228,
+   "trim": 1,
+   "len": 38
+  },
+  {
+   "src": "progressive/vo/s018.mp3",
+   "from": 4286,
+   "trim": 0,
+   "len": 313
+  },
+  {
+   "src": "progressive/vo/s019.mp3",
+   "from": 4607,
+   "trim": 1,
+   "len": 75
+  },
+  {
+   "src": "progressive/vo/s020.mp3",
+   "from": 4688,
+   "trim": 1,
+   "len": 166
+  },
+  {
+   "src": "progressive/vo/s021.mp3",
+   "from": 4860,
+   "trim": 1,
+   "len": 338
+  },
+  {
+   "src": "progressive/vo/s022.mp3",
+   "from": 5203,
+   "trim": 0,
+   "len": 129
+  },
+  {
+   "src": "progressive/vo/s023.mp3",
+   "from": 5337,
+   "trim": 0,
+   "len": 153
+  },
+  {
+   "src": "progressive/vo/s024.mp3",
+   "from": 5505,
+   "trim": 1,
+   "len": 255
+  },
+  {
+   "src": "progressive/vo/s025.mp3",
+   "from": 5775,
+   "trim": 0,
+   "len": 156
+  },
+  {
+   "src": "progressive/vo/s026.mp3",
+   "from": 5936,
+   "trim": 0,
+   "len": 253
+  },
+  {
+   "src": "progressive/vo/s028.mp3",
+   "from": 6402,
+   "trim": 2,
+   "len": 252
+  },
+  {
+   "src": "progressive/vo/s030.mp3",
+   "from": 6836,
+   "trim": 1,
+   "len": 359
+  },
+  {
+   "src": "progressive/vo/s031.mp3",
+   "from": 7201,
+   "trim": 1,
+   "len": 184
+  },
+  {
+   "src": "progressive/vo/s034.mp3",
+   "from": 7751,
+   "trim": 0,
+   "len": 232
+  },
+  {
+   "src": "progressive/vo/s035.mp3",
+   "from": 8004,
+   "trim": 2,
+   "len": 331
+  },
+  {
+   "src": "progressive/vo/s036.mp3",
+   "from": 8340,
+   "trim": 2,
+   "len": 355
+  },
+  {
+   "src": "progressive/vo/s037.mp3",
+   "from": 8703,
+   "trim": 2,
+   "len": 82
+  },
+  {
+   "src": "progressive/vo/s038.mp3",
+   "from": 8794,
+   "trim": 0,
+   "len": 125
+  },
+  {
+   "src": "progressive/vo/s039.mp3",
+   "from": 8940,
+   "trim": 0,
+   "len": 125
+  },
+  {
+   "src": "progressive/vo/s040.mp3",
+   "from": 9076,
+   "trim": 1,
+   "len": 503
+  },
+  {
+   "src": "progressive/vo/s041.mp3",
+   "from": 9585,
+   "trim": 2,
+   "len": 148
+  },
+  {
+   "src": "progressive/vo/s042.mp3",
+   "from": 9738,
+   "trim": 0,
+   "len": 307
+  },
+  {
+   "src": "progressive/vo/s043.mp3",
+   "from": 10051,
+   "trim": 0,
+   "len": 335
+  }
+ ],
+ "shots": [
+  {
+   "kind": "video",
+   "start": 0,
+   "dur": 207,
+   "seg": "s001",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_analyst24",
+     "src": "progressive/assets/tv_analyst24.mp4",
+     "credit": "CNBC Power Lunch, 14 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 0.0,
+    "label": "Largest price rises in the US"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 207,
+   "dur": 92,
+   "seg": "s001",
+   "cat": "charts",
+   "p": {
+    "kicker": "Car insurance prices, Dec 2023",
+    "value": "+20.3%",
+    "sub": "in a year · the biggest jump since 1976"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 299,
+   "dur": 155,
+   "seg": "s002",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "logo_progressive",
+     "src": "progressive/assets/logo_progressive.png",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1920,
+     "h": 233
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 454,
+   "dur": 222,
+   "seg": "s002",
+   "cat": "charts",
+   "p": {
+    "title": "Progressive net income",
+    "rows": [
+     {
+      "n": "2022",
+      "v": 722,
+      "label": "$722M"
+     },
+     {
+      "n": "2025",
+      "v": 11308,
+      "label": "$11.3B",
+      "hero": true
+     }
+    ],
+    "src": "Progressive annual reports"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 676,
+   "dur": 192,
+   "seg": "s003",
+   "cat": "docs",
+   "p": {
+    "title": "Progressive to return ~$950 million to Florida drivers",
+    "sub": "January 2026",
+    "lines": [
+     "Excess profits under Florida law"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 868,
+   "dur": 226,
+   "seg": "s004",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_flo11",
+     "src": "progressive/assets/tv_flo11.mp4",
+     "credit": "Progressive ad as aired, Jan 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 4.0,
+    "focus": [
+     0.6,
+     0.12
+    ]
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1094,
+   "dur": 99,
+   "seg": "s005",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "pgr_office",
+     "src": "progressive/assets/pgr_office.jpg",
+     "credit": "Michael Rivera · Wikimedia Commons · CC BY-SA 3.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "in",
+    "label": "Progressive"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1193,
+   "dur": 331,
+   "seg": "s005",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_rubenstein20",
+     "src": "progressive/assets/tv_rubenstein20.mp4",
+     "credit": "Bloomberg, The David Rubenstein Show, Oct 2020 · TV News Archive",
+     "kind": "video",
+     "w": 858,
+     "h": 480
+    },
+    "from": 28.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 1524,
+   "dur": 241,
+   "seg": "s006",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_snapshot12",
+     "src": "progressive/assets/tv_snapshot12.mp4",
+     "credit": "Progressive Snapshot ad as aired, Feb 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 24.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 1765,
+   "dur": 307,
+   "seg": "s007",
+   "cat": "charts",
+   "p": {
+    "kicker": "Progressive's rule",
+    "value": "96¢",
+    "sub": "the most it spends of every $1 · keep 4¢, then grow"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 2072,
+   "dur": 176,
+   "seg": "s008",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_griffith_req",
+     "src": "progressive/assets/sot_griffith_req.mp4",
+     "credit": "Bloomberg, The David Rubenstein Show, Oct 2020 · TV News Archive",
+     "kind": "video",
+     "w": 858,
+     "h": 480
+    },
+    "name": "Tricia Griffith",
+    "role": "Progressive CEO · Bloomberg, Oct 2020",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2248,
+   "dur": 148,
+   "seg": "s009",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_flo11",
+     "src": "progressive/assets/tv_flo11.mp4",
+     "credit": "Progressive ad as aired, Jan 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 12.0,
+    "focus": [
+     0.6,
+     0.12
+    ]
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 2396,
+   "dur": 157,
+   "seg": "s010",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "bodyshop",
+     "src": "progressive/assets/bodyshop.jpg",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 960,
+     "h": 720
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 2553,
+   "dur": 269,
+   "seg": "s011",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "bodyshop2",
+     "src": "progressive/assets/bodyshop2.jpg",
+     "credit": "Ser Amantio di Nicolao · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 2822,
+   "dur": 96,
+   "seg": "s011",
+   "cat": "charts",
+   "p": {
+    "kicker": "Car repair prices, June 2023",
+    "value": "+20%",
+    "sub": "in a year"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2918,
+   "dur": 229,
+   "seg": "s012",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_analyst24",
+     "src": "progressive/assets/tv_analyst24.mp4",
+     "credit": "CNBC Power Lunch, 14 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 12.0,
+    "label": "Andrew Kligerman, TD Cowen"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3147,
+   "dur": 145,
+   "seg": "s013",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_analyst24",
+     "src": "progressive/assets/tv_analyst24.mp4",
+     "credit": "CNBC Power Lunch, 14 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 44.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 3292,
+   "dur": 147,
+   "seg": "s013",
+   "cat": "charts",
+   "p": {
+    "kicker": "Progressive, 2022",
+    "value": "$722M",
+    "sub": "net income"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 3439,
+   "dur": 258,
+   "seg": "s014",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_analyst24",
+     "src": "progressive/assets/tv_analyst24.mp4",
+     "credit": "CNBC Power Lunch, 14 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 2.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 3697,
+   "dur": 410,
+   "seg": "s015",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_soaring_2024",
+     "src": "progressive/assets/sot_soaring_2024.mp4",
+     "credit": "CNBC Power Lunch, 14 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "CNBC",
+    "role": "Power Lunch · Mar 2024",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4107,
+   "dur": 121,
+   "seg": "s016",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_analyst24",
+     "src": "progressive/assets/tv_analyst24.mp4",
+     "credit": "CNBC Power Lunch, 14 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 68.0
+   }
+  },
+  {
+   "kind": "text",
+   "start": 4228,
+   "dur": 58,
+   "seg": "s017",
+   "cat": "text",
+   "p": {
+    "text": "THEY WERE ABOUT TO."
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 4286,
+   "dur": 321,
+   "seg": "s018",
+   "cat": "charts",
+   "p": {
+    "title": "Progressive net income",
+    "rows": [
+     {
+      "n": "2022",
+      "v": 722,
+      "label": "$722M"
+     },
+     {
+      "n": "2023",
+      "v": 3903,
+      "label": "$3.9B"
+     },
+     {
+      "n": "2024",
+      "v": 8480,
+      "label": "$8.5B"
+     },
+     {
+      "n": "2025",
+      "v": 11308,
+      "label": "$11.3B",
+      "hero": true
+     }
+    ],
+    "src": "Progressive annual reports"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 4607,
+   "dur": 81,
+   "seg": "s019",
+   "cat": "text",
+   "p": {
+    "text": "ONE DOLLAR",
+    "sub": "simplified example"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4688,
+   "dur": 172,
+   "seg": "s020",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_analyst24",
+     "src": "progressive/assets/tv_analyst24.mp4",
+     "credit": "CNBC Power Lunch, 14 Mar 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 48.0,
+    "label": "2022: claims and costs ate almost every $1"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4860,
+   "dur": 152,
+   "seg": "s021",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_griffith23",
+     "src": "progressive/assets/tv_griffith23.mp4",
+     "credit": "CNBC Squawk on the Street, 8 Nov 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 24.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 5012,
+   "dur": 191,
+   "seg": "s021",
+   "cat": "charts",
+   "p": {
+    "kicker": "2025",
+    "value": "12¢",
+    "sub": "kept, of every $1 · spent ~88¢"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 5203,
+   "dur": 134,
+   "seg": "s022",
+   "cat": "charts",
+   "p": {
+    "title": "Kept per $1 of premium",
+    "rows": [
+     {
+      "n": "Target",
+      "v": 4,
+      "label": "4¢"
+     },
+     {
+      "n": "2025",
+      "v": 12,
+      "label": "12¢",
+      "hero": true
+     }
+    ],
+    "src": "Progressive · combined ratio ~88"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5337,
+   "dur": 168,
+   "seg": "s023",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_griffith23",
+     "src": "progressive/assets/tv_griffith23.mp4",
+     "credit": "CNBC Squawk on the Street, 8 Nov 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 40.0,
+    "label": "Net premiums written, 2025: $83.2B"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 5505,
+   "dur": 270,
+   "seg": "s024",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "bodyshop",
+     "src": "progressive/assets/bodyshop.jpg",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 960,
+     "h": 720
+    },
+    "kb": "out",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5775,
+   "dur": 161,
+   "seg": "s025",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_flo11",
+     "src": "progressive/assets/tv_flo11.mp4",
+     "credit": "Progressive ad as aired, Jan 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 16.0,
+    "focus": [
+     0.6,
+     0.12
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5936,
+   "dur": 91,
+   "seg": "s026",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_snapshot12",
+     "src": "progressive/assets/tv_snapshot12.mp4",
+     "credit": "Progressive Snapshot ad as aired, Feb 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 6027,
+   "dur": 167,
+   "seg": "s026",
+   "cat": "charts",
+   "p": {
+    "kicker": "Progressive advertising, H1 2025",
+    "value": "~$2.4B",
+    "sub": "the most in its history"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 6194,
+   "dur": 208,
+   "seg": "s027",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_griffith_ads",
+     "src": "progressive/assets/sot_griffith_ads.mp4",
+     "credit": "Bloomberg, The David Rubenstein Show, Oct 2020 · TV News Archive",
+     "kind": "video",
+     "w": 858,
+     "h": 480
+    },
+    "name": "Tricia Griffith",
+    "role": "Progressive CEO · Bloomberg, Oct 2020",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6402,
+   "dur": 87,
+   "seg": "s028",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_flo11",
+     "src": "progressive/assets/tv_flo11.mp4",
+     "credit": "Progressive ad as aired, Jan 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 8.0,
+    "label": "Flo",
+    "focus": [
+     0.6,
+     0.12
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6489,
+   "dur": 169,
+   "seg": "s028",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_rubenstein20",
+     "src": "progressive/assets/tv_rubenstein20.mp4",
+     "credit": "Bloomberg, The David Rubenstein Show, Oct 2020 · TV News Archive",
+     "kind": "video",
+     "w": 858,
+     "h": 480
+    },
+    "from": 44.0,
+    "label": "David Rubenstein"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 6658,
+   "dur": 178,
+   "seg": "s029",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_griffith_flo",
+     "src": "progressive/assets/sot_griffith_flo.mp4",
+     "credit": "Bloomberg, The David Rubenstein Show, Oct 2020 · TV News Archive",
+     "kind": "video",
+     "w": 858,
+     "h": 480
+    },
+    "name": "Tricia Griffith",
+    "role": "Progressive CEO · Bloomberg, Oct 2020",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6836,
+   "dur": 218,
+   "seg": "s030",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_griffith23",
+     "src": "progressive/assets/tv_griffith23.mp4",
+     "credit": "CNBC Squawk on the Street, 8 Nov 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 2.0,
+    "label": "Tricia Griffith, CEO"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 7054,
+   "dur": 147,
+   "seg": "s030",
+   "cat": "charts",
+   "p": {
+    "kicker": "Progressive policies in force, 2025",
+    "value": "38.6M",
+    "sub": "up 10% in a year"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7201,
+   "dur": 187,
+   "seg": "s031",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_tracking24",
+     "src": "progressive/assets/tv_tracking24.mp4",
+     "credit": "NBC Today, 9 Oct 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 7388,
+   "dur": 116,
+   "seg": "s032",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_snapshot_ad",
+     "src": "progressive/assets/sot_snapshot_ad.mp4",
+     "credit": "Progressive Snapshot ad as aired, Feb 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "name": "Progressive",
+    "role": "Snapshot ad as aired · 2012",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 7504,
+   "dur": 247,
+   "seg": "s033",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_tracking_2024",
+     "src": "progressive/assets/sot_tracking_2024.mp4",
+     "credit": "NBC Today, 9 Oct 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "NBC Today",
+    "role": "Oct 2024",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7751,
+   "dur": 112,
+   "seg": "s034",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_tracking24",
+     "src": "progressive/assets/tv_tracking24.mp4",
+     "credit": "NBC Today, 9 Oct 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 7863,
+   "dur": 141,
+   "seg": "s034",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "bodyshop2",
+     "src": "progressive/assets/bodyshop2.jpg",
+     "credit": "Ser Amantio di Nicolao · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 8004,
+   "dur": 336,
+   "seg": "s035",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "pgr_office",
+     "src": "progressive/assets/pgr_office.jpg",
+     "credit": "Michael Rivera · Wikimedia Commons · CC BY-SA 3.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "out",
+    "label": "Florida's excess-profit law"
+   }
+  },
+  {
+   "kind": "doc",
+   "start": 8340,
+   "dur": 363,
+   "seg": "s036",
+   "cat": "docs",
+   "p": {
+    "title": "Progressive to begin issuing credits related to Florida excess profits",
+    "sub": "Progressive, 14 January 2026",
+    "lines": [
+     "~$950 million · ~2.7 million policyholders"
+    ],
+    "hi": 0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 8703,
+   "dur": 91,
+   "seg": "s037",
+   "cat": "charts",
+   "p": {
+    "kicker": "Florida refund",
+    "value": "~$300",
+    "sub": "per policyholder, on average"
+   }
+  },
+  {
+   "kind": "text",
+   "start": 8794,
+   "dur": 146,
+   "seg": "s038",
+   "cat": "text",
+   "p": {
+    "text": "PRICES RAN AHEAD OF COSTS."
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8940,
+   "dur": 136,
+   "seg": "s039",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_flo11",
+     "src": "progressive/assets/tv_flo11.mp4",
+     "credit": "Progressive ad as aired, Jan 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 20.0,
+    "focus": [
+     0.6,
+     0.12
+    ]
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 9076,
+   "dur": 303,
+   "seg": "s040",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "bodyshop",
+     "src": "progressive/assets/bodyshop.jpg",
+     "credit": "Wikimedia Commons · CC0",
+     "kind": "image",
+     "w": 960,
+     "h": 720
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9379,
+   "dur": 206,
+   "seg": "s040",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_griffith23",
+     "src": "progressive/assets/tv_griffith23.mp4",
+     "credit": "CNBC Squawk on the Street, 8 Nov 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 44.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9585,
+   "dur": 153,
+   "seg": "s041",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_snapshot12",
+     "src": "progressive/assets/tv_snapshot12.mp4",
+     "credit": "Progressive Snapshot ad as aired, Feb 2012 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9738,
+   "dur": 156,
+   "seg": "s042",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_tracking24",
+     "src": "progressive/assets/tv_tracking24.mp4",
+     "credit": "NBC Today, 9 Oct 2024 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 16.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9894,
+   "dur": 157,
+   "seg": "s042",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_flo11",
+     "src": "progressive/assets/tv_flo11.mp4",
+     "credit": "Progressive ad as aired, Jan 2011 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 480
+    },
+    "from": 28.0,
+    "focus": [
+     0.6,
+     0.12
+    ]
+   }
+  },
+  {
+   "kind": "end",
+   "start": 10051,
+   "dur": 331,
+   "seg": "s043",
+   "cat": "text",
+   "p": {}
+  }
+ ],
+ "chapters": [
+  {
+   "name": "COLD OPEN",
+   "from": 0
+  },
+  {
+   "name": "1. FOUR CENTS",
+   "from": 1094
+  },
+  {
+   "name": "2. THE BILL",
+   "from": 2396
+  },
+  {
+   "name": "3. TWELVE CENTS",
+   "from": 4286
+  },
+  {
+   "name": "4. FLO",
+   "from": 5775
+  },
+  {
+   "name": "5. THE REFUND",
+   "from": 8004
+  },
+  {
+   "name": "VERDICT",
+   "from": 8940
+  }
+ ]
+}

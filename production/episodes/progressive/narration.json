@@ -1,0 +1,281 @@
+[
+  {
+    "id": "s001",
+    "chapter": "COLD OPEN",
+    "cue": "[BROLL: traffic, car insurance news]",
+    "text": "At the end of 2023, the price of car insurance in America was twenty percent higher than a year before. The biggest jump since 1976."
+  },
+  {
+    "id": "s002",
+    "chapter": "COLD OPEN",
+    "cue": "[GFX: \"Progressive net income: 2022 $722M → 2025 $11.3B\"]",
+    "text": "In 2022, Progressive made seven hundred and twenty-two million dollars. In 2025, it made eleven point three billion. Fifteen times as much, in three years."
+  },
+  {
+    "id": "s003",
+    "chapter": "COLD OPEN",
+    "cue": "[DOC: \"Progressive to return ~$950 million to Florida drivers\"]",
+    "text": "In Florida, it made so much that the law now forces it to give nearly a billion dollars back."
+  },
+  {
+    "id": "s004",
+    "chapter": "COLD OPEN",
+    "cue": "[VISUAL: title card]",
+    "text": "So how does a car insurer make fifteen times more money in three years? And what does it have to do with your bill?",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s005",
+    "chapter": "1. FOUR CENTS",
+    "cue": "[PHOTO: Progressive headquarters, Ohio]",
+    "text": "Progressive started in Cleveland in 1937. In 1965, Peter Lewis, the founder's son, borrowed to buy control of it, and built it on drivers other insurers turned away, priced by how risky they really were."
+  },
+  {
+    "id": "s006",
+    "chapter": "1. FOUR CENTS",
+    "cue": "[GFX: \"$1 of premium in → claims and costs out → what's left\"]",
+    "text": "Car insurance works like this. You pay a premium. The insurer pays claims and its own costs. Whatever's left is profit."
+  },
+  {
+    "id": "s007",
+    "chapter": "1. FOUR CENTS",
+    "cue": "[GFX: \"Progressive's rule: spend no more than 96¢ of every $1\"]",
+    "text": "Progressive has one famous rule: spend no more than ninety-six cents of every premium dollar. Keep four cents. Then grow as fast as possible."
+  },
+  {
+    "id": "s008",
+    "chapter": "1. FOUR CENTS",
+    "cue": "",
+    "text": "Tricia Griffith, Progressive CEO — \"It's just a really competitive industry, which is always odd because it's something you're required to have.\" | Bloomberg, Oct 2020",
+    "type": "sot",
+    "duration": 5.6
+  },
+  {
+    "id": "s009",
+    "chapter": "1. FOUR CENTS",
+    "cue": "[BROLL: Flo ad]",
+    "text": "And because everyone has to buy it, the fight is over who you buy it from.",
+    "pause_after": 0.6
+  },
+  {
+    "id": "s010",
+    "chapter": "2. THE BILL",
+    "cue": "[BROLL: body shop, damaged cars]",
+    "text": "Then, after the pandemic, everything about fixing a car got more expensive."
+  },
+  {
+    "id": "s011",
+    "chapter": "2. THE BILL",
+    "cue": "[GFX: \"Repair costs +20% in a year (June 2023)\"]",
+    "text": "Modern bumpers are full of sensors and cameras. A minor bump that once meant a bit of paint now means new parts and a recalibration. Repair prices rose about twenty percent in a year."
+  },
+  {
+    "id": "s012",
+    "chapter": "2. THE BILL",
+    "cue": "[GFX: \"Used car prices up ~40%+\"]",
+    "text": "Used cars, which insurers pay out when a car is written off, cost far more than before. So did mechanics."
+  },
+  {
+    "id": "s013",
+    "chapter": "2. THE BILL",
+    "cue": "[GFX: \"Progressive profit: 2021 → 2022 $722M\"]",
+    "text": "Insurers' prices were set for the old costs. They started losing money. Progressive's profit fell to seven hundred and twenty-two million dollars in 2022."
+  },
+  {
+    "id": "s014",
+    "chapter": "2. THE BILL",
+    "cue": "[GFX: \"Motor vehicle insurance prices: +20.3% (Dec 2023), the most since 1976\"]",
+    "text": "So they raised prices. Fast. By the end of 2023, car insurance cost twenty percent more than a year earlier."
+  },
+  {
+    "id": "s015",
+    "chapter": "2. THE BILL",
+    "cue": "",
+    "text": "CNBC anchor — \"The interesting thing is when we're looking at the car insurance rates soaring, and surely people who have to buy it have noticed, we have not seen necessarily commensurate earnings.\" | CNBC Power Lunch, 14 Mar 2024",
+    "type": "sot",
+    "duration": 13.4
+  },
+  {
+    "id": "s016",
+    "chapter": "2. THE BILL",
+    "cue": "[VISUAL: beat]",
+    "text": "In March 2024, the profits hadn't shown up yet.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "s017",
+    "chapter": "2. THE BILL",
+    "cue": "",
+    "text": "They were about to.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s018",
+    "chapter": "3. TWELVE CENTS",
+    "cue": "[GFX: \"Progressive net income: 2023 $3.9B · 2024 $8.5B · 2025 $11.3B\"]",
+    "text": "In 2023, Progressive made three point nine billion dollars. In 2024, eight point five. In 2025, eleven point three."
+  },
+  {
+    "id": "s019",
+    "chapter": "3. TWELVE CENTS",
+    "cue": "[VISUAL: \"Simplified example\"]",
+    "text": "Here's what happened, with one dollar."
+  },
+  {
+    "id": "s020",
+    "chapter": "3. TWELVE CENTS",
+    "cue": "[GFX: \"2022: $1 in → ~$1 out\"]",
+    "text": "In 2022, claims and costs ate almost every dollar Progressive collected."
+  },
+  {
+    "id": "s021",
+    "chapter": "3. TWELVE CENTS",
+    "cue": "[GFX: \"2025: $1 in → 88¢ out → 12¢ kept\"]",
+    "text": "Then prices kept rising, while repair costs stopped racing ahead. In 2025, Progressive spent about eighty-eight cents of every dollar. It kept twelve."
+  },
+  {
+    "id": "s022",
+    "chapter": "3. TWELVE CENTS",
+    "cue": "[GFX: \"Target 4¢ · kept 12¢ = 3×\"]",
+    "text": "Its own target was four cents. It kept three times that."
+  },
+  {
+    "id": "s023",
+    "chapter": "3. TWELVE CENTS",
+    "cue": "[GFX: \"Net premiums written, 2025: $83.2B\"]",
+    "text": "On eighty-three billion dollars of premiums, that difference is billions.",
+    "pause_after": 0.6
+  },
+  {
+    "id": "s024",
+    "chapter": "3. TWELVE CENTS",
+    "cue": "[BROLL: car insurance bill]",
+    "text": "That's the part of your bill that wasn't about repairs. Prices went up to catch costs. Then they stayed up after the costs calmed down.",
+    "pause_after": 0.6
+  },
+  {
+    "id": "s025",
+    "chapter": "4. FLO",
+    "cue": "[BROLL: Flo ad]",
+    "text": "So what do you do with a windfall like that? Progressive spent it on getting more of you."
+  },
+  {
+    "id": "s026",
+    "chapter": "4. FLO",
+    "cue": "[GFX: \"Advertising, first half of 2025: ~$2.4B (record)\"]",
+    "text": "In the first six months of 2025 alone, it spent about two point four billion dollars on advertising, the most in its history."
+  },
+  {
+    "id": "s027",
+    "chapter": "4. FLO",
+    "cue": "",
+    "text": "Tricia Griffith, Progressive CEO — \"But it is required, but it is so competitive that to be out there and be top of mind and be on the short list, you really have to be advertising.\" | Bloomberg, Oct 2020",
+    "type": "sot",
+    "duration": 6.7
+  },
+  {
+    "id": "s028",
+    "chapter": "4. FLO",
+    "cue": "[BROLL: David Rubenstein interview]",
+    "text": "Its most famous salesperson is Flo. In 2020, David Rubenstein asked whether Flo gets a cut of the business she brings in."
+  },
+  {
+    "id": "s029",
+    "chapter": "4. FLO",
+    "cue": "",
+    "text": "Tricia Griffith, Progressive CEO — \"No, she does not have that deal. She is paid per her contract and she's doing fine.\" | Bloomberg, Oct 2020",
+    "type": "sot",
+    "duration": 5.7
+  },
+  {
+    "id": "s030",
+    "chapter": "4. FLO",
+    "cue": "[GFX: \"Policies in force: 35.0M → 38.6M (2025, +10%)\"]",
+    "text": "It worked. While rivals were still raising prices to catch up, Progressive was ready to take their customers. Its policies grew ten percent in a year, to thirty-eight point six million."
+  },
+  {
+    "id": "s031",
+    "chapter": "4. FLO",
+    "cue": "[BROLL: Snapshot ad]",
+    "text": "And it picked the best of them. Its Snapshot app tracks how you drive, and rewards careful drivers."
+  },
+  {
+    "id": "s032",
+    "chapter": "4. FLO",
+    "cue": "",
+    "text": "Progressive Snapshot ad — \"The better I drive, the more I save.\" / \"I wish our company had something this cool.\" | Progressive ad as aired, 2012",
+    "type": "sot",
+    "duration": 3.6
+  },
+  {
+    "id": "s033",
+    "chapter": "4. FLO",
+    "cue": "",
+    "text": "NBC Today reporter — \"Car insurance rates are soaring, and so people are looking for ways to save. And one of those ways is by using safe driving programs which track your movements.\" | NBC Today, 9 Oct 2024",
+    "type": "sot",
+    "duration": 8.0
+  },
+  {
+    "id": "s034",
+    "chapter": "4. FLO",
+    "cue": "[GFX: \"Careful drivers → Progressive · risky drivers → whoever's left\"]",
+    "text": "If the careful drivers come to you, your claims fall. The riskier drivers end up with insurers who don't measure as closely.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s035",
+    "chapter": "5. THE REFUND",
+    "cue": "[BROLL: Florida]",
+    "text": "Florida has an unusual law. If a car insurer's underwriting profit over three years runs well above what it told regulators to expect, it has to give the excess back."
+  },
+  {
+    "id": "s036",
+    "chapter": "5. THE REFUND",
+    "cue": "[DOC: \"Progressive to issue ~$950M in credits to Florida policyholders\" · Jan 2026]",
+    "text": "For 2023 to 2025, Progressive crossed that line. It's returning around nine hundred and fifty million dollars to about two point seven million Florida drivers, as credits."
+  },
+  {
+    "id": "s037",
+    "chapter": "5. THE REFUND",
+    "cue": "[GFX: \"~$300 per policyholder, on average\"]",
+    "text": "About three hundred dollars each, on average.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "s038",
+    "chapter": "5. THE REFUND",
+    "cue": "",
+    "text": "It's the clearest proof there is that prices ran ahead of costs.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s039",
+    "chapter": "VERDICT",
+    "cue": "[VISUAL: title card]",
+    "text": "So how did Progressive make fifteen times more money in three years?"
+  },
+  {
+    "id": "s040",
+    "chapter": "VERDICT",
+    "cue": "[GFX: the sequence: \"costs jump → prices jump → costs calm → prices stay → profit\"]",
+    "text": "Your bill went up for a real reason: cars got much more expensive to fix. Insurers chased those costs, and Progressive chased them first and hardest. Then the costs calmed down. The prices didn't. The gap became the biggest profit in the company's history."
+  },
+  {
+    "id": "s041",
+    "chapter": "VERDICT",
+    "cue": "[BROLL: Flo ad]",
+    "text": "And instead of handing it back, outside Florida, it bought more customers with it."
+  },
+  {
+    "id": "s042",
+    "chapter": "VERDICT",
+    "cue": "[BROLL: traffic]",
+    "text": "Which means the cheapest insurer for you might be the one that's best at measuring you. And next time your renewal goes up, it's worth asking which of those two reasons you're paying for."
+  },
+  {
+    "id": "s043",
+    "chapter": "VERDICT",
+    "cue": "[END CARD]",
+    "text": "If you'll never read your renewal letter the same way again, that's what this channel does: the economics nobody explains, one company at a time. Subscribe, and you'll get the next one."
+  }
+]
