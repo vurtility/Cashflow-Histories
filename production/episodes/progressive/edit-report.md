@@ -16,15 +16,15 @@
 
 ## Most-used sources (seconds on screen)
 
-- tv_analyst24: 37.8s · fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen
+- tv_analyst24: 32.0s · fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen
 - tv_flo11: 30.5s · fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen
 - tv_griffith23: 24.8s · fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen
 - bodyshop: 24.3s · licence: CC0
+- bodyshop2: 19.4s · licence: CC BY-SA 4.0
 - tv_rubenstein20: 16.6s · fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen
 - tv_snapshot12: 16.2s · fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen
 - tv_tracking24: 15.2s · fair use: a few seconds of news b-roll or advertising at a time, used to illustrate commentary on car insurance pricing; transformed by narration and analysis, credited on screen
 - pgr_office: 14.5s · licence: CC BY-SA 3.0
-- bodyshop2: 13.7s · licence: CC BY-SA 4.0
 - sot_soaring_2024: 13.6s · fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast
 - sot_tracking_2024: 8.2s · fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast
 - sot_griffith_ads: 6.9s · fair use: short excerpt (under 15s) of a news report, interview or advert, used as a sourced quotation for commentary and criticism, transformed by narration and analysis; not a substitute for the broadcast

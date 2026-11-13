@@ -1,0 +1,1195 @@
+{
+ "fps": 30,
+ "durationInFrames": 9707,
+ "episode": "costco",
+ "print": "008",
+ "vo": [
+  {
+   "src": "costco/vo/s001.mp3",
+   "from": 0,
+   "trim": 1,
+   "len": 236
+  },
+  {
+   "src": "costco/vo/s002.mp3",
+   "from": 241,
+   "trim": 2,
+   "len": 196
+  },
+  {
+   "src": "costco/vo/s003.mp3",
+   "from": 443,
+   "trim": 2,
+   "len": 171
+  },
+  {
+   "src": "costco/vo/s004.mp3",
+   "from": 620,
+   "trim": 1,
+   "len": 208
+  },
+  {
+   "src": "costco/vo/s005.mp3",
+   "from": 839,
+   "trim": 0,
+   "len": 110
+  },
+  {
+   "src": "costco/vo/s006.mp3",
+   "from": 969,
+   "trim": 0,
+   "len": 186
+  },
+  {
+   "src": "costco/vo/s008.mp3",
+   "from": 1397,
+   "trim": 1,
+   "len": 480
+  },
+  {
+   "src": "costco/vo/s009.mp3",
+   "from": 1883,
+   "trim": 2,
+   "len": 360
+  },
+  {
+   "src": "costco/vo/s010.mp3",
+   "from": 2248,
+   "trim": 1,
+   "len": 226
+  },
+  {
+   "src": "costco/vo/s011.mp3",
+   "from": 2495,
+   "trim": 0,
+   "len": 56
+  },
+  {
+   "src": "costco/vo/s012.mp3",
+   "from": 2556,
+   "trim": 2,
+   "len": 428
+  },
+  {
+   "src": "costco/vo/s013.mp3",
+   "from": 2989,
+   "trim": 1,
+   "len": 214
+  },
+  {
+   "src": "costco/vo/s014.mp3",
+   "from": 3208,
+   "trim": 0,
+   "len": 190
+  },
+  {
+   "src": "costco/vo/s016.mp3",
+   "from": 3653,
+   "trim": 0,
+   "len": 264
+  },
+  {
+   "src": "costco/vo/s017.mp3",
+   "from": 3923,
+   "trim": 2,
+   "len": 217
+  },
+  {
+   "src": "costco/vo/s019.mp3",
+   "from": 4601,
+   "trim": 0,
+   "len": 218
+  },
+  {
+   "src": "costco/vo/s020.mp3",
+   "from": 4840,
+   "trim": 0,
+   "len": 30
+  },
+  {
+   "src": "costco/vo/s021.mp3",
+   "from": 4880,
+   "trim": 0,
+   "len": 221
+  },
+  {
+   "src": "costco/vo/s022.mp3",
+   "from": 5106,
+   "trim": 0,
+   "len": 107
+  },
+  {
+   "src": "costco/vo/s023.mp3",
+   "from": 5219,
+   "trim": 0,
+   "len": 170
+  },
+  {
+   "src": "costco/vo/s025.mp3",
+   "from": 5745,
+   "trim": 0,
+   "len": 338
+  },
+  {
+   "src": "costco/vo/s026.mp3",
+   "from": 6091,
+   "trim": 2,
+   "len": 72
+  },
+  {
+   "src": "costco/vo/s027.mp3",
+   "from": 6168,
+   "trim": 0,
+   "len": 404
+  },
+  {
+   "src": "costco/vo/s028.mp3",
+   "from": 6577,
+   "trim": 2,
+   "len": 118
+  },
+  {
+   "src": "costco/vo/s029.mp3",
+   "from": 6716,
+   "trim": 1,
+   "len": 117
+  },
+  {
+   "src": "costco/vo/s031.mp3",
+   "from": 7048,
+   "trim": 0,
+   "len": 105
+  },
+  {
+   "src": "costco/vo/s032.mp3",
+   "from": 7158,
+   "trim": 0,
+   "len": 177
+  },
+  {
+   "src": "costco/vo/s033.mp3",
+   "from": 7340,
+   "trim": 0,
+   "len": 270
+  },
+  {
+   "src": "costco/vo/s034.mp3",
+   "from": 7631,
+   "trim": 1,
+   "len": 271
+  },
+  {
+   "src": "costco/vo/s036.mp3",
+   "from": 8040,
+   "trim": 0,
+   "len": 384
+  },
+  {
+   "src": "costco/vo/s037.mp3",
+   "from": 8444,
+   "trim": 0,
+   "len": 156
+  },
+  {
+   "src": "costco/vo/s038.mp3",
+   "from": 8612,
+   "trim": 0,
+   "len": 417
+  },
+  {
+   "src": "costco/vo/s039.mp3",
+   "from": 9034,
+   "trim": 0,
+   "len": 219
+  },
+  {
+   "src": "costco/vo/s040.mp3",
+   "from": 9262,
+   "trim": 0,
+   "len": 89
+  },
+  {
+   "src": "costco/vo/s041.mp3",
+   "from": 9356,
+   "trim": 0,
+   "len": 324
+  }
+ ],
+ "shots": [
+  {
+   "kind": "video",
+   "start": 0,
+   "dur": 122,
+   "seg": "s001",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_hotdog22",
+     "src": "costco/assets/tv_hotdog22.mp4",
+     "credit": "CNN, 27 Jul 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 2.0,
+    "focus": [
+     0.9,
+     0.3
+    ]
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 122,
+   "dur": 119,
+   "seg": "s001",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "hotdog",
+     "src": "costco/assets/hotdog.jpg",
+     "credit": "Deans Charbal · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2560
+    },
+    "kb": "in",
+    "label": "$1.50 hot dog and soda"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 241,
+   "dur": 202,
+   "seg": "s002",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "chicken",
+     "src": "costco/assets/chicken.jpg",
+     "credit": "Cullen328 · Wikimedia Commons · CC BY-SA 3.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
+    },
+    "kb": "in",
+    "label": "Kirkland rotisserie chicken, $4.99"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 443,
+   "dur": 73,
+   "seg": "s003",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_feerise24",
+     "src": "costco/assets/tv_feerise24.mp4",
+     "credit": "KTVU FOX 2, 11 Jul 2024 · TV News Archive",
+     "kind": "video",
+     "w": 528,
+     "h": 480
+    },
+    "from": 8.0
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 516,
+   "dur": 104,
+   "seg": "s003",
+   "cat": "charts",
+   "p": {
+    "kicker": "Costco, fiscal 2025",
+    "value": "$8.1B",
+    "sub": "net profit"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 620,
+   "dur": 219,
+   "seg": "s004",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_hotdog22",
+     "src": "costco/assets/tv_hotdog22.mp4",
+     "credit": "CNN, 27 Jul 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 839,
+   "dur": 130,
+   "seg": "s005",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_feerise24",
+     "src": "costco/assets/tv_feerise24.mp4",
+     "credit": "KTVU FOX 2, 11 Jul 2024 · TV News Archive",
+     "kind": "video",
+     "w": 528,
+     "h": 480
+    },
+    "from": 19.68,
+    "label": "Costco membership card"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 969,
+   "dur": 190,
+   "seg": "s006",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_brotman17",
+     "src": "costco/assets/tv_brotman17.mp4",
+     "credit": "CBS Morning News, 2 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 16.0,
+    "label": "Costco"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 1159,
+   "dur": 238,
+   "seg": "s007",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_brotman_2017",
+     "src": "costco/assets/sot_brotman_2017.mp4",
+     "credit": "CBS Morning News, 2 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "name": "CBS News",
+    "role": "Morning News · Aug 2017",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1397,
+   "dur": 196,
+   "seg": "s008",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "sinegal",
+     "src": "costco/assets/sinegal.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1189,
+     "h": 1798
+    },
+    "kb": "in",
+    "label": "Jim Sinegal, co-founder",
+    "focus": [
+     0.42,
+     0.08
+    ]
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1593,
+   "dur": 290,
+   "seg": "s008",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "costco_aisle",
+     "src": "costco/assets/costco_aisle.jpg",
+     "credit": "Chris Light · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 1883,
+   "dur": 61,
+   "seg": "s009",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "kirkland",
+     "src": "costco/assets/kirkland.jpg",
+     "credit": "Chris Light · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 1944,
+   "dur": 304,
+   "seg": "s009",
+   "cat": "charts",
+   "p": {
+    "title": "Costco's markup rule (as reported)",
+    "rows": [
+     {
+      "n": "Branded",
+      "v": 14,
+      "label": "≤14%"
+     },
+     {
+      "n": "Kirkland",
+      "v": 15,
+      "label": "≤15%"
+     }
+    ],
+    "src": "Reported policy; Acquired, Moneywise"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2248,
+   "dur": 247,
+   "seg": "s010",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_brotman17",
+     "src": "costco/assets/tv_brotman17.mp4",
+     "credit": "CBS Morning News, 2 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2495,
+   "dur": 61,
+   "seg": "s011",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_hotdog22",
+     "src": "costco/assets/tv_hotdog22.mp4",
+     "credit": "CNN, 27 Jul 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 8.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2556,
+   "dur": 202,
+   "seg": "s012",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_jelinek22",
+     "src": "costco/assets/tv_jelinek22.mp4",
+     "credit": "CNBC Squawk on the Street, 19 Dec 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 6.0,
+    "label": "Craig Jelinek, Costco CEO 2012–2023"
+   }
+  },
+  {
+   "kind": "quote",
+   "start": 2758,
+   "dur": 231,
+   "seg": "s012",
+   "cat": "docs",
+   "p": {
+    "text": "If you raise the effing hot dog, I will kill you. Figure it out.",
+    "by": "Jim Sinegal, as recalled by Craig Jelinek · 425 Business, 2018",
+    "style": "clip"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 2989,
+   "dur": 219,
+   "seg": "s013",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_hotdog22",
+     "src": "costco/assets/tv_hotdog22.mp4",
+     "credit": "CNN, 27 Jul 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 24.0,
+    "label": "Kirkland Signature hot dogs"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 3208,
+   "dur": 195,
+   "seg": "s014",
+   "cat": "charts",
+   "p": {
+    "title": "The $1.50 hot dog",
+    "rows": [
+     {
+      "n": "1985 price",
+      "v": 1.5,
+      "label": "$1.50"
+     },
+     {
+      "n": "1985 price in today's money",
+      "v": 4.5,
+      "label": "~$4.50",
+      "hero": true
+     }
+    ],
+    "src": "US CPI, 1985 → 2025"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 3403,
+   "dur": 250,
+   "seg": "s015",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_hotdog_2022",
+     "src": "costco/assets/sot_hotdog_2022.mp4",
+     "credit": "CNN, 27 Jul 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "CNN",
+    "role": "Anderson Cooper 360 · Jul 2022",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 3653,
+   "dur": 120,
+   "seg": "s016",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "chicken_oven",
+     "src": "costco/assets/chicken_oven.jpg",
+     "credit": "Jason Zhang · Wikimedia Commons · CC BY-SA 3.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2550
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 3773,
+   "dur": 150,
+   "seg": "s016",
+   "cat": "charts",
+   "p": {
+    "kicker": "Costco's own chicken plant, Nebraska",
+    "value": "$450M",
+    "sub": "opened 2019"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 3923,
+   "dur": 100,
+   "seg": "s017",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "kirkland",
+     "src": "costco/assets/kirkland.jpg",
+     "credit": "Chris Light · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 4023,
+   "dur": 121,
+   "seg": "s017",
+   "cat": "charts",
+   "p": {
+    "kicker": "Kirkland Signature, 2024",
+    "value": "~$86B",
+    "sub": "of sales"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 4144,
+   "dur": 457,
+   "seg": "s018",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_kirkland_2022",
+     "src": "costco/assets/sot_kirkland_2022.mp4",
+     "credit": "CNBC Squawk on the Street, 19 Dec 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "name": "Craig Jelinek",
+    "role": "Costco CEO · CNBC, Dec 2022",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 4601,
+   "dur": 279,
+   "seg": "s019",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_hotdog22",
+     "src": "costco/assets/tv_hotdog22.mp4",
+     "credit": "CNN, 27 Jul 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 36.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 4880,
+   "dur": 141,
+   "seg": "s021",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "costco_ext",
+     "src": "costco/assets/costco_ext.jpg",
+     "credit": "Jacob Blanck · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1082
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 5021,
+   "dur": 85,
+   "seg": "s021",
+   "cat": "charts",
+   "p": {
+    "kicker": "Costco members, FY2025",
+    "value": "81M",
+    "sub": "38.7M of them Executive"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 5106,
+   "dur": 113,
+   "seg": "s022",
+   "cat": "charts",
+   "p": {
+    "title": "Costco, fiscal 2025",
+    "rows": [
+     {
+      "n": "Membership fees",
+      "v": 5.32,
+      "label": "$5.3B",
+      "hero": true
+     }
+    ],
+    "src": "Costco FY2025 results"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 5219,
+   "dur": 173,
+   "seg": "s023",
+   "cat": "charts",
+   "p": {
+    "title": "Costco, fiscal 2025",
+    "rows": [
+     {
+      "n": "Membership fees",
+      "v": 5.32,
+      "label": "$5.3B",
+      "hero": true
+     },
+     {
+      "n": "Net profit",
+      "v": 8.1,
+      "label": "$8.1B"
+     }
+    ],
+    "src": "Costco FY2025 results · fees ≈ two-thirds of profit"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 5392,
+   "dur": 353,
+   "seg": "s024",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_fees_2019",
+     "src": "costco/assets/sot_fees_2019.mp4",
+     "credit": "CNBC Closing Bell, 30 May 2019 · TV News Archive",
+     "kind": "video",
+     "w": 858,
+     "h": 480
+    },
+    "name": "CNBC",
+    "role": "Closing Bell · May 2019",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5745,
+   "dur": 214,
+   "seg": "s025",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_feerise24",
+     "src": "costco/assets/tv_feerise24.mp4",
+     "credit": "KTVU FOX 2, 11 Jul 2024 · TV News Archive",
+     "kind": "video",
+     "w": 528,
+     "h": 480
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 5959,
+   "dur": 132,
+   "seg": "s025",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_hotdog22",
+     "src": "costco/assets/tv_hotdog22.mp4",
+     "credit": "CNN, 27 Jul 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 32.0,
+    "focus": [
+     0.69,
+     0.0
+    ]
+   }
+  },
+  {
+   "kind": "text",
+   "start": 6091,
+   "dur": 77,
+   "seg": "s026",
+   "cat": "text",
+   "p": {
+    "text": "ONE MEMBER",
+    "sub": "simplified example"
+   }
+  },
+  {
+   "kind": "cols",
+   "start": 6168,
+   "dur": 409,
+   "seg": "s027",
+   "cat": "charts",
+   "p": {
+    "title": "Per member, a year",
+    "rows": [
+     {
+      "n": "Fees",
+      "v": 66,
+      "label": "~$66",
+      "hero": true
+     },
+     {
+      "n": "Costco's profit",
+      "v": 100,
+      "label": "~$100"
+     }
+    ],
+    "src": "$5.32B and $8.1B ÷ 81M members"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 6577,
+   "dur": 139,
+   "seg": "s028",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "pizza_hotdog",
+     "src": "costco/assets/pizza_hotdog.jpg",
+     "credit": "Matt Johnson · Wikimedia Commons · CC BY 2.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "in"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 6716,
+   "dur": 120,
+   "seg": "s029",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_feerise24",
+     "src": "costco/assets/tv_feerise24.mp4",
+     "credit": "KTVU FOX 2, 11 Jul 2024 · TV News Archive",
+     "kind": "video",
+     "w": 528,
+     "h": 480
+    },
+    "from": 12.0
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 6836,
+   "dur": 212,
+   "seg": "s030",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_feerise_2024",
+     "src": "costco/assets/sot_feerise_2024.mp4",
+     "credit": "KTVU FOX 2, 11 Jul 2024 · TV News Archive",
+     "kind": "video",
+     "w": 528,
+     "h": 480
+    },
+    "name": "KTVU FOX 2",
+    "role": "Jul 2024",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7048,
+   "dur": 110,
+   "seg": "s031",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_feerise24",
+     "src": "costco/assets/tv_feerise24.mp4",
+     "credit": "KTVU FOX 2, 11 Jul 2024 · TV News Archive",
+     "kind": "video",
+     "w": 528,
+     "h": 480
+    },
+    "from": 19.0,
+    "label": "Executive membership: $130"
+   }
+  },
+  {
+   "kind": "stat",
+   "start": 7158,
+   "dur": 182,
+   "seg": "s032",
+   "cat": "charts",
+   "p": {
+    "kicker": "Membership fees, FY2025",
+    "value": "+10%",
+    "sub": "renewals around 9 in 10"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 7340,
+   "dur": 291,
+   "seg": "s033",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_feerise24",
+     "src": "costco/assets/tv_feerise24.mp4",
+     "credit": "KTVU FOX 2, 11 Jul 2024 · TV News Archive",
+     "kind": "video",
+     "w": 528,
+     "h": 480
+    },
+    "from": 4.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 7631,
+   "dur": 131,
+   "seg": "s034",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "sinegal",
+     "src": "costco/assets/sinegal.jpg",
+     "credit": "Wikimedia Commons · Public domain",
+     "kind": "image",
+     "w": 1189,
+     "h": 1798
+    },
+    "kb": "out",
+    "focus": [
+     0.42,
+     0.08
+    ]
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 7762,
+   "dur": 144,
+   "seg": "s034",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "costco_aisle",
+     "src": "costco/assets/costco_aisle.jpg",
+     "credit": "Chris Light · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1280
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "sot",
+   "start": 7906,
+   "dur": 134,
+   "seg": "s035",
+   "cat": "voices",
+   "p": {
+    "a": {
+     "id": "sot_stay_2020",
+     "src": "costco/assets/sot_stay_2020.mp4",
+     "credit": "CNBC Squawk on the Street, 19 May 2020 · TV News Archive",
+     "kind": "video",
+     "w": 858,
+     "h": 480
+    },
+    "name": "CNBC",
+    "role": "Squawk on the Street · May 2020",
+    "from": 0.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8040,
+   "dur": 184,
+   "seg": "s036",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_brotman17",
+     "src": "costco/assets/tv_brotman17.mp4",
+     "credit": "CBS Morning News, 2 Aug 2017 · TV News Archive",
+     "kind": "video",
+     "w": 640,
+     "h": 360
+    },
+    "from": 14.0
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 8224,
+   "dur": 220,
+   "seg": "s036",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "costco_ext",
+     "src": "costco/assets/costco_ext.jpg",
+     "credit": "Jacob Blanck · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1082
+    },
+    "kb": "out"
+   }
+  },
+  {
+   "kind": "photo",
+   "start": 8444,
+   "dur": 168,
+   "seg": "s037",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "hotdog",
+     "src": "costco/assets/hotdog.jpg",
+     "credit": "Deans Charbal · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 2560
+    },
+    "kb": "out",
+    "treat": "ink"
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8612,
+   "dur": 319,
+   "seg": "s038",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_hotdog22",
+     "src": "costco/assets/tv_hotdog22.mp4",
+     "credit": "CNN, 27 Jul 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 6.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 8931,
+   "dur": 104,
+   "seg": "s038",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_feerise24",
+     "src": "costco/assets/tv_feerise24.mp4",
+     "credit": "KTVU FOX 2, 11 Jul 2024 · TV News Archive",
+     "kind": "video",
+     "w": 528,
+     "h": 480
+    },
+    "from": 20.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9034,
+   "dur": 228,
+   "seg": "s039",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_hotdog22",
+     "src": "costco/assets/tv_hotdog22.mp4",
+     "credit": "CNN, 27 Jul 2022 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 14.0
+   }
+  },
+  {
+   "kind": "video",
+   "start": 9262,
+   "dur": 94,
+   "seg": "s040",
+   "cat": "real",
+   "p": {
+    "a": {
+     "id": "tv_monopoly23",
+     "src": "costco/assets/tv_monopoly23.mp4",
+     "credit": "CNBC Worldwide Exchange, 26 Sep 2023 · TV News Archive",
+     "kind": "video",
+     "w": 1280,
+     "h": 720
+    },
+    "from": 12.0,
+    "label": "Costco Monopoly, 2023"
+   }
+  },
+  {
+   "kind": "end",
+   "start": 9356,
+   "dur": 321,
+   "seg": "s041",
+   "cat": "text",
+   "p": {}
+  }
+ ],
+ "chapters": [
+  {
+   "name": "COLD OPEN",
+   "from": 0
+  },
+  {
+   "name": "1. THE WAREHOUSE",
+   "from": 969
+  },
+  {
+   "name": "2. THE HOT DOG",
+   "from": 2495
+  },
+  {
+   "name": "3. THE CARD",
+   "from": 4840
+  },
+  {
+   "name": "4. THE PRICE OF THE CARD",
+   "from": 6716
+  },
+  {
+   "name": "5. THE PEOPLE WHO STAY",
+   "from": 7631
+  },
+  {
+   "name": "VERDICT",
+   "from": 8444
+  }
+ ]
+}

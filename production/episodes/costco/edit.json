@@ -1,0 +1,456 @@
+{
+ "s001": [
+  {
+   "k": "video",
+   "a": "tv_hotdog22",
+   "from": 2,
+   "focus": [
+    0.9,
+    0.3
+   ]
+  },
+  {
+   "at": "They cost",
+   "k": "photo",
+   "a": "hotdog",
+   "kb": "in",
+   "label": "$1.50 hot dog and soda"
+  }
+ ],
+ "s002": [
+  {
+   "k": "photo",
+   "a": "chicken",
+   "kb": "in",
+   "label": "Kirkland rotisserie chicken, $4.99"
+  }
+ ],
+ "s003": [
+  {
+   "k": "video",
+   "a": "tv_feerise24",
+   "from": 8
+  },
+  {
+   "at": "Costco made",
+   "k": "stat",
+   "kicker": "Costco, fiscal 2025",
+   "value": "$8.1B",
+   "sub": "net profit"
+  }
+ ],
+ "s004": [
+  {
+   "k": "video",
+   "a": "tv_hotdog22",
+   "from": 12
+  }
+ ],
+ "s005": [
+  {
+   "k": "video",
+   "a": "tv_feerise24",
+   "from": 20,
+   "label": "Costco membership card"
+  }
+ ],
+ "s006": [
+  {
+   "k": "video",
+   "a": "tv_brotman17",
+   "from": 16,
+   "label": "Costco"
+  }
+ ],
+ "s007": [
+  {
+   "k": "sot",
+   "a": "sot_brotman_2017",
+   "name": "CBS News",
+   "role": "Morning News · Aug 2017"
+  }
+ ],
+ "s008": [
+  {
+   "k": "photo",
+   "a": "sinegal",
+   "kb": "in",
+   "label": "Jim Sinegal, co-founder",
+   "focus": [
+    0.42,
+    0.08
+   ]
+  },
+  {
+   "at": "concrete floors",
+   "k": "photo",
+   "a": "costco_aisle",
+   "kb": "in"
+  }
+ ],
+ "s009": [
+  {
+   "k": "photo",
+   "a": "kirkland",
+   "kb": "in"
+  },
+  {
+   "at": "Costco would mark up",
+   "k": "cols",
+   "title": "Costco's markup rule (as reported)",
+   "rows": [
+    {
+     "n": "Branded",
+     "v": 14,
+     "label": "≤14%"
+    },
+    {
+     "n": "Kirkland",
+     "v": 15,
+     "label": "≤15%"
+    }
+   ],
+   "src": "Reported policy; Acquired, Moneywise"
+  }
+ ],
+ "s010": [
+  {
+   "k": "video",
+   "a": "tv_brotman17",
+   "from": 12
+  }
+ ],
+ "s011": [
+  {
+   "k": "video",
+   "a": "tv_hotdog22",
+   "from": 8
+  }
+ ],
+ "s012": [
+  {
+   "k": "video",
+   "a": "tv_jelinek22",
+   "from": 6,
+   "label": "Craig Jelinek, Costco CEO 2012–2023"
+  },
+  {
+   "at": "Sinegal's reply",
+   "k": "quote",
+   "text": "If you raise the effing hot dog, I will kill you. Figure it out.",
+   "by": "Jim Sinegal, as recalled by Craig Jelinek · 425 Business, 2018",
+   "style": "clip"
+  }
+ ],
+ "s013": [
+  {
+   "k": "video",
+   "a": "tv_hotdog22",
+   "from": 24,
+   "label": "Kirkland Signature hot dogs"
+  }
+ ],
+ "s014": [
+  {
+   "k": "cols",
+   "title": "The $1.50 hot dog",
+   "rows": [
+    {
+     "n": "1985 price",
+     "v": 1.5,
+     "label": "$1.50"
+    },
+    {
+     "n": "1985 price in today's money",
+     "v": 4.5,
+     "label": "~$4.50",
+     "hero": true
+    }
+   ],
+   "src": "US CPI, 1985 → 2025"
+  }
+ ],
+ "s015": [
+  {
+   "k": "sot",
+   "a": "sot_hotdog_2022",
+   "name": "CNN",
+   "role": "Anderson Cooper 360 · Jul 2022"
+  }
+ ],
+ "s016": [
+  {
+   "k": "photo",
+   "a": "chicken_oven",
+   "kb": "in"
+  },
+  {
+   "at": "Costco built",
+   "k": "stat",
+   "kicker": "Costco's own chicken plant, Nebraska",
+   "value": "$450M",
+   "sub": "opened 2019"
+  }
+ ],
+ "s017": [
+  {
+   "k": "photo",
+   "a": "kirkland",
+   "kb": "out"
+  },
+  {
+   "at": "which on its own",
+   "k": "stat",
+   "kicker": "Kirkland Signature, 2024",
+   "value": "~$86B",
+   "sub": "of sales"
+  }
+ ],
+ "s018": [
+  {
+   "k": "sot",
+   "a": "sot_kirkland_2022",
+   "name": "Craig Jelinek",
+   "role": "Costco CEO · CNBC, Dec 2022"
+  }
+ ],
+ "s019": [
+  {
+   "k": "video",
+   "a": "tv_hotdog22",
+   "from": 36
+  }
+ ],
+ "s020": [
+  {
+   "k": "video",
+   "a": "tv_feerise24",
+   "from": 20
+  }
+ ],
+ "s021": [
+  {
+   "k": "photo",
+   "a": "costco_ext",
+   "kb": "in"
+  },
+  {
+   "at": "Costco had",
+   "k": "stat",
+   "kicker": "Costco members, FY2025",
+   "value": "81M",
+   "sub": "38.7M of them Executive"
+  }
+ ],
+ "s022": [
+  {
+   "k": "cols",
+   "title": "Costco, fiscal 2025",
+   "rows": [
+    {
+     "n": "Membership fees",
+     "v": 5.32,
+     "label": "$5.3B",
+     "hero": true
+    }
+   ],
+   "src": "Costco FY2025 results"
+  }
+ ],
+ "s023": [
+  {
+   "k": "cols",
+   "title": "Costco, fiscal 2025",
+   "rows": [
+    {
+     "n": "Membership fees",
+     "v": 5.32,
+     "label": "$5.3B",
+     "hero": true
+    },
+    {
+     "n": "Net profit",
+     "v": 8.1,
+     "label": "$8.1B"
+    }
+   ],
+   "src": "Costco FY2025 results · fees ≈ two-thirds of profit"
+  }
+ ],
+ "s024": [
+  {
+   "k": "sot",
+   "a": "sot_fees_2019",
+   "name": "CNBC",
+   "role": "Closing Bell · May 2019"
+  }
+ ],
+ "s025": [
+  {
+   "k": "video",
+   "a": "tv_feerise24",
+   "from": 4
+  },
+  {
+   "at": "Around nine in ten",
+   "k": "video",
+   "a": "tv_hotdog22",
+   "from": 32,
+   "focus": [
+    0.69,
+    0.0
+   ]
+  }
+ ],
+ "s026": [
+  {
+   "k": "text",
+   "text": "ONE MEMBER",
+   "sub": "simplified example"
+  }
+ ],
+ "s027": [
+  {
+   "k": "cols",
+   "title": "Per member, a year",
+   "rows": [
+    {
+     "n": "Fees",
+     "v": 66,
+     "label": "~$66",
+     "hero": true
+    },
+    {
+     "n": "Costco's profit",
+     "v": 100,
+     "label": "~$100"
+    }
+   ],
+   "src": "$5.32B and $8.1B ÷ 81M members"
+  }
+ ],
+ "s028": [
+  {
+   "k": "photo",
+   "a": "pizza_hotdog",
+   "kb": "in"
+  }
+ ],
+ "s029": [
+  {
+   "k": "video",
+   "a": "tv_feerise24",
+   "from": 12
+  }
+ ],
+ "s030": [
+  {
+   "k": "sot",
+   "a": "sot_feerise_2024",
+   "name": "KTVU FOX 2",
+   "role": "Jul 2024"
+  }
+ ],
+ "s031": [
+  {
+   "k": "video",
+   "a": "tv_feerise24",
+   "from": 19,
+   "label": "Executive membership: $130"
+  }
+ ],
+ "s032": [
+  {
+   "k": "stat",
+   "kicker": "Membership fees, FY2025",
+   "value": "+10%",
+   "sub": "renewals around 9 in 10"
+  }
+ ],
+ "s033": [
+  {
+   "k": "video",
+   "a": "tv_feerise24",
+   "from": 4
+  }
+ ],
+ "s034": [
+  {
+   "k": "photo",
+   "a": "sinegal",
+   "kb": "out",
+   "focus": [
+    0.42,
+    0.08
+   ]
+  },
+  {
+   "at": "Costco pays",
+   "k": "photo",
+   "a": "costco_aisle",
+   "kb": "out"
+  }
+ ],
+ "s035": [
+  {
+   "k": "sot",
+   "a": "sot_stay_2020",
+   "name": "CNBC",
+   "role": "Squawk on the Street · May 2020"
+  }
+ ],
+ "s036": [
+  {
+   "k": "video",
+   "a": "tv_brotman17",
+   "from": 14
+  },
+  {
+   "at": "Low prices",
+   "k": "photo",
+   "a": "costco_ext",
+   "kb": "out"
+  }
+ ],
+ "s037": [
+  {
+   "k": "photo",
+   "a": "hotdog",
+   "kb": "out",
+   "treat": "ink"
+  }
+ ],
+ "s038": [
+  {
+   "k": "video",
+   "a": "tv_hotdog22",
+   "from": 6
+  },
+  {
+   "at": "Then it charges",
+   "k": "video",
+   "a": "tv_feerise24",
+   "from": 20
+  }
+ ],
+ "s039": [
+  {
+   "k": "video",
+   "a": "tv_hotdog22",
+   "from": 14
+  }
+ ],
+ "s040": [
+  {
+   "k": "video",
+   "a": "tv_monopoly23",
+   "from": 12,
+   "label": "Costco Monopoly, 2023"
+  }
+ ],
+ "s041": [
+  {
+   "k": "end"
+  }
+ ]
+}

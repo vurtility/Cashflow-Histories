@@ -1,0 +1,910 @@
+{
+  "median_db": -14.8,
+  "spent_chars": 445,
+  "results": {
+    "s001": {
+      "heard": "At Costco, a hot dog and a soda cost $1.50. They cost $1.50 in 1985. They still do.",
+      "accuracy": 0.905,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "a",
+          "heard": "one"
+        },
+        {
+          "type": "replace",
+          "expected": "a",
+          "heard": "one"
+        }
+      ],
+      "pace": {
+        "syllables": 27,
+        "rate": 3.53,
+        "wpm": 172.8,
+        "lead_silence": 0.06,
+        "silences": [
+          0.42,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.4,
+        "peak": 0.898
+      },
+      "problems": [
+        "accuracy 90%"
+      ],
+      "score": 0.905,
+      "risky": [
+        "(digits in text)",
+        "Costco"
+      ],
+      "attempts": [
+        {
+          "plan": "new take",
+          "accuracy": 0.905,
+          "problems": [
+            "accuracy 90%"
+          ]
+        },
+        {
+          "plan": "steadier delivery",
+          "accuracy": 0.905,
+          "problems": [
+            "accuracy 90%"
+          ]
+        }
+      ]
+    },
+    "s002": {
+      "heard": "Its rotisserie chicken costs $4.99, and by most accounts, Costco loses money on everyone.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 28,
+        "rate": 4.42,
+        "wpm": 151.4,
+        "lead_silence": 0.1,
+        "silences": [
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.901
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Costco"
+      ],
+      "attempts": []
+    },
+    "s003": {
+      "heard": "And yet, in its last financial year, Costco made $8.1 billion of profit.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 3.99,
+        "wpm": 173.9,
+        "lead_silence": 0.08,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.885
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Costco"
+      ],
+      "attempts": []
+    },
+    "s004": {
+      "heard": "So how does a store that won't raise the price of a hot dog in 40 years make $8 billion a year?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 3.86,
+        "wpm": 204.7,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.0,
+        "peak": 0.882
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s005": {
+      "heard": "The answer is in your wallet, and it isn't your money.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 14,
+        "rate": 4.05,
+        "wpm": 190.8,
+        "lead_silence": 0.02,
+        "silences": [
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.952
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s006": {
+      "heard": "In 1983, Jim Sinegal and Jeff Brotman opened the first Costco warehouse in Seattle.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 3.67,
+        "wpm": 140.0,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.4,
+        "peak": 0.928
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Costco",
+        "Jeff Brotman",
+        "Jim Sinegal",
+        "Seattle"
+      ],
+      "attempts": []
+    },
+    "s008": {
+      "heard": "Senegal had learned the business from Saul Price, who invented the warehouse club. The idea was simple. Concrete floors, goods on pallets, a few thousand products instead of tens of thousands, and price is so low that customers would pay just to get in.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 63,
+        "rate": 3.98,
+        "wpm": 162.9,
+        "lead_silence": 0.06,
+        "silences": [
+          0.36,
+          0.36
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.914
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Sol Price"
+      ],
+      "attempts": []
+    },
+    "s009": {
+      "heard": "And Senegal set a rule. Costco would mark up branded goods by no more than 14 percent, and its own brand by no more than 15. A typical supermarket marks things up far more.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 47,
+        "rate": 3.98,
+        "wpm": 172.9,
+        "lead_silence": 0.08,
+        "silences": [
+          0.42,
+          0.32,
+          0.42
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.897
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Sinegal"
+      ],
+      "attempts": []
+    },
+    "s010": {
+      "heard": "Which raises an obvious problem. If you barely mark anything up, how do you pay for the warehouses, the staff, and the trucks?",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 33,
+        "rate": 4.5,
+        "wpm": 188.0,
+        "lead_silence": 0.06,
+        "silences": [
+          0.38,
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.923
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s011": {
+      "heard": "Then, there's the hot dog.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 6,
+        "rate": 3.61,
+        "wpm": 180.7,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.879
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s012": {
+      "heard": "When Craig Jelinek, who later became chief executive, told Senegal that $1.50 hot dog was losing money, Senegal's reply, as Jelinek tells it, was, if you raise the effing hot dog, I will kill you. Figure it out.",
+      "accuracy": 0.947,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "sinegal the",
+          "heard": "senegal that one"
+        }
+      ],
+      "pace": {
+        "syllables": 59,
+        "rate": 4.21,
+        "wpm": 162.6,
+        "lead_silence": 0.08,
+        "silences": [
+          0.34,
+          0.32,
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -15.5,
+        "peak": 0.918
+      },
+      "problems": [],
+      "score": 0.947,
+      "risky": [
+        "Craig Jelinek",
+        "If",
+        "Jelinek",
+        "Sinegal",
+        "Sinegal's"
+      ],
+      "attempts": []
+    },
+    "s013": {
+      "heard": "So Costco figured it out. It stopped buying from its old hot dog supplier and built its own hot dog factories.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 28,
+        "rate": 4.03,
+        "wpm": 181.6,
+        "lead_silence": 0.06,
+        "silences": [
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.91
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Costco"
+      ],
+      "attempts": []
+    },
+    "s014": {
+      "heard": "Adjusted for inflation, $1.50 in 1985 would be about $4.50 today.",
+      "accuracy": 0.933,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "a",
+          "heard": "one"
+        }
+      ],
+      "pace": {
+        "syllables": 24,
+        "rate": 3.9,
+        "wpm": 146.1,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.2,
+        "peak": 0.905
+      },
+      "problems": [],
+      "score": 0.933,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s016": {
+      "heard": "The chicken is the same trick. To keep it at $4.99, Costco built its own $450 million chicken plant in Nebraska.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 38,
+        "rate": 4.42,
+        "wpm": 146.5,
+        "lead_silence": 0.04,
+        "silences": [
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.874
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Costco",
+        "Nebraska"
+      ],
+      "attempts": []
+    },
+    "s017": {
+      "heard": "And then there's Kirkland, Costco's own brand, which on its own sells around $86 billion a year.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 26,
+        "rate": 3.7,
+        "wpm": 153.8,
+        "lead_silence": 0.08,
+        "silences": [
+          0.3
+        ]
+      },
+      "audio": {
+        "rms_db": -14.6,
+        "peak": 0.911
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Costco's",
+        "Kirkland"
+      ],
+      "attempts": []
+    },
+    "s019": {
+      "heard": "Cheap hot dogs, cheap chickens, cheap everything, none of it explains $8 billion of profit.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 24,
+        "rate": 3.41,
+        "wpm": 136.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -15.6,
+        "peak": 0.903
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s020": {
+      "heard": "This does.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 2,
+        "rate": 2.5,
+        "wpm": 150.0,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.5,
+        "peak": 0.838
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s021": {
+      "heard": "To shop at Costco, you need a membership. In its last financial year, Costco had 81 million members.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 27,
+        "rate": 3.77,
+        "wpm": 150.8,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.7,
+        "peak": 0.932
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Costco"
+      ],
+      "attempts": []
+    },
+    "s022": {
+      "heard": "They paid $5.3 billion in fees.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 11,
+        "rate": 3.27,
+        "wpm": 160.7,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.873
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s023": {
+      "heard": "That's about two-thirds of Costco's entire profit before anyone has bought a single thing.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 22,
+        "rate": 4.03,
+        "wpm": 153.8,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.892
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Costco's"
+      ],
+      "attempts": []
+    },
+    "s025": {
+      "heard": "That's the whole machine. Costco sells the groceries at almost no profit, so the card always feels worth it. Around 9 in 10 members renew, and the renewals are the profit.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 45,
+        "rate": 4.07,
+        "wpm": 168.2,
+        "lead_silence": 0.04,
+        "silences": [
+          0.46,
+          0.42,
+          0.34
+        ]
+      },
+      "audio": {
+        "rms_db": -14.3,
+        "peak": 0.91
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s026": {
+      "heard": "Here's one member with simple numbers.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 10,
+        "rate": 4.55,
+        "wpm": 163.6,
+        "lead_silence": 0.08,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.9,
+        "peak": 0.887
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s027": {
+      "heard": "On average, each member pays Costco about $66 a year in fees. Costco's total profit works out at about $100 per member. Two-thirds of it, Costco had before the member walked through the door.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 57,
+        "rate": 4.31,
+        "wpm": 167.7,
+        "lead_silence": 0.04,
+        "silences": [
+          0.32,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.908
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Costco"
+      ],
+      "attempts": []
+    },
+    "s028": {
+      "heard": "So the hot dog isn't a loss, it's an advert for the card.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 14,
+        "rate": 3.78,
+        "wpm": 210.8,
+        "lead_silence": 0.1,
+        "silences": [
+          0.26
+        ]
+      },
+      "audio": {
+        "rms_db": -15.3,
+        "peak": 0.913
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s029": {
+      "heard": "Which is why the one price Costco does raise is the card.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 13,
+        "rate": 3.55,
+        "wpm": 196.7,
+        "lead_silence": 0.06,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.0,
+        "peak": 0.904
+      },
+      "problems": [],
+      "score": 1.0,
+      "attempts": [
+        {
+          "plan": "new take",
+          "accuracy": 1.0,
+          "problems": []
+        }
+      ],
+      "risky": [
+        "Costco"
+      ],
+      "fixed_by": "new take"
+    },
+    "s031": {
+      "heard": "The executive membership went to $130.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 18,
+        "rate": 5.45,
+        "wpm": 181.8,
+        "lead_silence": 0.02,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.888
+      },
+      "problems": [
+        "rushed: 5.45 syll/s vs episode 3.98"
+      ],
+      "score": 0.95,
+      "risky": [
+        "Executive"
+      ],
+      "attempts": [
+        {
+          "plan": "slower delivery (speed 0.88)",
+          "accuracy": 1.0,
+          "problems": [
+            "rushed: 5.42 syll/s vs episode 3.98"
+          ]
+        },
+        {
+          "plan": "new take",
+          "accuracy": 1.0,
+          "problems": [
+            "rushed: 5.49 syll/s vs episode 3.98"
+          ]
+        },
+        {
+          "plan": "slower + steadier",
+          "accuracy": 1.0,
+          "problems": [
+            "rushed: 5.42 syll/s vs episode 3.98"
+          ]
+        }
+      ]
+    },
+    "s032": {
+      "heard": "In the following year, fee income rose 10% and renewals stayed around 9 in 10.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 23,
+        "rate": 4.05,
+        "wpm": 169.0,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.2,
+        "peak": 0.922
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s033": {
+      "heard": "And in 2024, Costco started scanning cards at the door to stop people sharing them. When the card is the product, you protect it.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 30,
+        "rate": 3.4,
+        "wpm": 163.3,
+        "lead_silence": 0.04,
+        "silences": [
+          0.3,
+          0.5,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.899
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "(digits in text)",
+        "Costco"
+      ],
+      "attempts": []
+    },
+    "s034": {
+      "heard": "There's one more piece of Senegal's model that Wall Street used to hate. Costco pays its workers well above most retailers, and keeps them.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 34,
+        "rate": 3.84,
+        "wpm": 162.5,
+        "lead_silence": 0.06,
+        "silences": [
+          0.42,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.895
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Sinegal's",
+        "Wall Street"
+      ],
+      "attempts": []
+    },
+    "s036": {
+      "heard": "Staff who stay, know the store, need less training, and make the warehouse run with fewer people. Low prices need low costs. And low costs at Costco start with not losing your workers.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 42,
+        "rate": 3.34,
+        "wpm": 157.6,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38,
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -15.1,
+        "peak": 0.917
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Costco"
+      ],
+      "attempts": []
+    },
+    "s037": {
+      "heard": "So how does a store with a $1.50 hot dog make $8 billion a year?",
+      "accuracy": 1.0,
+      "issues": [
+        {
+          "type": "insert",
+          "expected": "",
+          "heard": "one"
+        }
+      ],
+      "pace": {
+        "syllables": 21,
+        "rate": 4.22,
+        "wpm": 192.8,
+        "lead_silence": 0.04,
+        "silences": []
+      },
+      "audio": {
+        "rms_db": -14.1,
+        "peak": 0.918
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s038": {
+      "heard": "Because Costco doesn't really make money selling groceries, it sells them at almost no profit, on purpose, so that the card in your wallet always feels like a bargain. Then it charges you for the card, every year.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 54,
+        "rate": 3.94,
+        "wpm": 166.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.38,
+          0.3,
+          0.38,
+          0.38
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.923
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [
+        "Costco"
+      ],
+      "attempts": []
+    },
+    "s039": {
+      "heard": "The hot dog has stayed at $1.50 since 1985. The price of the card has gone up again and again.",
+      "accuracy": 0.955,
+      "issues": [
+        {
+          "type": "replace",
+          "expected": "a",
+          "heard": "one"
+        }
+      ],
+      "pace": {
+        "syllables": 25,
+        "rate": 3.53,
+        "wpm": 186.4,
+        "lead_silence": 0.04,
+        "silences": [
+          0.5
+        ]
+      },
+      "audio": {
+        "rms_db": -14.5,
+        "peak": 0.922
+      },
+      "problems": [],
+      "score": 0.955,
+      "risky": [
+        "(digits in text)"
+      ],
+      "attempts": []
+    },
+    "s040": {
+      "heard": "That's not a contradiction, that's the business.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 12,
+        "rate": 4.35,
+        "wpm": 152.2,
+        "lead_silence": 0.02,
+        "silences": [
+          0.28
+        ]
+      },
+      "audio": {
+        "rms_db": -16.0,
+        "peak": 0.93
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    },
+    "s041": {
+      "heard": "If you'll never look at that hot dog the same way again, that's what this channel does. The economics nobody explains, one company at a time. Subscribe and you'll get the next one.",
+      "accuracy": 1.0,
+      "issues": [],
+      "pace": {
+        "syllables": 45,
+        "rate": 4.23,
+        "wpm": 186.1,
+        "lead_silence": 0.02,
+        "silences": [
+          0.26,
+          0.28,
+          0.32
+        ]
+      },
+      "audio": {
+        "rms_db": -14.8,
+        "peak": 0.913
+      },
+      "problems": [],
+      "score": 1.0,
+      "risky": [],
+      "attempts": []
+    }
+  }
+}

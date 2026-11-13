@@ -656,21 +656,21 @@
    }
   },
   {
-   "kind": "video",
+   "kind": "photo",
    "start": 4688,
    "dur": 172,
    "seg": "s020",
    "cat": "real",
    "p": {
     "a": {
-     "id": "tv_analyst24",
-     "src": "progressive/assets/tv_analyst24.mp4",
-     "credit": "CNBC Power Lunch, 14 Mar 2024 · TV News Archive",
-     "kind": "video",
-     "w": 1280,
-     "h": 720
+     "id": "bodyshop2",
+     "src": "progressive/assets/bodyshop2.jpg",
+     "credit": "Ser Amantio di Nicolao · Wikimedia Commons · CC BY-SA 4.0",
+     "kind": "image",
+     "w": 1920,
+     "h": 1440
     },
-    "from": 48.0,
+    "kb": "in",
     "label": "2022: claims and costs ate almost every $1"
    }
   },

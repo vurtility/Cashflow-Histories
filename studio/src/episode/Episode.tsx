@@ -10,8 +10,9 @@ import carvana from './data/carvana.json';
 import amex from './data/amex.json';
 import timeshare from './data/timeshare.json';
 import progressive from './data/progressive.json';
+import costco from './data/costco.json';
 
-export const EPISODES: Record<string, any> = {subway, airlines, statefarm, carvana, amex, timeshare, progressive};
+export const EPISODES: Record<string, any> = {subway, airlines, statefarm, carvana, amex, timeshare, progressive, costco};
 
 const ChapterStamp: React.FC<{name: string; n: number}> = ({name, n}) => {
   const f = useCurrentFrame();

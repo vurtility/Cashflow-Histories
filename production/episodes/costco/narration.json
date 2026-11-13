@@ -1,0 +1,267 @@
+[
+  {
+    "id": "s001",
+    "chapter": "COLD OPEN",
+    "cue": "[BROLL: Costco food court, hot dog combo]",
+    "text": "At Costco, a hot dog and a soda cost a dollar fifty. They cost a dollar fifty in 1985. They still do."
+  },
+  {
+    "id": "s002",
+    "chapter": "COLD OPEN",
+    "cue": "[BROLL: rotisserie chickens]",
+    "text": "Its rotisserie chicken costs four ninety-nine, and by most accounts Costco loses money on every one."
+  },
+  {
+    "id": "s003",
+    "chapter": "COLD OPEN",
+    "cue": "[GFX: \"Costco, fiscal 2025: net profit $8.1B\"]",
+    "text": "And yet in its last financial year, Costco made eight point one billion dollars of profit."
+  },
+  {
+    "id": "s004",
+    "chapter": "COLD OPEN",
+    "cue": "[VISUAL: title card]",
+    "text": "So how does a store that won't raise the price of a hot dog in forty years make eight billion dollars a year?"
+  },
+  {
+    "id": "s005",
+    "chapter": "COLD OPEN",
+    "cue": "[PHOTO: Costco membership card]",
+    "text": "The answer is in your wallet. And it isn't your money.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s006",
+    "chapter": "1. THE WAREHOUSE",
+    "cue": "[PHOTO: first Costco, Seattle]",
+    "text": "In 1983, Jim Sinegal and Jeff Brotman opened the first Costco warehouse in Seattle."
+  },
+  {
+    "id": "s007",
+    "chapter": "1. THE WAREHOUSE",
+    "cue": "",
+    "text": "CBS News anchor — \"The founder of Costco has died. Jeff Brotman launched the first Costco warehouse in Seattle in 1983 with Jim Sinegal.\" | CBS Morning News, 2 Aug 2017",
+    "type": "sot",
+    "duration": 7.7
+  },
+  {
+    "id": "s008",
+    "chapter": "1. THE WAREHOUSE",
+    "cue": "[BROLL: Costco interior, pallets]",
+    "text": "Sinegal had learned the business from Sol Price, who invented the warehouse club. The idea was simple: concrete floors, goods on pallets, a few thousand products instead of tens of thousands, and prices so low that customers would pay just to get in."
+  },
+  {
+    "id": "s009",
+    "chapter": "1. THE WAREHOUSE",
+    "cue": "[GFX: \"Costco's markup rule (as reported): branded goods ≤14% · Kirkland ≤15%\"]",
+    "text": "And Sinegal set a rule. Costco would mark up branded goods by no more than fourteen percent, and its own brand by no more than fifteen. A typical supermarket marks things up far more."
+  },
+  {
+    "id": "s010",
+    "chapter": "1. THE WAREHOUSE",
+    "cue": "[VISUAL: beat]",
+    "text": "Which raises an obvious problem. If you barely mark anything up, how do you pay for the warehouses, the staff and the trucks?",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s011",
+    "chapter": "2. THE HOT DOG",
+    "cue": "[BROLL: CNN report, 2022]",
+    "text": "Then there's the hot dog."
+  },
+  {
+    "id": "s012",
+    "chapter": "2. THE HOT DOG",
+    "cue": "[QUOTE: Craig Jelinek, recalling Jim Sinegal — \"If you raise the effing hot dog, I will kill you. Figure it out.\" | 425 Business, 2018]",
+    "text": "When Craig Jelinek, who later became chief executive, told Sinegal the dollar-fifty hot dog was losing money, Sinegal's reply, as Jelinek tells it, was: \"If you raise the effing hot dog, I will kill you. Figure it out.\""
+  },
+  {
+    "id": "s013",
+    "chapter": "2. THE HOT DOG",
+    "cue": "[BROLL: hot dog production]",
+    "text": "So Costco figured it out. It stopped buying from its old hot dog supplier and built its own hot dog factories."
+  },
+  {
+    "id": "s014",
+    "chapter": "2. THE HOT DOG",
+    "cue": "[GFX: \"$1.50 in 1985 ≈ $4.50 today\"]",
+    "text": "Adjusted for inflation, a dollar fifty in 1985 would be about four dollars fifty today."
+  },
+  {
+    "id": "s015",
+    "chapter": "2. THE HOT DOG",
+    "cue": "",
+    "text": "CNN reporter / Costco shopper — \"Do you think you do more shopping at Costco because you can get hot dogs in an inexpensive way?\" \"Absolutely.\" \"So it makes you shop at Costco more?\" \"Oh, yes, yes.\" | CNN, 27 Jul 2022",
+    "type": "sot",
+    "duration": 8.1
+  },
+  {
+    "id": "s016",
+    "chapter": "2. THE HOT DOG",
+    "cue": "[BROLL: rotisserie chickens]",
+    "text": "The chicken is the same trick. To keep it at four ninety-nine, Costco built its own four-hundred-and-fifty-million-dollar chicken plant in Nebraska."
+  },
+  {
+    "id": "s017",
+    "chapter": "2. THE HOT DOG",
+    "cue": "[GFX: \"Kirkland Signature: ~$86B of sales (2024)\"]",
+    "text": "And then there's Kirkland, Costco's own brand, which on its own sells around eighty-six billion dollars a year."
+  },
+  {
+    "id": "s018",
+    "chapter": "2. THE HOT DOG",
+    "cue": "",
+    "text": "Craig Jelinek, Costco CEO — \"Kirkland Signature continues to grow market share on everything that we sell. It's our brand, it's one name, one brand. We put it on everything from alcohol to luggage.\" | CNBC, 19 Dec 2022",
+    "type": "sot",
+    "duration": 15.0
+  },
+  {
+    "id": "s019",
+    "chapter": "2. THE HOT DOG",
+    "cue": "[VISUAL: beat]",
+    "text": "Cheap hot dogs. Cheap chickens. Cheap everything. None of it explains eight billion dollars of profit.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s020",
+    "chapter": "3. THE CARD",
+    "cue": "[PHOTO: membership card at the entrance]",
+    "text": "This does."
+  },
+  {
+    "id": "s021",
+    "chapter": "3. THE CARD",
+    "cue": "[GFX: \"Costco members, FY2025: 81 million\"]",
+    "text": "To shop at Costco, you need a membership. In its last financial year, Costco had eighty-one million members."
+  },
+  {
+    "id": "s022",
+    "chapter": "3. THE CARD",
+    "cue": "[GFX: \"Membership fees, FY2025: $5.3B\"]",
+    "text": "They paid five point three billion dollars in fees."
+  },
+  {
+    "id": "s023",
+    "chapter": "3. THE CARD",
+    "cue": "[GFX: \"$5.3B fees ÷ $8.1B profit ≈ two-thirds\"]",
+    "text": "That's about two-thirds of Costco's entire profit, before anyone has bought a single thing."
+  },
+  {
+    "id": "s024",
+    "chapter": "3. THE CARD",
+    "cue": "",
+    "text": "CNBC guest — \"But remember, membership fee income for Costco is almost 80% of their EBIT. So we'll really be watching that membership fee incomes. It's still growing mid-single digit. We'll be watching to see renewal rates on memberships as it's still above 90%.\" | CNBC Closing Bell, 30 May 2019",
+    "type": "sot",
+    "duration": 11.5
+  },
+  {
+    "id": "s025",
+    "chapter": "3. THE CARD",
+    "cue": "[GFX: the loop: \"low prices → card worth it → ~90% renew → fees → profit\"]",
+    "text": "That's the whole machine. Costco sells the groceries at almost no profit, so the card always feels worth it. Around nine in ten members renew. And the renewals are the profit."
+  },
+  {
+    "id": "s026",
+    "chapter": "3. THE CARD",
+    "cue": "[VISUAL: \"Simplified example: one member\"]",
+    "text": "Here's one member, with simple numbers."
+  },
+  {
+    "id": "s027",
+    "chapter": "3. THE CARD",
+    "cue": "[GFX: \"Fees ≈ $66 per member · profit ≈ $100 per member\"]",
+    "text": "On average, each member pays Costco about sixty-six dollars a year in fees. Costco's total profit works out at about a hundred dollars per member. Two-thirds of it, Costco had before the member walked through the door."
+  },
+  {
+    "id": "s028",
+    "chapter": "3. THE CARD",
+    "cue": "[BROLL: shoppers, carts]",
+    "text": "So the hot dog isn't a loss. It's an advert for the card.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s029",
+    "chapter": "4. THE PRICE OF THE CARD",
+    "cue": "[BROLL: KTVU report, 2024]",
+    "text": "Which is why the one price Costco does raise is the card."
+  },
+  {
+    "id": "s030",
+    "chapter": "4. THE PRICE OF THE CARD",
+    "cue": "",
+    "text": "KTVU FOX 2 anchor — \"For the first time in seven years, Costco is raising its annual membership fee by $5 to $65.\" | KTVU FOX 2, 11 Jul 2024",
+    "type": "sot",
+    "duration": 6.8
+  },
+  {
+    "id": "s031",
+    "chapter": "4. THE PRICE OF THE CARD",
+    "cue": "[GFX: \"Executive membership: $120 → $130 (2% back on purchases)\"]",
+    "text": "The Executive membership went to a hundred and thirty dollars."
+  },
+  {
+    "id": "s032",
+    "chapter": "4. THE PRICE OF THE CARD",
+    "cue": "[GFX: \"FY2025 membership fees: +10%\"]",
+    "text": "In the following year, fee income rose ten percent, and renewals stayed around nine in ten."
+  },
+  {
+    "id": "s033",
+    "chapter": "4. THE PRICE OF THE CARD",
+    "cue": "[BROLL: membership card scanners at the entrance]",
+    "text": "And in 2024, Costco started scanning cards at the door, to stop people sharing them. When the card is the product, you protect it.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s034",
+    "chapter": "5. THE PEOPLE WHO STAY",
+    "cue": "[BROLL: Costco employees]",
+    "text": "There's one more piece of Sinegal's model that Wall Street used to hate. Costco pays its workers well above most retailers, and keeps them."
+  },
+  {
+    "id": "s035",
+    "chapter": "5. THE PEOPLE WHO STAY",
+    "cue": "",
+    "text": "CNBC host — \"And he said the reason why he would always beat Walmart is because these people stay.\" | CNBC Squawk on the Street, 19 May 2020",
+    "type": "sot",
+    "duration": 4.2
+  },
+  {
+    "id": "s036",
+    "chapter": "5. THE PEOPLE WHO STAY",
+    "cue": "[BROLL: warehouse]",
+    "text": "Staff who stay know the store, need less training, and make the warehouse run with fewer people. Low prices need low costs. And low costs, at Costco, start with not losing your workers.",
+    "pause_after": 0.8
+  },
+  {
+    "id": "s037",
+    "chapter": "VERDICT",
+    "cue": "[VISUAL: title card]",
+    "text": "So how does a store with a dollar-fifty hot dog make eight billion dollars a year?"
+  },
+  {
+    "id": "s038",
+    "chapter": "VERDICT",
+    "cue": "[GFX: the loop again]",
+    "text": "Because Costco doesn't really make money selling groceries. It sells them at almost no profit, on purpose, so that the card in your wallet always feels like a bargain. Then it charges you for the card. Every year."
+  },
+  {
+    "id": "s039",
+    "chapter": "VERDICT",
+    "cue": "[BROLL: food court]",
+    "text": "The hot dog has stayed at a dollar fifty since 1985. The price of the card has gone up again and again.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "s040",
+    "chapter": "VERDICT",
+    "cue": "",
+    "text": "That's not a contradiction. That's the business."
+  },
+  {
+    "id": "s041",
+    "chapter": "VERDICT",
+    "cue": "[END CARD]",
+    "text": "If you'll never look at that hot dog the same way again, that's what this channel does: the economics nobody explains, one company at a time. Subscribe, and you'll get the next one."
+  }
+]
