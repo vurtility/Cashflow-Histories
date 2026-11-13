@@ -484,9 +484,50 @@ const WhoPaid: React.FC<{a: string}> = ({a}) => (
   </Sheet>
 );
 
+// ---- Episode 7 (Progressive) ----
+const PgrLogo: React.FC<{a: string; w?: number; style?: React.CSSProperties}> = ({a, w = 360, style}) => (
+  <div style={{position: 'absolute', background: INK.paper, padding: '14px 22px', boxShadow: `10px 8px 0 ${INK.ink}`, ...style}}>
+    <Img src={staticFile(`${a}/logo_progressive.png`)} style={{width: w, height: w * 0.125, objectFit: 'contain', display: 'block'}} />
+  </div>
+);
+// F1: the profit, and whose bill.
+const FromYourBill: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.yellow}>
+    <Photo src={`${a}/pgr_office.jpg`} pos="50% 50%" style={{left: 600, top: 0, width: 680, height: H}} />
+    <div style={{position: 'absolute', left: 586, top: 0, width: 20, height: H, background: INK.ink}} />
+    <PgrLogo a={a} w={300} style={{left: 46, top: 46}} />
+    <div style={{position: 'absolute', left: 40, top: 200}}><Num size={170}>$11B</Num></div>
+    <Stamp style={{left: 50, top: 450, fontSize: 70, transform: 'rotate(-5deg)'}}>FROM YOUR BILL?</Stamp>
+  </Sheet>
+);
+// F2: the price jump, as a question.
+const WhySoExpensive: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.ink}>
+    <Photo src={`${a}/bodyshop.jpg`} pos="50% 50%" style={{inset: 0}} />
+    <AbsoluteFill style={{background: 'linear-gradient(90deg, rgba(22,33,62,0.8) 0%, rgba(22,33,62,0.2) 60%, rgba(22,33,62,0) 100%)'}} />
+    <PgrLogo a={a} w={280} style={{right: 46, top: 40}} />
+    <div style={{position: 'absolute', left: 46, top: 120, fontFamily: slab, fontSize: 200, color: INK.yellow, lineHeight: 1}}>+20%</div>
+    <div style={{position: 'absolute', left: 46, bottom: 60, display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 10}}>
+      {['CAR INSURANCE.', 'WHY?'].map((w) => (
+        <div key={w} style={{background: INK.yellow, color: INK.ink, fontFamily: slab, fontSize: 90, lineHeight: 1, padding: '12px 24px 4px', whiteSpace: 'nowrap', boxShadow: `10px 8px 0 ${INK.pink}`}}>{w}</div>
+      ))}
+    </div>
+  </Sheet>
+);
+// F3: 15x in three years.
+const FifteenX: React.FC<{a: string}> = ({a}) => (
+  <Sheet bg={INK.paper}>
+    <Photo src={`${a}/pgr_office.jpg`} ink pos="50% 50%" style={{left: 0, top: 0, width: 540, height: H}} />
+    <div style={{position: 'absolute', left: 540, top: 0, width: 20, height: H, background: INK.ink}} />
+    <PgrLogo a={a} w={260} style={{left: 610, top: 46}} />
+    <div style={{position: 'absolute', left: 610, top: 180}}><Num size={220}>15×</Num></div>
+    <Stamp style={{left: 620, top: 470, fontSize: 72, transform: 'rotate(-4deg)'}}>IN 3 YEARS</Stamp>
+  </Sheet>
+);
+
 export const Thumb: React.FC<{ep: string; v: string}> = ({ep, v}) => {
   const a = `${ep}/assets`;
-  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine, p: WhySpiritDied, q: FromACard, r: OneDied, s: GoodNeighbor, t: StillNo, u: DroppedBurned, x: MinusHow, y: NotACar, z: RealMoney, m: FeeWhy, n: WhoPaysAmex, o: GivenAway, e1: OneDollar, e2: HalfPitch, e3: WhoPaid};
+  const V: Record<string, React.FC<{a: string}>> = {a: ClosedRicher, b: Jump, c: PerStore, d: Slice, e: NotDying, f: Both17, g: Cross, h: WhoPays, i: RealProduct, j: WhyFine, p: WhySpiritDied, q: FromACard, r: OneDied, s: GoodNeighbor, t: StillNo, u: DroppedBurned, x: MinusHow, y: NotACar, z: RealMoney, m: FeeWhy, n: WhoPaysAmex, o: GivenAway, e1: OneDollar, e2: HalfPitch, e3: WhoPaid, f1: FromYourBill, f2: WhySoExpensive, f3: FifteenX};
   const C = V[v] ?? ClosedRicher;
   return <C a={a} />;
 };
